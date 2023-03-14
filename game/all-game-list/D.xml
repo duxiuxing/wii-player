@@ -21,7 +21,7 @@
 	<Game id="SDYEA4" en="Dance Dance Revolution" zhcn="热舞革命[跳舞垫][平衡板](美)"/>
 	<Game id="SUREA4" en="Dance Dance Revolution II" zhcn="热舞革命 2[跳舞垫](美)"/>
 	<Game id="RDNEA4" en="Dance Dance Revolution: Disney Grooves" zhcn="劲舞革命 开心迪士尼[跳舞毯](美)"/>
-	<Game id="RD4JA4" en="Dance Dance Revolution: Furu Furu Party" zhcn="劲舞革命 盛况空前的劲爆舞会[跳舞毯](日或中)"/>
+	<Game id="RD4JA4" en="Dance Dance Revolution: Furu Furu Party" zhcn="劲舞革命 盛况空前的劲爆舞会[跳舞毯](日或中)" path="中文游戏\劲舞革命 盛况空前的劲爆舞会[跳舞毯](中) [RD4JA4]"/>
 	<Game id="RDDEA4" en="Dance Dance Revolution: Hottest Party" zhcn="热舞革命 劲爆舞会[跳舞毯](美)"/>
 	<Game id="RDDJA4" en="Dance Dance Revolution: Hottest Party" zhcn="热舞革命 劲爆舞会[跳舞毯](日)"/>
 	<Game id="RD4EA4" en="Dance Dance Revolution: Hottest Party 2" zhcn="劲舞革命 劲爆舞会 2[跳舞毯](美)"/>
@@ -131,7 +131,7 @@
 	<Game id="SJUE20" en="Dino Strike" zhcn="恐龙快打(美)" path="光枪游戏\恐龙快打(美) [SJUE20]"/>
 	<Game id="SJUPXT" en="Dino Strike" zhcn="恐龙快打(美)"/>
 	<Game id="RDZP01" en="Disaster: Day of Crisis" zhcn="天灾 危机之日(欧)"/>
-	<Game id="RDZJ01" en="Disaster: Day of Crisis" zhcn="天灾 危机之日(日或中)"/>
+	<Game id="RDZJ01" en="Disaster: Day of Crisis" zhcn="天灾 危机之日(日或中)" path="中文游戏\天灾 危机之日(中) [RDZJ01]"/>
 	<Game id="413E01" en="DiscUpdate Disc" zhcn="DiscUpdate Disc"/>
 	<Game id="SDGP4Q" en="Disney Channel: All Star Party" zhcn="迪斯尼全明星派对(欧)"/>
 	<Game id="SDGE4Q" en="Disney Channel: All Star Party" zhcn="迪斯尼全明星派对(美)"/>
@@ -227,7 +227,7 @@
 	<Game id="RDKJ01" en="Donkey Kong Taru Jet Race" zhcn="大金刚 木桶喷射(日)"/>
 	<Game id="RDKE01" en="Donkey Kong: Barrel Blast" zhcn="大金刚 木桶喷射(美)"/>
 	<Game id="RDKP01" en="Donkey Kong: Jet Race" zhcn="大金刚 木桶喷射(欧)"/>
-	<Game id="R49J01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林节拍(日或中)"/>
+	<Game id="R49J01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林节拍(日或中)" path="中文游戏\大金刚 丛林节拍(中) [R49J01]"/>
 	<Game id="R49P01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林敲击(欧)"/>
 	<Game id="R49E01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林敲击(美)"/>
 	<Game id="SDLE78" en="Dood's Big Adventure" zhcn="杜德大冒险(美)"/>
@@ -264,7 +264,7 @@
 	<Game id="RDBJAF" en="Dragon Ball Z: Sparking! NEO" zhcn="龙珠Z 电光火石(日)"/>
 	<Game id="R7GPAF" en="Dragon Ball: Revenge of King Piccolo" zhcn="龙珠 天下第一大冒险(欧)"/>
 	<Game id="R7GEAF" en="Dragon Ball: Revenge of King Piccolo" zhcn="龙珠 天下第一大冒险(美)"/>
-	<Game id="R7GJAF" en="Dragon Ball: Tenkaichi Daibouken" zhcn="龙珠 天下第一大冒险(日或中)"/>
+	<Game id="R7GJAF" en="Dragon Ball: Tenkaichi Daibouken" zhcn="龙珠 天下第一大冒险(日或中)" path="中文游戏\龙珠 天下第一大冒险(中) [R7GJAF]"/>
 	<Game id="RDWJG9" en="Dragon Blade" zhcn="龙刃 怒火燃烧(日)"/>
 	<Game id="RDWEG9" en="Dragon Blade: Wrath of Fire" zhcn="龙刃 怒火燃烧(美)"/>
 	<Game id="RDWPG9" en="Dragon Blade: Wrath of Fire" zhcn="龙刃 怒火燃烧(欧)"/>

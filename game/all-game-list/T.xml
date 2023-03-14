@@ -23,7 +23,7 @@
 	<Game id="RTZJ08" en="Takarajima Z: Barbaros no Hihou" zhcn="宝岛Z 巴尔巴罗斯的秘宝(日)"/>
 	<Game id="ROSJ01" en="Takt of Magic" zhcn="魔法指挥棒[WiFi](日)"/>
 	<Game id="ROSE01" en="Takt of Magic [ENG]" zhcn="Takt of Magic [ENG]"/>
-	<Game id="R8FJHA" en="Takumi Restaurant wa Daihanjou!" zhcn="匠餐厅大繁盛！(日或中)"/>
+	<Game id="R8FJHA" en="Takumi Restaurant wa Daihanjou!" zhcn="匠餐厅大繁盛(日或中)" path="中文游戏\匠餐厅大繁盛(中) [R8FJHA]"/>
 	<Game id="R8FJSC" en="Takumi Restaurant wa Daihanjou! (Simplified Chinese Translation)" zhcn="匠餐厅大繁盛！ 简体中文版"/>
 	<Game id="STGJAF" en="Tales of Graces" zhcn="圣恩传说(日)"/>
 	<Game id="RT4EAF" en="Tales of Symphonia: Dawn of the New World" zhcn="仙乐传说 拉塔托斯克的骑士(美)"/>
@@ -51,14 +51,14 @@
 	<Game id="R4VJA4" en="Tele Shibai Wii" zhcn="电视剧场Wii[WiFi](日)"/>
 	<Game id="RBCP41" en="Telly Addicts" zhcn="电视迷(欧)"/>
 	<Game id="RLEEFS" en="Ten Pin Alley 2" zhcn="大满贯保龄球2(美)"/>
-	<Game id="RTNJCQ" en="Tenchu 4" zhcn="天诛4(日或中)"/>
+	<Game id="RTNJCQ" en="Tenchu 4" zhcn="天诛4(日或中)" path="中文游戏\天诛4(中) [RTNJCQ]"/>
 	<Game id="RTNP41" en="Tenchu: Shadow Assassins" zhcn="天诛4(欧)"/>
 	<Game id="RTNE41" en="Tenchu: Shadow Assassins" zhcn="天诛4(美)"/>
 	<Game id="SROJQC" en="Tenkuu no Kishi Rodea" zhcn="Tenkuu no Kishi Rodea"/>
 	<Game id="RK5K01" en="Teolsil Kirby Iyagi" zhcn="Teolsil Kirby Iyagi"/>
 	<Game id="STEETR" en="Tetris Party Deluxe" zhcn="俄罗斯方块派对 豪华版[WiFi][平衡板](美)"/>
 	<Game id="STEPTR" en="Tetris Party Deluxe" zhcn="俄罗斯方块派对 豪华版[WiFi][平衡板](欧)"/>
-	<Game id="STEJ18" en="Tetris Party Premium" zhcn="俄罗斯方块派对奖金[WiFi][平衡板](日或中)"/>
+	<Game id="STEJ18" en="Tetris Party Premium" zhcn="俄罗斯方块派对奖金[WiFi][平衡板](日或中)" path="中文游戏\俄罗斯方块派对奖金[WiFi][平衡板](中) [STEJ18]"/>
 	<Game id="RXDD4Q" en="Th!nk Fast: The Ultimate Trivia Showdown" zhcn="灵机一动(德)"/>
 	<Game id="SP3E41" en="The $1,000,000 Pyramid" zhcn="百万美金金字塔(美)"/>
 	<Game id="STNE41" en="The Adventures of Tintin: The Game" zhcn="丁丁历险记 独角兽号的秘密(美)"/>
@@ -207,7 +207,7 @@
 	<Game id="S3MP69" en="The Sims 3" zhcn="模拟人生3(欧)"/>
 	<Game id="S3ME69" en="The Sims 3" zhcn="模拟人生3(美)"/>
 	<Game id="RQRPAF" en="The Sky Crawlers: Innocent Aces" zhcn="空中杀手 无罪王牌(欧)"/>
-	<Game id="RQREXJ" en="The Sky Crawlers: Innocent Aces" zhcn="空中杀手 无罪王牌(美或中)"/>
+	<Game id="RQREXJ" en="The Sky Crawlers: Innocent Aces" zhcn="空中杀手 无瑕王牌(美或中)" path="中文游戏\空中杀手 无瑕王牌(中) [RQREXJ]"/>
 	<Game id="S2XE41" en="The Smurfs 2" zhcn="蓝色小精灵2(美)"/>
 	<Game id="S2XP41" en="The Smurfs 2" zhcn="蓝精灵2(欧)"/>
 	<Game id="SDUE41" en="The Smurfs Dance Party" zhcn="蓝色小精灵 舞蹈派对(美)"/>
@@ -365,7 +365,7 @@
 	<Game id="SMNE48" en="True Mario Bros." zhcn="True Mario Bros."/>
 	<Game id="STLP78" en="Truth or Lies" zhcn="真实或谎言(欧)"/>
 	<Game id="STLE78" en="Truth or Lies" zhcn="真实或谎言(美)"/>
-	<Game id="R2VJ01" en="Tsumi to Batsu: Sora no Koukeisha" zhcn="罪与罚 宇宙的后继者[WiFi](日或中)"/>
+	<Game id="R2VJ01" en="Tsumi to Batsu: Sora no Koukeisha" zhcn="罪与罚 宇宙的后继者[WiFi](日或中)" path="中文游戏\罪与罚 宇宙的后继者[WiFi](中) [R2VJ01]"/>
 	<Game id="STUPRN" en="Turbo Trainz" zhcn="Turbo Trainz"/>
 	<Game id="SOSEG9" en="Turbo: Super Stunt Squad" zhcn="极速蜗牛 超级特技队(美)"/>
 	<Game id="SOSPAF" en="Turbo: Super Stunt Squad" zhcn="Turbo: Super Stunt Squad"/>

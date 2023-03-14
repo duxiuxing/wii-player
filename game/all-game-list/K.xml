@@ -28,7 +28,7 @@
 	<Game id="RIIEQH" en="Kart Racer" zhcn="卡丁赛车手(美)"/>
 	<Game id="RIIPNG" en="Kart Racer" zhcn="卡丁赛车手(欧)"/>
 	<Game id="RXXJ4Q" en="Kaseki Monster: Spectrobes" zhcn="化石超进化 起源(日)"/>
-	<Game id="RHRJ99" en="Katekyoo Hitman Reborn! Dream Hyper Battle! Wii" zhcn="家庭教师REBORN 超梦幻决胜(日或中)"/>
+	<Game id="RHRJ99" en="Katekyoo Hitman Reborn! Dream Hyper Battle! Wii" zhcn="家庭教师REBORN 超梦幻决胜(日或中)" path="中文游戏\家庭教师REBORN 超梦幻决胜(中) [RHRJ99]"/>
 	<Game id="RE8J99" en="Katekyoo Hitman Reborn! Kindan no Yami no Delta" zhcn="家庭教师 禁断的暗之三角[WiFi](日)"/>
 	<Game id="RJSENR" en="Kawasaki Jet Ski" zhcn="川崎水上摩托(美)"/>
 	<Game id="RJSPUG" en="Kawasaki Jet Ski" zhcn="川崎水上摩托(欧)"/>
@@ -38,7 +38,7 @@
 	<Game id="RQBENR" en="Kawasaki Quad Bikes" zhcn="川崎4X4沙滩车(美)"/>
 	<Game id="RWBXUG" en="Kawasaki Snow Mobiles" zhcn="川崎雪橇(X)"/>
 	<Game id="RWBENR" en="Kawasaki Snowmobiles" zhcn="川崎雪橇(美)"/>
-	<Game id="R96JAF" en="Kaze no Klonoa Door to Phantomile" zhcn="风之克罗诺亚 通向幻界之门(日或中)"/>
+	<Game id="R96JAF" en="Kaze no Klonoa Door to Phantomile" zhcn="风之克罗诺亚 通向幻界之门(日或中)" path="中文游戏\风之克罗诺亚 通向幻界之门(中) [R96JAF]"/>
 	<Game id="RK5J01" en="Keito no Kirby" zhcn="星之卡比 毛线传说(日)"/>
 	<Game id="RK4JAF" en="Kekkaishi: Kokubourou no Kage" zhcn="结界师 黑芒楼之影(日)"/>
 	<Game id="SKVE20" en="Kevin Van Dam's Big Bass Challenge" zhcn="凯文万达姆的大巴斯挑战(欧)"/>
@@ -67,7 +67,7 @@
 	<Game id="SUKP01" en="Kirby's Adventure Wii" zhcn="星之卡比 Wii(欧)"/>
 	<Game id="S72E01" en="Kirby's Dream Collection: Special Edition" zhcn="Kirby's Dream Collection: Special Edition"/>
 	<Game id="RK5P01" en="Kirby's Epic Yarn" zhcn="星之卡比 毛线传说(欧)"/>
-	<Game id="RK5E01" en="Kirby's Epic Yarn" zhcn="星之卡比 毛线传说(美或中)"/>
+	<Game id="RK5E01" en="Kirby's Epic Yarn" zhcn="星之卡比 毛线传说(美或中)" path="中文游戏\星之卡比 毛线传说(中) [RK5E01]"/>
 	<Game id="SUKE01" en="Kirby's Return to Dream Land" zhcn="星之卡比 重回梦幻岛(美)"/>
 	<Game id="RODL01" en="Kirby: Revenge of Dream Land" zhcn="Kirby: Revenge of Dream Land"/>
 	<Game id="RMCEKW" en="Kiwi's Hide and Seek Pack" zhcn="Kiwi's Hide and Seek Pack"/>
@@ -100,5 +100,5 @@
 	<Game id="KMKE01" en="Kustom Mario Kart Wii" zhcn="自制 马里奥赛车Wii(美)"/>
 	<Game id="DUCE01" en="Kustom Mariokart Wii" zhcn="自制 马里奥赛车Wii(美)"/>
 	<Game id="SK5PY1" en="Kylie Sing &amp; Dance" zhcn="Kylie Sing &amp; Dance"/>
-	<Game id="RJOJJ9" en="Kyoufu Taikan Juon" zhcn="恐怖体感 咒怨(日或中)"/>
+	<Game id="RJOJJ9" en="Kyoufu Taikan Juon" zhcn="恐怖体感 咒怨(日或中)" path="中文游戏\恐怖体感 咒怨(中) [RJOJJ9]"/>
 </Game-List>
