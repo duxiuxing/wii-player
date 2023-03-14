@@ -3008,6 +3008,7 @@ SMNJ01 = New Super Mario Brothers Wii
 SMNK01 = New Super Mario Bros. Wii
 SMNP01 = New Super Mario Bros. Wii
 SMNW01 = New Super Mario Bros. Wii
+SMNW03 = Newer Super Mario Bros. Wii
 SMOE41 = Michael Jackson: The Experience
 SMOJ41 = Michael Jackson: The Experience
 SMOP41 = Michael Jackson: The Experience

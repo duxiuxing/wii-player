@@ -61,7 +61,7 @@
 	<Game id="R5YE78" en="All Star Cheer Squad 2" zhcn="全明星啦啦队2[平衡板](美)"/>
 	<Game id="RCXX78" en="All Star Cheerleader" zhcn="全明星拉拉队[平衡板](欧)"/>
 	<Game id="RCXP78" en="All Star Cheerleader" zhcn="全明星拉拉队[平衡板](欧)"/>
-	<Game id="R5YD78" en="All Star Cheerleader 2" zhcn="全明星啦啦队[平衡板](德)"/>
+	<Game id="R5YD78" en="All Star Cheerleader 2" zhcn="全明星啦啦队2(德)" path="平衡板游戏\全明星啦啦队2(德) [R5YD78]"/>
 	<Game id="R5YP78" en="All Star Cheerleader 2" zhcn="全明星啦啦队2[平衡板](欧)"/>
 	<Game id="SKTP78" en="All Star Karate" zhcn="全明星空手道[MP](欧)"/>
 	<Game id="SKTE78" en="All Star Karate" zhcn="全明星空手道[MP](美)"/>

@@ -20,18 +20,18 @@
 	<Game id="R8ZPGT" en="Daisy Fuentes Pilates" zhcn="大师教你普拉提[平衡板](欧)"/>
 	<Game id="SDYEA4" en="Dance Dance Revolution" zhcn="热舞革命[跳舞垫][平衡板](美)"/>
 	<Game id="SUREA4" en="Dance Dance Revolution II" zhcn="热舞革命 2[跳舞垫](美)"/>
-	<Game id="RDNEA4" en="Dance Dance Revolution: Disney Grooves" zhcn="劲舞革命 开心迪士尼[跳舞毯](美)"/>
-	<Game id="RD4JA4" en="Dance Dance Revolution: Furu Furu Party" zhcn="劲舞革命 盛况空前的劲爆舞会[跳舞毯](日或中)" path="中文游戏\劲舞革命 盛况空前的劲爆舞会[跳舞毯](中) [RD4JA4]"/>
-	<Game id="RDDEA4" en="Dance Dance Revolution: Hottest Party" zhcn="热舞革命 劲爆舞会[跳舞毯](美)"/>
+	<Game id="RDNEA4" en="Dance Dance Revolution: Disney Grooves" zhcn="劲舞革命 开心迪士尼(美)" path="劲舞革命系列\劲舞革命 开心迪士尼(美) [RDNEA4]"/>
+	<Game id="RD4JA4" en="Dance Dance Revolution: Furu Furu Party" zhcn="劲舞革命 盛况空前的劲爆舞会(日或中)" path="劲舞革命系列\劲舞革命 盛况空前的劲爆舞会(中) [RD4JA4]"/>
+	<Game id="RDDEA4" en="Dance Dance Revolution: Hottest Party" zhcn="热舞革命 劲爆舞会(美)" path="劲舞革命系列\热舞革命 劲爆舞会(美) [RDDEA4]"/>
 	<Game id="RDDJA4" en="Dance Dance Revolution: Hottest Party" zhcn="热舞革命 劲爆舞会[跳舞毯](日)"/>
-	<Game id="RD4EA4" en="Dance Dance Revolution: Hottest Party 2" zhcn="劲舞革命 劲爆舞会 2[跳舞毯](美)"/>
+	<Game id="RD4EA4" en="Dance Dance Revolution: Hottest Party 2" zhcn="劲舞革命 劲爆舞会2(美)" path="劲舞革命系列\劲舞革命 劲爆舞会2(美) [RD4EA4]"/>
 	<Game id="RD4PA4" en="Dance Dance Revolution: Hottest Party 2" zhcn="劲舞革命 劲爆舞会2[跳舞毯](欧)"/>
-	<Game id="RJREA4" en="Dance Dance Revolution: Hottest Party 3" zhcn="热舞革命 劲爆舞会 3[跳舞墊][平衡板](美)"/>
+	<Game id="RJREA4" en="Dance Dance Revolution: Hottest Party 3" zhcn="热舞革命 劲爆舞会3(美)" path="劲舞革命系列\热舞革命 劲爆舞会3(美) [RJREA4]"/>
 	<Game id="RJRPA4" en="Dance Dance Revolution: Hottest Party 3" zhcn="劲舞革命 劲爆舞会 3[跳舞毯][平衡板](欧)"/>
-	<Game id="SDYPA4" en="Dance Dance Revolution: Hottest Party 4" zhcn="热舞革命 最夯的派对 4[跳舞垫][平衡板](欧)"/>
+	<Game id="SDYPA4" en="Dance Dance Revolution: Hottest Party 4" zhcn="热舞革命 劲爆舞会4(欧)" path="劲舞革命系列\热舞革命 劲爆舞会4(欧) [SDYPA4]"/>
 	<Game id="SURPA4" en="Dance Dance Revolution: Hottest Party 5" zhcn="热舞革命 5(欧)"/>
-	<Game id="RJRJA4" en="Dance Dance Revolution: MUSIC FIT" zhcn="劲舞革命 劲爆舞会3[跳舞毯][平衡板](日)"/>
-	<Game id="RW6PA4" en="Dance Dance Revolution: Winx Club" zhcn="劲舞革命 美少女俱乐部[跳舞毯](欧)"/>
+	<Game id="RJRJA4" en="Dance Dance Revolution: MUSIC FIT" zhcn="劲舞革命 劲爆舞会3(日)" path="劲舞革命系列\劲舞革命 劲爆舞会3(日) [RJRJA4]"/>
+	<Game id="RW6PA4" en="Dance Dance Revolution: Winx Club" zhcn="劲舞革命 美少女俱乐部(欧)" path="劲舞革命系列\劲舞革命 美少女俱乐部(欧) [RW6PA4]"/>
 	<Game id="SDZP41" en="Dance Juniors" zhcn="舞力全开 儿童版(欧)"/>
 	<Game id="R9QPNG" en="Dance Party Club Hits" zhcn="舞会俱乐部精选(欧)"/>
 	<Game id="R9RPNG" en="Dance Party Pop Hits" zhcn="舞蹈派对 流行精选[跳舞毯](欧)"/>

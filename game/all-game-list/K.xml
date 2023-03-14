@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Game-List>
-	<Game id="SK6KJD" en="K-Pop Dance Festival" zhcn="K-Pop Dance Festival"/>
+	<Game id="SK6KJD" en="K-Pop Dance Festival" zhcn="舞动韩流(韩)"/>
 	<Game id="SKLDSV" en="K11 - Kommissare im Einsatz" zhcn="K11 专员行动(欧)"/>
 	<Game id="SDWJ18" en="Kage no Tou" zhcn="黑影之塔(日)"/>
 	<Game id="KMGE01" en="Kaizo Mario Galaxy" zhcn="Kaizo Mario Galaxy"/>
@@ -65,10 +65,10 @@
 	<Game id="RL9PHZ" en="King of Pool" zhcn="台球天王(欧)"/>
 	<Game id="KHPE01" en="Kirby Air Ride Hack Pack" zhcn="Kirby Air Ride Hack Pack"/>
 	<Game id="SUKP01" en="Kirby's Adventure Wii" zhcn="星之卡比 Wii(欧)"/>
-	<Game id="S72E01" en="Kirby's Dream Collection: Special Edition" zhcn="Kirby's Dream Collection: Special Edition"/>
+	<Game id="S72E01" en="Kirby's Dream Collection: Special Edition" zhcn="星之卡比 20周年纪念合集(美)" path="星之卡比系列\星之卡比 20周年纪念合集(美) [S72E01]"/>
 	<Game id="RK5P01" en="Kirby's Epic Yarn" zhcn="星之卡比 毛线传说(欧)"/>
-	<Game id="RK5E01" en="Kirby's Epic Yarn" zhcn="星之卡比 毛线传说(美或中)" path="中文游戏\星之卡比 毛线传说(中) [RK5E01]"/>
-	<Game id="SUKE01" en="Kirby's Return to Dream Land" zhcn="星之卡比 重回梦幻岛(美)"/>
+	<Game id="RK5E01" en="Kirby's Epic Yarn" zhcn="星之卡比 毛线传说(美或中)" path="星之卡比系列\星之卡比 毛线传说(中) [RK5E01]"/>
+	<Game id="SUKE01" en="Kirby's Return to Dream Land" zhcn="星之卡比 重回梦幻岛(美)" path="星之卡比系列\星之卡比 重回梦幻岛(美) [SUKE01]"/>
 	<Game id="RODL01" en="Kirby: Revenge of Dream Land" zhcn="Kirby: Revenge of Dream Land"/>
 	<Game id="RMCEKW" en="Kiwi's Hide and Seek Pack" zhcn="Kiwi's Hide and Seek Pack"/>
 	<Game id="R96EAF" en="Klonoa" zhcn="风之克罗诺亚 幻影之门(美)"/>

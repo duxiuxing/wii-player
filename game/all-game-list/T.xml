@@ -12,11 +12,11 @@
 	<Game id="STVDSV" en="TV Total Events" zhcn="电视总事件(德)"/>
 	<Game id="RQCJAF" en="Tabemon" zhcn="大胃王(日)"/>
 	<Game id="R4BPGT" en="Table Football" zhcn="桌面足球(欧)"/>
-	<Game id="R2JJAF" en="Taiko no Tatsujin Wii" zhcn="太鼓达人Wii(日)"/>
-	<Game id="S5KJAF" en="Taiko no Tatsujin Wii: Chou Goukaban" zhcn="太鼓达人Wii 超豪华版(日)"/>
-	<Game id="S2TJAF" en="Taiko no Tatsujin Wii: Dodoon to 2-daime!" zhcn="太鼓达人Wii 大张旗鼓！二代目(日)"/>
-	<Game id="STJJAF" en="Taiko no Tatsujin Wii: Ketteiban" zhcn="太鼓达人Wii 决定版(日)"/>
-	<Game id="S3TJAF" en="Taiko no Tatsujin Wii: Minna de Party 3-daime!" zhcn="太鼓达人Wii 大家的聚会！三代目(日)"/>
+	<Game id="R2JJAF" en="Taiko no Tatsujin Wii" zhcn="太鼓达人Wii(日)" path="太鼓达人系列\太鼓达人Wii(日) [R2JJAF]"/>
+	<Game id="S5KJAF" en="Taiko no Tatsujin Wii: Chou Goukaban" zhcn="太鼓达人Wii 超豪华版(日)" path="太鼓达人系列\太鼓达人Wii 超豪华版(日) [S5KJAF]"/>
+	<Game id="S2TJAF" en="Taiko no Tatsujin Wii: Dodoon to 2-daime!" zhcn="太鼓达人Wii 大张旗鼓！二代目(日)" path="太鼓达人系列\太鼓达人Wii 大张旗鼓！二代目(日) [S2TJAF]"/>
+	<Game id="STJJAF" en="Taiko no Tatsujin Wii: Ketteiban" zhcn="太鼓达人Wii 决定版(日)" path="太鼓达人系列\太鼓达人Wii 决定版(日) [STJJAF]"/>
+	<Game id="S3TJAF" en="Taiko no Tatsujin Wii: Minna de Party 3-daime!" zhcn="太鼓达人Wii 大家的聚会！三代目(日)" path="太鼓达人系列\太鼓达人Wii 大家的聚会！三代目(日) [S3TJAF]"/>
 	<Game id="ROGE78" en="Tak and the Guardians of Gross" zhcn="塔克和恶心的监护人(美)"/>
 	<Game id="ROGP78" en="Tak and the Guardians of Gross" zhcn="塔克和恶心的监护人(欧)"/>
 	<Game id="DTZJ08" en="Takarajima Z Barbaros' Treasure (Demo)" zhcn="Takarajima Z Barbaros' Treasure (Demo)"/>
@@ -58,7 +58,7 @@
 	<Game id="RK5K01" en="Teolsil Kirby Iyagi" zhcn="Teolsil Kirby Iyagi"/>
 	<Game id="STEETR" en="Tetris Party Deluxe" zhcn="俄罗斯方块派对 豪华版[WiFi][平衡板](美)"/>
 	<Game id="STEPTR" en="Tetris Party Deluxe" zhcn="俄罗斯方块派对 豪华版[WiFi][平衡板](欧)"/>
-	<Game id="STEJ18" en="Tetris Party Premium" zhcn="俄罗斯方块派对奖金[WiFi][平衡板](日或中)" path="中文游戏\俄罗斯方块派对奖金[WiFi][平衡板](中) [STEJ18]"/>
+	<Game id="STEJ18" en="Tetris Party Premium" zhcn="俄罗斯方块派对奖金(日或中)" path="平衡板游戏\俄罗斯方块派对奖金(中) [STEJ18]"/>
 	<Game id="RXDD4Q" en="Th!nk Fast: The Ultimate Trivia Showdown" zhcn="灵机一动(德)"/>
 	<Game id="SP3E41" en="The $1,000,000 Pyramid" zhcn="百万美金金字塔(美)"/>
 	<Game id="STNE41" en="The Adventures of Tintin: The Game" zhcn="丁丁历险记 独角兽号的秘密(美)"/>
@@ -124,10 +124,10 @@
 	<Game id="RHCE52" en="The History Channel: Battle for the Pacific" zhcn="历史频道 太平洋战争(美)"/>
 	<Game id="RHD222" en="The House of the Dead 2" zhcn="自制 死亡之屋2(自)"/>
 	<Game id="RHDP8P" en="The House of the Dead 2 &amp; 3 Return" zhcn="死亡之屋2+3(欧)"/>
-	<Game id="RHDJ8P" en="The House of the Dead 2 &amp; 3 Return" zhcn="死亡之屋2+3(日)"/>
+	<Game id="RHDJ8P" en="The House of the Dead 2 &amp; 3 Return" zhcn="死亡之屋2+3(日)" path="光枪游戏\死亡之屋2+3(日) [RHDJ8P]"/>
 	<Game id="RHDE8P" en="The House of the Dead 2 &amp; 3 Return" zhcn="死亡之屋2+3(美)"/>
 	<Game id="RHD333" en="The House of the Dead 3" zhcn="自制 死亡之屋3(自)"/>
-	<Game id="RHOE8P" en="The House of the Dead: Overkill" zhcn="死亡之屋 过度杀戮(美)"/>
+	<Game id="RHOE8P" en="The House of the Dead: Overkill" zhcn="死亡之屋 过度杀戮(美)" path="光枪游戏\死亡之屋 过度杀戮(美) [RHOE8P]"/>
 	<Game id="RHOJ8P" en="The House of the Dead: Overkill" zhcn="死亡之屋 过度杀戮(日)"/>
 	<Game id="RHOP8P" en="The House of the Dead: Overkill" zhcn="死亡之屋 过度杀戮(欧)"/>
 	<Game id="RIHE8P" en="The Incredible Hulk" zhcn="无敌绿巨人(美)"/>
@@ -365,7 +365,7 @@
 	<Game id="SMNE48" en="True Mario Bros." zhcn="True Mario Bros."/>
 	<Game id="STLP78" en="Truth or Lies" zhcn="真实或谎言(欧)"/>
 	<Game id="STLE78" en="Truth or Lies" zhcn="真实或谎言(美)"/>
-	<Game id="R2VJ01" en="Tsumi to Batsu: Sora no Koukeisha" zhcn="罪与罚 宇宙的后继者[WiFi](日或中)" path="中文游戏\罪与罚 宇宙的后继者[WiFi](中) [R2VJ01]"/>
+	<Game id="R2VJ01" en="Tsumi to Batsu: Sora no Koukeisha" zhcn="罪与罚 宇宙的后继者(日或中)" path="光枪游戏\罪与罚 宇宙的后继者(中) [R2VJ01]"/>
 	<Game id="STUPRN" en="Turbo Trainz" zhcn="Turbo Trainz"/>
 	<Game id="SOSEG9" en="Turbo: Super Stunt Squad" zhcn="极速蜗牛 超级特技队(美)"/>
 	<Game id="SOSPAF" en="Turbo: Super Stunt Squad" zhcn="Turbo: Super Stunt Squad"/>
