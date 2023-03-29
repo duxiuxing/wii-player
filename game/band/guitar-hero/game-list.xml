@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="乐队游戏 吉他英雄系列">
+	<Game id="RGHE52" en="Guitar Hero III: Legends of Rock" zhcn="吉他英雄3 摇滚传奇(美)" date="2007/10/29"/>
+	<Game id="RGVE52" en="Guitar Hero: Aerosmith" zhcn="吉他英雄 空中铁匠乐队(美)" date="2008/06/29"/>
+	<Game id="SXAE52" en="Guitar Hero: World Tour" zhcn="吉他英雄 世界巡演(美)" date="2008/10/26"/>
+	<Game id="SXBE52" en="Guitar Hero: Metallica" zhcn="吉他英雄 金属乐队(美)" date="2009/03/29"/>
+	<Game id="SXCE52" en="Guitar Hero: Smash Hits" zhcn="吉他英雄 流行精选(美)" date="2009/06/16"/>
+	<Game id="SXEE52" en="Guitar Hero 5" zhcn="吉他英雄5(美)" date="2009/08/01"/>
+	<Game id="SXDE52" en="Guitar Hero: Van Halen" zhcn="吉他英雄 范海伦(美)" date="2009/12/22"/>
+	<Game id="SXIE52" en="Guitar Hero: Warriors of Rock" zhcn="吉他英雄6 摇滚战士(美)" date="2010/09/24"/>
+</Game-List>
