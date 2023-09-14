@@ -9,22 +9,22 @@
 	<Game id="SKMJAF" en="Kamen Rider Climax Heroes W" zhcn="假面骑士 巅峰英雄W(日)" path="done4\假面骑士 巅峰英雄W(日) [SKMJAF]"/>
 	<Game id="SKREG9" en="Kamen Rider Dragon Knight" zhcn="假面骑士 龙骑士(美)" path="donek\假面骑士 龙骑士(美) [SKREG9]"/>
 	<Game id="SKHJAF" en="Kamen Rider Super Climax Heroes" zhcn="假面骑士 超巅峰英雄(日)" path="done4\假面骑士 超巅峰英雄(日) [SKHJAF]"/>
-	<Game id="SOKEA4" en="Karaoke Joysound" zhcn="卡拉OK 欢乐之声(美)" path="卡拉OK系列\卡拉OK 欢乐之声(美) [SOKEA4]"/>
+	<Game id="SOKEA4" en="Karaoke Joysound" zhcn="卡拉OK 欢乐之声(美)" collection="卡拉OK游戏"/>
 	<Game id="ROKJ18" en="Karaoke Joysound Wii" zhcn="卡拉OK 欢乐之声Wii(日)"/>
 	<Game id="SOKJ18" en="Karaoke Joysound Wii DX" zhcn="卡拉OK 欢乐之声Wii DX(日)"/>
 	<Game id="S3SJ18" en="Karaoke Joysound Wii Super DX: Hitori de Minna de Utai Houdai!" zhcn="卡拉OK Joysound Wii超级DX版 好歌一起唱(日)"/>
 	<Game id="SKDJ18" en="Karaoke Joysound Wii: Duet Kyoku-hen" zhcn="卡拉OK JOYSOUND Wii 双人对唱曲篇"/>
 	<Game id="SKEJ18" en="Karaoke Joysound Wii: Enka Kayoukyoku-hen" zhcn="卡拉OK JOYSOUND Wii 演歌・歌謡曲篇"/>
 	<Game id="RK9PA4" en="Karaoke Revolution" zhcn="卡拉OK革命[麦克风](欧)"/>
-	<Game id="RK9EA4" en="Karaoke Revolution" zhcn="卡拉OK革命(美)" path="卡拉OK系列\卡拉OK革命(美) [RK9EA4]"/>
-	<Game id="SKAEA4" en="Karaoke Revolution Glee" zhcn="卡拉OK革命 欢乐合唱团(美)" path="wbfs\卡拉OK革命 欢乐合唱团(美) [SKAEA4]"/>
+	<Game id="RK9EA4" en="Karaoke Revolution" zhcn="卡拉OK革命(美)" collection="卡拉OK游戏"/>
+	<Game id="SKAEA4" en="Karaoke Revolution Glee" zhcn="卡拉OK革命 欢乐合唱团(美)" collection="卡拉OK游戏"/>
 	<Game id="SKAPA4" en="Karaoke Revolution Glee" zhcn="卡拉OK革命 欢乐合唱团(欧)"/>
 	<Game id="SKGPA4" en="Karaoke Revolution Glee Volume 2" zhcn="卡拉OK革命 欢乐合唱团2(欧)"/>
-	<Game id="SKGEA4" en="Karaoke Revolution Glee Volume 2" zhcn="卡拉OK革命 欢乐合唱团2(美)" path="卡拉OK系列\卡拉OK革命 欢乐合唱团2(美) [SKGEA4]"/>
+	<Game id="SKGEA4" en="Karaoke Revolution Glee Volume 2" zhcn="卡拉OK革命 欢乐合唱团2(美)" collection="卡拉OK游戏"/>
 	<Game id="SKOPA4" en="Karaoke Revolution Glee Volume 3" zhcn="卡拉OK革命欢乐合唱团3(美)"/>
-	<Game id="SKOEA4" en="Karaoke Revolution Glee Volume 3" zhcn="卡拉OK革命 欢乐合唱团3(美)" path="卡拉OK系列\卡拉OK革命 欢乐合唱团3(美) [SKOEA4]"/>
-	<Game id="RIEEA4" en="Karaoke Revolution Presents: American Idol Encore" zhcn="卡拉OK革命 美国偶像 再次演唱(美)" path="卡拉OK系列\卡拉OK革命 美国偶像 再次演唱(美) [RIEEA4]"/>
-	<Game id="RIFEA4" en="Karaoke Revolution Presents: American Idol Encore 2" zhcn="卡拉OK革命 美国偶像 再次演唱2(美)" path="卡拉OK系列\卡拉OK革命 美国偶像 再次演唱2(美) [RIFEA4]"/>
+	<Game id="SKOEA4" en="Karaoke Revolution Glee Volume 3" zhcn="卡拉OK革命 欢乐合唱团3(美)" collection="卡拉OK游戏"/>
+	<Game id="RIEEA4" en="Karaoke Revolution Presents: American Idol Encore" zhcn="卡拉OK革命 美国偶像 再次演唱(美)" collection="卡拉OK游戏"/>
+	<Game id="RIFEA4" en="Karaoke Revolution Presents: American Idol Encore 2" zhcn="卡拉OK革命 美国偶像 再次演唱2(美)" collection="卡拉OK游戏"/>
 	<Game id="RIIEQH" en="Kart Racer" zhcn="卡丁赛车手(美)" path="donek\卡丁赛车手(美) [RIIEQH]"/>
 	<Game id="RIIPNG" en="Kart Racer" zhcn="卡丁赛车手(欧)"/>
 	<Game id="RXXJ4Q" en="Kaseki Monster: Spectrobes" zhcn="化石超进化 起源(日)"/>
