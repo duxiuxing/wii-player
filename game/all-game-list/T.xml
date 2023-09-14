@@ -12,11 +12,11 @@
 	<Game id="STVDSV" en="TV Total Events" zhcn="电视总事件(德)"/>
 	<Game id="RQCJAF" en="Tabemon" zhcn="大胃王(日)"/>
 	<Game id="R4BPGT" en="Table Football" zhcn="桌面足球(欧)"/>
-	<Game id="R2JJAF" en="Taiko no Tatsujin Wii" zhcn="太鼓达人Wii(日)" path="太鼓达人系列\太鼓达人Wii(日) [R2JJAF]"/>
-	<Game id="S5KJAF" en="Taiko no Tatsujin Wii: Chou Goukaban" zhcn="太鼓达人Wii 超豪华版(日)" path="太鼓达人系列\太鼓达人Wii 超豪华版(日) [S5KJAF]"/>
-	<Game id="S2TJAF" en="Taiko no Tatsujin Wii: Dodoon to 2-daime!" zhcn="太鼓达人Wii 大张旗鼓！二代目(日)" path="太鼓达人系列\太鼓达人Wii 大张旗鼓！二代目(日) [S2TJAF]"/>
-	<Game id="STJJAF" en="Taiko no Tatsujin Wii: Ketteiban" zhcn="太鼓达人Wii 决定版(日)" path="太鼓达人系列\太鼓达人Wii 决定版(日) [STJJAF]"/>
-	<Game id="S3TJAF" en="Taiko no Tatsujin Wii: Minna de Party 3-daime!" zhcn="太鼓达人Wii 大家的聚会！三代目(日)" path="太鼓达人系列\太鼓达人Wii 大家的聚会！三代目(日) [S3TJAF]"/>
+	<Game id="R2JJAF" en="Taiko no Tatsujin Wii" zhcn="太鼓达人Wii(日)" collection="太鼓达人系列"/>
+	<Game id="S5KJAF" en="Taiko no Tatsujin Wii: Chou Goukaban" zhcn="太鼓达人Wii 超豪华版(日)" collection="太鼓达人系列"/>
+	<Game id="S2TJAF" en="Taiko no Tatsujin Wii: Dodoon to 2-daime!" zhcn="太鼓达人Wii 大张旗鼓！二代目(日)" collection="太鼓达人系列"/>
+	<Game id="STJJAF" en="Taiko no Tatsujin Wii: Ketteiban" zhcn="太鼓达人Wii 决定版(日)" collection="太鼓达人系列"/>
+	<Game id="S3TJAF" en="Taiko no Tatsujin Wii: Minna de Party 3-daime!" zhcn="太鼓达人Wii 大家的聚会！三代目(日)" collection="太鼓达人系列"/>
 	<Game id="ROGE78" en="Tak and the Guardians of Gross" zhcn="塔克和恶心的监护人(美)"/>
 	<Game id="ROGP78" en="Tak and the Guardians of Gross" zhcn="塔克和恶心的监护人(欧)"/>
 	<Game id="DTZJ08" en="Takarajima Z Barbaros' Treasure (Demo)" zhcn="Takarajima Z Barbaros' Treasure (Demo)"/>
