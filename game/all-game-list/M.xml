@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Game-List>
-	<Game id="R2ME20" en="M&amp;M's Adventure" zhcn="巧克力豆大冒险(美)"/>
-	<Game id="RXWE20" en="M&amp;M's Beach Party" zhcn="巧克力豆海滩聚会(美)"/>
-	<Game id="RMWE20" en="M&amp;M's Kart Racing" zhcn="M&amp;M巧克力卡丁赛车(美)"/>
+	<Game id="R2ME20" en="M&amp;M's Adventure" zhcn="巧克力豆大冒险(美)" path="donem\巧克力豆大冒险(美) [R2ME20]"/>
+	<Game id="RXWE20" en="M&amp;M's Beach Party" zhcn="巧克力豆海滩聚会(美)" path="donem\巧克力豆海滩聚会(美) [RXWE20]"/>
+	<Game id="RMWE20" en="M&amp;M's Kart Racing" zhcn="M&amp;M巧克力卡丁赛车(美)" path="donem\M&amp;M巧克力卡丁赛车(美) [RMWE20]"/>
 	<Game id="RMCE54" en="MARIO KART CRIS DELUXE 2" zhcn="MARIO KART CRIS DELUXE 2"/>
 	<Game id="RMCEEX" en="MKW Exploration Pack" zhcn="MKW Exploration Pack"/>
 	<Game id="RMCE93" en="MKW Hack Pack" zhcn="MKW Hack Pack"/>
@@ -19,38 +19,38 @@
 	<Game id="RMCE0C" en="MKWii CTs from 2010" zhcn="MKWii CTs from 2010"/>
 	<Game id="RMPE54" en="MLB Power Pros" zhcn="职业力量棒球2008(美)"/>
 	<Game id="RL8E54" en="MLB Power Pros 2008" zhcn="实况职业力量棒球2008(美)"/>
-	<Game id="R4SE54" en="MLB Superstars" zhcn="北美职棒超明星(美)"/>
+	<Game id="R4SE54" en="MLB Superstars" zhcn="北美职棒超明星(美)" path="专项运动系列 棒球\北美职棒超明星(美) [R4SE54]"/>
 	<Game id="SLBE01" en="MLG Super Luigi Bros Wii" zhcn="MLG Super Luigi Bros Wii"/>
 	<Game id="SLBJ01" en="MLG Super Luigi Bros. Wii" zhcn="MLG Super Luigi Bros. Wii"/>
 	<Game id="SLBP01" en="MLG Super Luigi Bros. Wii" zhcn="MLG Super Luigi Bros. Wii"/>
-	<Game id="RMXE78" en="MX vs. ATV: Untamed" zhcn="极限越野 突破[WiFi](美)"/>
-	<Game id="RMXP78" en="MX vs. ATV: Untamed" zhcn="极限越野 突破[WiFi](欧)"/>
+	<Game id="RMXE78" en="MX vs. ATV: Untamed" zhcn="极限越野 突破(美)" path="done2\极限越野 突破(美) [RMXE78]"/>
+	<Game id="RMXP78" en="MX vs. ATV: Untamed" zhcn="极限越野 突破(欧)" path="wbfs\极限越野 突破(欧) [RMXP78]"/>
 	<Game id="RMXF78" en="MX vs. ATV: Untamed" zhcn="极限越野 突破[WiFi](法)"/>
 	<Game id="RUUJ01" en="Machi e Ikou yo: Doubutsu no Mori" zhcn="动物之森 城市大家庭[WiFi](日)"/>
-	<Game id="RQ5E5G" en="Mad Dog McCree Gunslinger Pack" zhcn="疯狗麦基利(美)"/>
+	<Game id="RQ5E5G" en="Mad Dog McCree Gunslinger Pack" zhcn="疯狗麦基利(美)" path="done2\疯狗麦基利(美) [RQ5E5G]"/>
 	<Game id="RQ5X5G" en="Mad Dog McCree Gunslinger Pack" zhcn="疯狗麦基利(欧)"/>
 	<Game id="R4IPNK" en="Mad Tracks" zhcn="疯狂玩具车(欧)"/>
 	<Game id="RZZP8P" en="MadWorld" zhcn="疯狂世界(欧)"/>
 	<Game id="RZZJEL" en="MadWorld" zhcn="疯狂世界(日)"/>
-	<Game id="RZZE8P" en="MadWorld" zhcn="疯狂世界(美)"/>
+	<Game id="RZZE8P" en="MadWorld" zhcn="疯狂世界(美)" path="donem\疯狂世界(美) [RZZE8P]"/>
 	<Game id="RRGX52" en="Madagascar 2" zhcn="Madagascar 2"/>
 	<Game id="RRGP52" en="Madagascar 2: Escape 2 Africa" zhcn="马达加斯加2 逃往非洲(欧)"/>
 	<Game id="SV3PAF" en="Madagascar 3: Europe's Most Wanted" zhcn="马达加斯加3(欧)"/>
-	<Game id="SV3EG9" en="Madagascar 3: The Video Game" zhcn="马达加斯加3(美)"/>
+	<Game id="SV3EG9" en="Madagascar 3: The Video Game" zhcn="马达加斯加3(美)" path="wbfs\马达加斯加3(美) [SV3EG9]"/>
 	<Game id="RJHP52" en="Madagascar Kartz" zhcn="马达加斯加赛车(欧)"/>
-	<Game id="RJHE52" en="Madagascar Kartz" zhcn="马达加斯加赛车(美)"/>
-	<Game id="RRGE52" en="Madagascar: Escape 2 Africa" zhcn="马达加斯加2 逃往非洲(美)"/>
-	<Game id="RMDE69" en="Madden NFL 07" zhcn="美式橄榄球大联盟07[WiFi](美)"/>
+	<Game id="RJHE52" en="Madagascar Kartz" zhcn="马达加斯加赛车(美)" path="wbfs\马达加斯加赛车(美) [RJHE52]"/>
+	<Game id="RRGE52" en="Madagascar: Escape 2 Africa" zhcn="马达加斯加2 逃往非洲(美)" path="wbfs\马达加斯加2 逃往非洲(美) [RRGE52]"/>
+	<Game id="RMDE69" en="Madden NFL 07" zhcn="美式橄榄球大联盟07(美)" path="专项运动系列 橄榄球\美式橄榄球大联盟07(美) [RMDE69]"/>
 	<Game id="RMDP69" en="Madden NFL 07" zhcn="美式橄榄球大联盟07[WiFi](欧)"/>
-	<Game id="RNFE69" en="Madden NFL 08" zhcn="美式橄榄球大联盟08[WiFi](美)"/>
+	<Game id="RNFE69" en="Madden NFL 08" zhcn="美式橄榄球大联盟08(美)" path="专项运动系列 橄榄球\美式橄榄球大联盟08(美) [RNFE69]"/>
 	<Game id="RNFP69" en="Madden NFL 08" zhcn="美式橄榄球大联盟08[WiFi](欧)"/>
 	<Game id="RFLP69" en="Madden NFL 09 All-Play" zhcn="美式橄榄球大联盟09[WiFi](欧)"/>
-	<Game id="RFLE69" en="Madden NFL 09 All-Play" zhcn="美式橄榄球大联盟09[WiFi](美)"/>
+	<Game id="RFLE69" en="Madden NFL 09 All-Play" zhcn="美式橄榄球大联盟09(美)" path="专项运动系列 橄榄球\美式橄榄球大联盟09(美) [RFLE69]"/>
 	<Game id="R2IP69" en="Madden NFL 10" zhcn="美式橄榄球大联盟10[WiFi](欧)"/>
-	<Game id="R2IE69" en="Madden NFL 10" zhcn="美式橄榄球大联盟10[WiFi](美)"/>
-	<Game id="SMEE69" en="Madden NFL 11" zhcn="疯狂美式橄榄球11(美)"/>
-	<Game id="SM7E69" en="Madden NFL 12" zhcn="Madden NFL 12"/>
-	<Game id="S2ME69" en="Madden NFL 13" zhcn="Madden NFL 13"/>
+	<Game id="R2IE69" en="Madden NFL 10" zhcn="美式橄榄球大联盟10(美)" path="专项运动系列 橄榄球\美式橄榄球大联盟10(美) [R2IE69]"/>
+	<Game id="SMEE69" en="Madden NFL 11" zhcn="美式橄榄球大联盟11(美)" path="专项运动系列 橄榄球\美式橄榄球大联盟11(美) [SMEE69]"/>
+	<Game id="SM7E69" en="Madden NFL 12" zhcn="美式橄榄球大联盟12(美)" path="专项运动系列 橄榄球\美式橄榄球大联盟12(美) [SM7E69]"/>
+	<Game id="S2ME69" en="Madden NFL 13" zhcn="美式橄榄球大联盟13(美)" path="专项运动系列 橄榄球\美式橄榄球大联盟13(美) [S2ME69]"/>
 	<Game id="RT6FKM" en="Magic Roundabout" zhcn="神奇的旋转木马(法)"/>
 	<Game id="RFUJA4" en="Mahjong Fight Club Wii: Wi-Fi Taiou" zhcn="麻将格斗俱乐部 Wii Wi-Fi 对应 (日)"/>
 	<Game id="SPMPWP" en="Mahjong Party Pack" zhcn="Mahjong Party Pack"/>
@@ -58,37 +58,37 @@
 	<Game id="SPMDRM" en="Mahjongg Party" zhcn="麻将聚会(德)"/>
 	<Game id="RMEJDA" en="Major Dream: Major Wii: Nagero! Gyroball!!" zhcn="大联盟Wii投掷(日)"/>
 	<Game id="RXEJDA" en="Major Dream: Major Wii: Perfect Closer" zhcn="棒球大联盟Wii(日)"/>
-	<Game id="SMLE54" en="Major League Baseball 2K10" zhcn="职业棒球大联盟2K10(美)"/>
-	<Game id="SMVE54" en="Major League Baseball 2K11" zhcn="职业棒球大联盟2K11(美)"/>
-	<Game id="SM9E54" en="Major League Baseball 2K12" zhcn="职业棒球大联盟2K12(美)"/>
-	<Game id="RK8E54" en="Major League Baseball 2K8" zhcn="职业棒球大联盟2K8(美)"/>
-	<Game id="R9ZE54" en="Major League Baseball 2K9" zhcn="职业棒球大联盟2K9(美)"/>
+	<Game id="SMLE54" en="Major League Baseball 2K10" zhcn="职业棒球大联盟2K10(美)" path="专项运动系列 棒球\职业棒球大联盟2K10(美) [SMLE54]"/>
+	<Game id="SMVE54" en="Major League Baseball 2K11" zhcn="职业棒球大联盟2K11(美)" path="专项运动系列 棒球\职业棒球大联盟2K11(美) [SMVE54]"/>
+	<Game id="SM9E54" en="Major League Baseball 2K12" zhcn="职业棒球大联盟2K12(美)" path="专项运动系列 棒球\职业棒球大联盟2K12(美) [SM9E54]"/>
+	<Game id="RK8E54" en="Major League Baseball 2K8" zhcn="职业棒球大联盟2K8(美)" path="专项运动系列 棒球\职业棒球大联盟2K8(美) [RK8E54]"/>
+	<Game id="R9ZE54" en="Major League Baseball 2K9" zhcn="职业棒球大联盟2K9(美)" path="专项运动系列 棒球\职业棒球大联盟2K9(美) [R9ZE54]"/>
 	<Game id="R4NX5G" en="Major Minor's Majestic March" zhcn="大小调的庄严进行曲(欧)"/>
-	<Game id="R4NE5G" en="Major Minor's Majestic March" zhcn="大小调的庄严进行曲(美)"/>
+	<Game id="R4NE5G" en="Major Minor's Majestic March" zhcn="大小调的庄严进行曲(美)" path="donem\大小调的庄严进行曲(美) [R4NE5G]"/>
 	<Game id="R4NP5G" en="Major Minor's Majestic March" zhcn="大小调的庄严进行曲(欧)"/>
 	<Game id="SQKE5G" en="Mama's 2-Pack" zhcn="料理妈妈2合1(美)" path="料理妈妈系列\料理妈妈2合1(美) [SQKE5G]"/>
 	<Game id="RMCET6" en="Man - O - Wii's Least Favorites Pack" zhcn="Man - O - Wii's Least Favorites Pack"/>
-	<Game id="SMWE4Z" en="Man vs. Wild" zhcn="荒岛求生(美)"/>
+	<Game id="SMWE4Z" en="Man vs. Wild" zhcn="荒岛求生(美)" path="donem\荒岛求生(美) [SMWE4Z]"/>
 	<Game id="RHTP54" en="Manhunt 2" zhcn="侠盗猎魔2(欧)"/>
-	<Game id="RHTE54" en="Manhunt 2" zhcn="侠盗猎魔2(美)"/>
-	<Game id="RK6E18" en="Marble Saga: Kororinpa" zhcn="穿越迷路2[平衡板][WiFi](美)"/>
+	<Game id="RHTE54" en="Manhunt 2" zhcn="侠盗猎魔2(美)" path="donem\侠盗猎魔2(美) [RHTE54]"/>
+	<Game id="RK6E18" en="Marble Saga: Kororinpa" zhcn="穿越迷路2(美)" path="done2\穿越迷路2(美) [RK6E18]"/>
 	<Game id="DK6E18" en="Marble Saga: Kororinpa (Demo)" zhcn="穿越迷路 试玩版(美)"/>
 	<Game id="RK6P18" en="Marbles! Balance Challenge" zhcn="穿越迷路2[平衡板][WiFi](欧)"/>
 	<Game id="R7LP7J" en="Margot's Bepuzzled!" zhcn="玛格的困惑！(欧)"/>
 	<Game id="RVGP78" en="Margot's Word Brain" zhcn="默夫格里芬纵横字迷(欧)"/>
 	<Game id="RMIP7J" en="Margot's Word Brain" zhcn="玛戈的单词大脑(欧)"/>
-	<Game id="RMIE20" en="Margot's Word Brain" zhcn="玛戈的单词大脑(美)"/>
-	<Game id="SMAENR" en="Marines: Modern Urban Combat" zhcn="海军陆战队 现代城市战(美)"/>
+	<Game id="RMIE20" en="Margot's Word Brain" zhcn="玛戈的单词大脑(美)" path="donem\玛戈的单词大脑(美) [RMIE20]"/>
+	<Game id="SMAENR" en="Marines: Modern Urban Combat" zhcn="海军陆战队 现代城市战(美)" path="done5\海军陆战队 现代城市战(美) [SMAENR]"/>
 	<Game id="SMAPGN" en="Marines: Modern Urban Combat" zhcn="海军陆战队 现代城市战(欧)"/>
 	<Game id="RWSJ01" en="Mario &amp; Sonic at Bejing Olympic" zhcn="马里奥与索尼克在北京奥运(日)"/>
 	<Game id="SIIJ01" en="Mario &amp; Sonic at London Olympic" zhcn="马里奥与索尼克在伦敦奥运[WiFi](日)"/>
 	<Game id="ROLJ01" en="Mario &amp; Sonic at Vancouver Olympic" zhcn="马里奥与索尼克在温哥华冬季奥运(日)"/>
-	<Game id="SIIP8P" en="Mario &amp; Sonic at the London 2012 Olympic Games" zhcn="马里奥与索尼克在伦敦奥运[WiFi](欧)"/>
+	<Game id="SIIP8P" en="Mario &amp; Sonic at the London 2012 Olympic Games" zhcn="马里奥与索尼克在伦敦奥运(欧)" collection="运动会系列"/>
 	<Game id="SIIE8P" en="Mario &amp; Sonic at the London 2012 Olympic Games" zhcn="马里奥与索尼克在伦敦奥运[WiFi](美)"/>
-	<Game id="RWSE8P" en="Mario &amp; Sonic at the Olympic Games" zhcn="马里奥与索尼克在奥运会[WiFi](美)"/>
+	<Game id="RWSE8P" en="Mario &amp; Sonic at the Olympic Games" zhcn="马里奥与索尼克在北京奥运(美)" collection="运动会系列"/>
 	<Game id="RWSP8P" en="Mario &amp; Sonic at the Olympic Games" zhcn="马里奥与索尼克在奥运会[WiFi](欧)"/>
 	<Game id="ROLE8P" en="Mario &amp; Sonic at the Olympic Winter Games" zhcn="马里奥与索尼克在温哥华冬奥会[WiFi][平衡板](美)"/>
-	<Game id="ROLP8P" en="Mario &amp; Sonic at the Olympic Winter Games" zhcn="马里奥与索尼克在温哥华冬奥会[WiFi][平衡板](欧)"/>
+	<Game id="ROLP8P" en="Mario &amp; Sonic at the Olympic Winter Games" zhcn="马里奥与索尼克在温哥华冬奥(欧)" collection="运动会系列"/>
 	<Game id="RMCE96" en="Mario Kart 6" zhcn="Mario Kart 6"/>
 	<Game id="RMCERE" en="Mario Kart 64Re" zhcn="Mario Kart 64Re"/>
 	<Game id="RMCEB6" en="Mario Kart 7 JY" zhcn="Mario Kart 7 JY"/>
@@ -128,7 +128,7 @@
 	<Game id="RMCEMN" en="Mario Kart Midnight" zhcn="Mario Kart Midnight"/>
 	<Game id="RMCEM4" en="Mario Kart Super Circuit Wii" zhcn="Mario Kart Super Circuit Wii"/>
 	<Game id="XXXX02" en="Mario Kart Teknik" zhcn="自制 马里奥赛车 技巧(美)"/>
-	<Game id="RMCC01" en="Mario Kart Wii" zhcn="马里奥赛车Wii(中)" path="中文游戏\马里奥赛车Wii(中) [RMCC01]"/>
+	<Game id="RMCC01" en="Mario Kart Wii" zhcn="马里奥赛车Wii(中)" collection="马里奥赛车系列"/>
 	<Game id="RMCK01" en="Mario Kart Wii" zhcn="马力欧卡丁车Wii(韩)"/>
 	<Game id="RMCP01" en="Mario Kart Wii" zhcn="马力欧卡丁车Wii(欧)"/>
 	<Game id="RMCE01" en="Mario Kart Wii" zhcn="马力欧卡丁车Wii(美)"/>
@@ -145,7 +145,7 @@
 	<Game id="RMCE98" en="Mario Kart Wii Awesomeness" zhcn="Mario Kart Wii Awesomeness"/>
 	<Game id="RMCEG2" en="Mario Kart Wii CTGP Revolution" zhcn="Mario Kart Wii CTGP Revolution"/>
 	<Game id="RMCJCT" en="Mario Kart Wii CTGP Revolution" zhcn="Mario Kart Wii CTGP Revolution"/>
-	<Game id="RMCEGP" en="Mario Kart Wii CTGP Revolution" zhcn="Mario Kart Wii CTGP Revolution"/>
+	<Game id="RMCEGP" en="Mario Kart Wii CTGP Revolution" zhcn="马里奥赛车Wii CTGP革命" collection="马里奥赛车系列"/>
 	<Game id="RMCPG2" en="Mario Kart Wii CTGP Revolution" zhcn="Mario Kart Wii CTGP Revolution"/>
 	<Game id="RMCECT" en="Mario Kart Wii CTGP Revolution" zhcn="Mario Kart Wii CTGP Revolution"/>
 	<Game id="CCPE01" en="Mario Kart Wii Custom: The Master Race" zhcn="自制 马里奥赛车 大师赛事(美)"/>
@@ -190,7 +190,7 @@
 	<Game id="GP7E02" en="Mario Party 7 CPU Only" zhcn="Mario Party 7 CPU Only"/>
 	<Game id="GP7E03" en="Mario Party 7 Widescreen" zhcn="Mario Party 7 Widescreen"/>
 	<Game id="RM8J01" en="Mario Party 8" zhcn="马里奥派对8(日)"/>
-	<Game id="RM8E01" en="Mario Party 8" zhcn="马里奥派对8(美)"/>
+	<Game id="RM8E01" en="Mario Party 8" zhcn="马里奥派对8(美)" path="done2\马里奥派对8(美) [RM8E01]"/>
 	<Game id="RM8K01" en="Mario Party 8" zhcn="马里奥派对8(韩)"/>
 	<Game id="RM8P01" en="Mario Party 8" zhcn="马里奥派对8(欧)"/>
 	<Game id="RM8E05" en="Mario Party 8 CPU Only" zhcn="Mario Party 8 CPU Only"/>
@@ -205,16 +205,16 @@
 	<Game id="SSQE05" en="Mario Party 9 Repainted" zhcn="Mario Party 9 Repainted"/>
 	<Game id="SSQE03" en="Mario Party Project Hudson" zhcn="Mario Party Project Hudson"/>
 	<Game id="R4QK01" en="Mario Power Soccer" zhcn="马里奥激情足球[WiFi](韩)"/>
-	<Game id="RMAP01" en="Mario Power Tennis" zhcn="用Wii玩马里奥网球GC(欧)"/>
+	<Game id="RMAP01" en="Mario Power Tennis" zhcn="用Wii玩马里奥网球GC(欧)" path="专项运动系列 乒乓球和网球\用Wii玩马里奥网球GC(欧) [RMAP01]"/>
 	<Game id="RMAE01" en="Mario Power Tennis" zhcn="用Wii玩马里奥网球GC(美)"/>
 	<Game id="RMKJ01" en="Mario Sports Mix" zhcn="马里奥大运动会(日)"/>
-	<Game id="RMKE01" en="Mario Sports Mix" zhcn="马里奥大运动会(美)"/>
+	<Game id="RMKE01" en="Mario Sports Mix" zhcn="马里奥大运动会(美)" collection="运动会系列"/>
 	<Game id="RMKP01" en="Mario Sports Mix" zhcn="马里奥大运动会(欧)"/>
-	<Game id="R4QJ01" en="Mario Strikers Charged" zhcn="马里奥激情足球[WiFi](日)"/>
-	<Game id="R4QE01" en="Mario Strikers Charged" zhcn="马里奥激情足球[WiFi](美)"/>
-	<Game id="R4QP01" en="Mario Strikers Charged Football" zhcn="马里奥激情足球[WiFi](欧)"/>
-	<Game id="RMBE01" en="Mario Super Sluggers" zhcn="超级马里奥棒球场 家庭棒球(美)"/>
-	<Game id="RMAJ01" en="Mario Tennis GC" zhcn="用Wii玩马里奥网球GC(日)"/>
+	<Game id="R4QJ01" en="Mario Strikers Charged" zhcn="马里奥激情足球(日)"/>
+	<Game id="R4QE01" en="Mario Strikers Charged" zhcn="马里奥激情足球(美)" path="专项运动系列 足球\马里奥激情足球(美) [R4QE01]"/>
+	<Game id="R4QP01" en="Mario Strikers Charged Football" zhcn="马里奥激情足球(欧)"/>
+	<Game id="RMBE01" en="Mario Super Sluggers" zhcn="超级马里奥棒球场 家庭棒球(美)" path="done5\超级马里奥棒球场 家庭棒球(美) [RMBE01]"/>
+	<Game id="RMAJ01" en="Mario Tennis GC" zhcn="用Wii玩马里奥网球GC(日)" path="专项运动系列 乒乓球和网球\用Wii玩马里奥网球GC(日) [RMAJ01]"/>
 	<Game id="SMNPZN" en="Mario and the Glow Blocks" zhcn="Mario and the Glow Blocks"/>
 	<Game id="SMNEZN" en="Mario and the Glow Blocks" zhcn="Mario and the Glow Blocks"/>
 	<Game id="SMNJZN" en="Mario and the Glow Blocks" zhcn="Mario and the Glow Blocks"/>
@@ -228,86 +228,86 @@
 	<Game id="SIIK01" en="Mariowa Sonic London Olympic" zhcn="Mariowa Sonic London Olympic"/>
 	<Game id="ROLK01" en="Mariowa Sonic Vancouver Donggye-olympic" zhcn="马里奥与索尼克在温哥华冬奥会[WiFi][平衡板](韩)"/>
 	<Game id="RSBE08" en="Marlan Project M 3.6" zhcn="Marlan Project M 3.6"/>
-	<Game id="RQ7E20" en="Martian Panic" zhcn="火星人的恐慌(美)"/>
+	<Game id="RQ7E20" en="Martian Panic" zhcn="火星人的恐慌(美)" path="donem\火星人的恐慌(美) [RQ7E20]"/>
 	<Game id="RQ7PXT" en="Martian Panic" zhcn="Martian Panic"/>
 	<Game id="R38Y78" en="Marvel Super Hero Squad" zhcn="超级漫画英雄战队(Y)"/>
 	<Game id="R38P78" en="Marvel Super Hero Squad" zhcn="超级漫画英雄战队(欧)"/>
-	<Game id="R38E78" en="Marvel Super Hero Squad" zhcn="超级漫画英雄战队(美)"/>
-	<Game id="R38X78" en="Marvel Super Hero Squad - Walmart Edition" zhcn="超级漫画英雄战队 沃尔玛版(X)"/>
+	<Game id="R38E78" en="Marvel Super Hero Squad" zhcn="漫威超级英雄小队(美)" path="影视动漫系列 漫威\漫威超级英雄小队(美) [R38E78]"/>
+	<Game id="R38X78" en="Marvel Super Hero Squad - Walmart Edition" zhcn="漫威超级英雄小队 沃尔玛版(X)" path="影视动漫系列 漫威\漫威超级英雄小队 沃尔玛版 [R38X78]"/>
 	<Game id="SMZP78" en="Marvel Super Hero Squad: Comic Combat" zhcn="超级漫画英雄小队 漫画大战(美)"/>
-	<Game id="SMZE78" en="Marvel Super Hero Squad: Comic Combat" zhcn="超级漫画英雄小队 漫画大战(美)"/>
-	<Game id="SMSE78" en="Marvel Super Hero Squad: The Infinity Gauntlet" zhcn="超级漫画英雄小队 无限挑战(美)"/>
+	<Game id="SMZE78" en="Marvel Super Hero Squad: Comic Combat" zhcn="漫威超级英雄小队 漫画大战(美)" path="影视动漫系列 漫威\漫威超级英雄小队 漫画大战(美) [SMZE78]"/>
+	<Game id="SMSE78" en="Marvel Super Hero Squad: The Infinity Gauntlet" zhcn="漫威超级英雄小队 无限挑战(美)" path="影视动漫系列 漫威\漫威超级英雄小队 无限挑战(美) [SMSE78]"/>
 	<Game id="SMSP78" en="Marvel Super Hero Squad: The Infinity Gauntlet" zhcn="超级漫画英雄小队 无限挑战(欧)"/>
 	<Game id="SMHPNK" en="Marvel Super Heroes 3D: Grandmaster's Challenge" zhcn="超级漫画英雄 3D 大师的挑战(欧)"/>
 	<Game id="RSBEAA" en="Marvel and Capcom vs Super Smash Bros." zhcn="Marvel and Capcom vs Super Smash Bros."/>
 	<Game id="RMUP52" en="Marvel: Ultimate Alliance" zhcn="漫画英雄联盟(欧)"/>
 	<Game id="RMUJ2K" en="Marvel: Ultimate Alliance" zhcn="漫画英雄联盟(日)"/>
-	<Game id="RMUE52" en="Marvel: Ultimate Alliance" zhcn="漫画英雄联盟(美)"/>
+	<Game id="RMUE52" en="Marvel: Ultimate Alliance" zhcn="漫威终极联盟(美)" path="影视动漫系列 漫威\漫威终极联盟(美) [RMUE52]"/>
 	<Game id="RMSP52" en="Marvel: Ultimate Alliance 2" zhcn="惊奇漫画 终极联盟2([WiFi]欧)"/>
-	<Game id="RMSE52" en="Marvel: Ultimate Alliance 2" zhcn="惊奇漫画 终极联盟2[WiFi](美)"/>
+	<Game id="RMSE52" en="Marvel: Ultimate Alliance 2" zhcn="漫威终极联盟2(美)" path="影视动漫系列 漫威\漫威终极联盟2(美) [RMSE52]"/>
 	<Game id="RRHPUJ" en="Mary King's Riding School 2" zhcn="玛丽·金的骑术学校2(欧)"/>
 	<Game id="RSBP02" en="Master4Robin's Super Smash Bros. Brawl Hack Pack" zhcn="Master4Robin's Super Smash Bros. Brawl Hack Pack"/>
-	<Game id="SHTE20" en="Mathews Bow Hunting" zhcn="马修斯狩猎弓[MP](美)"/>
+	<Game id="SHTE20" en="Mathews Bow Hunting" zhcn="马修斯狩猎弓(美)" path="加速器游戏\马修斯狩猎弓(美) [SHTE20]"/>
 	<Game id="SAXPFH" en="Max &amp; the Magic Marker" zhcn="Max &amp; the Magic Marker"/>
 	<Game id="RMCEMX" en="Maxed Kart Wii" zhcn="Maxed Kart Wii"/>
-	<Game id="SN5EYG" en="Maximum Racing: Crash Car Racer" zhcn="急速赛车 冲撞赛车(美)"/>
-	<Game id="SDREYG" en="Maximum Racing: Drag &amp; Stock Racer" zhcn="最强赛车大奖赛 改装车赛(美)"/>
-	<Game id="SGPEYG" en="Maximum Racing: GP Classic Racing" zhcn="最强赛车大奖赛 GP经典(美)"/>
-	<Game id="SN3EYG" en="Maximum Racing: Rally Racer" zhcn="急速赛车 拉力赛(美)"/>
-	<Game id="SN8EYG" en="Maximum Racing: Sprint Cars" zhcn="急速赛车 冲刺车(美)"/>
-	<Game id="SN6EYG" en="Maximum Racing: Super Karts" zhcn="急速赛车 超级卡丁车(美)"/>
-	<Game id="SN7EYG" en="Maximum Racing: Super Truck Racer" zhcn="急速赛车 超级卡车赛(美)"/>
+	<Game id="SN5EYG" en="Maximum Racing: Crash Car Racer" zhcn="急速赛车 冲撞赛车(美)" path="donem\急速赛车 冲撞赛车(美) [SN5EYG]"/>
+	<Game id="SDREYG" en="Maximum Racing: Drag &amp; Stock Racer" zhcn="最强赛车大奖赛 改装车赛(美)" path="donem\最强赛车大奖赛 改装车赛(美) [SDREYG]"/>
+	<Game id="SGPEYG" en="Maximum Racing: GP Classic Racing" zhcn="最强赛车大奖赛 GP经典(美)" path="donem\最强赛车大奖赛 GP经典(美) [SGPEYG]"/>
+	<Game id="SN3EYG" en="Maximum Racing: Rally Racer" zhcn="急速赛车 拉力赛(美)" path="donem\急速赛车 拉力赛(美) [SN3EYG]"/>
+	<Game id="SN8EYG" en="Maximum Racing: Sprint Cars" zhcn="急速赛车 冲刺车(美)" path="donem\急速赛车 冲刺车(美) [SN8EYG]"/>
+	<Game id="SN6EYG" en="Maximum Racing: Super Karts" zhcn="急速赛车 超级卡丁车(美)" path="donem\急速赛车 超级卡丁车(美) [SN6EYG]"/>
+	<Game id="SN7EYG" en="Maximum Racing: Super Truck Racer" zhcn="急速赛车 超级卡车赛(美)" path="donem\急速赛车 超级卡车赛(美) [SN7EYG]"/>
 	<Game id="RM2U69" en="Medal of Honor: Heroes 2" zhcn="荣誉勋章 英雄2[WiFi](英)"/>
 	<Game id="RM2X69" en="Medal of Honor: Heroes 2" zhcn="荣誉勋章 英雄2[WiFi](X)"/>
 	<Game id="RM2J13" en="Medal of Honor: Heroes 2" zhcn="荣誉勋章 英雄2(日)"/>
 	<Game id="RM2P69" en="Medal of Honor: Heroes 2" zhcn="荣誉勋章 英雄2[WiFi](欧)"/>
-	<Game id="RM2E69" en="Medal of Honor: Heroes 2" zhcn="荣誉勋章 英雄2[WiFi](美)"/>
+	<Game id="RM2E69" en="Medal of Honor: Heroes 2" zhcn="荣誉勋章 英雄2(美)" path="donem\荣誉勋章 英雄2(美) [RM2E69]"/>
 	<Game id="RMVX69" en="Medal of Honor: Vanguard" zhcn="荣誉勋章 先遣部队(X)"/>
 	<Game id="RMVP69" en="Medal of Honor: Vanguard" zhcn="荣誉勋章 先遣部队(欧)"/>
 	<Game id="RMVE69" en="Medal of Honor: Vanguard" zhcn="荣誉勋章 先遣部队(美或中)" path="中文游戏\荣誉勋章 先遣部队(中) [RMVE69]"/>
-	<Game id="R2OE68" en="Medieval Games" zhcn="中世纪游戏(美)"/>
+	<Game id="R2OE68" en="Medieval Games" zhcn="中世纪游戏(美)" path="donem\中世纪游戏(美) [R2OE68]"/>
 	<Game id="R2OP68" en="Medieval Games" zhcn="中世纪游戏(欧)"/>
 	<Game id="RRSP4Q" en="Meet The Robinsons" zhcn="迪斯尼 拜访鲁滨逊一家(欧)"/>
 	<Game id="RRSX4Q" en="Meet The Robinsons" zhcn="迪斯尼 拜访鲁滨逊一家(X)"/>
-	<Game id="RRSE4Q" en="Meet the Robinsons" zhcn="迪斯尼 拜访鲁滨逊一家(美)"/>
+	<Game id="RRSE4Q" en="Meet the Robinsons" zhcn="迪斯尼 拜访鲁滨逊一家(美)" path="donem\迪斯尼 拜访鲁滨逊一家(美) [RRSE4Q]"/>
 	<Game id="SMGP78" en="Megamind: Mega Team Unite" zhcn="超级大坏蛋(欧)"/>
-	<Game id="SMGE78" en="Megamind: Mega Team Unite" zhcn="超级大坏蛋(美)"/>
+	<Game id="SMGE78" en="Megamind: Mega Team Unite" zhcn="超级大坏蛋(美)" path="donem\超级大坏蛋(美) [SMGE78]"/>
 	<Game id="SD8DSV" en="Mein neues Leben Abenteuer auf Tropicana" zhcn="Mein neues Leben Abenteuer auf Tropicana"/>
 	<Game id="RCOJ99" en="Meitantei Conan: Tsuioku no Mirage" zhcn="名侦探柯南 追忆的幻想(日)"/>
 	<Game id="RCOC99" en="Meitantei Conan: Tsuioku no Mirage" zhcn="名侦探柯南 追忆的幻想(中)" path="中文游戏\名侦探柯南 追忆的幻想(中) [RCOC99]"/>
 	<Game id="RX7JGD" en="Meja-maji March" zhcn="梅吉玛吉演奏比赛(日)"/>
 	<Game id="R64E05" en="Melodii" zhcn="Melodii"/>
-	<Game id="S3ZE52" en="Men In Black: Alien Crisis" zhcn="MIB黑衣人3(美)"/>
+	<Game id="S3ZE52" en="Men In Black: Alien Crisis" zhcn="MIB黑衣人3(美)" path="donem\MIB黑衣人3(美) [S3ZE52]"/>
 	<Game id="S3ZP52" en="Men In Black: Alien Crisis" zhcn="MIB黑衣人3(欧)"/>
 	<Game id="SSMPGD" en="Mensa Academy" zhcn="门萨学院(欧)"/>
 	<Game id="RMMP7U" en="Mercury Meltdown Revolution" zhcn="水银融化 革命(欧)"/>
-	<Game id="RMME7U" en="Mercury Meltdown Revolution" zhcn="水银融化 革命(美)"/>
-	<Game id="RVGE78" en="Merv Griffin's Crosswords" zhcn="默夫格里芬纵横字迷(美)"/>
+	<Game id="RMME7U" en="Mercury Meltdown Revolution" zhcn="水银融化 革命(美)" path="donem\水银融化 革命(美) [RMME7U]"/>
+	<Game id="RVGE78" en="Merv Griffin's Crosswords" zhcn="默夫格里芬纵横字迷(美)" path="donem\默夫格里芬纵横字迷(美) [RVGE78]"/>
 	<Game id="SBBJ18" en="Metal Fight Beyblade Gachinko Stadium" zhcn="金属战斗陀螺 对决大赛场(日)"/>
 	<Game id="RMLP7U" en="Metal Slug Anthology" zhcn="合金弹头精选集(欧)"/>
-	<Game id="RMLEH4" en="Metal Slug Anthology" zhcn="合金弹头精选集(美)"/>
+	<Game id="RMLEH4" en="Metal Slug Anthology" zhcn="合金弹头精选集(美)" path="街机系列\合金弹头精选集(美) [RMLEH4]"/>
 	<Game id="RMLJH4" en="Metal Slug Complete" zhcn="合金弹头 完全版(日)"/>
 	<Game id="RMLK52" en="Metal Slug Complete" zhcn="合金弹头精选集(韩)"/>
 	<Game id="GM8K01" en="Metroid Prime" zhcn="Metroid Prime"/>
-	<Game id="R3IJ01" en="Metroid Prime" zhcn="用Wii玩银河战士Prime(日或中)" path="中文游戏\用Wii玩银河战士Prime(中) [R3IJ01]"/>
+	<Game id="R3IJ01" en="Metroid Prime" zhcn="用Wii玩银河战士Prime(日或中)" collection="银河战士系列"/>
 	<Game id="G2MK01" en="Metroid Prime 2: Dark Echoes" zhcn="Metroid Prime 2: Dark Echoes"/>
 	<Game id="R32J01" en="Metroid Prime 2: Dark Echoes" zhcn="用Wii玩银河战士Prime2 黑暗回音(日)"/>
-	<Game id="RM3E01" en="Metroid Prime 3: Corruption" zhcn="银河战士3 腐蚀(美)"/>
+	<Game id="RM3E01" en="Metroid Prime 3: Corruption" zhcn="银河战士3 腐蚀(美)" collection="银河战士系列"/>
 	<Game id="RM3J01" en="Metroid Prime 3: Corruption" zhcn="银河战士3 腐蚀(日)"/>
 	<Game id="RM3P01" en="Metroid Prime 3: Corruption" zhcn="银河战士3 腐蚀(欧)"/>
 	<Game id="R3MK01" en="Metroid Prime: Trilogy" zhcn="Metroid Prime: Trilogy"/>
 	<Game id="R3MP01" en="Metroid Prime: Trilogy" zhcn="银河战士Prime 三部曲(欧)"/>
-	<Game id="R3ME01" en="Metroid Prime: Trilogy" zhcn="银河战士三部曲(美)"/>
+	<Game id="R3ME01" en="Metroid Prime: Trilogy" zhcn="银河战士三部曲(美)" collection="银河战士系列"/>
 	<Game id="R3ME02" en="Metroid Prime: Trilogy - Google Translated" zhcn="Metroid Prime: Trilogy - Google Translated"/>
 	<Game id="R3OE01" en="Metroid: Other M" zhcn="银河战士 另一个M(美)"/>
 	<Game id="R3OP01" en="Metroid: Other M" zhcn="银河战士 另一个M(欧)"/>
-	<Game id="R3OJ01" en="Metroid: Other M" zhcn="银河战士 另一个M(日或中)" path="中文游戏\银河战士 另一个M(中) [R3OJ01]"/>
+	<Game id="R3OJ01" en="Metroid: Other M" zhcn="银河战士 另一个M(日或中)" collection="银河战士系列"/>
 	<Game id="R3MEM1" en="Metroid: Other M-Maxximum Edition-" zhcn="Metroid: Other M-Maxximum Edition-"/>
 	<Game id="RTRJ18" en="Mezase!! Tsuri Master" zhcn="垂钓大师(日)"/>
 	<Game id="RTLJ18" en="Mezase!! Tsuri Master: Sekai ni Challenge! Hen" zhcn="目标！钓鱼大师 世界版(日)"/>
 	<Game id="RXMJ8P" en="Miburi &amp; Teburi" zhcn="手舞足蹈填字谜(日)"/>
-	<Game id="SMOE41" en="Michael Jackson: The Experience" zhcn="迈克尔杰克逊 生涯(美)"/>
-	<Game id="SMOJ41" en="Michael Jackson: The Experience" zhcn="迈克杰克逊 梦幻体验(日)"/>
+	<Game id="SMOE41" en="Michael Jackson: The Experience" zhcn="迈克尔杰克逊 生涯(美)" path="donem\迈克尔杰克逊 生涯(美) [SMOE41]"/>
+	<Game id="SMOJ41" en="Michael Jackson: The Experience" zhcn="迈克杰克逊 梦幻体验(日)" path="done2\迈克杰克逊 梦幻体验(日) [SMOJ41]"/>
 	<Game id="SMOP41" en="Michael Jackson: The Experience" zhcn="迈克尔杰克逊 生涯(欧)"/>
 	<Game id="SMOY41" en="Michael Jackson: The Experience - Special Edition" zhcn="迈克尔杰克逊 生涯(欧)"/>
 	<Game id="SMOX41" en="Michael Jackson: The Experience - Walmart Edition" zhcn="迈克尔杰克逊 生涯(美)"/>
@@ -321,51 +321,51 @@
 	<Game id="RNIPGT" en="Mind, Body &amp; Soul: Nutrition Matters" zhcn="休养生息 营养调理[平衡板](欧)"/>
 	<Game id="RCEPUG" en="Mini Desktop Racing" zhcn="迷你模型赛车(欧)"/>
 	<Game id="RCEXUG" en="Mini Desktop Racing" zhcn="迷你模型赛车(X)"/>
-	<Game id="RCEE5Z" en="Mini Desktop Racing" zhcn="迷你模型赛车(美)"/>
+	<Game id="RCEE5Z" en="Mini Desktop Racing" zhcn="迷你模型赛车(美)" path="donem\迷你模型赛车(美) [RCEE5Z]"/>
 	<Game id="SGOPKP" en="Mini Golf Resort" zhcn="迷你高尔夫度假村(欧)"/>
-	<Game id="SGOETV" en="Mini Golf Resort" zhcn="迷你高尔夫度假村(美)"/>
+	<Game id="SGOETV" en="Mini Golf Resort" zhcn="迷你高尔夫度假村(美)" path="donem\迷你高尔夫度假村(美) [SGOETV]"/>
 	<Game id="SGODKP" en="Mini Golf Resort" zhcn="迷你高尔夫度假村(欧)"/>
 	<Game id="RNJP4F" en="Mini Ninjas" zhcn="迷你忍者(欧)"/>
-	<Game id="RNJE4F" en="Mini Ninjas" zhcn="迷你忍者(美)"/>
+	<Game id="RNJE4F" en="Mini Ninjas" zhcn="迷你忍者(美)" path="done2\迷你忍者(美) [RNJE4F]"/>
 	<Game id="MSDEZ4" en="Mini Super Mario Bros Wii Deluxe" zhcn="Mini Super Mario Bros Wii Deluxe"/>
 	<Game id="SMNEMS" en="Mini Super Mario Bros. Wii" zhcn="Mini Super Mario Bros. Wii"/>
-	<Game id="RGCEXS" en="MiniCopter: Adventure Flight" zhcn="遥控直升机Wii 飞行大冒险(美)"/>
+	<Game id="RGCEXS" en="MiniCopter: Adventure Flight" zhcn="遥控直升机Wii 飞行大冒险(美)" path="donem\遥控直升机Wii 飞行大冒险(美) [RGCEXS]"/>
 	<Game id="RNWJAF" en="Minna de Asobou! Namco Carnival" zhcn="Namco博物馆 重制版(日)"/>
 	<Game id="S2AJAF" en="Minna de Bouken! Family Trainer" zhcn="运动生活 探险家(日)"/>
 	<Game id="D2AJAF" en="Minna de Bouken! Family Trainer (Demo)" zhcn="运动生活 探险家 试玩版(日)"/>
 	<Game id="RJTJ01" en="Minna no Joushiki Ryoku TV" zhcn="大家的常识力(日)"/>
 	<Game id="SOMJ01" en="Minna no Rhythm Tengoku" zhcn="大家的节奏天国(日或中)" path="中文游戏\大家的节奏天国(中) [SOMJ01]"/>
 	<Game id="RDMPHZ" en="Minon: Everyday Hero" zhcn="每日英雄 米侬(欧)"/>
-	<Game id="SMYE20" en="Minute to Win It" zhcn="分秒必争[MP](美)"/>
+	<Game id="SMYE20" en="Minute to Win It" zhcn="分秒必争(美)" path="影视动漫系列 电视节目\分秒必争(美) [SMYE20]"/>
 	<Game id="RMCEMZ" en="Mizy's Texture Pack" zhcn="Mizy's Texture Pack"/>
 	<Game id="RTKK8M" en="Modu Hamkke Takoron" zhcn="章鱼大作战[WiFi](韩)"/>
 	<Game id="RMTJ18" en="Momotarou Dentetsu 16: Hokkaidou Daiidou no Maki!" zhcn="桃太郎电铁16北海道大移动[WiFi](日)"/>
-	<Game id="SMTJ18" en="Momotarou Dentetsu 2010: Sengoku Ishin no Hero Daishuugou! no Maki" zhcn="桃太郎电铁2010 战国 维新英雄大集合之卷(日)"/>
-	<Game id="SMMJ0Q" en="Momu-chan Diet Wii: Figurobics by Chon Dayon" zhcn="美体瘦身Wii 郑多燕的塑型有氧(日)"/>
+	<Game id="SMTJ18" en="Momotarou Dentetsu 2010: Sengoku Ishin no Hero Daishuugou! no Maki" zhcn="桃太郎电铁2010 战国 维新英雄大集合之卷(日)" path="done2\桃太郎电铁2010 战国 维新英雄大集合之卷(日) [SMTJ18]"/>
+	<Game id="SMMJ0Q" en="Momu-chan Diet Wii: Figurobics by Chon Dayon" zhcn="美体瘦身Wii 郑多燕的塑型有氧(日)" path="健身系列\美体瘦身Wii 郑多燕的塑型有氧(日) [SMMJ0Q]"/>
 	<Game id="RFVP52" en="Monkey Mischief! 20 Games" zhcn="淘气小猴 聚会时间(欧)"/>
-	<Game id="RFVE52" en="Monkey Mischief! Party Time" zhcn="淘气小猴 聚会时间(美)"/>
+	<Game id="RFVE52" en="Monkey Mischief! Party Time" zhcn="淘气小猴 聚会时间(美)" path="donem\淘气小猴 聚会时间(美) [RFVE52]"/>
 	<Game id="GM2EBJ" en="Monkeyed Ball 2: Witty Subtitle" zhcn="Monkeyed Ball 2: Witty Subtitle"/>
-	<Game id="RWOE69" en="Monopoly" zhcn="大富翁(美)"/>
+	<Game id="RWOE69" en="Monopoly" zhcn="大富翁(美)" path="donem\大富翁(美) [RWOE69]"/>
 	<Game id="RWOJ13" en="Monopoly" zhcn="大富翁(日)"/>
 	<Game id="RWOP69" en="Monopoly" zhcn="大富翁(欧)"/>
-	<Game id="SMPE69" en="Monopoly Collection" zhcn="大富翁精选集 (美)"/>
-	<Game id="SMPP69" en="Monopoly Collection" zhcn="大富翁精选集 (美)(欧)"/>
+	<Game id="SMPE69" en="Monopoly Collection" zhcn="大富翁精选集(美)" path="donem\大富翁精选集(美) [SMPE69]"/>
+	<Game id="SMPP69" en="Monopoly Collection" zhcn="大富翁精选集(欧)"/>
 	<Game id="S75P69" en="Monopoly Streets" zhcn="大富翁 风华大街(欧)"/>
-	<Game id="S75E69" en="Monopoly Streets" zhcn="大富翁 风华大街(美)"/>
+	<Game id="S75E69" en="Monopoly Streets" zhcn="大富翁 风华大街(美)" path="donem\大富翁 风华大街(美) [S75E69]"/>
 	<Game id="RQZP41" en="Monster 4x4: Stunt Racer" zhcn="怪兽4X4特级赛车(欧)"/>
-	<Game id="RQZE41" en="Monster 4x4: Stunt Racer" zhcn="异形4X4特技赛车(美)"/>
+	<Game id="RQZE41" en="Monster 4x4: Stunt Racer" zhcn="异形4X4特技赛车(美)" path="donem\异形4X4特技赛车(美) [RQZE41]"/>
 	<Game id="RM4P41" en="Monster 4x4: World Circuit" zhcn="怪物四驱 世界巡回赛(欧)"/>
-	<Game id="RM4E41" en="Monster 4x4: World Circuit" zhcn="怪物四驱 世界巡回赛(美)"/>
+	<Game id="RM4E41" en="Monster 4x4: World Circuit" zhcn="怪物四驱 世界巡回赛(美)" path="donem\怪物四驱 世界巡回赛(美) [RM4E41]"/>
 	<Game id="RM4J41" en="Monster 4x4: World Circuit" zhcn="怪物四驱 世界巡回赛(日)"/>
 	<Game id="SNYPVZ" en="Monster High: 13 Wishes" zhcn="Monster High: 13 Wishes"/>
-	<Game id="SNYEVZ" en="Monster High: 13 Wishes" zhcn="Monster High: 13 Wishes"/>
+	<Game id="SNYEVZ" en="Monster High: 13 Wishes" zhcn="精灵高中 13个愿望(美)" path="wbfs\Monster High - 13 Wishes(美) [SNYEVZ]"/>
 	<Game id="SAOXVZ" en="Monster High: Ghoul Spirit" zhcn="怪物美少女 尸鬼精灵(欧)"/>
 	<Game id="SAOEVZ" en="Monster High: Ghoul Spirit" zhcn="Monster High: Ghoul Spirit"/>
-	<Game id="SAOE78" en="Monster High: Ghoul Spirit" zhcn="Monster High: Ghoul Spirit"/>
+	<Game id="SAOE78" en="Monster High: Ghoul Spirit" zhcn="精灵高中 食尸鬼精神(美)" path="wbfs\Monster High - Ghoul Spirit(美) [SAOE78]"/>
 	<Game id="SAOP78" en="Monster High: Ghoul Spirit" zhcn="怪物美少女 尸鬼精灵(欧)"/>
 	<Game id="S5MPVZ" en="Monster High: New Ghoul in School" zhcn="Monster High: New Ghoul in School"/>
 	<Game id="S5MEVZ" en="Monster High: New Ghoul in School" zhcn="Monster High: New Ghoul in School"/>
-	<Game id="SU5EVZ" en="Monster High: Skultimate Roller Maze" zhcn="Monster High: Skultimate Roller Maze"/>
+	<Game id="SU5EVZ" en="Monster High: Skultimate Roller Maze" zhcn="精灵高校 极限轮滑迷宫(美)" path="wbfs\Monster High - Skultimate Roller Maze(美) [SU5EVZ]"/>
 	<Game id="SU5PVZ" en="Monster High: Skultimate Roller Maze" zhcn="Monster High: Skultimate Roller Maze"/>
 	<Game id="ROMJ08" en="Monster Hunter G" zhcn="怪物猎人 G[WiFi](日)"/>
 	<Game id="ROMESD" en="Monster Hunter G (English Patched)" zhcn="自制 怪物猎人 G(美)"/>
@@ -374,39 +374,39 @@
 	<Game id="RMHC08" en="Monster Hunter Tri" zhcn="怪物猎人3（ACG汉化简体中文版）"/>
 	<Game id="DMHE08" en="Monster Hunter Tri (Demo)" zhcn="怪物猎人3 试玩版(美)"/>
 	<Game id="DMHJ08" en="Monster Hunter Tri (Demo)" zhcn="怪物猎人3 试玩版[WiFi](日)"/>
-	<Game id="RMHJ08" en="Monster Hunter tri-" zhcn="怪物猎人3[WiFi](日或中)" path="中文游戏\怪物猎人3[WiFi](中) [RMHJ08]"/>
+	<Game id="RMHJ08" en="Monster Hunter tri-" zhcn="怪物猎人3(日或中)" path="中文游戏\怪物猎人3(中) [RMHJ08]"/>
 	<Game id="RMOP52" en="Monster Jam" zhcn="怪兽大卡车(欧)"/>
-	<Game id="RMOE52" en="Monster Jam" zhcn="怪兽大卡车(美)"/>
+	<Game id="RMOE52" en="Monster Jam" zhcn="怪兽大卡车(美)" path="donem\怪兽大卡车(美) [RMOE52]"/>
 	<Game id="SMJP52" en="Monster Jam: Path of Destruction" zhcn="怪物卡车 毁灭之路(欧)"/>
-	<Game id="SMJE52" en="Monster Jam: Path of Destruction" zhcn="怪物卡车 毁灭之路(美)"/>
-	<Game id="RUAE52" en="Monster Jam: Urban Assault" zhcn="怪物卡车 袭击市区(美)"/>
+	<Game id="SMJE52" en="Monster Jam: Path of Destruction" zhcn="怪物卡车 毁灭之路(美)" path="donem\怪物卡车 毁灭之路(美) [SMJE52]"/>
+	<Game id="RUAE52" en="Monster Jam: Urban Assault" zhcn="怪物卡车 袭击市区(美)" path="donem\怪物卡车 袭击市区(美) [RUAE52]"/>
 	<Game id="RUAP52" en="Monster Jam: Urban Assault" zhcn="怪物卡车 袭击市区(欧)"/>
 	<Game id="RM7P4F" en="Monster Lab" zhcn="怪物实验室[WiFi](欧)"/>
-	<Game id="RM7E4F" en="Monster Lab" zhcn="怪物实验室[WiFi](美)"/>
-	<Game id="RI7E4Z" en="Monster Mayhem: Build and Battle" zhcn="怪物大破坏 创建和战斗(美)"/>
-	<Game id="SM4E20" en="Monster Trucks Mayhem" zhcn="大脚怪物卡车大破坏(美)"/>
+	<Game id="RM7E4F" en="Monster Lab" zhcn="怪物实验室(美)" path="donem\怪物实验室(美) [RM7E4F]"/>
+	<Game id="RI7E4Z" en="Monster Mayhem: Build and Battle" zhcn="怪物大破坏 创建和战斗(美)" path="donem\怪物大破坏 创建和战斗(美) [RI7E4Z]"/>
+	<Game id="SM4E20" en="Monster Trucks Mayhem" zhcn="大脚怪物卡车大破坏(美)" path="donem\大脚怪物卡车大破坏(美) [SM4E20]"/>
 	<Game id="SM4PXT" en="Monster Trucks: Ultra Mega Xtreme!!!" zhcn="Monster Trucks: Ultra Mega Xtreme!!!"/>
 	<Game id="RRXPUG" en="Monster Trux Arenas" zhcn="怪物卡车竞技场(欧)"/>
 	<Game id="RRXXUG" en="Monster Trux Arenas" zhcn="怪物卡车竞技场(X)"/>
-	<Game id="RRXE5Z" en="Monster Trux Arenas: Special Edition" zhcn="怪物卡车竞技场(美)"/>
+	<Game id="RRXE5Z" en="Monster Trux Arenas: Special Edition" zhcn="怪物卡车竞技场(美)" path="donem\怪物卡车竞技场(美) [RRXE5Z]"/>
 	<Game id="RTQXUG" en="Monster Trux Offroad" zhcn="怪物卡车 越野赛(X)"/>
 	<Game id="RTQPUG" en="Monster Trux Offroad" zhcn="怪物卡车 越野赛(欧)"/>
-	<Game id="RTQENR" en="Monster Trux Offroad" zhcn="怪物卡车 越野赛(美)"/>
-	<Game id="RVZE52" en="Monsters vs. Aliens" zhcn="怪兽大战外星人(美)"/>
+	<Game id="RTQENR" en="Monster Trux Offroad" zhcn="怪物卡车 越野赛(美)" path="donem\怪物卡车 越野赛(美) [RTQENR]"/>
+	<Game id="RVZE52" en="Monsters vs. Aliens" zhcn="怪兽大战外星人(美)" path="donem\怪兽大战外星人(美) [RVZE52]"/>
 	<Game id="RVZP52" en="Monsters vs. Aliens" zhcn="怪兽大战外星人(欧)"/>
 	<Game id="RV2P5D" en="More Game Party" zhcn="游戏派对2(欧)"/>
 	<Game id="RKMP5D" en="Mortal Kombat: Armageddon" zhcn="真人快打(欧)"/>
-	<Game id="RKME5D" en="Mortal Kombat: Armageddon" zhcn="真人快打(美)"/>
-	<Game id="R5SERW" en="Mortimer Beckett and the Secrets of Spooky Manor" zhcn="幽灵庄园的秘密(美)"/>
+	<Game id="RKME5D" en="Mortal Kombat: Armageddon" zhcn="真人快打(美)" path="done4\真人快打(美) [RKME5D]"/>
+	<Game id="R5SERW" en="Mortimer Beckett and the Secrets of Spooky Manor" zhcn="幽灵庄园的秘密(美)" path="donem\幽灵庄园的秘密(美) [R5SERW]"/>
 	<Game id="RQ8P08" en="MotoGP" zhcn="GP摩托车赛08(欧)"/>
-	<Game id="RQ8E08" en="MotoGP 08" zhcn="GP摩托车赛08(美)"/>
-	<Game id="R7WE52" en="Mountain Sports" zhcn="雪山运动[平衡板](美)"/>
+	<Game id="RQ8E08" en="MotoGP 08" zhcn="GP摩托车赛08(美)" path="donem\GP摩托车赛08(美) [RQ8E08]"/>
+	<Game id="R7WE52" en="Mountain Sports" zhcn="雪山运动(美)" path="平衡板游戏\雪山运动(美) [R7WE52]"/>
 	<Game id="R7WP52" en="Mountain Sports" zhcn="雪山运动[平衡板](欧)"/>
-	<Game id="RVQE41" en="Movie Games" zhcn="电影游戏(美)"/>
+	<Game id="RVQE41" en="Movie Games" zhcn="电影游戏(美)" path="donem\电影游戏(美) [RVQE41]"/>
 	<Game id="RVQP41" en="Movie Studios Party" zhcn="电影游戏(欧)"/>
 	<Game id="091E00" en="Movie-Ch Install Disc Ver. A" zhcn="Movie-Ch Install Disc Ver. A"/>
 	<Game id="REBPMT" en="Mr Bean's Wacky World of Wii" zhcn="憨豆先生的古怪世界(欧)"/>
-	<Game id="REBE4Z" en="Mr. Bean's Wacky World" zhcn="憨豆先生的古怪世界(欧)"/>
+	<Game id="REBE4Z" en="Mr. Bean's Wacky World" zhcn="憨豆先生的古怪世界(美)" path="wbfs\憨豆先生的古怪世界(美) [REBE4Z]"/>
 	<Game id="RSBEMT" en="MrTacos's ModPack" zhcn="MrTacos's ModPack"/>
 	<Game id="RSFE7U" en="Muramasa: The Demon Blade" zhcn="胧村正 妖刀传(美)"/>
 	<Game id="RSFK7U" en="Muramasa: The Demon Blade" zhcn="Muramasa: The Demon Blade"/>
@@ -414,30 +414,30 @@
 	<Game id="RSFC99" en="Muramasa: The Demon Blade (Chinese)" zhcn="胧村正（ACG汉化简体中文版）"/>
 	<Game id="DSFE7U" en="Muramasa: The Demon Blade (Demo)" zhcn="胧村正 妖刀传 试玩版(美)"/>
 	<Game id="RM9PGM" en="Mushroom Men: The Spore Wars" zhcn="蘑菇人 孢子大战(欧)"/>
-	<Game id="RM9EGM" en="Mushroom Men: The Spore Wars" zhcn="蘑菇人 孢子大战(美)"/>
+	<Game id="RM9EGM" en="Mushroom Men: The Spore Wars" zhcn="蘑菇人 孢子大战(美)" path="donem\蘑菇人 孢子大战(美) [RM9EGM]"/>
 	<Game id="R7MPFR" en="Musiic Party: Rock the House" zhcn="音乐派对 轰动全场(欧)"/>
 	<Game id="R7MXFR" en="Musiic Party: Rock the House" zhcn="音乐派对 轰动全场(欧)"/>
 	<Game id="RJDPKM" en="My Animal Centre" zhcn="我的动物中心(欧)"/>
 	<Game id="SB2PNP" en="My Baby 2: My Baby Grew Up" zhcn="我的宝贝2[WiFi](欧)"/>
-	<Game id="SB2ES5" en="My Baby First Steps" zhcn="我宝宝的第一步(美)"/>
-	<Game id="RU9EGT" en="My Ballet Studio" zhcn="我的芭蕾舞工作室[平衡板](美)"/>
-	<Game id="REUPNK" en="My Body Coach" zhcn="我的形体教练(欧)"/>
-	<Game id="SM6PNK" en="My Body Coach 2: Fitness &amp; Dance" zhcn="我的形体教练 2 健身与舞蹈(欧)"/>
+	<Game id="SB2ES5" en="My Baby First Steps" zhcn="我宝宝的第一步(美)" path="donem\我宝宝的第一步(美) [SB2ES5]"/>
+	<Game id="RU9EGT" en="My Ballet Studio" zhcn="我的芭蕾舞工作室(美)" path="平衡板游戏\我的芭蕾舞工作室(美) [RU9EGT]"/>
+	<Game id="REUPNK" en="My Body Coach" zhcn="我的形体教练(欧)" path="健身系列\我的形体教练(欧) [REUPNK]"/>
+	<Game id="SM6PNK" en="My Body Coach 2: Fitness &amp; Dance" zhcn="我的形体教练2 健身与舞蹈(欧)" path="健身系列\我的形体教练2 健身与舞蹈(欧) [SM6PNK]"/>
 	<Game id="SONFMR" en="My First Songs" zhcn="我的第一首卡拉OK(法)"/>
 	<Game id="SONPMR" en="My First Songs" zhcn="我的第一首卡拉OK(欧)"/>
 	<Game id="SONDMR" en="My First Songs" zhcn="我的第一首卡拉OK(德)"/>
-	<Game id="RFKE41" en="My Fitness Coach" zhcn="我的健康教练(美)"/>
-	<Game id="RU4E41" en="My Fitness Coach 2: Exercise &amp; Nutrition" zhcn="我的健身教练2 运动与营养[平衡板](美)"/>
+	<Game id="RFKE41" en="My Fitness Coach" zhcn="我的健身教练(美)" path="健身系列\我的健身教练(美) [RFKE41]"/>
+	<Game id="RU4E41" en="My Fitness Coach 2: Exercise &amp; Nutrition" zhcn="我的健身教练2 运动与营养(美)" path="健身系列\我的健身教练2 运动与营养(美) [RU4E41]"/>
 	<Game id="REKP41" en="My Fitness Coach: Cardio Workout" zhcn="金牌吉姆卡迪欧塑身[平衡板](欧)"/>
-	<Game id="SF5P41" en="My Fitness Coach: Club" zhcn="我的健身教练俱乐部(欧)"/>
+	<Game id="SF5P41" en="My Fitness Coach: Club" zhcn="我的健身教练 俱乐部(欧)" path="健身系列\我的健身教练 俱乐部(欧) [SF5P41]"/>
 	<Game id="SCWP41" en="My Fitness Coach: Dance Workout" zhcn="我的健身教练 舞蹈锻炼[平衡板](欧)"/>
 	<Game id="RFKX41" en="My Fitness Coach: Get In Shape" zhcn="我的健康教练(X)"/>
 	<Game id="RFKP41" en="My Fitness Coach: Get In Shape" zhcn="我的健康教练(欧)"/>
 	<Game id="REFP41" en="My French Coach: Improve Your French" zhcn="我的法语教练(欧)"/>
-	<Game id="RHNE70" en="My Horse &amp; Me" zhcn="马儿与我(美)"/>
+	<Game id="RHNE70" en="My Horse &amp; Me" zhcn="马儿与我(美)" path="donem\马儿与我(美) [RHNE70]"/>
 	<Game id="RHNP70" en="My Horse &amp; Me" zhcn="马儿与我(欧)"/>
 	<Game id="RX2P70" en="My Horse &amp; Me 2" zhcn="我和我的小马2(欧)"/>
-	<Game id="RX2E70" en="My Horse &amp; Me: Riding for Gold" zhcn="我和我的小马2(美)"/>
+	<Game id="RX2E70" en="My Horse &amp; Me: Riding for Gold" zhcn="我和我的小马2(美)" path="donem\我和我的小马2(美) [RX2E70]"/>
 	<Game id="REWYMR" en="My Horse Club: On the Trail of the Mysterious Appaloosa" zhcn="我的马匹俱乐部(Y)"/>
 	<Game id="REWXMR" en="My Horse Club: On the Trail of the Mysterious Appaloosa" zhcn="我的马匹俱乐部(X)"/>
 	<Game id="REWFMR" en="My Horse Club: On the Trail of the Mysterious Appaloosa" zhcn="我的马匹俱乐部(法)"/>
@@ -449,37 +449,37 @@
 	<Game id="RVTPMR" en="My Pet World" zhcn="我的宠物俱乐部(欧)"/>
 	<Game id="RESP41" en="My Spanish Coach: Improve Your Spanish" zhcn="我的西班牙语教练(欧)"/>
 	<Game id="RTEPFR" en="My Vet Practice" zhcn="我的宠物医院(欧)"/>
-	<Game id="RZYE41" en="My Word Coach" zhcn="我的单词教练(美)"/>
+	<Game id="RZYE41" en="My Word Coach" zhcn="我的单词教练(美)" path="donem\我的单词教练(美) [RZYE41]"/>
 	<Game id="RZYF41" en="My Word Coach: Develop your vocabulary" zhcn="我的单词教练(法)"/>
 	<Game id="RWFH41" en="My Word Coach: Develop your vocabulary" zhcn="我的单词教练(荷)"/>
 	<Game id="RZYP41" en="My Word Coach: Develop your vocabulary" zhcn="我的单词教练(欧)"/>
 	<Game id="RZYS41" en="My Word Coach: Develop your vocabulary" zhcn="我的单词教练(西)"/>
 	<Game id="RW4D41" en="My Word Coach: Develop your vocabulary" zhcn="我的词汇教练(德)"/>
 	<Game id="RSIP69" en="MySims" zhcn="我的模拟人生(欧)"/>
-	<Game id="RSIE69" en="MySims" zhcn="我的模拟人生(美)"/>
-	<Game id="R6QE69" en="MySims Agents" zhcn="我的模拟人生 特工(美)"/>
+	<Game id="RSIE69" en="MySims" zhcn="我的模拟人生(美)" path="donem\我的模拟人生(美) [RSIE69]"/>
+	<Game id="R6QE69" en="MySims Agents" zhcn="我的模拟人生 特工(美)" path="donem\我的模拟人生 特工(美) [R6QE69]"/>
 	<Game id="R5XP69" en="MySims Agents" zhcn="我的模拟人生 特工(欧)"/>
-	<Game id="SIME69" en="MySims Collection" zhcn="模拟人生合集(美)"/>
-	<Game id="RSHE69" en="MySims Kingdom" zhcn="我的模拟王国(美)"/>
+	<Game id="SIME69" en="MySims Collection" zhcn="模拟人生合集(美)" path="donem\模拟人生合集(美) [SIME69]"/>
+	<Game id="RSHE69" en="MySims Kingdom" zhcn="我的模拟王国(美)" path="donem\我的模拟王国(美) [RSHE69]"/>
 	<Game id="RSHP69" en="MySims Kingdom" zhcn="我的模拟王国(欧)"/>
 	<Game id="RP4P69" en="MySims Party" zhcn="我的模拟聚会[WiFi](欧)"/>
-	<Game id="RP4E69" en="MySims Party" zhcn="我的模拟聚会[WiFi](美)"/>
+	<Game id="RP4E69" en="MySims Party" zhcn="我的模拟聚会(美)" path="donem\我的模拟聚会(美) [RP4E69]"/>
 	<Game id="RQGP69" en="MySims Racing" zhcn="我的模拟人生 赛车(欧)"/>
-	<Game id="RQGE69" en="MySims Racing" zhcn="我的模拟人生 赛车(美)"/>
+	<Game id="RQGE69" en="MySims Racing" zhcn="我的模拟人生 赛车(美)" path="donem\我的模拟人生 赛车(美) [RQGE69]"/>
 	<Game id="DQGP69" en="MySims Racing (Demo)" zhcn="我的模拟人生 赛车 试玩版(欧)"/>
 	<Game id="RSHK69" en="MySims Simdeurui Wangguk" zhcn="我的模拟王国(韩)"/>
-	<Game id="RJ6E69" en="MySims Sky Heroes" zhcn="我的模拟人生 空中英豪(美)"/>
+	<Game id="RJ6E69" en="MySims Sky Heroes" zhcn="我的模拟人生 空中英豪(美)" path="donem\我的模拟人生 空中英豪(美) [RJ6E69]"/>
 	<Game id="RJ6P69" en="MySims Sky Heroes" zhcn="我的模拟人生 空中英豪(欧)"/>
 	<Game id="RCOK99" en="Myeongtamjeong Conan - Chueogui Hwansang" zhcn="Myeongtamjeong Conan - Chueogui Hwansang"/>
 	<Game id="SFIP01" en="Mystery Case Files: The Malgrave Incident" zhcn="神秘案件档案(欧)"/>
-	<Game id="SFIE01" en="Mystery Case Files: The Malgrave Incident" zhcn="神秘档案 百灵泉(美)"/>
+	<Game id="SFIE01" en="Mystery Case Files: The Malgrave Incident" zhcn="神秘档案 百灵泉(美)" path="donem\神秘档案 百灵泉(美) [SFIE01]"/>
 	<Game id="DAVE01" en="Mystery Case Files: The Malgrave Incident (Demo)" zhcn="Mystery Case Files: The Malgrave Incident (Demo)"/>
-	<Game id="RMQENR" en="Myth Makers: Orbs of Doom" zhcn="魔法制造者 末日宝石(美)"/>
+	<Game id="RMQENR" en="Myth Makers: Orbs of Doom" zhcn="魔法制造者 末日宝石(美)" path="donem\魔法制造者 末日宝石(美) [RMQENR]"/>
 	<Game id="RMQPUG" en="Myth Makers: Orbs of Doom" zhcn="魔法制造者 末日宝石(欧)"/>
-	<Game id="RMYE5Z" en="Myth Makers: Super Kart GP" zhcn="超级卡丁车GP(美)"/>
+	<Game id="RMYE5Z" en="Myth Makers: Super Kart GP" zhcn="超级卡丁车GP(美)" path="done2\超级卡丁车GP(美) [RMYE5Z]"/>
 	<Game id="RMYPUG" en="Myth Makers: Super Kart GP" zhcn="超级卡丁车GP(欧)"/>
 	<Game id="RMYXUG" en="Myth Makers: Super Kart GP" zhcn="超级卡丁车GP(欧)"/>
-	<Game id="RMZE5Z" en="Myth Makers: Trixie in Toyland" zhcn="神话制造者 崔克茜在玩具岛(美)"/>
+	<Game id="RMZE5Z" en="Myth Makers: Trixie in Toyland" zhcn="神话制造者 崔克茜在玩具岛(美)" path="donem\神话制造者 崔克茜在玩具岛(美) [RMZE5Z]"/>
 	<Game id="RMZPUG" en="Myth Makers: Trixie in Toyland" zhcn="神话制造者 崔克茜在玩具岛(欧)"/>
 	<Game id="RMZXUG" en="Myth Makers: Trixie in Toyland" zhcn="Myth Makers: Trixie in Toyland"/>
 </Game-List>

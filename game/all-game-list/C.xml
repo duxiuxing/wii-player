@@ -46,16 +46,16 @@
 	<Game id="ZM7E52" en="Call of Duty - Modern Warfare - Reflex Edition - Zombie Mode" zhcn="Call of Duty - Modern Warfare - Reflex Edition - Zombie Mode"/>
 	<Game id="RCDX52" en="Call of Duty 3" zhcn="使命召唤3(X)"/>
 	<Game id="RCDD52" en="Call of Duty 3" zhcn="使命召唤3(德)"/>
-	<Game id="RCDE52" en="Call of Duty 3" zhcn="使命召唤3(美)" path="使命召唤系列\使命召唤3(美) [RCDE52]"/>
+	<Game id="RCDE52" en="Call of Duty 3" zhcn="使命召唤3(美)" path="光枪游戏 使命召唤系列\使命召唤3(美) [RCDE52]"/>
 	<Game id="RCDP52" en="Call of Duty 3" zhcn="使命召唤3(欧)"/>
-	<Game id="SC7P52" en="Call of Duty: Black Ops" zhcn="使命召唤7 黑色行动[WiFi](欧)"/>
-	<Game id="SC7Z52" en="Call of Duty: Black Ops" zhcn="Call of Duty: Black Ops"/>
-	<Game id="SC7E52" en="Call of Duty: Black Ops" zhcn="使命召唤7 黑色行动(美)" path="使命召唤系列\使命召唤7 黑色行动(美) [SC7E52]"/>
-	<Game id="SC7D52" en="Call of Duty: Black Ops" zhcn="使命召唤7 黑色行动[WiFi](德)"/>
-	<Game id="SC7S52" en="Call of Duty: Black Ops" zhcn="使命召唤7 黑色行动[WiFi](西)"/>
-	<Game id="SC7I52" en="Call of Duty: Black Ops" zhcn="使命召唤7 黑色行动[WiFi](意)"/>
-	<Game id="SC7F52" en="Call of Duty: Black Ops" zhcn="使命召唤7 黑色行动[WiFi](法)"/>
-	<Game id="RJAE52" en="Call of Duty: Modern Warfare - Reflex Edition" zhcn="使命召唤4 现代战争(美)" path="使命召唤系列\使命召唤4 现代战争(美) [RJAE52]"/>
+	<Game id="SC7P52" en="Call of Duty: Black Ops" zhcn="使命召唤 黑色行动(欧)"/>
+	<Game id="SC7Z52" en="Call of Duty: Black Ops" zhcn="使命召唤 黑色行动(英)"/>
+	<Game id="SC7E52" en="Call of Duty: Black Ops" zhcn="使命召唤 黑色行动(美)" path="光枪游戏 使命召唤系列\使命召唤 黑色行动(美) [SC7E52]"/>
+	<Game id="SC7D52" en="Call of Duty: Black Ops" zhcn="使命召唤 黑色行动(德)"/>
+	<Game id="SC7S52" en="Call of Duty: Black Ops" zhcn="使命召唤 黑色行动(西)"/>
+	<Game id="SC7I52" en="Call of Duty: Black Ops" zhcn="使命召唤 黑色行动(意)"/>
+	<Game id="SC7F52" en="Call of Duty: Black Ops" zhcn="使命召唤 黑色行动(法)"/>
+	<Game id="RJAE52" en="Call of Duty: Modern Warfare - Reflex Edition" zhcn="使命召唤 现代战争(美)" path="光枪游戏 使命召唤系列\使命召唤 现代战争(美) [RJAE52]"/>
 	<Game id="RJAD52" en="Call of Duty: Modern Warfare - Reflex Edition" zhcn="使命召唤 现代战争 反应能力[WiFi](德)"/>
 	<Game id="RJAP52" en="Call of Duty: Modern Warfare - Reflex Edition" zhcn="使命召唤 现代战争 反应能力[WiFi](欧)"/>
 	<Game id="RJAX52" en="Call of Duty: Modern Warfare - Reflex Edition" zhcn="使命召唤 现代战争 反应能力[WiFi](X)"/>
@@ -65,11 +65,11 @@
 	<Game id="SM8S52" en="Call of Duty: Modern Warfare 3" zhcn="使命召唤 现代战争 3(欧)"/>
 	<Game id="SM8X52" en="Call of Duty: Modern Warfare 3" zhcn="使命召唤 现代战争3(欧)"/>
 	<Game id="SM8D52" en="Call of Duty: Modern Warfare 3" zhcn="使命召唤 现代战争3(欧)"/>
-	<Game id="SM8E52" en="Call of Duty: Modern Warfare 3" zhcn="使命召唤8 现代战争3(美)" path="使命召唤系列\使命召唤8 现代战争3(美) [SM8E52]"/>
+	<Game id="SM8E52" en="Call of Duty: Modern Warfare 3" zhcn="使命召唤 现代战争3(美)" path="光枪游戏 使命召唤系列\使命召唤 现代战争3(美) [SM8E52]"/>
 	<Game id="RVYY52" en="Call of Duty: World at War" zhcn="使命召唤 世界大战[WiFi](Y)"/>
 	<Game id="RVYP52" en="Call of Duty: World at War" zhcn="使命召唤 世界大战[WiFi](欧)"/>
 	<Game id="RVYK52" en="Call of Duty: World at War" zhcn="使命召唤 世界大战[WiFi](韩)"/>
-	<Game id="RVYE52" en="Call of Duty: World at War" zhcn="使命召唤5 战争世界(美)" path="使命召唤系列\使命召唤5 战争世界(美) [RVYE52]"/>
+	<Game id="RVYE52" en="Call of Duty: World at War" zhcn="使命召唤 战争世界(美)" path="光枪游戏 使命召唤系列\使命召唤 战争世界(美) [RVYE52]"/>
 	<Game id="RVYX52" en="Call of Duty: World at War" zhcn="使命召唤 世界大战[WiFi](X)"/>
 	<Game id="RVYD52" en="Call of Duty: World at War" zhcn="使命召唤 世界大战[WiFi](德)"/>
 	<Game id="SCAE18" en="Calling" zhcn="鬼铃 黑暗来电(美)" path="done\鬼铃 黑暗来电(美) [SCAE18]"/>
@@ -145,7 +145,7 @@
 	<Game id="SMNEZC" en="Challenging Super Mario Bros. Wii: Virtual Special" zhcn="Challenging Super Mario Bros. Wii: Virtual Special"/>
 	<Game id="SGKEC8" en="Champion Jockey: G1 Jockey &amp; Gallop Racer" zhcn="冠军骑师 骑师之道＆风速神驹(美)" path="done\冠军骑师 骑师之道＆风速神驹(美) [SGKEC8]"/>
 	<Game id="SGKPC8" en="Champion Jockey: G1 Jockey &amp; Gallop Racer" zhcn="冠军骑师 骑师之道＆风速神驹(欧)"/>
-	<Game id="SGKJC8" en="Champion Jockey: Gallop Racer &amp; GI Jockey" zhcn="冠军骑师：风速神驹＆骑师之道(日)"/>
+	<Game id="SGKJC8" en="Champion Jockey: Gallop Racer &amp; GI Jockey" zhcn="冠军骑师：风速神驹＆骑师之道(日)" path="done2\冠军骑师：风速神驹＆骑师之道(日) [SGKJC8]"/>
 	<Game id="R4BEJZ" en="Championship Foosball" zhcn="桌面足球(美)" path="done\桌面足球(美) [R4BEJZ]"/>
 	<Game id="RXHF5D" en="Chaos à La Maison" zhcn="混沌之家(法)"/>
 	<Game id="CNSMBW" en="Chaotic New Super Mario Bros. Wii" zhcn="Chaotic New Super Mario Bros. Wii"/>

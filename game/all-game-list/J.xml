@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Game-List>
-	<Game id="SJAE5G" en="JAWS: Ultimate Predator" zhcn="JAWS: Ultimate Predator"/>
+	<Game id="SJAE5G" en="JAWS: Ultimate Predator" zhcn="大白鲨 终极猎食者(美)" path="donej\大白鲨 终极猎食者(美) [SJAE5G]"/>
 	<Game id="RMCEJ6" en="JHFR CT Pack" zhcn="JHFR CT Pack"/>
 	<Game id="RMCEJ3" en="JTG Texture Pack" zhcn="JTG Texture Pack"/>
 	<Game id="RJKP85" en="Jacky Kart Wii" zhcn="Jacky Kart Wii"/>
 	<Game id="RJKE85" en="Jacky Kart Wii" zhcn="Jacky Kart Wii"/>
 	<Game id="SJ3PNL" en="Jakers! Kart Racing" zhcn="Jakers! Kart Racing"/>
 	<Game id="RJJP8P" en="Jambo! Safari" zhcn="丛林之旅 动物救援(欧)"/>
-	<Game id="RJJE8P" en="Jambo! Safari Animal Rescue" zhcn="丛林之旅 动物救援(美)"/>
-	<Game id="R5VE41" en="James Cameron's Avatar: The Game" zhcn="阿凡达[MP][平衡板](美)"/>
+	<Game id="RJJE8P" en="Jambo! Safari Animal Rescue" zhcn="丛林之旅 动物救援(美)" path="donej\丛林之旅 动物救援(美) [RJJE8P]"/>
+	<Game id="R5VE41" en="James Cameron's Avatar: The Game" zhcn="阿凡达(美)" path="影视和动漫系列\阿凡达(美) [R5VE41]"/>
 	<Game id="R5VP41" en="James Cameron's Avatar: The Game" zhcn="阿凡达[MP][平衡板](欧)"/>
 	<Game id="R5VX41" en="James Cameron's Avatar: The Game" zhcn="阿凡达[MP][平衡板](X)"/>
 	<Game id="RJWJEL" en="Jawa: Mammoth to Himitsu no Ishi" zhcn="猛犸象与神秘之石(日)"/>
-	<Game id="RJ3E20" en="Jeep Thrills" zhcn="吉普越野赛车(美)"/>
+	<Game id="RJ3E20" en="Jeep Thrills" zhcn="吉普越野赛车(美)" path="donej\吉普越野赛车(美) [RJ3E20]"/>
 	<Game id="RJ3P7J" en="Jeep Thrills" zhcn="吉普越野赛车(欧)"/>
-	<Game id="R7BE20" en="Jelly Belly Ballistic Beans" zhcn="吉利贝利 弹道豆(美)"/>
+	<Game id="R7BE20" en="Jelly Belly Ballistic Beans" zhcn="吉利贝利 弹道豆(美)" path="donej\吉利贝利 弹道豆(美) [R7BE20]"/>
 	<Game id="R7BP7J" en="Jelly Belly Ballistic Beans" zhcn="吉利贝利 弹道豆(欧)"/>
 	<Game id="RJEP70" en="Jenga World Tour" zhcn="层层叠世界巡回赛(欧)"/>
-	<Game id="RJEE70" en="Jenga World Tour" zhcn="层层叠世界巡回赛(美)"/>
-	<Game id="SJPE78" en="Jeopardy!" zhcn="智力竞答(美)"/>
-	<Game id="SJCEZW" en="Jerry Rice &amp; Nitus' Dog Football" zhcn="Jerry Rice &amp; Nitus' Dog Football"/>
-	<Game id="RJ4ENR" en="Jewel Master: Cradle of Rome" zhcn="珠宝大师 罗马发源地(美)"/>
+	<Game id="RJEE70" en="Jenga World Tour" zhcn="层层叠世界巡回赛(美)" path="donej\层层叠世界巡回赛(美) [RJEE70]"/>
+	<Game id="SJPE78" en="Jeopardy!" zhcn="智力竞答(美)" path="donej\智力竞答(美) [SJPE78]"/>
+	<Game id="SJCEZW" en="Jerry Rice &amp; Nitus' Dog Football" zhcn="杰里和狗足球(美)" path="专项运动系列 足球\杰里和狗足球(美) [SJCEZW]"/>
+	<Game id="RJ4ENR" en="Jewel Master: Cradle of Rome" zhcn="珠宝大师 罗马发源地(美)" path="donej\珠宝大师 罗马发源地(美) [RJ4ENR]"/>
 	<Game id="RJ4PRM" en="Jewel Master: Cradle of Rome" zhcn="珠宝大师 罗马发源地(欧)"/>
-	<Game id="SJQEPZ" en="Jewel Quest Trilogy" zhcn="宝石探秘三部曲(美)"/>
+	<Game id="SJQEPZ" en="Jewel Quest Trilogy" zhcn="宝石探秘三部曲(美)" path="donej\宝石探秘三部曲(美) [SJQEPZ]"/>
 	<Game id="SJQPGR" en="Jewel Quest Trilogy" zhcn="宝石探秘三部曲(美)"/>
 	<Game id="RKWJ18" en="Jigsaw Puzzle: Kyou no Wanko" zhcn="拼图小狗 每日一问(日)"/>
 	<Game id="RPMJA4" en="Jikkyou Powerful Major League 2 Wii" zhcn="实况力量棒球 职业棒球大联盟2(日)"/>
-	<Game id="R4WJA4" en="Jikkyou Powerful Major League 2009" zhcn="实况力量棒球大联盟2009(日)"/>
+	<Game id="R4WJA4" en="Jikkyou Powerful Major League 2009" zhcn="实况力量棒球大联盟2009(日)" path="done2\实况力量棒球大联盟2009(日) [R4WJA4]"/>
 	<Game id="R3FJA4" en="Jikkyou Powerful Major League 3" zhcn="实况力量棒球大联盟3(日)"/>
 	<Game id="RP5JA4" en="Jikkyou Powerful Pro Yakyuu 15" zhcn="实况力量棒球15(日)"/>
 	<Game id="RX8JA4" en="Jikkyou Powerful Pro Yakyuu Next" zhcn="实况力量棒球NEXT(日)"/>
-	<Game id="RJPJA4" en="Jikkyou Powerful Pro Yakyuu Wii" zhcn="实况棒球Wii(日)"/>
+	<Game id="RJPJA4" en="Jikkyou Powerful Pro Yakyuu Wii" zhcn="实况棒球Wii(日)" path="专项运动系列\实况棒球Wii(日) [RJPJA4]"/>
 	<Game id="RPZJA4" en="Jikkyou Powerful Pro Yakyuu Wii: Ketteiban" zhcn="实况力量职棒Wii 决定版[WiFi](日)"/>
 	<Game id="SJMPGT" en="Jillian Michaels Fitness Ultimatum 2010" zhcn="吉利安 麦克尔的健身训练2010[平衡板](欧)"/>
-	<Game id="SJME5G" en="Jillian Michaels Fitness Ultimatum 2010" zhcn="吉利安 麦克尔的健身训练2010[平衡板](美)"/>
-	<Game id="SJIEG9" en="Jillian Michaels Fitness Ultimatum 2011" zhcn="吉利安 麦克尔的健身训练2011[MP][平衡板](美)"/>
+	<Game id="SJME5G" en="Jillian Michaels Fitness Ultimatum 2010" zhcn="Jillian Michaels的健身训练2010(美)" path="健身系列\Jillian Michaels的健身训练2010(美) [SJME5G]"/>
+	<Game id="SJIEG9" en="Jillian Michaels Fitness Ultimatum 2011" zhcn="Jillian Michaels的健身训练2011(美)" path="健身系列\Jillian Michaels的健身训练2011(美) [SJIEG9]"/>
 	<Game id="RJFPKM" en="Jillian Michaels' Fitness Ultimatum 2009" zhcn="吉利安麦克尔健身训练09[平衡板](欧)"/>
-	<Game id="RJFE5G" en="Jillian Michaels' Fitness Ultimatum 2009" zhcn="吉利安麦克尔健身训练09[平衡板](美)"/>
-	<Game id="SJJEA4" en="Jimmie Johnson's Anything With An Engine" zhcn="吉米约翰的超级引擎(美)"/>
+	<Game id="RJFE5G" en="Jillian Michaels' Fitness Ultimatum 2009" zhcn="Jillian Michaels的健身训练2009(美)" path="健身系列\Jillian Michaels的健身训练2009(美) [RJFE5G]"/>
+	<Game id="SJJEA4" en="Jimmie Johnson's Anything With An Engine" zhcn="吉米约翰的超级引擎(美)" path="donej\吉米约翰的超级引擎(美) [SJJEA4]"/>
 	<Game id="SJ5JDA" en="Jinsei Game Happy Family Gotouchi Neta Zouryou Shiage" zhcn="人生游戏 快乐家庭 当地题材增量版(日)"/>
 	<Game id="RJGJDA" en="Jinsei Game Wii" zhcn="人生游戏(日)"/>
 	<Game id="RXJJDA" en="Jinsei Game Wii EX" zhcn="人生游戏Wii EX(日)"/>
@@ -47,17 +47,17 @@
 	<Game id="RJOP99" en="Ju-On The Grudge" zhcn="恐怖体感 咒怨(欧)"/>
 	<Game id="RJOEXJ" en="Ju-on: The Grudge" zhcn="恐怖体感 咒怨(美)"/>
 	<Game id="SJKEPK" en="JumpStart Crazy Karts" zhcn="疯狂卡丁车(美)"/>
-	<Game id="SJEEPK" en="JumpStart Escape from Adventure Island" zhcn="开始行动 逃离冒险岛(美)"/>
-	<Game id="SJGEPK" en="JumpStart Get Moving Family Fitness" zhcn="开始行动 家庭健身[平衡板](美)"/>
-	<Game id="SJSEPK" en="JumpStart Pet Rescue" zhcn="宠物营救(美)"/>
-	<Game id="RJMERS" en="Jumper: Griffin's Story" zhcn="心灵传输者(美)"/>
+	<Game id="SJEEPK" en="JumpStart Escape from Adventure Island" zhcn="开始行动 逃离冒险岛(美)" path="donej\开始行动 逃离冒险岛(美) [SJEEPK]"/>
+	<Game id="SJGEPK" en="JumpStart Get Moving Family Fitness" zhcn="开始行动 家庭健身(美)" path="健身系列\开始行动 家庭健身(美) [SJGEPK]"/>
+	<Game id="SJSEPK" en="JumpStart Pet Rescue" zhcn="宠物营救(美)" path="donej\宠物营救(美) [SJSEPK]"/>
+	<Game id="RJMERS" en="Jumper: Griffin's Story" zhcn="心灵传输者(美)" path="donej\心灵传输者(美) [RJMERS]"/>
 	<Game id="RJMPRS" en="Jumper: Griffin's Story" zhcn="心灵传输者(欧)"/>
-	<Game id="SX2PNG" en="Jungle Kartz" zhcn="丛林赛车(欧)"/>
+	<Game id="SX2PNG" en="Jungle Kartz" zhcn="丛林赛车(欧)" path="done2\丛林赛车(欧) [SX2PNG]"/>
 	<Game id="SJFXGR" en="Junior Fitness Trainer" zhcn="幼儿健身教练(欧)"/>
-	<Game id="SJFPGR" en="Junior Fitness Trainer" zhcn="幼儿健身教练(欧)"/>
+	<Game id="SJFPGR" en="Junior Fitness Trainer" zhcn="幼儿健身教练(欧)" path="健身系列\幼儿健身教练(欧) [SJFPGR]"/>
 	<Game id="SJLPXT" en="Junior League Sports" zhcn="少年体育联赛(美)"/>
-	<Game id="SJLEFS" en="Junior League Sports" zhcn="少年体育联赛(美)"/>
-	<Game id="R8XE52" en="Jurassic: The Hunted" zhcn="侏罗纪 猎物(美)"/>
+	<Game id="SJLEFS" en="Junior League Sports" zhcn="少年体育联赛(美)" path="donej\少年体育联赛(美) [SJLEFS]"/>
+	<Game id="R8XE52" en="Jurassic: The Hunted" zhcn="侏罗纪 猎物(美)" path="donej\侏罗纪 猎物(美) [R8XE52]"/>
 	<Game id="SDNE41" en="Just Dance" zhcn="舞力全开(美)" path="舞力全开年度系列\舞力全开(美) [SDNE41]"/>
 	<Game id="SDNP41" en="Just Dance" zhcn="舞力全开(欧)"/>
 	<Game id="SD2E41" en="Just Dance 2" zhcn="舞力全开2(美)"/>
@@ -114,7 +114,7 @@
 	<Game id="FC2E41" en="Just Dance Focus 2" zhcn="舞力全开 Focus2"/>
 	<Game id="JF3E41" en="Just Dance Focus 3" zhcn="Just Dance Focus 3"/>
 	<Game id="GH2E41" en="Just Dance GH2" zhcn="舞力全开 GH2"/>
-	<Game id="SJHE41" en="Just Dance Greatest Hits" zhcn="舞力全开  精选集(美)"/>
+	<Game id="SJHE41" en="Just Dance Greatest Hits" zhcn="舞力全开 精选集(美)"/>
 	<Game id="SHIE41" en="Just Dance Hits" zhcn="舞力全开 Hits" path="舞力全开自制系列\舞力全开 Hits [SHIE41]"/>
 	<Game id="SH5E41" en="Just Dance Hyper" zhcn="舞力全开 Hyper"/>
 	<Game id="SV4E41" en="Just Dance Infinity Party" zhcn="舞力全开 Infinity Party"/>
@@ -139,7 +139,7 @@
 	<Game id="FURE41" en="Just Dance: Furry Party" zhcn="Just Dance: Furry Party"/>
 	<Game id="SGNE41" en="Just Dance: Generation" zhcn="舞力全开 Generation"/>
 	<Game id="SRNE41" en="Just Dance: Revolution" zhcn="舞力全开 Revolution"/>
-	<Game id="S5UE41" en="Just Dance: Unlimited Party (Old Revision)" zhcn="舞力全开 Unlimited Party初代"/>
+	<Game id="S5UE41" en="Just Dance: Unlimited Party" zhcn="舞力全开 Unlimited Party"/>
 	<Game id="SV1E41" en="Just Dance: Unlimited Party (Vol. 1)" zhcn="舞力全开 Unlimited Party1"/>
 	<Game id="SV2E41" en="Just Dance: Unlimited Party (Vol. 2)" zhcn="舞力全开 Unlimited Party2"/>
 </Game-List>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Game-List>
-	<Game id="RUEE4Q" en="G-Force" zhcn="豚鼠特工队(美)"/>
+	<Game id="RUEE4Q" en="G-Force" zhcn="豚鼠特工队(美)" path="done7\豚鼠特工队(美) [RUEE4Q]"/>
 	<Game id="RUEY4Q" en="G-Force" zhcn="豚鼠特攻队(欧)"/>
 	<Game id="RUEX4Q" en="G-Force" zhcn="豚鼠特工队(X)"/>
 	<Game id="RUER4Q" en="G-Force" zhcn="G-Force"/>
 	<Game id="RUEP4Q" en="G-Force" zhcn="豚鼠特工队(欧)"/>
-	<Game id="RIJE69" en="G.I. JOE: The Rise of Cobra" zhcn="特种部队 眼镜蛇危机(美)"/>
+	<Game id="RIJE69" en="G.I. JOE: The Rise of Cobra" zhcn="特种部队 眼镜蛇危机(美)" path="done7\特种部队 眼镜蛇危机(美) [RIJE69]"/>
 	<Game id="RIJP69" en="G.I. JOE: The Rise of Cobra" zhcn="特种部队 眼镜蛇危机(欧)"/>
 	<Game id="RGIPC8" en="G1 Jockey Wii" zhcn="G1骑师Wii(欧)"/>
 	<Game id="R8GPC8" en="G1 Jockey Wii 2008" zhcn="GI骑师联盟2008[平衡板][WiFi](欧)"/>
@@ -16,47 +16,47 @@
 	<Game id="CGHE98" en="GH3: Sweet Home Alabama" zhcn="自制 吉他英雄3 下载版(美)"/>
 	<Game id="CGHE92" en="GH3: The Blue Album" zhcn="自制 吉他英雄3 下载版(美)"/>
 	<Game id="CGHE91" en="GH3: The Red Album" zhcn="自制 吉他英雄3 下载版(美)"/>
-	<Game id="RGIJC8" en="GI Jockey Wii" zhcn="G1骑师Wii(日)"/>
-	<Game id="R8GJC8" en="GI Jockey Wii 2008" zhcn="GI骑师联盟2008[平衡板][WiFi](日)"/>
+	<Game id="RGIJC8" en="GI Jockey Wii" zhcn="G1骑师Wii(日)" path="done3\G1骑师Wii(日) [RGIJC8]"/>
+	<Game id="R8GJC8" en="GI Jockey Wii 2008" zhcn="GI骑师联盟2008(日)" path="平衡板游戏\GI骑师联盟2008(日) [R8GJC8]"/>
 	<Game id="SGPPNG" en="GP Classic Racing" zhcn="经典赛车大奖赛(欧)"/>
 	<Game id="RGTP41" en="GT Pro Series" zhcn="GT职业赛车(欧)"/>
-	<Game id="RGTE41" en="GT Pro Series" zhcn="GT职业赛车(美)"/>
+	<Game id="RGTE41" en="GT Pro Series" zhcn="GT职业赛车(美)" path="done4\GT职业赛车(美) [RGTE41]"/>
 	<Game id="RGTJBL" en="GT Pro Series" zhcn="GT职业赛车(日)"/>
 	<Game id="SGIPA4" en="GTI Club Supermini Festa!" zhcn="GTI汽车俱乐部 世界城市竞速(欧)"/>
-	<Game id="SGIEA4" en="GTI Club Supermini Festa!" zhcn="GTI汽车俱乐部 世界城市竞速(美)"/>
+	<Game id="SGIEA4" en="GTI Club Supermini Festa!" zhcn="GTI汽车俱乐部 世界城市竞速(美)" path="done3\GTI汽车俱乐部 世界城市竞速(美) [SGIEA4]"/>
 	<Game id="SGIJA4" en="GTI Club World City Race" zhcn="GTI汽车俱乐部 世界城市竞速(日)"/>
 	<Game id="SG6DSV" en="Galileo Family Quiz" zhcn="伽利略家庭测验(欧)"/>
 	<Game id="SGJDSV" en="Galileo Mystery: The Crown of Midas" zhcn="神秘伽利略米达斯王冠(德)"/>
-	<Game id="RL2E78" en="Gallop &amp; Ride!" zhcn="我的驯马场(美)"/>
+	<Game id="RL2E78" en="Gallop &amp; Ride!" zhcn="我的驯马场(美)" path="done7\我的驯马场(美) [RL2E78]"/>
 	<Game id="RGXP5D" en="Game Party" zhcn="游戏派对(欧)"/>
-	<Game id="RGXE5D" en="Game Party" zhcn="游戏派对(美)"/>
-	<Game id="RV2E5D" en="Game Party 2" zhcn="游戏派对2(美)"/>
-	<Game id="R3EEWR" en="Game Party 3" zhcn="游戏派对3(美)"/>
+	<Game id="RGXE5D" en="Game Party" zhcn="游戏派对(美)" path="done2\游戏派对(美) [RGXE5D]"/>
+	<Game id="RV2E5D" en="Game Party 2" zhcn="游戏派对2(美)" path="done2\游戏派对2(美) [RV2E5D]"/>
+	<Game id="R3EEWR" en="Game Party 3" zhcn="游戏派对3(美)" path="done2\游戏派对3(美) [R3EEWR]"/>
 	<Game id="R3EPWR" en="Game Party 3" zhcn="游戏派对3(欧)"/>
 	<Game id="SPIP18" en="Games Island" zhcn="家庭聚会100种(欧)"/>
 	<Game id="RGGJAF" en="Gegege no Kitarou: Youkai Daiundoukai" zhcn="GeGeGe的鬼太郎 妖怪大运动会(日)"/>
-	<Game id="SMKE4Z" en="Gem Smashers" zhcn="宝石方块也疯狂(美)"/>
+	<Game id="SMKE4Z" en="Gem Smashers" zhcn="宝石方块也疯狂(美)" path="done7\宝石方块也疯狂(美) [SMKE4Z]"/>
 	<Game id="SRXP52" en="Generator Rex: Agent of Providence" zhcn="变形小雷(欧)"/>
-	<Game id="SRXE52" en="Generator Rex: Agent of Providence" zhcn="变形小雷(美)"/>
+	<Game id="SRXE52" en="Generator Rex: Agent of Providence" zhcn="变形小雷(美)" path="done7\变形小雷(美) [SRXE52]"/>
 	<Game id="RTGJ18" en="Gensen Table Game Wii" zhcn="严选桌面游戏 Wii"/>
-	<Game id="RGLE7D" en="Geometry Wars: Galaxies" zhcn="几何战争 银河[WiFi](美)"/>
+	<Game id="RGLE7D" en="Geometry Wars: Galaxies" zhcn="几何战争 银河(美)" path="done7\几何战争 银河(美) [RGLE7D]"/>
 	<Game id="RGLP7D" en="Geometry Wars: Galaxies" zhcn="几何战争 银河[WiFi](欧)"/>
 	<Game id="RXGP6K" en="Geon Cube" zhcn="Geon Cube"/>
-	<Game id="RXGE6K" en="Geon Cube" zhcn="吉纶立方(美)"/>
-	<Game id="RGJE4Z" en="George of the Jungle: Search for the Secret" zhcn="森林泰山 探秘(美)"/>
+	<Game id="RXGE6K" en="Geon Cube" zhcn="吉纶立方(美)" path="done7\吉纶立方(美) [RXGE6K]"/>
+	<Game id="RGJE4Z" en="George of the Jungle: Search for the Secret" zhcn="森林泰山 探秘(美)" path="done7\森林泰山 探秘(美) [RGJE4Z]"/>
 	<Game id="RGJP7U" en="George of the Jungle: Search for the Secret" zhcn="森林泰山 探秘(欧)"/>
 	<Game id="RYLDSV" en="Germany's Next Top Model" zhcn="德国顶级模特(德)"/>
 	<Game id="SG3DSV" en="Germany's Next Top Model 2010" zhcn="德国顶级模特2010[平衡板](德)"/>
 	<Game id="SGQDSV" en="Germany's Next Top Model 2011" zhcn="德国顶级模特2011[平衡板](德)"/>
-	<Game id="SNGEJJ" en="Get Fit with Mel B" zhcn="和Mel B一起健身(美)"/>
+	<Game id="SNGEJJ" en="Get Fit with Mel B" zhcn="和Mel B一起健身(美)" path="健身系列\和Mel B一起健身(美) [SNGEJJ]"/>
 	<Game id="SNGPLG" en="Get Fit with Mel B" zhcn="跟Mel B一起减肥[MP][平衡板](欧)"/>
 	<Game id="SLCPGN" en="Get Up And Dance" zhcn="Get Up And Dance"/>
-	<Game id="SLCEGN" en="Get Up and Dance" zhcn="Get Up and Dance"/>
+	<Game id="SLCEGN" en="Get Up and Dance" zhcn="起舞吧(美)" path="舞力全开衍生系列和其他\起舞吧(美) [SLCEGN]"/>
 	<Game id="RGSP8P" en="Ghost Squad" zhcn="幽灵小队[WiFi](欧)"/>
 	<Game id="RGSJ8P" en="Ghost Squad" zhcn="幽灵小队(日或中)" path="光枪游戏\幽灵小队(中) [RGSJ8P]"/>
 	<Game id="RGSE8P" en="Ghost Squad" zhcn="幽灵小队[WiFi](美)"/>
 	<Game id="RGQP70" en="Ghostbusters: The Video Game" zhcn="捉鬼敢死队(欧)"/>
-	<Game id="RGQE70" en="Ghostbusters: The Video Game" zhcn="捉鬼敢死队(美)"/>
+	<Game id="RGQE70" en="Ghostbusters: The Video Game" zhcn="捉鬼敢死队(美)" path="done7\捉鬼敢死队(美) [RGQE70]"/>
 	<Game id="SMNJ65" en="Ghostly Super Ghost Boos Wii" zhcn="Ghostly Super Ghost Boos Wii"/>
 	<Game id="SMNP65" en="Ghostly Super Ghost Boos Wii" zhcn="Ghostly Super Ghost Boos Wii"/>
 	<Game id="SMNE65" en="Ghostly Super Ghost Boos Wii" zhcn="Ghostly Super Ghost Boos Wii"/>
@@ -64,70 +64,70 @@
 	<Game id="RHJJ13" en="Ginsei Table Games Wii" zhcn="银星桌面游戏(日)"/>
 	<Game id="RGNJAF" en="Gintama: Yorozuya Chuubu: Tsukkomable Douga" zhcn="银魂(日)"/>
 	<Game id="R9LP41" en="Girls Life: Sleepover Party" zhcn="女孩生活 通宵派对[平衡板](欧)"/>
-	<Game id="SGCE20" en="Glacier 2" zhcn="冰川赛车2(美)"/>
+	<Game id="SGCE20" en="Glacier 2" zhcn="冰川赛车2(美)" path="done7\冰川赛车2(美) [SGCE20]"/>
 	<Game id="S3GPXT" en="Glacier 3" zhcn="Glacier 3"/>
-	<Game id="S3GE20" en="Glacier 3: The Meltdown" zhcn="冰川赛车3(美)"/>
+	<Game id="S3GE20" en="Glacier 3: The Meltdown" zhcn="冰川赛车3(美)" path="done7\冰川赛车3(美) [S3GE20]"/>
 	<Game id="SMNE44" en="Go Go Mario" zhcn="Go Go Mario"/>
 	<Game id="SMNJ44" en="Go Go Mario" zhcn="Go Go Mario"/>
 	<Game id="SMNP44" en="Go Go Mario" zhcn="Go Go Mario"/>
-	<Game id="R3JE5G" en="Go Play Circus Star" zhcn="去玩吧马戏团明星[平衡板](美)"/>
-	<Game id="R68E5G" en="Go Play City Sports" zhcn="去玩吧 城市运动[平衡板](美)"/>
-	<Game id="RJXE5G" en="Go Play Lumberjacks" zhcn="去玩吧伐木工[平衡板](美)"/>
+	<Game id="R3JE5G" en="Go Play Circus Star" zhcn="去玩吧 马戏团明星(美)" path="平衡板游戏\去玩吧 马戏团明星(美) [R3JE5G]"/>
+	<Game id="R68E5G" en="Go Play City Sports" zhcn="去玩吧 城市运动(美)" path="平衡板游戏\去玩吧 城市运动(美) [R68E5G]"/>
+	<Game id="RJXE5G" en="Go Play Lumberjacks" zhcn="去玩吧 伐木工(美)" path="平衡板游戏\去玩吧 伐木工(美) [RJXE5G]"/>
 	<Game id="RJXXFR" en="Go Play Lumberjacks" zhcn="Go Play Lumberjacks"/>
 	<Game id="SGVPAF" en="Go Vacation" zhcn="欢乐假期(欧)"/>
 	<Game id="SGVJAF" en="Go Vacation" zhcn="欢乐假期(日)"/>
-	<Game id="SGVEAF" en="Go Vacation" zhcn="欢乐假期(美)"/>
+	<Game id="SGVEAF" en="Go Vacation" zhcn="欢乐假期(美)" path="done2\欢乐假期(美) [SGVEAF]"/>
 	<Game id="RLLP70" en="Go West: A Lucky Luke Adventure" zhcn="幸运的路克 独闯西部(欧)"/>
 	<Game id="RDMJ8N" en="Go! Go! Minon" zhcn="米侬向前冲(日)"/>
 	<Game id="RIGP54" en="Go, Diego, Go! Great Dinosaur Rescue" zhcn="迪亚哥 恐龙大拯救(欧)"/>
-	<Game id="RIGE54" en="Go, Diego, Go! Great Dinosaur Rescue" zhcn="迪亚哥 恐龙大拯救(美)"/>
+	<Game id="RIGE54" en="Go, Diego, Go! Great Dinosaur Rescue" zhcn="迪亚哥 恐龙大拯救(美)" path="done7\迪亚哥 恐龙大拯救(美) [RIGE54]"/>
 	<Game id="REQY54" en="Go, Diego, Go! Safari Rescue" zhcn="迪亚哥 徒步旅行救助队(欧)"/>
 	<Game id="REQP54" en="Go, Diego, Go! Safari Rescue" zhcn="迪亚哥 徒步旅行救助队(欧)"/>
-	<Game id="REQE54" en="Go, Diego, Go! Safari Rescue" zhcn="迪亚哥 徒步旅行救助队(美)"/>
+	<Game id="REQE54" en="Go, Diego, Go! Safari Rescue" zhcn="迪亚哥 徒步旅行救助队(美)" path="done7\迪亚哥 徒步旅行救助队(美) [REQE54]"/>
 	<Game id="REQX54" en="Go, Diego, Go! Safari Rescue" zhcn="迪亚哥 徒步旅行救助队(欧)"/>
-	<Game id="RGZE70" en="Godzilla Unleashed" zhcn="哥斯拉 能量释放(美)"/>
+	<Game id="RGZE70" en="Godzilla Unleashed" zhcn="哥斯拉 能量释放(美)" path="done7\哥斯拉 能量释放(美) [RGZE70]"/>
 	<Game id="RGZP70" en="Godzilla Unleashed" zhcn="哥斯拉 能量释放(欧)"/>
 	<Game id="REKU41" en="Gold's Gym: Cardio Workout" zhcn="金牌吉姆卡迪欧塑身[平衡板](英)"/>
-	<Game id="REKE41" en="Gold's Gym: Cardio Workout" zhcn="金牌吉姆卡迪欧塑身[平衡板](美)"/>
-	<Game id="SCWE41" en="Gold's Gym: Dance Workout" zhcn="金牌体育 舞蹈锻炼[平衡板](美)"/>
+	<Game id="REKE41" en="Gold's Gym: Cardio Workout" zhcn="金吉姆健身房 卡迪欧塑身(美)" path="健身系列\金吉姆健身房 卡迪欧塑身(美) [REKE41]"/>
+	<Game id="SCWE41" en="Gold's Gym: Dance Workout" zhcn="金吉姆健身房 舞蹈锻炼(美)" path="健身系列\金吉姆健身房 舞蹈锻炼(美) [SCWE41]"/>
 	<Game id="R6GPMR" en="Golden Balls" zhcn="黄金球(欧)"/>
-	<Game id="SJBE52" en="GoldenEye 007" zhcn="詹姆斯邦德007 黄金眼(美)"/>
+	<Game id="SJBE52" en="GoldenEye 007" zhcn="詹姆斯邦德007 黄金眼(美)" path="done5\詹姆斯邦德007 黄金眼(美) [SJBE52]"/>
 	<Game id="SJBJ01" en="GoldenEye 007" zhcn="007 黄金眼(日)"/>
 	<Game id="SJBP52" en="GoldenEye 007" zhcn="詹姆斯邦德007 黄金眼(欧)"/>
 	<Game id="RUGP5G" en="Goosebumps: HorrorLand" zhcn="鸡皮疙瘩恐怖乐园(欧)"/>
-	<Game id="RUGE7T" en="Goosebumps: HorrorLand" zhcn="鸡皮疙瘩恐怖乐园(美)"/>
-	<Game id="SGLEA4" en="Gormiti: The Lords of Nature!" zhcn="高米迪战士 自然之王(美)"/>
+	<Game id="RUGE7T" en="Goosebumps: HorrorLand" zhcn="鸡皮疙瘩恐怖乐园(美)" path="done7\鸡皮疙瘩恐怖乐园(美) [RUGE7T]"/>
+	<Game id="SGLEA4" en="Gormiti: The Lords of Nature!" zhcn="高米迪战士 自然之王(美)" path="done7\高米迪战士 自然之王(美) [SGLEA4]"/>
 	<Game id="SGLPA4" en="Gormiti: The Lords of Nature!" zhcn="高米迪战士 自然之王(欧)"/>
 	<Game id="RQSP6M" en="Gottlieb Pinball Classics" zhcn="经典弹珠台(欧)"/>
-	<Game id="R5TP69" en="Grand Slam Tennis" zhcn="大满贯网球[MP][WiFi](欧)"/>
-	<Game id="R5TJ13" en="Grand Slam Tennis" zhcn="大满贯网球[MP][WiFi](日)"/>
+	<Game id="R5TP69" en="Grand Slam Tennis" zhcn="大满贯网球(欧)" path="专项运动系列 乒乓球和网球\大满贯网球(欧) [R5TP69]"/>
+	<Game id="R5TJ13" en="Grand Slam Tennis" zhcn="大满贯网球(日)" path="专项运动系列 乒乓球和网球\大满贯网球(日) [R5TJ13]"/>
 	<Game id="R5TE69" en="Grand Slam Tennis" zhcn="大满贯网球[MP][WiFi](美)"/>
-	<Game id="SGREGT" en="Grease" zhcn="油脂劲歌热舞[平衡板](美)"/>
+	<Game id="SGREGT" en="Grease" zhcn="油脂劲歌热舞(美)" path="舞力全开衍生系列和其他\油脂劲歌热舞(美) [SGREGT]"/>
 	<Game id="SGRPGT" en="Grease" zhcn="油脂劲歌热舞[平衡板](欧)"/>
-	<Game id="SRRPGN" en="Great Party Games" zhcn="盛大聚会游戏[MP](欧)"/>
+	<Game id="SRRPGN" en="Great Party Games" zhcn="盛大聚会游戏(欧)" path="加速器游戏\盛大聚会游戏(欧) [SRRPGN]"/>
 	<Game id="R36P69" en="Green Day: Rock Band" zhcn="摇滚乐队 绿日乐队(欧)"/>
-	<Game id="R36E69" en="Green Day: Rock Band" zhcn="摇滚乐队 绿日乐队(美)"/>
+	<Game id="R36E69" en="Green Day: Rock Band" zhcn="摇滚乐队 绿日乐队(美)" path="done7\摇滚乐队 绿日乐队(美) [R36E69]"/>
 	<Game id="R3LPWR" en="Green Lantern: Rise of the Manhunters" zhcn="绿光战警 猎人的崛起(欧)"/>
-	<Game id="R3LEWR" en="Green Lantern: Rise of the Manhunters" zhcn="绿光战警 猎人的崛起(美)"/>
-	<Game id="SGBE5G" en="Greg Hastings Paintball 2" zhcn="极限漆球大赛2(美)"/>
+	<Game id="R3LEWR" en="Green Lantern: Rise of the Manhunters" zhcn="绿光战警 猎人的崛起(美)" path="done7\绿光战警 猎人的崛起(美) [R3LEWR]"/>
+	<Game id="SGBE5G" en="Greg Hastings Paintball 2" zhcn="极限漆球大赛2(美)" path="done7\极限漆球大赛2(美) [SGBE5G]"/>
 	<Game id="SGBPGT" en="Greg Hastings Paintball 2" zhcn="Greg Hastings Paintball 2"/>
-	<Game id="SG9EYC" en="Gremlins: Gizmo" zhcn="捣蛋鬼 小魔怪(美)"/>
+	<Game id="SG9EYC" en="Gremlins: Gizmo" zhcn="捣蛋鬼 小魔怪(美)" path="done7\捣蛋鬼 小魔怪(美) [SG9EYC]"/>
 	<Game id="RXLP41" en="Grey's Anatomy: The Video Game" zhcn="医生格蕾(欧)"/>
-	<Game id="RXLE41" en="Grey's Anatomy: The Video Game" zhcn="实习医生格蕾(美)"/>
-	<Game id="R9KE20" en="Groovin' Blocks" zhcn="律动方块(美)"/>
+	<Game id="RXLE41" en="Grey's Anatomy: The Video Game" zhcn="实习医生格蕾(美)" path="done7\实习医生格蕾(美) [RXLE41]"/>
+	<Game id="R9KE20" en="Groovin' Blocks" zhcn="律动方块(美)" path="done7\律动方块(美) [R9KE20]"/>
 	<Game id="RG2PGT" en="Guilty Gear XX Accent Core" zhcn="罪恶装备XX(欧)"/>
 	<Game id="RG2JJF" en="Guilty Gear XX Accent Core" zhcn="罪恶装备XX ΛCore(日)"/>
-	<Game id="RG2EXS" en="Guilty Gear XX Accent Core" zhcn="罪恶装备XX(美)"/>
+	<Game id="RG2EXS" en="Guilty Gear XX Accent Core" zhcn="罪恶装备XX(美)" path="done7\罪恶装备XX(美) [RG2EXS]"/>
 	<Game id="R3NPH3" en="Guilty Gear XX Accent Core Plus" zhcn="罪恶装备XXAC 加强版(欧)"/>
-	<Game id="R3NEXS" en="Guilty Gear XX Accent Core Plus" zhcn="罪恶装备XXAC 加强版(美)"/>
-	<Game id="RG5EWR" en="Guinness World Records: The Videogame" zhcn="吉尼斯世界纪录 电视游戏[WiFi](美)"/>
+	<Game id="R3NEXS" en="Guilty Gear XX Accent Core Plus" zhcn="罪恶装备XXAC 加强版(美)" path="done7\罪恶装备XXAC 加强版(美) [R3NEXS]"/>
+	<Game id="RG5EWR" en="Guinness World Records: The Videogame" zhcn="吉尼斯世界纪录 电视游戏(美)" path="done7\吉尼斯世界纪录 电视游戏(美) [RG5EWR]"/>
 	<Game id="RG5PWR" en="Guinness World Records: The Videogame" zhcn="吉尼斯世界纪录 电视游戏[WiFi](欧)"/>
 	<Game id="CGHE52" en="Guitar Hero 2K16 (Custom)" zhcn="Guitar Hero 2K16 (Custom)"/>
 	<Game id="RGHE18" en="Guitar Hero 2k18" zhcn="Guitar Hero 2k18"/>
 	<Game id="RLIL78" en="Guitar Hero 2nd Custom" zhcn="Guitar Hero 2nd Custom"/>
 	<Game id="ZXFP52" en="Guitar Hero 3 Encore" zhcn="自制 吉他英雄3 Encore(欧)"/>
 	<Game id="SXEP52" en="Guitar Hero 5" zhcn="吉他英雄5[WiFi](欧)"/>
-	<Game id="SXEE52" en="Guitar Hero 5" zhcn="吉他英雄5[WiFi](美)"/>
+	<Game id="SXEE52" en="Guitar Hero 5" zhcn="吉他英雄5(美)" path="乐队游戏 吉他英雄系列\吉他英雄5(美) [SXEE52]"/>
 	<Game id="CGVECD" en="Guitar Hero Aerosmith Custom : AC/DC Edition" zhcn="自制 吉他英雄 下载版(美)"/>
 	<Game id="CGVEMC" en="Guitar Hero Aerosmith Custom : Mini Concerts Edition" zhcn="自制 吉他英雄 下载版(美)"/>
 	<Game id="CGVEM2" en="Guitar Hero Aerosmith Custom : Mini Concerts Edition 2" zhcn="自制 吉他英雄 下载版(美)"/>
@@ -235,27 +235,27 @@
 	<Game id="RGHE60" en="Guitar Hero III Custom: WTF Custom" zhcn="自制 吉他英雄3 WTF Custom(美)"/>
 	<Game id="RGHJ52" en="Guitar Hero III Legends of Rock" zhcn="吉他英雄3 摇滚传奇[WiFi](日)"/>
 	<Game id="RGHP52" en="Guitar Hero III: Legends of Rock" zhcn="吉他英雄3 摇滚传奇[WiFi](欧)"/>
-	<Game id="RGHE52" en="Guitar Hero III: Legends of Rock" zhcn="吉他英雄3 摇滚传奇[WiFi](美)"/>
+	<Game id="RGHE52" en="Guitar Hero III: Legends of Rock" zhcn="吉他英雄3 摇滚传奇(美)" path="乐队游戏 吉他英雄系列\吉他英雄3 摇滚传奇(美) [RGHE52]"/>
 	<Game id="RL9ESD" en="Guitar Hero Linkin Park" zhcn="自制 吉他英雄 联合公园(美)"/>
 	<Game id="RG4E52" en="Guitar Hero Mayan Apocalypse" zhcn="Guitar Hero Mayan Apocalypse"/>
 	<Game id="RSXX78" en="Guitar Hero RadioHead" zhcn="Guitar Hero RadioHead"/>
 	<Game id="RGVP52" en="Guitar Hero: Aerosmith" zhcn="吉他英雄 空中铁匠乐队专辑[WiFi](欧)"/>
 	<Game id="RGVJ52" en="Guitar Hero: Aerosmith" zhcn="吉他英雄 空中铁匠乐队专辑[WiFi](日)"/>
-	<Game id="RGVE52" en="Guitar Hero: Aerosmith" zhcn="吉他英雄 空中铁匠乐队专辑[WiFi](美)"/>
+	<Game id="RGVE52" en="Guitar Hero: Aerosmith" zhcn="吉他英雄 空中铁匠乐队(美)" path="乐队游戏 吉他英雄系列\吉他英雄 空中铁匠乐队(美) [RGVE52]"/>
 	<Game id="SXCP52" en="Guitar Hero: Greatest Hits" zhcn="吉他英雄 流行精选[WiFi](欧)"/>
 	<Game id="SXBP52" en="Guitar Hero: Metallica" zhcn="吉他英雄 金属乐队专辑[WiFi](欧)"/>
-	<Game id="SXBE52" en="Guitar Hero: Metallica" zhcn="吉他英雄 金属乐队专辑[WiFi](美)"/>
-	<Game id="SXCE52" en="Guitar Hero: Smash Hits" zhcn="吉他英雄 流行精选[WiFi](美)"/>
+	<Game id="SXBE52" en="Guitar Hero: Metallica" zhcn="吉他英雄 金属乐队(美)" path="乐队游戏 吉他英雄系列\吉他英雄 金属乐队(美) [SXBE52]"/>
+	<Game id="SXCE52" en="Guitar Hero: Smash Hits" zhcn="吉他英雄 流行精选(美)" path="乐队游戏 吉他英雄系列\吉他英雄 流行精选(美) [SXCE52]"/>
 	<Game id="SXDP52" en="Guitar Hero: Van Halen" zhcn="吉他英雄 范海伦[WiFi](欧)"/>
-	<Game id="SXDE52" en="Guitar Hero: Van Halen" zhcn="吉他英雄 范海伦[WiFi](美)"/>
-	<Game id="SXIE52" en="Guitar Hero: Warriors of Rock" zhcn="吉他英雄6 摇滚战士[WiFi](美)"/>
+	<Game id="SXDE52" en="Guitar Hero: Van Halen" zhcn="吉他英雄 范海伦(美)" path="乐队游戏 吉他英雄系列\吉他英雄 范海伦(美) [SXDE52]"/>
+	<Game id="SXIE52" en="Guitar Hero: Warriors of Rock" zhcn="吉他英雄6 摇滚战士(美)" path="乐队游戏 吉他英雄系列\吉他英雄6 摇滚战士(美) [SXIE52]"/>
 	<Game id="SXIP52" en="Guitar Hero: Warriors of Rock" zhcn="吉他英雄6 摇滚战士[WiFi](欧)"/>
 	<Game id="SXAP52" en="Guitar Hero: World Tour" zhcn="吉他英雄 世界巡演[WiFi](欧)"/>
-	<Game id="SXAE52" en="Guitar Hero: World Tour" zhcn="吉他英雄 世界巡演[WiFi](美)"/>
+	<Game id="SXAE52" en="Guitar Hero: World Tour" zhcn="吉他英雄 世界巡演(美)" path="乐队游戏 吉他英雄系列\吉他英雄 世界巡演(美) [SXAE52]"/>
 	<Game id="SGYPNJ" en="Gummy Bears Mini Golf" zhcn="橡胶熊迷你高尔夫(欧)"/>
-	<Game id="SGYESZ" en="Gummy Bears Mini Golf" zhcn="橡胶熊迷你高尔夫[MP](美)"/>
-	<Game id="SA7ESZ" en="Gummy Bears: Magical Medallion" zhcn="橡皮糖熊的魔法勋章(美)"/>
-	<Game id="SQDE8P" en="Gunblade NY &amp; LA Machineguns: Arcade Hits Pack" zhcn="纽约风暴与洛杉矶机枪街机版[WiFi](美)"/>
+	<Game id="SGYESZ" en="Gummy Bears Mini Golf" zhcn="小熊软糖 迷你高尔夫(美)" path="done7\小熊软糖 迷你高尔夫(美) [SGYESZ]"/>
+	<Game id="SA7ESZ" en="Gummy Bears: Magical Medallion" zhcn="小熊软糖 魔法勋章(美)" path="done7\小熊软糖 魔法勋章(美) [SA7ESZ]"/>
+	<Game id="SQDE8P" en="Gunblade NY &amp; LA Machineguns: Arcade Hits Pack" zhcn="纽约风暴与洛杉矶机枪街机版(美)" path="街机系列\纽约风暴与洛杉矶机枪街机版(美) [SQDE8P]"/>
 	<Game id="SQDP8P" en="Gunblade NY &amp; LA Machineguns: Arcade Hits Pack" zhcn="纽约风暴与洛杉矶机枪街机版[WiFi](欧)"/>
-	<Game id="SW7EVN" en="Gunslingers" zhcn="西部英雄(美)"/>
+	<Game id="SW7EVN" en="Gunslingers" zhcn="西部英雄(美)" path="done7\西部英雄(美) [SW7EVN]"/>
 </Game-List>

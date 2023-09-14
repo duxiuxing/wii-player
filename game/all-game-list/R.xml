@@ -6,7 +6,7 @@
 	<Game id="SMNERV" en="RVLution Wii" zhcn="RVLution Wii"/>
 	<Game id="SMNJRV" en="RVLution Wii" zhcn="RVLution Wii"/>
 	<Game id="RGWJ41" en="Rabbids Go Home" zhcn="疯狂兔子 回家[WiFi](日)"/>
-	<Game id="RGWX41" en="Rabbids Go Home" zhcn="疯狂兔子 回家[WiFi](X)"/>
+	<Game id="RGWX41" en="Rabbids Go Home" zhcn="疯狂兔子 回家(X)" collection="疯狂兔子系列"/>
 	<Game id="RGWP41" en="Rabbids Go Home" zhcn="疯狂兔子 回家[WiFi](欧)"/>
 	<Game id="RGWE41" en="Rabbids Go Home" zhcn="疯狂兔子 回家[WiFi](美)"/>
 	<Game id="RRBJ41" en="Rabbids Party" zhcn="雷曼 疯狂兔子(日)"/>
@@ -14,13 +14,13 @@
 	<Game id="RY3J41" en="Rabbids Party: TV Party" zhcn="雷曼 疯狂兔子 电视聚会[平衡板](日)"/>
 	<Game id="SR4J41" en="Rabbids Party: Time Travel" zhcn="疯狂兔子：时光旅行[WiFi](日)"/>
 	<Game id="SRQP41" en="Racket Sports Party" zhcn="球拍运动[MP](欧)"/>
-	<Game id="SRQE41" en="Racquet Sports" zhcn="球拍运动[MP](美)"/>
+	<Game id="SRQE41" en="Racquet Sports" zhcn="球拍运动(美)" path="专项运动系列 乒乓球和网球\球拍运动(美) [SRQE41]"/>
 	<Game id="RGCPGT" en="Radio Helicopter" zhcn="遥控直升机Wii 飞行大冒险(欧)"/>
 	<Game id="SRAJMS" en="Radirgy Noa Wii" zhcn="电波少女诺亚Wii(日)"/>
 	<Game id="RB2J2K" en="Rainbow Pop" zhcn="彩虹泡泡(日或中)" path="中文游戏\彩虹泡泡(中) [RB2J2K]"/>
 	<Game id="SN3PNG" en="Rally Racer" zhcn="急速赛车 拉力赛(欧)"/>
 	<Game id="S5RESZ" en="Ram Racing" zhcn="Ram Racing"/>
-	<Game id="S5RPNJ" en="Ram Racing" zhcn="Ram Racing"/>
+	<Game id="S5RPNJ" en="Ram Racing" zhcn="拉姆赛车(欧)" path="done2\拉姆赛车(欧) [S5RPNJ]"/>
 	<Game id="RPGE5D" en="Rampage: Total Destruction" zhcn="怪兽大破坏(美)"/>
 	<Game id="RPGP5D" en="Rampage: Total Destruction" zhcn="怪兽大破坏(欧)"/>
 	<Game id="RMCERL" en="Random Laps" zhcn="Random Laps"/>
@@ -32,7 +32,7 @@
 	<Game id="RTBE52" en="Rapala Fishing Frenzy" zhcn="乐伯乐疯狂钓鱼(美)"/>
 	<Game id="SRFE52" en="Rapala Pro Bass Fishing" zhcn="乐伯乐职业钓鱼大赛(美)"/>
 	<Game id="SRFP52" en="Rapala Pro Bass Fishing" zhcn="乐伯乐职业钓鱼大赛(欧)"/>
-	<Game id="RPLE52" en="Rapala Tournament Fishing" zhcn="乐伯乐钓鱼巡回赛(美)"/>
+	<Game id="RPLE52" en="Rapala Tournament Fishing" zhcn="乐伯乐钓鱼巡回赛(美)" path="专项运动系列 钓鱼\乐伯乐钓鱼巡回赛(美) [RPLE52]"/>
 	<Game id="RPLP52" en="Rapala Tournament Fishing" zhcn="乐伯乐钓鱼巡回赛(欧)"/>
 	<Game id="ROJE52" en="Rapala: We Fish" zhcn="乐伯乐 大众钓鱼(美)"/>
 	<Game id="ROJP52" en="Rapala: We Fish" zhcn="乐伯乐 大众钓鱼(欧)"/>
@@ -45,17 +45,17 @@
 	<Game id="SR5P41" en="Raving Rabbids Party Collection" zhcn="雷曼 疯狂兔子 派对合集[WiFi][平衡板](欧)"/>
 	<Game id="SR5E41" en="Raving Rabbids Party Collection" zhcn="雷曼 疯狂兔子 派对合集[WiFi][平衡板](美)"/>
 	<Game id="SR4P41" en="Raving Rabbids: Travel in Time" zhcn="疯狂兔子 时空旅行[MP][WiFi](欧)"/>
-	<Game id="SR4E41" en="Raving Rabbids: Travel in Time" zhcn="疯狂兔子 时空旅行[MP][WiFi](美)"/>
+	<Game id="SR4E41" en="Raving Rabbids: Travel in Time" zhcn="疯狂兔子 时空旅行(美)" collection="疯狂兔子系列"/>
 	<Game id="RMCER4" en="Ray Kart Wii" zhcn="Ray Kart Wii"/>
 	<Game id="RY2K41" en="Rayman - Raving Rabbids 2" zhcn="雷曼 疯狂兔子2[WiFi](韩)"/>
 	<Game id="SOJP41" en="Rayman Origins" zhcn="雷曼 起源(欧)"/>
 	<Game id="SOJE41" en="Rayman Origins" zhcn="雷曼 起源(美)"/>
 	<Game id="RRBE41" en="Rayman Raving Rabbids" zhcn="雷曼 疯狂兔子(美)"/>
-	<Game id="RRBP41" en="Rayman Raving Rabbids" zhcn="雷曼 疯狂兔子(欧)"/>
-	<Game id="RY2P41" en="Rayman Raving Rabbids 2" zhcn="雷曼 疯狂兔子2[WiFi](欧)"/>
+	<Game id="RRBP41" en="Rayman Raving Rabbids" zhcn="疯狂兔子(欧)" collection="疯狂兔子系列"/>
+	<Game id="RY2P41" en="Rayman Raving Rabbids 2" zhcn="疯狂兔子2(欧)" collection="疯狂兔子系列"/>
 	<Game id="RY2E41" en="Rayman Raving Rabbids 2" zhcn="雷曼 疯狂兔子2[WiFi](美)"/>
 	<Game id="RY2R41" en="Rayman Raving Rabbids 2" zhcn="雷曼 疯狂兔子2[WiFi](俄)"/>
-	<Game id="RY3E41" en="Rayman Raving Rabbids TV Party" zhcn="雷曼 疯狂兔子 电视聚会[平衡板](美)"/>
+	<Game id="RY3E41" en="Rayman Raving Rabbids TV Party" zhcn="疯狂兔子 电视聚会(美)" collection="疯狂兔子系列"/>
 	<Game id="RY3P41" en="Rayman Raving Rabbids: TV Party" zhcn="雷曼 疯狂兔子 电视聚会[WiFi][平衡板](欧)"/>
 	<Game id="RY3K41" en="Rayman Raving Rabbids: TV Party" zhcn="雷曼 疯狂兔子 电视聚会[WiFi][平衡板](韩)"/>
 	<Game id="SR6EHG" en="Reader Rabbit 1st Grade" zhcn="兔宝宝系列 一年级(美)"/>
@@ -95,11 +95,11 @@
 	<Game id="SMNJZV" en="Release Super Mario Bros. Wii" zhcn="Release Super Mario Bros. Wii"/>
 	<Game id="RMCEW5" en="Releasio Kart Wee" zhcn="Releasio Kart Wee"/>
 	<Game id="STDURN" en="Reload" zhcn="Reload"/>
-	<Game id="STDEFP" en="Reload" zhcn="目标狙击(美)"/>
+	<Game id="STDEFP" en="Reload" zhcn="目标狙击(美)" path="done2\目标狙击(美) [STDEFP]"/>
 	<Game id="S2RPNK" en="Reload" zhcn="目标狙击(美)"/>
 	<Game id="SRKPNK" en="Remington Dangerous Animals" zhcn="Remington Dangerous Animals"/>
 	<Game id="SBHPNK" en="Remington Great American Bird Hunt" zhcn="雷明顿美洲猎鸟记(欧)"/>
-	<Game id="SBHEFP" en="Remington Great American Bird Hunt" zhcn="雷明顿美洲猎鸟记(美)"/>
+	<Game id="SBHEFP" en="Remington Great American Bird Hunt" zhcn="雷明顿美洲猎鸟记(美)" path="done2\雷明顿美洲猎鸟记(美) [SBHEFP]"/>
 	<Game id="SS7URN" en="Remington Super Slam Hunting: Africa" zhcn="雷明顿超级大满贯狩猎 非洲(英)"/>
 	<Game id="SS7EFP" en="Remington Super Slam Hunting: Africa" zhcn="雷明顿超级大满贯狩猎 非洲(美)"/>
 	<Game id="SRKEFP" en="Remington Super Slam Hunting: Alaska" zhcn="雷明顿超级大满贯狩猎 阿拉斯加(美)"/>
@@ -115,9 +115,9 @@
 	<Game id="RE4E08" en="Resident Evil Archives: Resident Evil" zhcn="生化危机 复刻版(美)"/>
 	<Game id="RBHP08" en="Resident Evil Archives: Resident Evil Zero" zhcn="生化危机0(欧)"/>
 	<Game id="RBHE08" en="Resident Evil Archives: Resident Evil Zero" zhcn="生化危机0(美)"/>
-	<Game id="SBDE08" en="Resident Evil: The Darkside Chronicles" zhcn="生化危机 暗黑历代记(美或中)" path="生化危机系列\生化危机 暗黑历代记(中) [SBDE08]"/>
+	<Game id="SBDE08" en="Resident Evil: The Darkside Chronicles" zhcn="生化危机 暗黑历代记(美或中)" collection="生化危机系列"/>
 	<Game id="SBDP08" en="Resident Evil: The Darkside Chronicles" zhcn="生化危机 暗黑历代记[WiFi](欧)"/>
-	<Game id="RBUE08" en="Resident Evil: The Umbrella Chronicles" zhcn="生化危机 安布雷拉编年史(美或中)" path="生化危机系列\生化危机 安布雷拉编年史(中) [RBUE08]"/>
+	<Game id="RBUE08" en="Resident Evil: The Umbrella Chronicles" zhcn="生化危机 安布雷拉编年史(美或中)" collection="生化危机系列"/>
 	<Game id="RBUP08" en="Resident Evil: The Umbrella Chronicles" zhcn="生化危机 安布雷拉编年史(欧)"/>
 	<Game id="SEUPEY" en="Retro City Rampage DX" zhcn="Retro City Rampage DX"/>
 	<Game id="SMNERE" en="Retro Mario Bros." zhcn="Retro Mario Bros."/>
@@ -162,7 +162,7 @@
 	<Game id="RVLPA4" en="Rock Revolution" zhcn="摇滚革命(欧)"/>
 	<Game id="RT3JEL" en="Rockstar Games Presents: Table Tennis" zhcn="Rockstar乒乓球(日)"/>
 	<Game id="RT3P54" en="Rockstar Games Presents: Table Tennis" zhcn="Rockstar乒乓球(欧)"/>
-	<Game id="RT3E54" en="Rockstar Games Presents: Table Tennis" zhcn="Rockstar乒乓球(美)"/>
+	<Game id="RT3E54" en="Rockstar Games Presents: Table Tennis" zhcn="Rockstar乒乓球(美)" path="专项运动系列 乒乓球和网球\Rockstar乒乓球(美) [RT3E54]"/>
 	<Game id="SROPNS" en="Rodea the Sky Soldier" zhcn="Rodea the Sky Soldier"/>
 	<Game id="SROENS" en="Rodea the Sky Soldier" zhcn="Rodea the Sky Soldier"/>
 	<Game id="RRYEHG" en="Rogue Trooper: Quartz Zone Massacre" zhcn="侠盗骑兵 石英地带大屠杀(美)"/>
