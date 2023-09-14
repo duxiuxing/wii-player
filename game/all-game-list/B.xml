@@ -28,21 +28,21 @@
 	<Game id="SXFE52" en="Band Hero" zhcn="乐团英雄(美)" path="乐队系列\乐团英雄(美) [SXFE52]"/>
 	<Game id="R96KAF" en="Baramui Klonoa - Door to Phantomile" zhcn="风之克罗诺亚 幻影之门(韩)"/>
 	<Game id="RRCP52" en="Barbie Horse Adventures: Riding Camp" zhcn="芭比小马冒险 骑术野营(欧)"/>
-	<Game id="RRCE52" en="Barbie Horse Adventures: Riding Camp" zhcn="芭比小马冒险 骑术野营(美)" path="芭比系列\芭比小马冒险 骑术野营(美) [RRCE52]"/>
+	<Game id="RRCE52" en="Barbie Horse Adventures: Riding Camp" zhcn="芭比小马冒险 骑术野营(美)" collection="芭比系列"/>
 	<Game id="S3EXVZ" en="Barbie Jet, Set &amp; Style!" zhcn="Barbie Jet, Set &amp; Style!"/>
-	<Game id="S3EE78" en="Barbie Jet, Set &amp; Style!" zhcn="芭比娃娃 时尚风格(美)" path="芭比系列\芭比娃娃 时尚风格(美) [S3EE78]"/>
+	<Game id="S3EE78" en="Barbie Jet, Set &amp; Style!" zhcn="芭比娃娃 时尚风格(美)" collection="芭比系列"/>
 	<Game id="S3EP78" en="Barbie Jet, Set &amp; Style!" zhcn="芭比娃娃 时尚风格(欧)"/>
 	<Game id="SVQPVZ" en="Barbie and Her Sisters: Puppy Rescue" zhcn="Barbie and Her Sisters: Puppy Rescue"/>
-	<Game id="SVQEVZ" en="Barbie and Her Sisters: Puppy Rescue" zhcn="芭比姐妹之狗狗救援队(美)" path="芭比系列\芭比姐妹之狗狗救援队(美) [SVQEVZ]"/>
+	<Game id="SVQEVZ" en="Barbie and Her Sisters: Puppy Rescue" zhcn="芭比姐妹之狗狗救援队(美)" collection="芭比系列"/>
 	<Game id="R23P52" en="Barbie and the Three Musketeers" zhcn="芭比与三个火枪手(欧)"/>
-	<Game id="R23E52" en="Barbie and the Three Musketeers" zhcn="芭比与三个火枪手(美)" path="芭比系列\芭比与三个火枪手(美) [R23E52]"/>
+	<Game id="R23E52" en="Barbie and the Three Musketeers" zhcn="芭比与三个火枪手(美)" collection="芭比系列"/>
 	<Game id="RBVP52" en="Barbie as The Island Princess" zhcn="芭比 森林公主(欧)"/>
-	<Game id="RBVE52" en="Barbie as The Island Princess" zhcn="芭比之森林公主(美)" path="芭比系列\芭比之森林公主(美) [RBVE52]"/>
-	<Game id="SNZEVZ" en="Barbie: Dreamhouse Party" zhcn="芭比梦幻屋派对(美)" path="芭比系列\芭比梦幻屋派对(美) [SNZEVZ]"/>
+	<Game id="RBVE52" en="Barbie as The Island Princess" zhcn="芭比之森林公主(美)" collection="芭比系列"/>
+	<Game id="SNZEVZ" en="Barbie: Dreamhouse Party" zhcn="芭比梦幻屋派对(美)" collection="芭比系列"/>
 	<Game id="SNZPVZ" en="Barbie: Dreamhouse Party" zhcn="Barbie: Dreamhouse Party"/>
 	<Game id="SB9YVZ" en="Barbie: Groom and Glam Pups" zhcn="Barbie: Groom and Glam Pups"/>
 	<Game id="SB9X78" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(美)"/>
-	<Game id="SB9E78" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(美)" path="芭比系列\芭比娃娃 照顾小狗(美) [SB9E78]"/>
+	<Game id="SB9E78" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(美)" collection="芭比系列"/>
 	<Game id="SB9EVZ" en="Barbie: Groom and Glam Pups" zhcn="Barbie: Groom and Glam Pups"/>
 	<Game id="SB9P78" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(欧)"/>
 	<Game id="RBYE78" en="Barnyard" zhcn="疯狂农庄(美)"/>
