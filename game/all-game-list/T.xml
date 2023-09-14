@@ -124,10 +124,10 @@
 	<Game id="RHCE52" en="The History Channel: Battle for the Pacific" zhcn="历史频道 太平洋战争(美)"/>
 	<Game id="RHD222" en="The House of the Dead 2" zhcn="自制 死亡之屋2(自)"/>
 	<Game id="RHDP8P" en="The House of the Dead 2 &amp; 3 Return" zhcn="死亡之屋2+3(欧)"/>
-	<Game id="RHDJ8P" en="The House of the Dead 2 &amp; 3 Return" zhcn="死亡之屋2+3(日)" path="光枪游戏\死亡之屋2+3(日) [RHDJ8P]"/>
+	<Game id="RHDJ8P" en="The House of the Dead 2 &amp; 3 Return" zhcn="死亡之屋2+3(日)" collection="光枪游戏"/>
 	<Game id="RHDE8P" en="The House of the Dead 2 &amp; 3 Return" zhcn="死亡之屋2+3(美)"/>
 	<Game id="RHD333" en="The House of the Dead 3" zhcn="自制 死亡之屋3(自)"/>
-	<Game id="RHOE8P" en="The House of the Dead: Overkill" zhcn="死亡之屋 过度杀戮(美)" path="光枪游戏\死亡之屋 过度杀戮(美) [RHOE8P]"/>
+	<Game id="RHOE8P" en="The House of the Dead: Overkill" zhcn="死亡之屋 过度杀戮(美)" collection="光枪游戏"/>
 	<Game id="RHOJ8P" en="The House of the Dead: Overkill" zhcn="死亡之屋 过度杀戮(日)"/>
 	<Game id="RHOP8P" en="The House of the Dead: Overkill" zhcn="死亡之屋 过度杀戮(欧)"/>
 	<Game id="RIHE8P" en="The Incredible Hulk" zhcn="无敌绿巨人(美)"/>
@@ -365,7 +365,7 @@
 	<Game id="SMNE48" en="True Mario Bros." zhcn="True Mario Bros."/>
 	<Game id="STLP78" en="Truth or Lies" zhcn="真实或谎言(欧)"/>
 	<Game id="STLE78" en="Truth or Lies" zhcn="真实或谎言(美)"/>
-	<Game id="R2VJ01" en="Tsumi to Batsu: Sora no Koukeisha" zhcn="罪与罚 宇宙的后继者(日或中)" path="光枪游戏\罪与罚 宇宙的后继者(中) [R2VJ01]"/>
+	<Game id="R2VJ01" en="Tsumi to Batsu: Sora no Koukeisha" zhcn="罪与罚 宇宙的后继者(日或中)" collection="光枪游戏"/>
 	<Game id="STUPRN" en="Turbo Trainz" zhcn="Turbo Trainz"/>
 	<Game id="SOSEG9" en="Turbo: Super Stunt Squad" zhcn="极速蜗牛 超级特技队(美)"/>
 	<Game id="SOSPAF" en="Turbo: Super Stunt Squad" zhcn="Turbo: Super Stunt Squad"/>

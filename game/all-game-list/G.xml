@@ -53,7 +53,7 @@
 	<Game id="SLCPGN" en="Get Up And Dance" zhcn="Get Up And Dance"/>
 	<Game id="SLCEGN" en="Get Up and Dance" zhcn="起舞吧(美)" path="舞力全开衍生系列和其他\起舞吧(美) [SLCEGN]"/>
 	<Game id="RGSP8P" en="Ghost Squad" zhcn="幽灵小队[WiFi](欧)"/>
-	<Game id="RGSJ8P" en="Ghost Squad" zhcn="幽灵小队(日或中)" path="光枪游戏\幽灵小队(中) [RGSJ8P]"/>
+	<Game id="RGSJ8P" en="Ghost Squad" zhcn="幽灵小队(日或中)" collection="光枪游戏"/>
 	<Game id="RGSE8P" en="Ghost Squad" zhcn="幽灵小队[WiFi](美)"/>
 	<Game id="RGQP70" en="Ghostbusters: The Video Game" zhcn="捉鬼敢死队(欧)"/>
 	<Game id="RGQE70" en="Ghostbusters: The Video Game" zhcn="捉鬼敢死队(美)" path="done7\捉鬼敢死队(美) [RGQE70]"/>

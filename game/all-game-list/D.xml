@@ -128,7 +128,7 @@
 	<Game id="SUPE02" en="Dii Party" zhcn="Dii Party"/>
 	<Game id="RHAE03" en="Dii Play" zhcn="Dii Play"/>
 	<Game id="RSPE04" en="Dii Sports" zhcn="Dii Sports"/>
-	<Game id="SJUE20" en="Dino Strike" zhcn="恐龙快打(美)" path="光枪游戏\恐龙快打(美) [SJUE20]"/>
+	<Game id="SJUE20" en="Dino Strike" zhcn="恐龙快打(美)" collection="光枪游戏"/>
 	<Game id="SJUPXT" en="Dino Strike" zhcn="恐龙快打(美)"/>
 	<Game id="RDZP01" en="Disaster: Day of Crisis" zhcn="天灾 危机之日(欧)"/>
 	<Game id="RDZJ01" en="Disaster: Day of Crisis" zhcn="天灾 危机之日(日或中)" collection="中文游戏"/>
