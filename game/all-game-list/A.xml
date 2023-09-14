@@ -119,9 +119,9 @@
 	<Game id="R9XE52" en="Arcade Zone" zhcn="街机地带(美)" path="街机系列\街机地带(美) [R9XE52]"/>
 	<Game id="RT2P7J" en="Arctic Tale" zhcn="极地熊宝贝(欧)"/>
 	<Game id="RT2E20" en="Arctic Tale" zhcn="极地熊宝贝(美)" path="done3\极地熊宝贝(美) [RT2E20]"/>
-	<Game id="SA5E78" en="Are You Smarter Than A 5th Grader? Back to School" zhcn="你比五年级生聪明吗3(美)" path="影视动漫系列 电视节目\你比五年级生聪明吗3(美) [SA5E78]"/>
-	<Game id="R9HE78" en="Are You Smarter Than A 5th Grader? Game Time" zhcn="你比五年级生聪明吗2(美)" path="影视动漫系列 电视节目\你比五年级生聪明吗2(美) [R9HE78]"/>
-	<Game id="R5GE78" en="Are You Smarter Than A 5th Grader? Make the Grade" zhcn="你比五年级生聪明吗(美)" path="影视动漫系列 电视节目\你比五年级生聪明吗(美) [R5GE78]"/>
+	<Game id="SA5E78" en="Are You Smarter Than A 5th Grader? Back to School" zhcn="你比五年级生聪明吗3(美)" collection="影视IP游戏 电视节目"/>
+	<Game id="R9HE78" en="Are You Smarter Than A 5th Grader? Game Time" zhcn="你比五年级生聪明吗2(美)" collection="影视IP游戏 电视节目"/>
+	<Game id="R5GE78" en="Are You Smarter Than A 5th Grader? Make the Grade" zhcn="你比五年级生聪明吗(美)" collection="影视IP游戏 电视节目"/>
 	<Game id="RYGJ9B" en="Argos no Senshi: Muscle Impact" zhcn="阿尔戈斯战士 筋肉冲击(日)"/>
 	<Game id="RKYP7J" en="Army Men: Soldiers of Misfortune" zhcn="玩具军人 倒霉战士(欧)"/>
 	<Game id="RKYE20" en="Army Men: Soldiers of Misfortune" zhcn="玩具军人 倒霉战士(美)" path="done3\玩具军人 倒霉战士(美) [RKYE20]"/>

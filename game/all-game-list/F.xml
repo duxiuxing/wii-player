@@ -47,9 +47,9 @@
 	<Game id="RFQP69" en="FaceBreaker: K.O. Party" zhcn="破相拳击(欧)" path="专项运动系列\破相拳击(欧) [RFQP69]"/>
 	<Game id="RMCEFC" en="Falco's Texture Pack" zhcn="Falco's Texture Pack"/>
 	<Game id="RR3JA4" en="Family Challenge Wii" zhcn="全家挑战(日)"/>
-	<Game id="R6EE41" en="Family Feud 2010 Edition" zhcn="家庭问答2010(美)" path="影视动漫系列 电视节目\家庭问答2010(美) [R6EE41]"/>
-	<Game id="SF7E41" en="Family Feud 2012 Edition" zhcn="家庭问答2012(美)" path="影视动漫系列 电视节目\家庭问答2012(美) [SF7E41]"/>
-	<Game id="SFAE41" en="Family Feud Decades" zhcn="家庭问答2011(美)" path="影视动漫系列 电视节目\家庭问答2011(美) [SFAE41]"/>
+	<Game id="R6EE41" en="Family Feud 2010 Edition" zhcn="家庭问答2010(美)" collection="影视IP游戏 电视节目"/>
+	<Game id="SF7E41" en="Family Feud 2012 Edition" zhcn="家庭问答2012(美)" collection="影视IP游戏 电视节目"/>
+	<Game id="SFAE41" en="Family Feud Decades" zhcn="家庭问答2011(美)" collection="影视IP游戏 电视节目"/>
 	<Game id="S22JAF" en="Family Fishing" zhcn="家庭钓鱼(日)"/>
 	<Game id="S22K01" en="Family Fishing" zhcn="Family Fishing"/>
 	<Game id="R9NPMR" en="Family Fortunes" zhcn="家族财富(欧)" path="done6\家族财富(欧) [R9NPMR]"/>

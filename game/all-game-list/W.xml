@@ -322,10 +322,10 @@
 	<Game id="RUCE5Z" en="Winter Sports: The Ultimate Challenge" zhcn="冬季运动会 终极挑战 2008(美)"/>
 	<Game id="SW3PKM" en="Winter Stars" zhcn="冬季滑雪明星(欧)"/>
 	<Game id="SW3EJJ" en="Winter Stars" zhcn="冬季滑雪明星(美)"/>
-	<Game id="SW2E52" en="Wipeout 2" zhcn="勇敢向前冲2(美)" path="影视动漫系列 电视节目\勇敢向前冲2(美) [SW2E52]"/>
-	<Game id="SSVE52" en="Wipeout 3" zhcn="勇敢向前冲3(美)" path="影视动漫系列 电视节目\勇敢向前冲3(美) [SSVE52]"/>
-	<Game id="S2YE52" en="Wipeout: Create &amp; Crash" zhcn="勇敢向前冲4(美)" path="影视动漫系列 电视节目\勇敢向前冲4(美) [S2YE52]"/>
-	<Game id="SOTE52" en="Wipeout: The Game" zhcn="勇敢向前冲(美)" path="影视动漫系列 电视节目\勇敢向前冲(美) [SOTE52]"/>
+	<Game id="SW2E52" en="Wipeout 2" zhcn="勇敢向前冲2(美)" collection="影视IP游戏 电视节目"/>
+	<Game id="SSVE52" en="Wipeout 3" zhcn="勇敢向前冲3(美)" collection="影视IP游戏 电视节目"/>
+	<Game id="S2YE52" en="Wipeout: Create &amp; Crash" zhcn="勇敢向前冲4(美)" collection="影视IP游戏 电视节目"/>
+	<Game id="SOTE52" en="Wipeout: The Game" zhcn="勇敢向前冲(美)" collection="影视IP游戏 电视节目"/>
 	<Game id="RWZX5G" en="Wonder World Amusement Park" zhcn="奇迹世界游乐园(X)"/>
 	<Game id="RWZP5G" en="Wonder World Amusement Park" zhcn="奇迹世界游乐园(欧)"/>
 	<Game id="RWZE5G" en="Wonder World Amusement Park" zhcn="奇迹世界游乐园(美)"/>
