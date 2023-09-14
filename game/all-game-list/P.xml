@@ -97,7 +97,7 @@
 	<Game id="S2LJ01" en="PokéPark 2: Beyond the World" zhcn="神奇宝贝乐园 2(日)"/>
 	<Game id="S2LP01" en="PokéPark 2: Wonders Beyond" zhcn="神奇宝贝乐园 2(欧)"/>
 	<Game id="S2LE01" en="PokéPark 2: Wonders Beyond" zhcn="宝可梦公园2 在世界的彼端(美)" path="done2\宝可梦公园2 在世界的彼端(美) [S2LE01]"/>
-	<Game id="R8AJ01" en="PokéPark Wii: Pikachu no Daibouken" zhcn="宝可梦公园Wii 皮卡丘的大冒险(日或中)" path="中文游戏\宝可梦公园Wii 皮卡丘的大冒险(中) [R8AJ01]"/>
+	<Game id="R8AJ01" en="PokéPark Wii: Pikachu no Daibouken" zhcn="宝可梦公园Wii 皮卡丘的大冒险(日或中)" collection="中文游戏"/>
 	<Game id="R8AP01" en="PokéPark Wii: Pikachu's Adventure" zhcn="口袋乐园 皮卡丘历险记(欧)"/>
 	<Game id="R8AE01" en="PokéPark Wii: Pikachu's Adventure" zhcn="口袋妖怪乐园 皮卡丘大冒险(美)"/>
 	<Game id="RPBE01" en="Pokémon Battle Revolution" zhcn="口袋妖怪 战斗革命(美)" path="done2\口袋妖怪 战斗革命(美) [RPBE01]"/>

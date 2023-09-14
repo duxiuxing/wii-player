@@ -176,7 +176,7 @@
 	<Game id="SCEE6K" en="Chuck E. Cheese's Party Games" zhcn="查克奶酪的派对游戏(美)" path="查克奶酪系列\查克奶酪的派对游戏(美) [SCEE6K]"/>
 	<Game id="SCKE6K" en="Chuck E. Cheese's Sports Games" zhcn="查克奶酪的运动游戏(美)" path="查克奶酪系列\查克奶酪的运动游戏(美) [SCKE6K]"/>
 	<Game id="SATE6K" en="Chuck E. Cheese's Super Collection" zhcn="查克奶酪的超级收藏(美)" path="查克奶酪系列\查克奶酪的超级收藏(美) [SATE6K]"/>
-	<Game id="RODK01" en="Chumchwora Made in Wario" zhcn="瓦里奥制造 手舞足蹈(韩或中)" path="中文游戏\瓦里奥制造 手舞足蹈(中) [RODK01]"/>
+	<Game id="RODK01" en="Chumchwora Made in Wario" zhcn="瓦里奥制造 手舞足蹈(韩或中)" collection="中文游戏"/>
 	<Game id="R5QPGT" en="Circus" zhcn="马戏团游戏(欧)"/>
 	<Game id="RQKE41" en="Circus Games" zhcn="马戏团游戏(美)"/>
 	<Game id="RG7EQH" en="City Builder" zhcn="城市建设者(美)" path="done\城市建设者(美) [RG7EQH]"/>
@@ -248,7 +248,7 @@
 	<Game id="RHVE5Z" en="Crazy Chicken Tales" zhcn="疯狂小鸡传说(美)" path="done\疯狂小鸡传说(美) [RHVE5Z]"/>
 	<Game id="RHVPFR" en="Crazy Chicken Tales" zhcn="疯狂小鸡传说(欧)"/>
 	<Game id="SCUPFR" en="Crazy Chicken: Carnival" zhcn="疯狂小鸡嘉年华派对(欧)"/>
-	<Game id="RQ2JK6" en="Crazy Climber Wii" zhcn="疯狂攀登者Wii(日或中)" path="中文游戏\疯狂攀登者Wii(中) [RQ2JK6]"/>
+	<Game id="RQ2JK6" en="Crazy Climber Wii" zhcn="疯狂攀登者Wii(日或中)" collection="中文游戏"/>
 	<Game id="SCZEMH" en="Crazy Machines" zhcn="疯狂机器(美)" path="done\疯狂机器(美) [SCZEMH]"/>
 	<Game id="SCZPFR" en="Crazy Machines" zhcn="疯狂机器(欧)"/>
 	<Game id="SG2PUG" en="Crazy Mini Golf 2" zhcn="Crazy Mini Golf 2"/>

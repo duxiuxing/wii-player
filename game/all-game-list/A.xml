@@ -94,7 +94,7 @@
 	<Game id="R82E52" en="Animal Planet: Vet Life" zhcn="动物星球 兽医(美)" path="done3\动物星球 兽医(美) [R82E52]"/>
 	<Game id="R82P52" en="Animal Planet: Vet Life" zhcn="动物星球 兽医(欧)"/>
 	<Game id="RGPJAF" en="Anime Slot Revolution: Pachi-Slot Kidou Senshi Gundam II: Ai Senshi-hen" zhcn="机动战士高达2 哀.战士篇(日)"/>
-	<Game id="RNOJ01" en="Another Code R Kioku no Tobira" zhcn="异色代码 R 记忆之门(日或中)" path="中文游戏\异色代码 R 记忆之门(中) [RNOJ01]"/>
+	<Game id="RNOJ01" en="Another Code R Kioku no Tobira" zhcn="异色代码 R 记忆之门(日或中)" collection="中文游戏"/>
 	<Game id="RNOP01" en="Another Code: R - A Journey into Lost Memories" zhcn="异色代码 R 记忆之门(欧)"/>
 	<Game id="AMNE01" en="Another Super Mario Bros. Wii" zhcn="自制 另一个超级马里奥兄弟Wii(美)"/>
 	<Game id="ASMB01" en="Another Super Mario Bros. Wii" zhcn="另一版的超级马里奥兄弟Wii"/>

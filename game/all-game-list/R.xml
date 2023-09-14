@@ -17,7 +17,7 @@
 	<Game id="SRQE41" en="Racquet Sports" zhcn="球拍运动(美)" path="专项运动系列 乒乓球和网球\球拍运动(美) [SRQE41]"/>
 	<Game id="RGCPGT" en="Radio Helicopter" zhcn="遥控直升机Wii 飞行大冒险(欧)"/>
 	<Game id="SRAJMS" en="Radirgy Noa Wii" zhcn="电波少女诺亚Wii(日)"/>
-	<Game id="RB2J2K" en="Rainbow Pop" zhcn="彩虹泡泡(日或中)" path="中文游戏\彩虹泡泡(中) [RB2J2K]"/>
+	<Game id="RB2J2K" en="Rainbow Pop" zhcn="彩虹泡泡(日或中)" collection="中文游戏"/>
 	<Game id="SN3PNG" en="Rally Racer" zhcn="急速赛车 拉力赛(欧)"/>
 	<Game id="S5RESZ" en="Ram Racing" zhcn="Ram Racing"/>
 	<Game id="S5RPNJ" en="Ram Racing" zhcn="拉姆赛车(欧)" path="done2\拉姆赛车(欧) [S5RPNJ]"/>

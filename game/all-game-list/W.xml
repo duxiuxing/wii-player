@@ -37,7 +37,7 @@
 	<Game id="RRSJ4Q" en="Walt Disney Pictures Presents Lewis to Mirai Dorobou: Wilbur no Kiken na Jikan Ryokou" zhcn="迪斯尼 拜访鲁滨逊一家(日)"/>
 	<Game id="RMCEW8" en="Waluigi Kart Wii" zhcn="Waluigi Kart Wii"/>
 	<Game id="RDOJ41" en="Wanko to Mahou no Boushi" zhcn="模拟宠物狗2(日)"/>
-	<Game id="RWLJ01" en="Wario Land Shake" zhcn="瓦里奥大陆 摇晃(日或中)" path="中文游戏\瓦里奥大陆 摇晃(中) [RWLJ01]"/>
+	<Game id="RWLJ01" en="Wario Land Shake" zhcn="瓦里奥大陆 摇晃(日或中)" collection="中文游戏"/>
 	<Game id="RWLK01" en="Wario Land Shaking" zhcn="瓦里奥大陆 摇动(韩)"/>
 	<Game id="RWLE01" en="Wario Land: Shake It!" zhcn="瓦里奥大陆 摇动(美)" path="done2\瓦里奥大陆 摇动(美) [RWLE01]"/>
 	<Game id="RWLP01" en="Wario Land: The Shake Dimension" zhcn="瓦里奥大陆 摇动(欧)"/>
@@ -122,10 +122,10 @@
 	<Game id="MDIE05" en="Wii Music: RiiArranged - Song Pack 5" zhcn="Wii Music: RiiArranged - Song Pack 5"/>
 	<Game id="SUPE01" en="Wii Party" zhcn="Wii欢乐聚会(美)"/>
 	<Game id="SUPP01" en="Wii Party" zhcn="Wii欢乐聚会(欧)"/>
-	<Game id="SUPJ01" en="Wii Party" zhcn="Wii派对(日或中)" path="中文游戏\Wii派对(中) [SUPJ01]"/>
+	<Game id="SUPJ01" en="Wii Party" zhcn="Wii派对(日或中)" collection="中文游戏"/>
 	<Game id="SUPK01" en="Wii Party" zhcn="Wii欢乐聚会(韩)"/>
 	<Game id="RHAP01" en="Wii Play" zhcn="Wii第一次接触(欧)"/>
-	<Game id="RHAW01" en="Wii Play" zhcn="Wii第一次接触(中)" path="中文游戏\Wii第一次接触(中) [RHAW01]"/>
+	<Game id="RHAW01" en="Wii Play" zhcn="Wii第一次接触(中)" collection="中文游戏"/>
 	<Game id="RHAE01" en="Wii Play" zhcn="Wii第一次接触(美)"/>
 	<Game id="SC8E01" en="Wii Play: Motion" zhcn="Wii遥控器Plus 动感欢乐组合[MP](美)"/>
 	<Game id="SC8P01" en="Wii Play: Motion" zhcn="Wii遥控器Plus 动感欢乐组合[MP](欧)"/>

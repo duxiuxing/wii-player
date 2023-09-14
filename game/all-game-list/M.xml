@@ -200,7 +200,7 @@
 	<Game id="SSQK01" en="Mario Party 9" zhcn="Mario Party 9"/>
 	<Game id="SSQJ01" en="Mario Party 9" zhcn="马力欧派对9(日)"/>
 	<Game id="SSQE01" en="Mario Party 9" zhcn="马力欧派对9(美)"/>
-	<Game id="SSQW01" en="Mario Party 9" zhcn="马里奥派对9(中)" path="中文游戏\马里奥派对9(中) [SSQW01]"/>
+	<Game id="SSQW01" en="Mario Party 9" zhcn="马里奥派对9(中)" collection="中文游戏"/>
 	<Game id="SSQP01" en="Mario Party 9" zhcn="马里奥派对9(欧)"/>
 	<Game id="SSQE05" en="Mario Party 9 Repainted" zhcn="Mario Party 9 Repainted"/>
 	<Game id="SSQE03" en="Mario Party Project Hudson" zhcn="Mario Party Project Hudson"/>
@@ -264,7 +264,7 @@
 	<Game id="RM2E69" en="Medal of Honor: Heroes 2" zhcn="荣誉勋章 英雄2(美)" path="donem\荣誉勋章 英雄2(美) [RM2E69]"/>
 	<Game id="RMVX69" en="Medal of Honor: Vanguard" zhcn="荣誉勋章 先遣部队(X)"/>
 	<Game id="RMVP69" en="Medal of Honor: Vanguard" zhcn="荣誉勋章 先遣部队(欧)"/>
-	<Game id="RMVE69" en="Medal of Honor: Vanguard" zhcn="荣誉勋章 先遣部队(美或中)" path="中文游戏\荣誉勋章 先遣部队(中) [RMVE69]"/>
+	<Game id="RMVE69" en="Medal of Honor: Vanguard" zhcn="荣誉勋章 先遣部队(美或中)" collection="中文游戏"/>
 	<Game id="R2OE68" en="Medieval Games" zhcn="中世纪游戏(美)" path="donem\中世纪游戏(美) [R2OE68]"/>
 	<Game id="R2OP68" en="Medieval Games" zhcn="中世纪游戏(欧)"/>
 	<Game id="RRSP4Q" en="Meet The Robinsons" zhcn="迪斯尼 拜访鲁滨逊一家(欧)"/>
@@ -274,7 +274,7 @@
 	<Game id="SMGE78" en="Megamind: Mega Team Unite" zhcn="超级大坏蛋(美)" path="donem\超级大坏蛋(美) [SMGE78]"/>
 	<Game id="SD8DSV" en="Mein neues Leben Abenteuer auf Tropicana" zhcn="Mein neues Leben Abenteuer auf Tropicana"/>
 	<Game id="RCOJ99" en="Meitantei Conan: Tsuioku no Mirage" zhcn="名侦探柯南 追忆的幻想(日)"/>
-	<Game id="RCOC99" en="Meitantei Conan: Tsuioku no Mirage" zhcn="名侦探柯南 追忆的幻想(中)" path="中文游戏\名侦探柯南 追忆的幻想(中) [RCOC99]"/>
+	<Game id="RCOC99" en="Meitantei Conan: Tsuioku no Mirage" zhcn="名侦探柯南 追忆的幻想(中)" collection="中文游戏"/>
 	<Game id="RX7JGD" en="Meja-maji March" zhcn="梅吉玛吉演奏比赛(日)"/>
 	<Game id="R64E05" en="Melodii" zhcn="Melodii"/>
 	<Game id="S3ZE52" en="Men In Black: Alien Crisis" zhcn="MIB黑衣人3(美)" path="donem\MIB黑衣人3(美) [S3ZE52]"/>
@@ -334,7 +334,7 @@
 	<Game id="S2AJAF" en="Minna de Bouken! Family Trainer" zhcn="运动生活 探险家(日)"/>
 	<Game id="D2AJAF" en="Minna de Bouken! Family Trainer (Demo)" zhcn="运动生活 探险家 试玩版(日)"/>
 	<Game id="RJTJ01" en="Minna no Joushiki Ryoku TV" zhcn="大家的常识力(日)"/>
-	<Game id="SOMJ01" en="Minna no Rhythm Tengoku" zhcn="大家的节奏天国(日或中)" path="中文游戏\大家的节奏天国(中) [SOMJ01]"/>
+	<Game id="SOMJ01" en="Minna no Rhythm Tengoku" zhcn="大家的节奏天国(日或中)" collection="中文游戏"/>
 	<Game id="RDMPHZ" en="Minon: Everyday Hero" zhcn="每日英雄 米侬(欧)"/>
 	<Game id="SMYE20" en="Minute to Win It" zhcn="分秒必争(美)" path="影视动漫系列 电视节目\分秒必争(美) [SMYE20]"/>
 	<Game id="RMCEMZ" en="Mizy's Texture Pack" zhcn="Mizy's Texture Pack"/>
@@ -374,7 +374,7 @@
 	<Game id="RMHC08" en="Monster Hunter Tri" zhcn="怪物猎人3（ACG汉化简体中文版）"/>
 	<Game id="DMHE08" en="Monster Hunter Tri (Demo)" zhcn="怪物猎人3 试玩版(美)"/>
 	<Game id="DMHJ08" en="Monster Hunter Tri (Demo)" zhcn="怪物猎人3 试玩版[WiFi](日)"/>
-	<Game id="RMHJ08" en="Monster Hunter tri-" zhcn="怪物猎人3(日或中)" path="中文游戏\怪物猎人3(中) [RMHJ08]"/>
+	<Game id="RMHJ08" en="Monster Hunter tri-" zhcn="怪物猎人3(日或中)" collection="中文游戏"/>
 	<Game id="RMOP52" en="Monster Jam" zhcn="怪兽大卡车(欧)"/>
 	<Game id="RMOE52" en="Monster Jam" zhcn="怪兽大卡车(美)" path="donem\怪兽大卡车(美) [RMOE52]"/>
 	<Game id="SMJP52" en="Monster Jam: Path of Destruction" zhcn="怪物卡车 毁灭之路(欧)"/>

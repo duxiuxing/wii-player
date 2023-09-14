@@ -131,7 +131,7 @@
 	<Game id="SJUE20" en="Dino Strike" zhcn="恐龙快打(美)" path="光枪游戏\恐龙快打(美) [SJUE20]"/>
 	<Game id="SJUPXT" en="Dino Strike" zhcn="恐龙快打(美)"/>
 	<Game id="RDZP01" en="Disaster: Day of Crisis" zhcn="天灾 危机之日(欧)"/>
-	<Game id="RDZJ01" en="Disaster: Day of Crisis" zhcn="天灾 危机之日(日或中)" path="中文游戏\天灾 危机之日(中) [RDZJ01]"/>
+	<Game id="RDZJ01" en="Disaster: Day of Crisis" zhcn="天灾 危机之日(日或中)" collection="中文游戏"/>
 	<Game id="413E01" en="DiscUpdate Disc" zhcn="DiscUpdate Disc"/>
 	<Game id="SDGP4Q" en="Disney Channel: All Star Party" zhcn="迪斯尼全明星派对(欧)"/>
 	<Game id="SDGE4Q" en="Disney Channel: All Star Party" zhcn="迪斯尼全明星派对(美)" path="done5\迪斯尼全明星派对(美) [SDGE4Q]"/>
@@ -221,13 +221,13 @@
 	<Game id="RDME6K" en="Domino Rally" zhcn="米侬向前冲(美)" path="done5\米侬向前冲(美) [RDME6K]"/>
 	<Game id="R2KE54" en="Don King Boxing" zhcn="唐金拳击(美)" path="平衡板游戏\唐金拳击(美) [R2KE54]"/>
 	<Game id="R2KP54" en="Don King Boxing" zhcn="唐金拳击[平衡板](欧)"/>
-	<Game id="SF8E01" en="Donkey Kong Country Returns" zhcn="大金刚国度 回归(美或中)" path="done2\大金刚国度 回归(中) [SF8E01]"/>
+	<Game id="SF8E01" en="Donkey Kong Country Returns" zhcn="大金刚国度 回归(美或中)" collection="中文游戏"/>
 	<Game id="SF8P01" en="Donkey Kong Country Returns" zhcn="大金刚国度 回归(欧)"/>
 	<Game id="SF8J01" en="Donkey Kong Returns" zhcn="大金刚国度 回归(日)"/>
 	<Game id="RDKJ01" en="Donkey Kong Taru Jet Race" zhcn="大金刚 木桶喷射(日)"/>
 	<Game id="RDKE01" en="Donkey Kong: Barrel Blast" zhcn="大金刚 木桶喷射(美)" path="done5\大金刚 木桶喷射(美) [RDKE01]"/>
 	<Game id="RDKP01" en="Donkey Kong: Jet Race" zhcn="大金刚 木桶喷射(欧)"/>
-	<Game id="R49J01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林节拍(日或中)" path="中文游戏\大金刚 丛林节拍(中) [R49J01]"/>
+	<Game id="R49J01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林节拍(日或中)" collection="中文游戏"/>
 	<Game id="R49P01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林敲击(欧)"/>
 	<Game id="R49E01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林敲击(美)"/>
 	<Game id="SDLE78" en="Dood's Big Adventure" zhcn="杜德大冒险(美)" path="done5\杜德大冒险(美) [SDLE78]"/>
@@ -264,7 +264,7 @@
 	<Game id="RDBJAF" en="Dragon Ball Z: Sparking! NEO" zhcn="龙珠Z 电光火石(日)"/>
 	<Game id="R7GPAF" en="Dragon Ball: Revenge of King Piccolo" zhcn="龙珠 天下第一大冒险(欧)"/>
 	<Game id="R7GEAF" en="Dragon Ball: Revenge of King Piccolo" zhcn="龙珠 天下第一大冒险(美)"/>
-	<Game id="R7GJAF" en="Dragon Ball: Tenkaichi Daibouken" zhcn="龙珠 天下第一大冒险(日或中)" path="中文游戏\龙珠 天下第一大冒险(中) [R7GJAF]"/>
+	<Game id="R7GJAF" en="Dragon Ball: Tenkaichi Daibouken" zhcn="龙珠 天下第一大冒险(日或中)" collection="中文游戏"/>
 	<Game id="RDWJG9" en="Dragon Blade" zhcn="龙刃 怒火燃烧(日)"/>
 	<Game id="RDWEG9" en="Dragon Blade: Wrath of Fire" zhcn="龙刃 怒火燃烧(美)" path="done5\龙刃 怒火燃烧(美) [RDWEG9]"/>
 	<Game id="RDWPG9" en="Dragon Blade: Wrath of Fire" zhcn="龙刃 怒火燃烧(欧)"/>

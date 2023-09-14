@@ -19,7 +19,7 @@
 	<Game id="SEKJ99" en="Ikenie no Yoru" zhcn="活祭之夜(日)"/>
 	<Game id="SEKE99" en="Ikenie no Yoru [ENG]" zhcn="Ikenie no Yoru [ENG]"/>
 	<Game id="RYVJMS" en="Illvelo Wii" zhcn="伊鲁贝罗Wii(日)"/>
-	<Game id="REVJ8P" en="Imabikisou Kaimei-hen" zhcn="忌火起草 解明篇(日或中)" path="中文游戏\忌火起草 解明篇(中) [REVJ8P]"/>
+	<Game id="REVJ8P" en="Imabikisou Kaimei-hen" zhcn="忌火起草 解明篇(日或中)" collection="中文游戏"/>
 	<Game id="RW8P41" en="Imagine Champion Rider" zhcn="想象 冠军骑士(欧)"/>
 	<Game id="RFZP41" en="Imagine Fashion Idol" zhcn="想象 时尚偶像[平衡板](欧)"/>
 	<Game id="RFZE41" en="Imagine Fashion Party" zhcn="想象 时尚聚会(美)" path="平衡板游戏\想象 时尚聚会(美) [RFZE41]"/>
@@ -49,7 +49,7 @@
 	<Game id="SFDJAF" en="Issho ni Asobu! Dream Theme Park" zhcn="家庭训练机 梦幻主题乐园(日)"/>
 	<Game id="R8OX54" en="It's My Circus" zhcn="我的马戏团(X)"/>
 	<Game id="R2YP54" en="It's my Birthday!" zhcn="我的生日(欧)"/>
-	<Game id="ST7JGD" en="Itadaki Street Wii" zhcn="富豪街Wii(日或中)" path="中文游戏\富豪街Wii(中) [ST7JGD]"/>
+	<Game id="ST7JGD" en="Itadaki Street Wii" zhcn="富豪街Wii(日或中)" collection="中文游戏"/>
 	<Game id="RIVP99" en="Ivy The Kiwi?" zhcn="奇异鸟伊维(欧)"/>
 	<Game id="RIVEXJ" en="Ivy The Kiwi?" zhcn="奇异鸟伊维(美)" path="wbfs\奇异鸟伊维(美) [RIVEXJ]"/>
 	<Game id="RIVJAF" en="Ivy the Kiwi" zhcn="奇异鸟伊维(日)"/>

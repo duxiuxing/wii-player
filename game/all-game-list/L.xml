@@ -74,7 +74,7 @@
 	<Game id="SLJPKM" en="Let's Sing 8 - Spanish Version" zhcn="Let's Sing 8 - Spanish Version"/>
 	<Game id="S33SKM" en="Let's Sing 9 - Spanish Version" zhcn="Let's Sing 9 - Spanish Version"/>
 	<Game id="S7LPKM" en="Let's Sing @ Radio Italia" zhcn="Let's Sing @ Radio Italia"/>
-	<Game id="R2UJ8P" en="Let's Tap" zhcn="一起来拍打(日或中)" path="中文游戏\一起来拍打(中) [R2UJ8P]"/>
+	<Game id="R2UJ8P" en="Let's Tap" zhcn="一起来拍打(日或中)" collection="中文游戏"/>
 	<Game id="R2UP8P" en="Let's Tap" zhcn="一起来敲打(欧)"/>
 	<Game id="R2UE8P" en="Let's Tap" zhcn="一起来敲打(美)" path="donel\一起来敲打(美) [R2UE8P]"/>
 	<Game id="SLKPKM" en="Let’s Sing 2016 : Hits Français" zhcn="Let’s Sing 2016 : Hits Français"/>

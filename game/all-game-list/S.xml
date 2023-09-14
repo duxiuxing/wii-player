@@ -149,7 +149,7 @@
 	<Game id="R4CE69" en="SimCity Creator" zhcn="模拟城市 建筑大师[WiFi](美)"/>
 	<Game id="R4CK69" en="SimCity Namanui Dosi" zhcn="模拟城市 建筑大师[WiFi](韩)"/>
 	<Game id="RZ8JG9" en="Simple 2000 Series Wii Vol. 1: The Table Game: Mahjong, Igo, Shougi, Card, Hanafuda, Reversi, Gomoku Narabe" zhcn="简单2000系列1 桌面游戏(日)"/>
-	<Game id="RZ9JG9" en="Simple 2000 Series Wii Vol. 2: The Party Game" zhcn="简单2000系列2 聚会游戏(日或中)" path="中文游戏\简单2000系列2 聚会游戏(中) [RZ9JG9]"/>
+	<Game id="RZ9JG9" en="Simple 2000 Series Wii Vol. 2: The Party Game" zhcn="简单2000系列2 聚会游戏(日或中)" collection="中文游戏"/>
 	<Game id="RZ2JG9" en="Simple Wii Series Vol. 1: The Minna de Kart Race" zhcn="简单Wii系列1 大家一起赛车[WiFi](日)"/>
 	<Game id="RZ3JG9" en="Simple Wii Series Vol. 2: The Minna de Bass Tsuri Taikai" zhcn="简单Wii系列2 大家一起钓鱼[WiFi](日)"/>
 	<Game id="RZ4JG9" en="Simple Wii Series Vol. 3: Asonde Oboeru: The Party Casino" zhcn="简单Wii系列3 赌场聚会[WiFi](日)"/>
@@ -705,7 +705,7 @@
 	<Game id="RXUX41" en="Surf's Up" zhcn="冲浪企鹅(X)"/>
 	<Game id="RXUP41" en="Surf's Up" zhcn="冲浪企鹅(欧)"/>
 	<Game id="RXUE41" en="Surf's Up" zhcn="冲浪企鹅(美)"/>
-	<Game id="RKZJA4" en="Survival Kids Wii" zhcn="幸存少年Wii(日或中)" path="中文游戏\幸存少年Wii(中) [RKZJA4]"/>
+	<Game id="RKZJA4" en="Survival Kids Wii" zhcn="幸存少年Wii(日或中)" collection="中文游戏"/>
 	<Game id="RLNIMR" en="Survivor" zhcn="前进鲁宾逊[平衡板](意)"/>
 	<Game id="RLNPMR" en="Survivor" zhcn="幸存者[平衡板](欧)"/>
 	<Game id="RLNHMR" en="Survivor" zhcn="前进鲁宾逊[平衡板](荷)"/>
@@ -713,7 +713,7 @@
 	<Game id="RLNFMR" en="Survivor" zhcn="兰达岛生存游戏[平衡板](法)"/>
 	<Game id="RLNEVN" en="Survivor" zhcn="幸存者[平衡板](美)"/>
 	<Game id="SSUES5" en="Sushi Go Round" zhcn="回转寿司(美)"/>
-	<Game id="RHHJ8J" en="Suzumiya Haruhi no Gekidou" zhcn="凉宫春日的激动(日或中)" path="中文游戏\凉宫春日的激动(中) [RHHJ8J]"/>
+	<Game id="RHHJ8J" en="Suzumiya Haruhi no Gekidou" zhcn="凉宫春日的激动(日或中)" collection="中文游戏"/>
 	<Game id="R44J8P" en="Suzumiya Haruhi no Heiretsu" zhcn="凉宫春日的并列(日)"/>
 	<Game id="RGHE62" en="Sweet Home Alabama - GH3" zhcn="自制 吉他英雄3 下载版(美)"/>
 	<Game id="RPYJ9B" en="Swing Golf Pangya" zhcn="魔法高尔夫(日)"/>

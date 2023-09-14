@@ -108,7 +108,7 @@
 	<Game id="R7FPGD" en="Final Fantasy Fables: Chocobo's Dungeon" zhcn="陆行鸟 忘却时间的迷宫[WiFi](欧)"/>
 	<Game id="R7FEUD" en="Final Fantasy Fables: Chocobo's Dungeon Undub" zhcn="Final Fantasy Fables: Chocobo's Dungeon Undub"/>
 	<Game id="RFEK01" en="Fire Emblem Akatsuki no Megami" zhcn="Fire Emblem Akatsuki no Megami"/>
-	<Game id="RFEJ01" en="Fire Emblem Akatsuki no Megami" zhcn="火焰纹章 晓之女神(日或中)" path="中文游戏\火焰纹章 晓之女神(中) [RFEJ01]"/>
+	<Game id="RFEJ01" en="Fire Emblem Akatsuki no Megami" zhcn="火焰纹章 晓之女神(日或中)" collection="中文游戏"/>
 	<Game id="RFEPUD" en="Fire Emblem: Radian Dawn Undub" zhcn="Fire Emblem: Radian Dawn Undub"/>
 	<Game id="RFEE01" en="Fire Emblem: Radiant Dawn" zhcn="火炎纹章 晓之女神(美)"/>
 	<Game id="RFEP01" en="Fire Emblem: Radiant Dawn" zhcn="火炎纹章 晓之女神(欧)"/>

@@ -30,6 +30,6 @@
 	<Game id="SMNJYE" en="8Forrest's Super Mario Bros. Wii" zhcn="8Forrest's Super Mario Bros. Wii"/>
 	<Game id="SMNPYE" en="8Forrest's Super Mario Bros. Wii" zhcn="8Forrest's Super Mario Bros. Wii"/>
 	<Game id="ROWE08" en="Ōkami" zhcn="大神(美)"/>
-	<Game id="ROWJ08" en="Ōkami" zhcn="大神(日或中)" path="中文游戏\大神(中) [ROWJ08]"/>
+	<Game id="ROWJ08" en="Ōkami" zhcn="大神(日或中)" collection="中文游戏"/>
 	<Game id="ROWP08" en="Ōkami" zhcn="大神(欧)"/>
 </Game-List>

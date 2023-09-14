@@ -3,7 +3,7 @@
 	<Game id="RYXE20" en="Yamaha Supercross" zhcn="雅马哈超级摩托(美)"/>
 	<Game id="RYXP7J" en="Yamaha Supercross" zhcn="雅马哈超级摩托(欧)"/>
 	<Game id="RYAJSC" en="Yatterman Wii (Simplified Chinese Translation)" zhcn="小双侠赛车 Wii 惊心动魄机器猛竞速"/>
-	<Game id="RYAJDA" en="Yatterman Wii: Bikkuri Dokkiri Machine de Mou Race da Koron" zhcn="小双侠Wii 惊心动魄机器猛竞速(日或中)" path="中文游戏\小双侠Wii 惊心动魄机器猛竞速(中) [RYAJDA]"/>
+	<Game id="RYAJDA" en="Yatterman Wii: Bikkuri Dokkiri Machine de Mou Race da Koron" zhcn="小双侠Wii 惊心动魄机器猛竞速(日或中)" collection="中文游戏"/>
 	<Game id="RMCEY8" en="Yeet Kart Wii" zhcn="Yeet Kart Wii"/>
 	<Game id="SPYDSV" en="Yetisports: Penguin Party Island" zhcn="企鹅派对岛(德)"/>
 	<Game id="SEGE6U" en="Yoga" zhcn="瑜伽[平衡板](美)"/>
@@ -26,11 +26,11 @@
 	<Game id="SMNPYM" en="You Super Mario Bros. Me Summer Special" zhcn="You Super Mario Bros. Me Summer Special"/>
 	<Game id="RYRP41" en="Your Shape" zhcn="你的塑身(欧)"/>
 	<Game id="RYRE41" en="Your Shape" zhcn="你的塑身(美)"/>
-	<Game id="R8DJA4" en="Yu-Gi-Oh! 5D's: Duel Transer" zhcn="游戏王5D's 决斗狂热者(日或中)" path="中文游戏\游戏王5D's 决斗狂热者(中) [R8DJA4]"/>
+	<Game id="R8DJA4" en="Yu-Gi-Oh! 5D's: Duel Transer" zhcn="游戏王5D's 决斗狂热者(日或中)" collection="中文游戏"/>
 	<Game id="R8DEA4" en="Yu-Gi-Oh! 5D's: Duel Transer" zhcn="游戏王5D's 决斗狂热者[WiFi](美)"/>
 	<Game id="R8DPA4" en="Yu-Gi-Oh! 5D's: Master of the Cards" zhcn="游戏王5D's 决斗狂热者[WiFi](欧)"/>
 	<Game id="RYOEA4" en="Yu-Gi-Oh! 5D's: Wheelie Breakers" zhcn="游戏王5D's 破碎转轮(美)"/>
 	<Game id="RYOPA4" en="Yu-Gi-Oh! 5D's: Wheelie Breakers" zhcn="游戏王5D's 破碎转轮(欧)"/>
-	<Game id="RYOJA4" en="Yu-Gi-Oh! 5D's: Wheelie Breakers" zhcn="游戏王5D's 骑乘决斗者(日或中)" path="中文游戏\游戏王5D's 骑乘决斗者(中) [RYOJA4]"/>
+	<Game id="RYOJA4" en="Yu-Gi-Oh! 5D's: Wheelie Breakers" zhcn="游戏王5D's 骑乘决斗者(日或中)" collection="中文游戏"/>
 	<Game id="RSZJES" en="Yukinko Daisenpuu: Sayuki to Koyuki no Hie Hie Daisoudou" zhcn="雪女大旋风纱雪小雪的惊奇大骚动(日)"/>
 </Game-List>

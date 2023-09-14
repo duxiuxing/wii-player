@@ -14,11 +14,11 @@
 	<Game id="RMCEZC" en="Zef's CT Pack" zhcn="Zef's CT Pack"/>
 	<Game id="GZLK01" en="Zelda no Densetsu: Kaze no Takuto" zhcn="Zelda no Densetsu: Kaze no Takuto"/>
 	<Game id="SOUJ01" en="Zelda no Densetsu: Skyward Sword" zhcn="塞尔达传说 天空之剑(日或中)" path="加速器游戏\塞尔达传说 天空之剑(中) [SOUJ01]"/>
-	<Game id="RZDJ01" en="Zelda no Densetsu: Twilight Princess" zhcn="塞尔达传说 黄昏公主(日或中)" path="中文游戏\塞尔达传说 黄昏公主(中) [RZDJ01]"/>
+	<Game id="RZDJ01" en="Zelda no Densetsu: Twilight Princess" zhcn="塞尔达传说 黄昏公主(日或中)" collection="中文游戏"/>
 	<Game id="GZ2K01" en="Zelda no Densetsu: Twilight Princess" zhcn="Zelda no Densetsu: Twilight Princess"/>
 	<Game id="RDEJ0A" en="Zenkoku Dekotora Matsuri" zhcn="全日本货柜车祭典(日)"/>
-	<Game id="SL2J01" en="Zero: Shinku no Chou" zhcn="零 真红之蝶(日或中)" path="中文游戏\零 真红之蝶(中) [SL2J01]"/>
-	<Game id="R4ZJ01" en="Zero: Tsukihami no Kamen" zhcn="零 月蚀之假面(日或中)" path="中文游戏\零 月蚀之假面(中) [R4ZJ01]"/>
+	<Game id="SL2J01" en="Zero: Shinku no Chou" zhcn="零 真红之蝶(日或中)" collection="中文游戏"/>
+	<Game id="R4ZJ01" en="Zero: Tsukihami no Kamen" zhcn="零 月蚀之假面(日或中)" collection="中文游戏"/>
 	<Game id="S2ZE52" en="Zhu Zhu Pets: Featuring The Wild Bunch" zhcn="开心鼠园2(美)"/>
 	<Game id="S2ZP52" en="Zhu Zhu Pets: Featuring the Wild Bunch" zhcn="开心鼠园2(欧)"/>
 	<Game id="RZHX5G" en="Zoo Hospital" zhcn="动物医院[WiFi](X)"/>
