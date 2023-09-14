@@ -548,13 +548,13 @@
 	<Game id="RMGE04" en="Super Mario Earth" zhcn="Super Mario Earth"/>
 	<Game id="GMSE04" en="Super Mario Eclipse" zhcn="Super Mario Eclipse"/>
 	<Game id="RMGP01" en="Super Mario Galaxy" zhcn="超级马里奥银河(欧)"/>
-	<Game id="RMGJ01" en="Super Mario Galaxy" zhcn="超级马里奥银河(日或中)" path="中文游戏\超级马里奥银河(中) [RMGJ01]"/>
+	<Game id="RMGJ01" en="Super Mario Galaxy" zhcn="超级马里奥银河(日或中)" collection="超级马里奥3D系列"/>
 	<Game id="RMGE01" en="Super Mario Galaxy" zhcn="超级马里奥银河(美)"/>
 	<Game id="RMGR01" en="Super Mario Galaxy" zhcn="自制 超级马里奥银河(俄)"/>
 	<Game id="RMGC01" en="Super Mario Galaxy" zhcn="自制 超级马里奥银河(简)"/>
 	<Game id="SB4C01" en="Super Mario Galaxy 2" zhcn="超级马里奥银河2（ACG汉化简体中文版）"/>
 	<Game id="SB4J01" en="Super Mario Galaxy 2" zhcn="超级马里奥银河2(日)"/>
-	<Game id="SB4W01" en="Super Mario Galaxy 2" zhcn="超级马里奥银河2(中)" path="中文游戏\超级马里奥银河2(中) [SB4W01]"/>
+	<Game id="SB4W01" en="Super Mario Galaxy 2" zhcn="超级马里奥银河2(中)" collection="超级马里奥3D系列"/>
 	<Game id="SB4P01" en="Super Mario Galaxy 2" zhcn="超级马里奥银河2(欧)"/>
 	<Game id="SB4E01" en="Super Mario Galaxy 2" zhcn="超级马里奥银河2(美)"/>
 	<Game id="SB4EXD" en="Super Mario Galaxy 2 Deluxe" zhcn="Super Mario Galaxy 2 Deluxe"/>
@@ -621,7 +621,7 @@
 	<Game id="R8PE01" en="Super Paper Mario" zhcn="超级纸片马里奥(美)"/>
 	<Game id="R8PP01" en="Super Paper Mario" zhcn="超级纸片马里奥(欧)"/>
 	<Game id="R8PJ01" en="Super Paper Mario" zhcn="超级纸片马里奥(日)"/>
-	<Game id="R8PC01" en="Super Paper Mario(CN)" zhcn="超级纸片马里奥(中)" path="中文游戏\超级纸片马里奥(中) [R8PC01]"/>
+	<Game id="R8PC01" en="Super Paper Mario(CN)" zhcn="超级纸片马里奥(中)" collection="超级马里奥3D系列"/>
 	<Game id="SMNE28" en="Super Penguin Bros." zhcn="Super Penguin Bros."/>
 	<Game id="RQUEFS" en="Super PickUps" zhcn="超级小卡车(美)"/>
 	<Game id="RRWJAF" en="Super Robot Taisen NEO" zhcn="超级机器人大战NEO(日)"/>
