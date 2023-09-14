@@ -3,28 +3,28 @@
 	<Game id="S7APWR" en="LEGO Batman 2: DC Super Heroes" zhcn="乐高蝙蝠侠2 DC超级英雄(欧)"/>
 	<Game id="S7AKZA" en="LEGO Batman 2: DC Super Heroes" zhcn="LEGO Batman 2: DC Super Heroes"/>
 	<Game id="S7AKWR" en="LEGO Batman 2: DC Super Heroes" zhcn="LEGO Batman 2: DC Super Heroes"/>
-	<Game id="S7AEWR" en="LEGO Batman 2: DC Super Heroes" zhcn="乐高蝙蝠侠2 DC超级英雄(美)" path="乐高系列\乐高蝙蝠侠2 DC超级英雄(美) [S7AEWR]"/>
-	<Game id="RLBEWR" en="LEGO Batman: The Videogame" zhcn="乐高蝙蝠侠(美)" path="乐高系列\乐高蝙蝠侠(美) [RLBEWR]"/>
+	<Game id="S7AEWR" en="LEGO Batman 2: DC Super Heroes" zhcn="乐高蝙蝠侠2 DC超级英雄(美)" collection="乐高系列"/>
+	<Game id="RLBEWR" en="LEGO Batman: The Videogame" zhcn="乐高蝙蝠侠(美)" collection="乐高系列"/>
 	<Game id="RLBPWR" en="LEGO Batman: The Videogame" zhcn="乐高蝙蝠侠(欧)"/>
-	<Game id="R25EWR" en="LEGO Harry Potter: Years 1-4" zhcn="乐高哈利波特 上集(美)" path="done2\乐高哈利波特 1-4 学年(美) [R25EWR]"/>
+	<Game id="R25EWR" en="LEGO Harry Potter: Years 1-4" zhcn="乐高哈利波特 上集(美)" collection="乐高系列"/>
 	<Game id="R25PWR" en="LEGO Harry Potter: Years 1-4" zhcn="乐高哈利波特 1-4 学年(欧)"/>
 	<Game id="SLHPWR" en="LEGO Harry Potter: Years 5-7" zhcn="乐高哈利波特 5-7年(欧)"/>
-	<Game id="SLHEWR" en="LEGO Harry Potter: Years 5-7" zhcn="乐高哈利波特 下集(美)" path="乐高系列\乐高哈利波特 下集(美) [SLHEWR]"/>
-	<Game id="RL4E64" en="LEGO Indiana Jones 2: The Adventure Continues" zhcn="乐高印第安纳琼斯2 冒险再续(美)" path="乐高系列\乐高印第安纳琼斯2 冒险再续(美) [RL4E64]"/>
+	<Game id="SLHEWR" en="LEGO Harry Potter: Years 5-7" zhcn="乐高哈利波特 下集(美)" collection="乐高系列"/>
+	<Game id="RL4E64" en="LEGO Indiana Jones 2: The Adventure Continues" zhcn="乐高印第安纳琼斯2 冒险再续(美)" collection="乐高系列"/>
 	<Game id="RL4P64" en="LEGO Indiana Jones 2: The Adventure Continues" zhcn="乐高印第安纳琼斯2 冒险再续(欧)"/>
 	<Game id="RLIP64" en="LEGO Indiana Jones: The Original Adventures" zhcn="乐高印第安纳琼斯(欧)"/>
-	<Game id="RLIE64" en="LEGO Indiana Jones: The Original Adventures" zhcn="乐高印第安纳琼斯(美)" path="done2\乐高印第安纳琼斯(美) [RLIE64]"/>
+	<Game id="RLIE64" en="LEGO Indiana Jones: The Original Adventures" zhcn="乐高印第安纳琼斯(美)" collection="乐高系列"/>
 	<Game id="SCJP4Q" en="LEGO Pirates of the Caribbean: The Video Game" zhcn="乐高神鬼奇航(欧)"/>
-	<Game id="SCJE4Q" en="LEGO Pirates of the Caribbean: The Video Game" zhcn="乐高神鬼奇航(美)" path="乐高系列\乐高神鬼奇航(美) [SCJE4Q]"/>
-	<Game id="R6LEWR" en="LEGO Rock Band" zhcn="乐高摇滚乐团(美)" path="乐高系列\乐高摇滚乐团(美) [R6LEWR]"/>
+	<Game id="SCJE4Q" en="LEGO Pirates of the Caribbean: The Video Game" zhcn="乐高神鬼奇航(美)" collection="乐高系列"/>
+	<Game id="R6LEWR" en="LEGO Rock Band" zhcn="乐高摇滚乐团(美)" collection="乐高系列"/>
 	<Game id="R6LPWR" en="LEGO Rock Band" zhcn="乐高摇滚乐团(欧)"/>
 	<Game id="SC4P64" en="LEGO Star Wars III: The Clone Wars" zhcn="乐高星球大战3 克隆人战争(欧)"/>
 	<Game id="SC4E64" en="LEGO Star Wars III: The Clone Wars" zhcn="乐高星球大战3 克隆人战争(美)" path="done5\乐高星球大战3 克隆人战争(美) [SC4E64]"/>
-	<Game id="RLGE64" en="LEGO Star Wars: The Complete Saga" zhcn="乐高星球大战 完整的传奇(美)" path="乐高系列\乐高星球大战 完整的传奇(美) [RLGE64]"/>
+	<Game id="RLGE64" en="LEGO Star Wars: The Complete Saga" zhcn="乐高星球大战 完整的传奇(美)" collection="乐高系列"/>
 	<Game id="RLGJ52" en="LEGO Star Wars: The Complete Saga" zhcn="乐高星球大战 完整的传奇(日)"/>
 	<Game id="RLGP64" en="LEGO Star Wars: The Complete Saga" zhcn="乐高星球大战 完整的传奇(欧)"/>
 	<Game id="SLRPWR" en="LEGO The Lord of the Rings" zhcn="乐高指环王(欧)"/>
-	<Game id="SLREWR" en="LEGO The Lord of the Rings" zhcn="乐高指环王(美)" path="done2\乐高指环王(美) [SLREWR]"/>
+	<Game id="SLREWR" en="LEGO The Lord of the Rings" zhcn="乐高指环王(美)" collection="乐高系列"/>
 	<Game id="S32SJW" en="La Voz: Quiero tu voz" zhcn="La Voz: Quiero tu voz"/>
 	<Game id="RLRJEL" en="Lara Croft Tomb Raider: Anniversary" zhcn="古墓丽影 十周年纪念版(日)"/>
 	<Game id="SMNP67" en="Larsenv Super Mario Collection" zhcn="Larsenv Super Mario Collection"/>

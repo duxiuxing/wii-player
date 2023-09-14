@@ -26,7 +26,7 @@
 	<Game id="RS2PGJ" en="Ultimate Duck Hunting" zhcn="终极猎鸭(欧)"/>
 	<Game id="RUZP5G" en="Ultimate I SPY" zhcn="终极间谍(欧)"/>
 	<Game id="RUZE7T" en="Ultimate I SPY" zhcn="终极间谍(美)"/>
-	<Game id="RR3EA4" en="Ultimate Party Challenge" zhcn="终极聚会挑战(美)" path="跳舞毯游戏\终极聚会挑战(美) [RR3EA4]"/>
+	<Game id="RR3EA4" en="Ultimate Party Challenge" zhcn="终极聚会挑战(美)" collection="跳舞毯游戏"/>
 	<Game id="RKAE6K" en="Ultimate Shooting Collection" zhcn="卡拉斯Wii射击集锦(美)"/>
 	<Game id="SMNE32" en="Ultimate Super Luigi Wii" zhcn="Ultimate Super Luigi Wii"/>
 	<Game id="RUQP78" en="Up" zhcn="飞屋环游记(欧)"/>

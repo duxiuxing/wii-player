@@ -19,7 +19,7 @@
 	<Game id="R8ZE8P" en="Daisy Fuentes Pilates" zhcn="大师教你普拉提(美)" path="健身系列\大师教你普拉提(美) [R8ZE8P]"/>
 	<Game id="R8ZPGT" en="Daisy Fuentes Pilates" zhcn="大师教你普拉提[平衡板](欧)"/>
 	<Game id="SDYEA4" en="Dance Dance Revolution" zhcn="热舞革命[跳舞垫][平衡板](美)"/>
-	<Game id="SUREA4" en="Dance Dance Revolution II" zhcn="热舞革命2(美)" path="wbfs\热舞革命2(美) [SUREA4]"/>
+	<Game id="SUREA4" en="Dance Dance Revolution II" zhcn="热舞革命2(美)" collection="跳舞毯游戏"/>
 	<Game id="RDNEA4" en="Dance Dance Revolution: Disney Grooves" zhcn="劲舞革命 开心迪士尼(美)" collection="劲舞革命系列"/>
 	<Game id="RD4JA4" en="Dance Dance Revolution: Furu Furu Party" zhcn="劲舞革命 盛况空前的劲爆舞会(日或中)" collection="劲舞革命系列"/>
 	<Game id="RDDEA4" en="Dance Dance Revolution: Hottest Party" zhcn="热舞革命 劲爆舞会(美)" collection="劲舞革命系列"/>
@@ -42,8 +42,8 @@
 	<Game id="S2DPML" en="Dance! It's Your Stage" zhcn="跳吧！这是你的舞台[平衡板](欧)"/>
 	<Game id="RXSPA4" en="Dancing Stage: Hottest Party" zhcn="热舞生涯 劲爆舞会[跳舞毯](欧)"/>
 	<Game id="RIQPUJ" en="Dancing on Ice" zhcn="冰上炫舞(欧)"/>
-	<Game id="RD8E52" en="Dancing with the Stars" zhcn="与星共舞(美)" path="wbfs\与星共舞(美) [RD8E52]"/>
-	<Game id="RDAE52" en="Dancing with the Stars: We Dance!" zhcn="与星共舞 一起跳(美)" path="跳舞毯游戏\与星共舞 一起跳(美) [RDAE52]"/>
+	<Game id="RD8E52" en="Dancing with the Stars" zhcn="与星共舞(美)" collection="跳舞毯游戏"/>
+	<Game id="RDAE52" en="Dancing with the Stars: We Dance!" zhcn="与星共舞 一起跳(美)" collection="跳舞毯游戏"/>
 	<Game id="DMVE26" en="Dark Mario Vacation" zhcn="Dark Mario Vacation"/>
 	<Game id="DMBP05" en="Dark Super Mario Bros. Wii" zhcn="Dark Super Mario Bros. Wii"/>
 	<Game id="RSBE06" en="Darkon360's Brawl Hack Pack" zhcn="Darkon360's Brawl Hack Pack"/>

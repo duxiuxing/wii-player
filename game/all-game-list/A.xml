@@ -27,10 +27,10 @@
 	<Game id="R5FE41" en="Academy of Champions: Soccer" zhcn="冠军学院 足球(美)" path="专项运动系列 足球\冠军学院 足球(美) [R5FE41]"/>
 	<Game id="RGYE5Z" en="Action Girlz Racing" zhcn="美女卡丁车(美)" path="done3\美女卡丁车(美) [RGYE5Z]"/>
 	<Game id="RGYPUG" en="Action Girlz Racing" zhcn="美女卡丁车(欧)"/>
-	<Game id="S2AEAF" en="Active Life: Explorer" zhcn="活力生活 探险家(美)" path="训练毯游戏\活力生活 探险家(美) [S2AEAF]"/>
-	<Game id="REJEAF" en="Active Life: Extreme Challenge" zhcn="活力生活 极限挑战(美)" path="训练毯游戏\活力生活 极限挑战(美) [REJEAF]"/>
-	<Game id="SFDEAF" en="Active Life: Magical Carnival" zhcn="活力生活 梦幻主题乐园(美)" path="训练毯游戏\活力生活 梦幻主题乐园(美) [SFDEAF]"/>
-	<Game id="RFAEAF" en="Active Life: Outdoor Challenge" zhcn="活力生活 户外挑战(美)" path="训练毯游戏\活力生活 户外挑战(美) [RFAEAF]"/>
+	<Game id="S2AEAF" en="Active Life: Explorer" zhcn="活力生活 探险家(美)" collection="训练毯游戏"/>
+	<Game id="REJEAF" en="Active Life: Extreme Challenge" zhcn="活力生活 极限挑战(美)" collection="训练毯游戏"/>
+	<Game id="SFDEAF" en="Active Life: Magical Carnival" zhcn="活力生活 梦幻主题乐园(美)" collection="训练毯游戏"/>
+	<Game id="RFAEAF" en="Active Life: Outdoor Challenge" zhcn="活力生活 户外挑战(美)" collection="训练毯游戏"/>
 	<Game id="R9AE52" en="Activision Demo Action Pack (Demo)" zhcn="动作游戏试玩包(美)"/>
 	<Game id="R8UXMR" en="Adibou" zhcn="阿迪波冒险记(X)"/>
 	<Game id="SMNEAM" en="Adventure Super Mario Bros. Wii" zhcn="Adventure Super Mario Bros. Wii"/>

@@ -74,8 +74,8 @@
 	<Game id="RYKPAF" en="Family Ski &amp; Snowboard" zhcn="世界滑雪&amp;滑雪板[平衡板](欧)"/>
 	<Game id="RYKJAF" en="Family Ski: World Ski &amp; Snowboard" zhcn="家庭滑雪：世界滑雪&amp;滑雪板(日)"/>
 	<Game id="RFAPAF" en="Family Trainer" zhcn="家庭教练[跳舞毯](欧)"/>
-	<Game id="RFAJAF" en="Family Trainer" zhcn="家庭教练(日)" path="训练毯游戏\家庭教练(日) [RFAJAF]"/>
-	<Game id="REJJAF" en="Family Trainer 2" zhcn="家庭教练2(日)" path="训练毯游戏\家庭教练2(日) [REJJAF]"/>
+	<Game id="RFAJAF" en="Family Trainer" zhcn="家庭教练(日)" collection="训练毯游戏"/>
+	<Game id="REJJAF" en="Family Trainer 2" zhcn="家庭教练2(日)" collection="训练毯游戏"/>
 	<Game id="REJPAF" en="Family Trainer: Extreme Challenge" zhcn="活力生活 极限挑战[跳舞毯](欧)"/>
 	<Game id="SFDPAF" en="Family Trainer: Magical Carnival" zhcn="家庭訓練機 夢幻主題樂園(歐)"/>
 	<Game id="S2APAF" en="Family Trainer: Treasure Adventure" zhcn="运动生活 探险家(欧)"/>

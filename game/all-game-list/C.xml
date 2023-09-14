@@ -14,30 +14,30 @@
 	<Game id="RMCECL" en="CTGP Revolution Classic" zhcn="CTGP Revolution Classic"/>
 	<Game id="RMCEHC" en="CTGP-R HNS Pack" zhcn="CTGP-R HNS Pack"/>
 	<Game id="SH8P52" en="Cabela's Adventure Camp" zhcn="坎贝拉冒险夏令营(美)"/>
-	<Game id="SH8E52" en="Cabela's Adventure Camp" zhcn="坎贝拉冒险夏令营(美)" path="坎贝拉狩猎冒险系列\坎贝拉冒险夏令营(美) [SH8E52]"/>
-	<Game id="SQAE52" en="Cabela's African Adventures" zhcn="坎贝拉的非洲冒险(美)" path="坎贝拉狩猎冒险系列\坎贝拉的非洲冒险(美) [SQAE52]"/>
-	<Game id="RCBE52" en="Cabela's Big Game Hunter" zhcn="坎贝拉猎人(美)" path="坎贝拉狩猎冒险系列\坎贝拉猎人(美) [RCBE52]"/>
+	<Game id="SH8E52" en="Cabela's Adventure Camp" zhcn="坎贝拉冒险夏令营(美)" collection="坎贝拉狩猎冒险系列"/>
+	<Game id="SQAE52" en="Cabela's African Adventures" zhcn="坎贝拉的非洲冒险(美)" collection="坎贝拉狩猎冒险系列"/>
+	<Game id="RCBE52" en="Cabela's Big Game Hunter" zhcn="坎贝拉猎人(美)" collection="坎贝拉狩猎冒险系列"/>
 	<Game id="RCBP52" en="Cabela's Big Game Hunter" zhcn="坎贝拉猎人(欧)"/>
 	<Game id="SC9P52" en="Cabela's Big Game Hunter 2010" zhcn="卡贝拉猎人2010(美)"/>
-	<Game id="R8YE52" en="Cabela's Big Game Hunter 2010" zhcn="坎贝拉猎人2010(美)" path="坎贝拉狩猎冒险系列\坎贝拉猎人2010(美) [R8YE52]"/>
+	<Game id="R8YE52" en="Cabela's Big Game Hunter 2010" zhcn="坎贝拉猎人2010(美)" collection="坎贝拉狩猎冒险系列"/>
 	<Game id="SH6P52" en="Cabela's Big Game Hunter 2012" zhcn="Cabela's Big Game Hunter 2012"/>
-	<Game id="SH6E52" en="Cabela's Big Game Hunter 2012" zhcn="坎贝拉狩猎2012(美)" path="坎贝拉狩猎冒险系列\坎贝拉狩猎2012(美) [SH6E52]"/>
+	<Game id="SH6E52" en="Cabela's Big Game Hunter 2012" zhcn="坎贝拉狩猎2012(美)" collection="坎贝拉狩猎冒险系列"/>
 	<Game id="RXZP52" en="Cabela's Dangerous Adventures" zhcn="卡贝拉危险狩猎2009(欧)"/>
-	<Game id="RXZE52" en="Cabela's Dangerous Hunts 2009" zhcn="坎贝拉危险狩猎2009(美)" path="坎贝拉狩猎冒险系列\坎贝拉危险狩猎2009(美) [RXZE52]"/>
+	<Game id="RXZE52" en="Cabela's Dangerous Hunts 2009" zhcn="坎贝拉危险狩猎2009(美)" collection="坎贝拉狩猎冒险系列"/>
 	<Game id="SCDP52" en="Cabela's Dangerous Hunts 2011" zhcn="坎贝拉危险狩猎2011(欧)"/>
 	<Game id="SCDE52" en="Cabela's Dangerous Hunts 2011" zhcn="坎贝拉危险狩猎2011(美)"/>
-	<Game id="SHUE52" en="Cabela's Dangerous Hunts 2011: Special Edition" zhcn="坎贝拉危险狩猎2011 特别版(美)" path="坎贝拉狩猎冒险系列\坎贝拉危险狩猎2011 特别版(美) [SHUE52]"/>
+	<Game id="SHUE52" en="Cabela's Dangerous Hunts 2011: Special Edition" zhcn="坎贝拉危险狩猎2011 特别版(美)" collection="坎贝拉狩猎冒险系列"/>
 	<Game id="SUVP52" en="Cabela's Dangerous Hunts 2013" zhcn="Cabela's Dangerous Hunts 2013"/>
-	<Game id="SUVE52" en="Cabela's Dangerous Hunts 2013" zhcn="坎贝拉危险狩猎2013(美)" path="坎贝拉狩猎冒险系列\坎贝拉危险狩猎2013(美) [SUVE52]"/>
-	<Game id="SOAE52" en="Cabela's Hunting Expeditions" zhcn="坎贝拉狩猎探险(美)" path="坎贝拉狩猎冒险系列\坎贝拉狩猎探险(美) [SOAE52]"/>
-	<Game id="RCUE52" en="Cabela's Legendary Adventures" zhcn="坎贝拉传奇冒险(美)" path="坎贝拉狩猎冒险系列\坎贝拉传奇冒险(美) [RCUE52]"/>
-	<Game id="RQPZ52" en="Cabela's Monster Buck Hunter" zhcn="坎贝拉的猎鹿(欧)" path="坎贝拉狩猎冒险系列\坎贝拉的猎鹿(欧) [RQPZ52]"/>
-	<Game id="SNAE52" en="Cabela's North American Adventures 2011" zhcn="坎贝拉猎人 北美历险记2011(美)" path="坎贝拉狩猎冒险系列\坎贝拉猎人 北美历险记2011(美) [SNAE52]"/>
-	<Game id="R9VE52" en="Cabela's Outdoor Adventures 2010" zhcn="坎贝拉野外冒险2010(美)" path="坎贝拉狩猎冒险系列\坎贝拉野外冒险2010(美) [R9VE52]"/>
-	<Game id="SAJE52" en="Cabela's Survival: Shadows of Katmai" zhcn="坎贝拉生存大冒险 卡特迈的阴影(美)" path="坎贝拉狩猎冒险系列\坎贝拉生存大冒险 卡特迈的阴影(美) [SAJE52]"/>
+	<Game id="SUVE52" en="Cabela's Dangerous Hunts 2013" zhcn="坎贝拉危险狩猎2013(美)" collection="坎贝拉狩猎冒险系列"/>
+	<Game id="SOAE52" en="Cabela's Hunting Expeditions" zhcn="坎贝拉狩猎探险(美)" collection="坎贝拉狩猎冒险系列"/>
+	<Game id="RCUE52" en="Cabela's Legendary Adventures" zhcn="坎贝拉传奇冒险(美)" collection="坎贝拉狩猎冒险系列"/>
+	<Game id="RQPZ52" en="Cabela's Monster Buck Hunter" zhcn="坎贝拉的猎鹿(欧)" collection="坎贝拉狩猎冒险系列"/>
+	<Game id="SNAE52" en="Cabela's North American Adventures 2011" zhcn="坎贝拉猎人 北美历险记2011(美)" collection="坎贝拉狩猎冒险系列"/>
+	<Game id="R9VE52" en="Cabela's Outdoor Adventures 2010" zhcn="坎贝拉野外冒险2010(美)" collection="坎贝拉狩猎冒险系列"/>
+	<Game id="SAJE52" en="Cabela's Survival: Shadows of Katmai" zhcn="坎贝拉生存大冒险 卡特迈的阴影(美)" collection="坎贝拉狩猎冒险系列"/>
 	<Game id="SAJP52" en="Cabela's Survival: Shadows of Katmai" zhcn="坎贝拉生存大冒险 卡特迈的阴影(欧)"/>
 	<Game id="RQPP52" en="Cabela's Trophy Bucks" zhcn="卡贝拉的猎鹿(欧)"/>
-	<Game id="RQPE52" en="Cabela's Trophy Bucks" zhcn="坎贝拉的猎鹿(美)" path="坎贝拉狩猎冒险系列\坎贝拉的猎鹿(美) [RQPE52]"/>
+	<Game id="RQPE52" en="Cabela's Trophy Bucks" zhcn="坎贝拉的猎鹿(美)" collection="坎贝拉狩猎冒险系列"/>
 	<Game id="RKDJEB" en="Caduceus Z: Futatsu no Chou Shittou" zhcn="超执刀 再次执刀(日)"/>
 	<Game id="RK2JEB" en="Caduceus: New Blood" zhcn="超执刀 新血[WiFi](日)"/>
 	<Game id="R72E5G" en="Cake Mania: In The Mix!" zhcn="蛋糕工坊 混合(美)" path="done\蛋糕工坊 混合(美) [R72E5G]"/>
@@ -102,22 +102,22 @@
 	<Game id="RCAY78" en="Cars" zhcn="汽车总动员(Y)"/>
 	<Game id="RCAX78" en="Cars" zhcn="汽车总动员(X)"/>
 	<Game id="RCAP78" en="Cars" zhcn="汽车总动员(欧)"/>
-	<Game id="RCAE78" en="Cars" zhcn="汽车总动员(美)" path="汽车总动员系列\汽车总动员(美) [RCAE78]"/>
+	<Game id="RCAE78" en="Cars" zhcn="汽车总动员(美)" collection="影视IP游戏 汽车总动员系列"/>
 	<Game id="SCYR4Q" en="Cars 2" zhcn="Cars 2"/>
 	<Game id="SCYX4Q" en="Cars 2" zhcn="汽车总动员2(欧)"/>
 	<Game id="SCYY4Q" en="Cars 2" zhcn="汽车总动员2(欧)"/>
 	<Game id="SCYZ4Q" en="Cars 2" zhcn="汽车总动员2(欧)"/>
 	<Game id="SCYP4Q" en="Cars 2" zhcn="汽车总动员2(欧)"/>
-	<Game id="SCYE4Q" en="Cars 2" zhcn="汽车总动员2(美)" path="汽车总动员系列\汽车总动员2(美) [SCYE4Q]"/>
+	<Game id="SCYE4Q" en="Cars 2" zhcn="汽车总动员2(美)" collection="影视IP游戏 汽车总动员系列"/>
 	<Game id="R6OX78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(X)"/>
 	<Game id="R6OP78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(欧)"/>
-	<Game id="R6OE78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(美)" path="汽车总动员系列\汽车总动员 奥拉玛大奖赛(美) [R6OE78]"/>
-	<Game id="STOE4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(美)" path="汽车总动员系列\汽车总动员 拖线狂想曲(美) [STOE4Q]"/>
+	<Game id="R6OE78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(美)" collection="影视IP游戏 汽车总动员系列"/>
+	<Game id="STOE4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(美)" collection="影视IP游戏 汽车总动员系列"/>
 	<Game id="STOP4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(欧)"/>
 	<Game id="STOX4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(欧)"/>
 	<Game id="RC2Y78" en="Cars: Mater-National" zhcn="汽车总动员 全国汽车大赛(Y)"/>
 	<Game id="RC2X78" en="Cars: Mater-National" zhcn="汽车总动员 全国汽车大赛(X)"/>
-	<Game id="RC2E78" en="Cars: Mater-National Championship" zhcn="汽车总动员 全国汽车大赛(美)" path="汽车总动员系列\汽车总动员 全国汽车大赛(美) [RC2E78]"/>
+	<Game id="RC2E78" en="Cars: Mater-National Championship" zhcn="汽车总动员 全国汽车大赛(美)" collection="影视IP游戏 汽车总动员系列"/>
 	<Game id="RC2P78" en="Cars: Mater-National Championship" zhcn="汽车总动员 全国汽车大赛(欧)"/>
 	<Game id="SQLPGN" en="Cartoon Network: Punch Time Explosion XL" zhcn="卡通频道大乱斗"/>
 	<Game id="SQLE4Z" en="Cartoon Network: Punch Time Explosion XL" zhcn="卡通频道明星大乱斗 XL(美)" path="done\卡通频道明星大乱斗 XL(美) [SQLE4Z]"/>
