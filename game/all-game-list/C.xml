@@ -173,9 +173,9 @@
 	<Game id="RCQJDA" en="Choro Q Wii" zhcn="Q版赛车 Wii(日)"/>
 	<Game id="R3CP7J" en="Chrysler Classic Racing" zhcn="克莱斯勒经典赛车(欧)"/>
 	<Game id="R3CE20" en="Chrysler Classic Racing" zhcn="克莱斯勒经典赛车(美)" path="done\克莱斯勒经典赛车(美) [R3CE20]"/>
-	<Game id="SCEE6K" en="Chuck E. Cheese's Party Games" zhcn="查克奶酪的派对游戏(美)" path="查克奶酪系列\查克奶酪的派对游戏(美) [SCEE6K]"/>
-	<Game id="SCKE6K" en="Chuck E. Cheese's Sports Games" zhcn="查克奶酪的运动游戏(美)" path="查克奶酪系列\查克奶酪的运动游戏(美) [SCKE6K]"/>
-	<Game id="SATE6K" en="Chuck E. Cheese's Super Collection" zhcn="查克奶酪的超级收藏(美)" path="查克奶酪系列\查克奶酪的超级收藏(美) [SATE6K]"/>
+	<Game id="SCEE6K" en="Chuck E. Cheese's Party Games" zhcn="查克奶酪的派对游戏(美)" collection="查克奶酪系列"/>
+	<Game id="SCKE6K" en="Chuck E. Cheese's Sports Games" zhcn="查克奶酪的运动游戏(美)" collection="查克奶酪系列"/>
+	<Game id="SATE6K" en="Chuck E. Cheese's Super Collection" zhcn="查克奶酪的超级收藏(美)" collection="查克奶酪系列"/>
 	<Game id="RODK01" en="Chumchwora Made in Wario" zhcn="瓦里奥制造 手舞足蹈(韩或中)" collection="中文游戏"/>
 	<Game id="R5QPGT" en="Circus" zhcn="马戏团游戏(欧)"/>
 	<Game id="RQKE41" en="Circus Games" zhcn="马戏团游戏(美)"/>

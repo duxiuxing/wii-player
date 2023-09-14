@@ -45,15 +45,15 @@
 	<Game id="RNUE8P" en="Nancy Drew: The White Wolf of Icicle Creek" zhcn="南茜朱儿 冰溪白狼(美)"/>
 	<Game id="RNNJ4Q" en="Narnia Koku Monogatari: Dai-2 Shou: Caspian Ouji no Tsunobue" zhcn="纳尼亚传奇 凯斯宾王子(日)"/>
 	<Game id="G4NEDA" en="Naruto Gektiou Ninja Taisen! 4 [Eng]" zhcn="Naruto Gektiou Ninja Taisen! 4 [Eng]"/>
-	<Game id="RNEEDA" en="Naruto Shippuden: Clash of Ninja Revolution 3" zhcn="火影忍者疾风传 激斗忍者大战3(美)" path="火影忍者系列\火影忍者疾风传 激斗忍者大战3(美) [RNEEDA]"/>
+	<Game id="RNEEDA" en="Naruto Shippuden: Clash of Ninja Revolution 3" zhcn="火影忍者疾风传 激斗忍者大战3(美)" collection="火影忍者系列"/>
 	<Game id="RNEPDA" en="Naruto Shippuden: Clash of Ninja Revolution 3" zhcn="火影忍者疾风传 激斗忍者大战 3[WiFi](欧)"/>
 	<Game id="RNEEUD" en="Naruto Shippuden: Clash of Ninja Revolution 3 Undub" zhcn="Naruto Shippuden: Clash of Ninja Revolution 3 Undub"/>
 	<Game id="SN4XGT" en="Naruto Shippuden: Dragon Blade Chronicles" zhcn="火影忍者疾风传 龙刃编年史(欧)"/>
 	<Game id="SN4EDA" en="Naruto Shippuden: Dragon Blade Chronicles" zhcn="火影忍者疾风传 龙刃编年史(美)"/>
-	<Game id="RNXJDA" en="Naruto Shippuuden: Gekitou Ninja Taisen! EX" zhcn="火影忍者疾风传 激斗忍者大战EX(日)" path="火影忍者系列\火影忍者疾风传 激斗忍者大战EX(日) [RNXJDA]"/>
-	<Game id="RNYJDA" en="Naruto Shippuuden: Gekitou Ninja Taisen! EX2" zhcn="火影忍者疾风传 激斗忍者大战EX2(日)" path="火影忍者系列\火影忍者疾风传 激斗忍者大战EX2(日) [RNYJDA]"/>
-	<Game id="RNEJDA" en="Naruto Shippuuden: Gekitou Ninja Taisen! EX3" zhcn="火影忍者疾风传 激斗忍者大战EX3(日)" path="火影忍者系列\火影忍者疾风传 激斗忍者大战EX3(日) [RNEJDA]"/>
-	<Game id="SNXJDA" en="Naruto Shippuuden: Gekitou Ninja Taisen! Special" zhcn="火影忍者疾风传 激斗忍者大战特别版(日)" path="火影忍者系列\火影忍者疾风传 激斗忍者大战特别版(日) [SNXJDA]"/>
+	<Game id="RNXJDA" en="Naruto Shippuuden: Gekitou Ninja Taisen! EX" zhcn="火影忍者疾风传 激斗忍者大战EX(日)" collection="火影忍者系列"/>
+	<Game id="RNYJDA" en="Naruto Shippuuden: Gekitou Ninja Taisen! EX2" zhcn="火影忍者疾风传 激斗忍者大战EX2(日)" collection="火影忍者系列"/>
+	<Game id="RNEJDA" en="Naruto Shippuuden: Gekitou Ninja Taisen! EX3" zhcn="火影忍者疾风传 激斗忍者大战EX3(日)" collection="火影忍者系列"/>
+	<Game id="SNXJDA" en="Naruto Shippuuden: Gekitou Ninja Taisen! Special" zhcn="火影忍者疾风传 激斗忍者大战特别版(日)" collection="火影忍者系列"/>
 	<Game id="SN4JDA" en="Naruto Shippuuden: Ryuu Jin-ki" zhcn="火影忍者疾风传 龙刃编年史(日)" path="done5\火影忍者疾风传 龙刃编年史(日) [SN4JDA]"/>
 	<Game id="RNXEDA" en="Naruto: Clash of Ninja Revolution" zhcn="火影忍者疾风传 激斗忍者大战(美)"/>
 	<Game id="RNXPDA" en="Naruto: Clash of Ninja Revolution" zhcn="火影忍者疾风传 激斗忍者大战(欧)"/>
