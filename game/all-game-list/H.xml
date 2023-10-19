@@ -72,7 +72,7 @@
 	<Game id="RHSX36" en="Heatseeker" zhcn="热导追踪(X)"/>
 	<Game id="RHSY36" en="Heatseeker" zhcn="热导追踪(Y)"/>
 	<Game id="RKKE6K" en="Heavenly Guardian" zhcn="雪女大旋风(美)" path="doneh\雪女大旋风(美) [RKKE6K]"/>
-	<Game id="SH4EFP" en="Heavy Fire: Afghanistan" zhcn="战火纷飞 阿富汗(美)" path="doneh\战火纷飞 阿富汗(美) [SH4EFP]"/>
+	<Game id="SH4EFP" en="Heavy Fire: Afghanistan" zhcn="战火纷飞 阿富汗(美)" collection="光枪游戏"/>
 	<Game id="SH4PNK" en="Heavy Fire: Afghanistan" zhcn="Heavy Fire: Afghanistan"/>
 	<Game id="RH2P41" en="Hell's Kitchen" zhcn="地狱厨房(欧)"/>
 	<Game id="RH2E41" en="Hell's Kitchen: The Video Game" zhcn="地狱厨房(美)" path="doneh\地狱厨房(美) [RH2E41]"/>

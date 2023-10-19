@@ -161,12 +161,12 @@
 	<Game id="R24J01" en="Chibi-Robo!" zhcn="用Wii游玩小小机器人(日)"/>
 	<Game id="R24E01" en="Chibi-Robo! [ENG]" zhcn="用Wii游玩小小机器人(日)"/>
 	<Game id="R8LP7J" en="Chicken Blaster" zhcn="爆裂小鸡猎杀者(欧)"/>
-	<Game id="R8LE20" en="Chicken Blaster" zhcn="爆裂小鸡猎杀者(美)" path="done\爆裂小鸡猎杀者(美) [R8LE20]"/>
+	<Game id="R8LE20" en="Chicken Blaster" zhcn="爆裂小鸡猎杀者(美)" collection="光枪游戏"/>
 	<Game id="RCLP4Q" en="Chicken Little: Ace In Action" zhcn="四眼天鸡之动作天王(欧)"/>
 	<Game id="SCREJH" en="Chicken Riot" zhcn="小鸡大暴乱(美)" path="done\小鸡大暴乱(美) [SCREJH]"/>
 	<Game id="SCRPJH" en="Chicken Riot" zhcn="小鸡大暴乱(欧)"/>
 	<Game id="RCSP7J" en="Chicken Shoot" zhcn="射鸡英雄传(欧)"/>
-	<Game id="RCSE20" en="Chicken Shoot" zhcn="射鸡英雄传(美)" path="done\射鸡英雄传(美) [RCSE20]"/>
+	<Game id="RCSE20" en="Chicken Shoot" zhcn="射鸡英雄传(美)" collection="光枪游戏"/>
 	<Game id="RTIJ8P" en="Chin Sports" zhcn="疯狂世界大运动(日)"/>
 	<Game id="RMCECH" en="Chis Kart Wii" zhcn="Chis Kart Wii"/>
 	<Game id="R7FJGD" en="Chocobo no Fushigi na Dungeon: Toki-wasure no Meikyuu" zhcn="陆行鸟 忘却时间的迷宫[WiFi](日)"/>

@@ -114,7 +114,7 @@
 	<Game id="RPJJ99" en="Arc Rise Fantasia" zhcn="弧光幻想曲(日)"/>
 	<Game id="RPJE7U" en="Arc Rise Fantasia" zhcn="弧光幻想曲(美)" path="done3\弧光幻想曲(美) [RPJE7U]"/>
 	<Game id="RPJEUD" en="Arc Rise Fantasia Undub" zhcn="Arc Rise Fantasia Undub"/>
-	<Game id="R74E20" en="Arcade Shooting Gallery" zhcn="商场射击馆(美)" path="done3\商场射击馆(美) [R74E20]"/>
+	<Game id="R74E20" en="Arcade Shooting Gallery" zhcn="商场射击馆(美)" collection="光枪游戏"/>
 	<Game id="R9XP52" en="Arcade Zone" zhcn="街机地带(欧)"/>
 	<Game id="R9XE52" en="Arcade Zone" zhcn="街机地带(美)" path="街机系列\街机地带(美) [R9XE52]"/>
 	<Game id="RT2P7J" en="Arctic Tale" zhcn="极地熊宝贝(欧)"/>
@@ -133,12 +133,12 @@
 	<Game id="R6KP36" en="Ashes Cricket 2009" zhcn="灰烬杯板球赛2009(欧)"/>
 	<Game id="RQXP70" en="Asterix at the Olympic Games" zhcn="奥运会上的阿斯特里克斯(欧)"/>
 	<Game id="R56PG9" en="Astro Boy: The Video Game" zhcn="铁臂阿童木(欧)"/>
-	<Game id="R56EG9" en="Astro Boy: The Video Game" zhcn="铁臂阿童木(美)" path="done3\铁臂阿童木(美) [R56EG9]"/>
+	<Game id="R56EG9" en="Astro Boy: The Video Game" zhcn="铁臂阿童木(美)" collection="影视IP游戏"/>
 	<Game id="R4LXUG" en="Athletic Piggy Party" zhcn="田径猪派对(X)"/>
 	<Game id="R4LPUG" en="Athletic Piggy Party" zhcn="田径猪派对(X)"/>
 	<Game id="SASEWW" en="Atrévete a Soñar" zhcn="Atrévete a Soñar"/>
 	<Game id="S3APGT" en="Attack of the Movies 3D" zhcn="电影空间大冒险(美)"/>
-	<Game id="S3AE5G" en="Attack of the Movies 3D" zhcn="电影空间大冒险(美)" path="done3\电影空间大冒险(美) [S3AE5G]"/>
+	<Game id="S3AE5G" en="Attack of the Movies 3D" zhcn="电影空间大冒险(美)" collection="光枪游戏"/>
 	<Game id="RLVE78" en="Avatar: The Last Airbender" zhcn="降世神通最后的空气大师(美)"/>
 	<Game id="RV9E78" en="Avatar: The Last Airbender - Into the Inferno" zhcn="降世神通 最后的气宗 前往地狱(美)"/>
 	<Game id="RVAE78" en="Avatar: The Last Airbender - The Burning Earth" zhcn="降世神通 燃烧的大地(美)"/>

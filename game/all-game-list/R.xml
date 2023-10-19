@@ -99,11 +99,11 @@
 	<Game id="S2RPNK" en="Reload" zhcn="目标狙击(美)"/>
 	<Game id="SRKPNK" en="Remington Dangerous Animals" zhcn="Remington Dangerous Animals"/>
 	<Game id="SBHPNK" en="Remington Great American Bird Hunt" zhcn="雷明顿美洲猎鸟记(欧)"/>
-	<Game id="SBHEFP" en="Remington Great American Bird Hunt" zhcn="雷明顿美洲猎鸟记(美)" path="done2\雷明顿美洲猎鸟记(美) [SBHEFP]"/>
+	<Game id="SBHEFP" en="Remington Great American Bird Hunt" zhcn="雷明顿美洲猎鸟记(美)" collection="光枪游戏"/>
 	<Game id="SS7URN" en="Remington Super Slam Hunting: Africa" zhcn="雷明顿超级大满贯狩猎 非洲(英)"/>
-	<Game id="SS7EFP" en="Remington Super Slam Hunting: Africa" zhcn="雷明顿超级大满贯狩猎 非洲(美)"/>
-	<Game id="SRKEFP" en="Remington Super Slam Hunting: Alaska" zhcn="雷明顿超级大满贯狩猎 阿拉斯加(美)"/>
-	<Game id="SBSEFP" en="Remington Super Slam Hunting: North America" zhcn="雷明顿狩猎北美超级大满贯(美)"/>
+	<Game id="SS7EFP" en="Remington Super Slam Hunting: Africa" zhcn="雷明顿超级大满贯狩猎 非洲(美)" collection="光枪游戏"/>
+	<Game id="SRKEFP" en="Remington Super Slam Hunting: Alaska" zhcn="雷明顿超级大满贯狩猎 阿拉斯加(美)" collection="光枪游戏"/>
+	<Game id="SBSEFP" en="Remington Super Slam Hunting: North America" zhcn="雷明顿超级大满贯狩猎 北美(美)" collection="光枪游戏"/>
 	<Game id="SBSURN" en="Remington Super Slam Hunting: North America" zhcn="雷明顿狩猎北美超级大满贯(英)"/>
 	<Game id="SMNP60" en="Remixed Super Mario Bros. Wii" zhcn="Remixed Super Mario Bros. Wii"/>
 	<Game id="SMNE60" en="Remixed Super Mario Bros. Wii" zhcn="Remixed Super Mario Bros. Wii"/>

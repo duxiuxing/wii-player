@@ -113,7 +113,7 @@
 	<Game id="SGBPGT" en="Greg Hastings Paintball 2" zhcn="Greg Hastings Paintball 2"/>
 	<Game id="SG9EYC" en="Gremlins: Gizmo" zhcn="捣蛋鬼 小魔怪(美)" path="done7\捣蛋鬼 小魔怪(美) [SG9EYC]"/>
 	<Game id="RXLP41" en="Grey's Anatomy: The Video Game" zhcn="医生格蕾(欧)"/>
-	<Game id="RXLE41" en="Grey's Anatomy: The Video Game" zhcn="实习医生格蕾(美)" path="done7\实习医生格蕾(美) [RXLE41]"/>
+	<Game id="RXLE41" en="Grey's Anatomy: The Video Game" zhcn="实习医生格蕾(美)" collection="影视IP游戏"/>
 	<Game id="R9KE20" en="Groovin' Blocks" zhcn="律动方块(美)" path="done7\律动方块(美) [R9KE20]"/>
 	<Game id="RG2PGT" en="Guilty Gear XX Accent Core" zhcn="罪恶装备XX(欧)"/>
 	<Game id="RG2JJF" en="Guilty Gear XX Accent Core" zhcn="罪恶装备XX ΛCore(日)"/>
@@ -255,7 +255,7 @@
 	<Game id="SGYPNJ" en="Gummy Bears Mini Golf" zhcn="橡胶熊迷你高尔夫(欧)"/>
 	<Game id="SGYESZ" en="Gummy Bears Mini Golf" zhcn="小熊软糖 迷你高尔夫(美)" path="done7\小熊软糖 迷你高尔夫(美) [SGYESZ]"/>
 	<Game id="SA7ESZ" en="Gummy Bears: Magical Medallion" zhcn="小熊软糖 魔法勋章(美)" path="done7\小熊软糖 魔法勋章(美) [SA7ESZ]"/>
-	<Game id="SQDE8P" en="Gunblade NY &amp; LA Machineguns: Arcade Hits Pack" zhcn="纽约风暴与洛杉矶机枪街机版(美)" path="街机系列\纽约风暴与洛杉矶机枪街机版(美) [SQDE8P]"/>
+	<Game id="SQDE8P" en="Gunblade NY &amp; LA Machineguns: Arcade Hits Pack" zhcn="纽约风暴与洛杉矶机枪街机版(美)" collection="光枪游戏"/>
 	<Game id="SQDP8P" en="Gunblade NY &amp; LA Machineguns: Arcade Hits Pack" zhcn="纽约风暴与洛杉矶机枪街机版[WiFi](欧)"/>
 	<Game id="SW7EVN" en="Gunslingers" zhcn="西部英雄(美)" path="done7\西部英雄(美) [SW7EVN]"/>
 </Game-List>

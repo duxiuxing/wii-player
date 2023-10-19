@@ -24,10 +24,10 @@
 	<Game id="RNAE69" en="NCAA Football 09" zhcn="美国大学橄榄球2009(美)"/>
 	<Game id="SNBE41" en="NCIS: The Game" zhcn="重返犯罪现场 NCIS(美)"/>
 	<Game id="SNBP41" en="NCIS: The Game" zhcn="重返犯罪现场 NCIS(欧)" path="done2\重返犯罪现场 NCIS(欧) [SNBP41]"/>
-	<Game id="RNKE69" en="NERF N-Strike" zhcn="玩具枪大战(美)"/>
+	<Game id="RNKE69" en="NERF N-Strike" zhcn="玩具枪大作战(美)" collection="光枪游戏"/>
 	<Game id="RNKP69" en="NERF N-Strike" zhcn="玩具枪大战(欧)"/>
-	<Game id="SN2E69" en="NERF N-Strike Double Blast Bundle" zhcn="玩具枪大战 双重爆破合集(美)"/>
-	<Game id="RL6E69" en="NERF N-Strike Elite" zhcn="玩具枪大作战2 精英(美)"/>
+	<Game id="SN2E69" en="NERF N-Strike Double Blast Bundle" zhcn="玩具枪大作战 双重爆破合集(美)" collection="光枪游戏"/>
+	<Game id="RL6E69" en="NERF N-Strike Elite" zhcn="玩具枪大作战 精英(美)" collection="光枪游戏"/>
 	<Game id="RQIJ01" en="NHK Kouhaku Quiz Gassen" zhcn="NHK红白猜谜合战(日)"/>
 	<Game id="R7OE54" en="NHL 2K10" zhcn="北美冰球联盟2010[MP][WiFi](美)"/>
 	<Game id="R7OP54" en="NHL 2K10" zhcn="北美冰球联盟2010[MP][WiFi](欧)"/>
