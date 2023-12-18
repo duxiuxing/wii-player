@@ -83,12 +83,12 @@
 	<Game id="RWSJ01" en="Mario &amp; Sonic at Bejing Olympic" zhcn="马里奥与索尼克在北京奥运(日)"/>
 	<Game id="SIIJ01" en="Mario &amp; Sonic at London Olympic" zhcn="马里奥与索尼克在伦敦奥运[WiFi](日)"/>
 	<Game id="ROLJ01" en="Mario &amp; Sonic at Vancouver Olympic" zhcn="马里奥与索尼克在温哥华冬季奥运(日)"/>
-	<Game id="SIIP8P" en="Mario &amp; Sonic at the London 2012 Olympic Games" zhcn="马里奥与索尼克在伦敦奥运(欧)" collection="运动会系列"/>
+	<Game id="SIIP8P" en="Mario &amp; Sonic at the London 2012 Olympic Games" zhcn="马里奥与索尼克在伦敦奥运(欧)" collection="运动游戏 运动会"/>
 	<Game id="SIIE8P" en="Mario &amp; Sonic at the London 2012 Olympic Games" zhcn="马里奥与索尼克在伦敦奥运[WiFi](美)"/>
-	<Game id="RWSE8P" en="Mario &amp; Sonic at the Olympic Games" zhcn="马里奥与索尼克在北京奥运(美)" collection="运动会系列"/>
+	<Game id="RWSE8P" en="Mario &amp; Sonic at the Olympic Games" zhcn="马里奥与索尼克在北京奥运(美)" collection="运动游戏 运动会"/>
 	<Game id="RWSP8P" en="Mario &amp; Sonic at the Olympic Games" zhcn="马里奥与索尼克在奥运会[WiFi](欧)"/>
 	<Game id="ROLE8P" en="Mario &amp; Sonic at the Olympic Winter Games" zhcn="马里奥与索尼克在温哥华冬奥会[WiFi][平衡板](美)"/>
-	<Game id="ROLP8P" en="Mario &amp; Sonic at the Olympic Winter Games" zhcn="马里奥与索尼克在温哥华冬奥(欧)" collection="运动会系列"/>
+	<Game id="ROLP8P" en="Mario &amp; Sonic at the Olympic Winter Games" zhcn="马里奥与索尼克在温哥华冬奥(欧)" collection="运动游戏 运动会"/>
 	<Game id="RMCE96" en="Mario Kart 6" zhcn="Mario Kart 6"/>
 	<Game id="RMCERE" en="Mario Kart 64Re" zhcn="Mario Kart 64Re"/>
 	<Game id="RMCEB6" en="Mario Kart 7 JY" zhcn="Mario Kart 7 JY"/>
@@ -208,7 +208,7 @@
 	<Game id="RMAP01" en="Mario Power Tennis" zhcn="用Wii玩马里奥网球GC(欧)" path="专项运动系列 乒乓球和网球\用Wii玩马里奥网球GC(欧) [RMAP01]"/>
 	<Game id="RMAE01" en="Mario Power Tennis" zhcn="用Wii玩马里奥网球GC(美)"/>
 	<Game id="RMKJ01" en="Mario Sports Mix" zhcn="马里奥大运动会(日)"/>
-	<Game id="RMKE01" en="Mario Sports Mix" zhcn="马里奥大运动会(美)" collection="运动会系列"/>
+	<Game id="RMKE01" en="Mario Sports Mix" zhcn="马里奥大运动会(美)" collection="运动游戏 运动会"/>
 	<Game id="RMKP01" en="Mario Sports Mix" zhcn="马里奥大运动会(欧)"/>
 	<Game id="R4QJ01" en="Mario Strikers Charged" zhcn="马里奥激情足球(日)"/>
 	<Game id="R4QE01" en="Mario Strikers Charged" zhcn="马里奥激情足球(美)" path="专项运动系列 足球\马里奥激情足球(美) [R4QE01]"/>

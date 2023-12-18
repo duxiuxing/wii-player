@@ -6,7 +6,8 @@
 	<Game id="SFAJGD" en="Hagane no Renkinjutsushi: Fullmetal Alchemist: Tasogare no Shoujo" zhcn="钢之炼金术师 黄昏少女(日)"/>
 	<Game id="RHIJJ9" en="Hajime no Ippo Revolution" zhcn="第一神拳 革命(日)"/>
 	<Game id="RHAJ01" en="Hajimete no Wii" zhcn="Wii第一次接触(日)"/>
-	<Game id="RH4XUG" en="Hamster Heroes" zhcn="仓鼠英雄(X)"/>
+    <Game id="RHAW01" en="Hajimete no Wii" zhcn="Wii第一次接触(中)" collection="中文游戏"/>    
+    <Game id="RH4XUG" en="Hamster Heroes" zhcn="仓鼠英雄(X)"/>
 	<Game id="RHYJAF" en="Haneru no Tobira Wii: Giri Girissu" zhcn="跳跃之门Wii 极限挑战(日)"/>
 	<Game id="RHQE4Q" en="Hannah Montana: Spotlight World Tour" zhcn="汉娜·蒙塔娜 聚光灯下的世界巡演(美)" path="影视和动漫系列\汉娜·蒙塔娜 聚光灯下的世界巡演(美) [RHQE4Q]"/>
 	<Game id="RHQY4Q" en="Hannah Montana: Spotlight World Tour" zhcn="孟汉娜万众瞩目全球巡演歌唱大赛(Y)"/>

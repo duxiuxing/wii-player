@@ -135,7 +135,7 @@
 	<Game id="RSPE01" en="Wii Sports" zhcn="Wii运动(美)"/>
 	<Game id="RSPJ01" en="Wii Sports" zhcn="Wii运动(日)"/>
 	<Game id="RSPK01" en="Wii Sports" zhcn="Wii运动(韩)"/>
-	<Game id="RSPW01" en="Wii Sports" zhcn="Wii运动(中)" collection="运动会系列"/>
+	<Game id="RSPW01" en="Wii Sports" zhcn="Wii运动(中)" collection="运动游戏 运动会"/>
 	<Game id="RSPP01" en="Wii Sports" zhcn="Wii运动(欧)"/>
 	<Game id="SP2P01" en="Wii Sports + Wii Sports Resort" zhcn="Wii运动+Wii运动 度假胜地(欧)"/>
 	<Game id="SP2E01" en="Wii Sports + Wii Sports Resort" zhcn="Wii运动+Wii运动 度假胜地(欧)"/>
@@ -143,7 +143,7 @@
 	<Game id="RZTJ01" en="Wii Sports Resort" zhcn="Wii运动 度假胜地[MP](日)"/>
 	<Game id="RZTK01" en="Wii Sports Resort" zhcn="Wii运动 度假胜地[MP](韩)"/>
 	<Game id="RZTP01" en="Wii Sports Resort" zhcn="Wii运动 度假胜地[MP](欧)"/>
-	<Game id="RZTW01" en="Wii Sports Resort" zhcn="Wii运动 度假胜地(中)" collection="运动会系列"/>
+	<Game id="RZTW01" en="Wii Sports Resort" zhcn="Wii运动 度假胜地(中)" collection="运动游戏 运动会"/>
 	<Game id="RZTE02" en="Wii Sports Resort - Storm Island" zhcn="Wii Sports Resort - Storm Island"/>
 	<Game id="RSPE03" en="Wii Sports: Storm City" zhcn="Wii Sports: Storm City"/>
 	<Game id="RAAE01" en="Wii Startup Disc" zhcn="Wii Startup Disc"/>
@@ -344,8 +344,8 @@
 	<Game id="RZOE78" en="World of Zoo" zhcn="动物园世界(美)"/>
 	<Game id="RWMP78" en="Worms: A Space Oddity" zhcn="百战天虫 怪异空间(欧)"/>
 	<Game id="RWME78" en="Worms: A Space Oddity" zhcn="百战天虫 怪异空间(美)"/>
-	<Game id="SILP78" en="Worms: Battle Islands" zhcn="百战天虫 战斗岛[WiFi](欧)"/>
-	<Game id="SILE78" en="Worms: Battle Islands" zhcn="百战天虫 战斗岛[WiFi](美)"/>
+	<Game id="SILP78" en="Worms: Battle Islands" zhcn="百战天虫 战斗岛(欧)"/>
+	<Game id="SILE78" en="Worms: Battle Islands" zhcn="百战天虫 战斗岛(美)"/>
 	<Game id="S6RP52" en="Wreck-It Ralph" zhcn="无敌破坏王(欧)"/>
 	<Game id="S6RE52" en="Wreck-It Ralph" zhcn="无敌破坏王(美)"/>
 </Game-List>

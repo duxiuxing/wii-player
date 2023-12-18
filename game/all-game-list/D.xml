@@ -34,7 +34,7 @@
 	<Game id="RW6PA4" en="Dance Dance Revolution: Winx Club" zhcn="劲舞革命 美少女俱乐部(欧)" collection="劲舞革命系列"/>
 	<Game id="SDZP41" en="Dance Juniors" zhcn="舞力全开 儿童版(欧)"/>
 	<Game id="R9QPNG" en="Dance Party Club Hits" zhcn="舞会俱乐部精选(欧)"/>
-	<Game id="R9RPNG" en="Dance Party Pop Hits" zhcn="舞蹈派对 流行精选[跳舞毯](欧)"/>
+	<Game id="R9RPNG" en="Dance Party Pop Hits" zhcn="舞蹈派对 流行精选(欧)"/>
 	<Game id="SDEPGT" en="Dance Sensation!" zhcn="舞感[MP](美)"/>
 	<Game id="SDEE5G" en="Dance Sensation!" zhcn="舞感(美)" path="加速器游戏\舞感(美) [SDEE5G]"/>
 	<Game id="SBYP41" en="Dance on Broadway" zhcn="起舞百老汇(欧)"/>
@@ -64,7 +64,7 @@
 	<Game id="RINP08" en="Dead Rising: Chop Till You Drop" zhcn="丧尸围城 僵尸的祭品(欧)"/>
 	<Game id="RZJJ13" en="Dead Space: Extraction" zhcn="死亡太空 撤离(日)"/>
 	<Game id="RZJD69" en="Dead Space: Extraction" zhcn="死亡空间 撤离(德)"/>
-	<Game id="RZJE69" en="Dead Space: Extraction" zhcn="死亡太空 撤离(美)" path="done5\死亡太空 撤离(美) [RZJE69]"/>
+	<Game id="RZJE69" en="Dead Space: Extraction" zhcn="死亡太空 撤离(美)" collection="光枪游戏"/>
 	<Game id="RZJP69" en="Dead Space: Extraction" zhcn="死亡太空 撤离(欧)"/>
 	<Game id="SOCE4Z" en="Deadliest Catch: Sea of Chaos" zhcn="致命捕捞 混乱海域(美)" path="done5\致命捕捞 混乱海域(美) [SOCE4Z]"/>
 	<Game id="RDCE78" en="Deadly Creatures" zhcn="致命生物(美)" path="done5\致命生物(美) [RDCE78]"/>
@@ -79,11 +79,11 @@
 	<Game id="R2SJ18" en="Deca Sporta 2: Wii de Sports 10 Shumoku!" zhcn="德卡运动会2[WiFi](日)"/>
 	<Game id="S3DJ18" en="Deca Sporta 3: Wii de Sports 10 Shumoku!" zhcn="德卡运动会3[MP][WiFi](日)"/>
 	<Game id="RDXJ18" en="Deca Sporta: Wii de Sports 10 Shumoku!" zhcn="德卡运动会(日)"/>
-	<Game id="RDXE18" en="Deca Sports" zhcn="德卡运动会(美)" collection="运动会系列"/>
+	<Game id="RDXE18" en="Deca Sports" zhcn="德卡运动会(美)" collection="运动游戏 运动会"/>
 	<Game id="DXSE18" en="Deca Sports (Demo)" zhcn="德卡运动会 试玩版(美)"/>
-	<Game id="R2SE18" en="Deca Sports 2" zhcn="德卡运动会2(美)" collection="运动会系列"/>
+	<Game id="R2SE18" en="Deca Sports 2" zhcn="德卡运动会2(美)" collection="运动游戏 运动会"/>
 	<Game id="D2SE18" en="Deca Sports 2 (Demo)" zhcn="德卡运动会2 试玩版(美)"/>
-	<Game id="S3DE18" en="Deca Sports 3" zhcn="德卡运动会3(美)" collection="运动会系列"/>
+	<Game id="S3DE18" en="Deca Sports 3" zhcn="德卡运动会3(美)" collection="运动游戏 运动会"/>
 	<Game id="D3DE18" en="Deca Sports 3 (Demo)" zhcn="德卡运动会3 试玩版(美)"/>
 	<Game id="SLEE78" en="Deepak Chopra's Leela" zhcn="乔布拉 促进大脑发展的冥想游戏(美)" path="done5\乔布拉 促进大脑发展的冥想游戏(美) [SLEE78]"/>
 	<Game id="SLEP78" en="Deepak Chopra's Leela" zhcn="乔布拉 促进大脑发展的冥想游戏(欧)"/>

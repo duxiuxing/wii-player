@@ -245,12 +245,12 @@
 	<Game id="SRBP4Q" en="SingItStar: R&amp;B" zhcn="自制 唱吧 下载版(欧)"/>
 	<Game id="R6FE41" en="Six Flags Fun Park" zhcn="六旗主题乐园(美)"/>
 	<Game id="R6FERS" en="Six Flags Fun Park" zhcn="六旗主题乐园(美)"/>
-	<Game id="RHUE20" en="Skate City Heroes" zhcn="轮滑城市英雄[平衡板](美)"/>
+	<Game id="RHUE20" en="Skate City Heroes" zhcn="轮滑城市英雄(美)" collection="平衡板游戏"/>
 	<Game id="RHUP7J" en="Skate City Heroes" zhcn="轮滑城市英雄[平衡板](欧)"/>
 	<Game id="RVSE69" en="Skate It" zhcn="极限滑板[平衡板](美)"/>
 	<Game id="RVSP69" en="Skate It" zhcn="极限滑板[平衡板](欧)"/>
 	<Game id="RVSJ13" en="Skate It" zhcn="极限滑板[平衡板](日)"/>
-	<Game id="RUME5Z" en="Ski and Shoot" zhcn="滑雪射击[平衡板](美)"/>
+	<Game id="RUME5Z" en="Ski and Shoot" zhcn="滑雪射击(美)" collection="平衡板游戏"/>
 	<Game id="R87EVN" en="Ski-Doo: Snowmobile Challenge" zhcn="斯基度雪地车挑战赛(美)"/>
 	<Game id="RMCEST" en="Skipper's 200Kmh Distribution" zhcn="Skipper's 200Kmh Distribution"/>
 	<Game id="RQRJAF" en="Sky Crawlers: Innocent Aces" zhcn="空中杀手 无罪王牌(日)"/>
@@ -280,7 +280,7 @@
 	<Game id="SK8X52" en="Skylanders: Trap Team" zhcn="Skylanders: Trap Team"/>
 	<Game id="R3KP6N" en="Skyscraper" zhcn="摩天大楼(欧)"/>
 	<Game id="R9YES5" en="Sled Shred" zhcn="撕裂雪橇(美)"/>
-	<Game id="R9LE41" en="Sleepover Party" zhcn="女孩生活 通宵派对[平衡板](美)"/>
+	<Game id="R9LE41" en="Sleepover Party" zhcn="女孩生活 通宵派对(美)" collection="平衡板游戏"/>
 	<Game id="RMCES1" en="Smacpack" zhcn="Smacpack"/>
 	<Game id="R67E6K" en="Smart Series Presents: JaJa's Adventure" zhcn="聪明系列出品 佳佳的冒险(美)" path="done2\聪明系列出品 佳佳的冒险(美) [R67E6K]"/>
 	<Game id="RP2P69" en="Smarty Pants" zhcn="冷知识游戏(欧)"/>
@@ -524,9 +524,9 @@
 	<Game id="R9MPFR" en="Summer Athletics 2009" zhcn="夏季运动会2009[平衡板](欧)"/>
 	<Game id="RU3E5Z" en="Summer Athletics: The Ultimate Challenge" zhcn="夏季田径运动会(美)"/>
 	<Game id="RE6PRT" en="Summer Challenge: Athletics Tournament" zhcn="夏季田径邀请赛的挑战(欧)"/>
-	<Game id="RI6ENR" en="Summer Sports 2: Island Sports Party" zhcn="夏季运动会2 小岛运动会(美)" collection="运动会系列"/>
+	<Game id="RI6ENR" en="Summer Sports 2: Island Sports Party" zhcn="夏季运动会2 小岛运动会(美)" collection="运动游戏 运动会"/>
 	<Game id="RI6P41" en="Summer Sports Party" zhcn="夏季运动聚会(欧)"/>
-	<Game id="RSUENR" en="Summer Sports: Paradise Island" zhcn="夏季运动会 天堂岛(美)" collection="运动会系列"/>
+	<Game id="RSUENR" en="Summer Sports: Paradise Island" zhcn="夏季运动会 天堂岛(美)" collection="运动游戏 运动会"/>
 	<Game id="SSJPKM" en="Summer Stars 2012" zhcn="夏季明星 2012(欧)"/>
 	<Game id="SSJEJJ" en="Summer Stars 2012" zhcn="夏季明星 2012(美)"/>
 	<Game id="SMNECB" en="Super Classic Mario Bros. Wii" zhcn="Super Classic Mario Bros. Wii"/>

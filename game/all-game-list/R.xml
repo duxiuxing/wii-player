@@ -79,7 +79,7 @@
 	<Game id="RTEHMR" en="Real Stories: Veterinaire" zhcn="我的宠物医院(荷)"/>
 	<Game id="RVREFS" en="Rebel Raiders: Operation Nighthawk" zhcn="叛乱袭击者 夜鹰行动(美)"/>
 	<Game id="RVRPKG" en="Rebel Raiders: Operation Nighthawk" zhcn="叛乱袭击者 夜鹰行动(欧)"/>
-	<Game id="SRRENR" en="Rec Room Games" zhcn="消遣游戏室[MP](美)"/>
+	<Game id="SRRENR" en="Rec Room Games" zhcn="消遣游戏室(美)" collection="加速器游戏"/>
 	<Game id="REDJ41" en="Red Steel" zhcn="赤铁(日)"/>
 	<Game id="REDE41" en="Red Steel" zhcn="赤色钢铁(美)"/>
 	<Game id="REDP41" en="Red Steel" zhcn="赤铁(欧)"/>
@@ -136,7 +136,7 @@
 	<Game id="R64E03" en="RiiMajor - Song Pack 2" zhcn="RiiMajor - Song Pack 2"/>
 	<Game id="R64E04" en="RiiMajor - Song Pack 3" zhcn="RiiMajor - Song Pack 3"/>
 	<Game id="RKOJBL" en="Rilakkuma: Minna de Goyururi Seikatsu" zhcn="懒懒熊 一起来悠闲生活[平衡板](日)"/>
-	<Game id="R8OE54" en="Ringling Bros. and Barnum &amp; Bailey Circus" zhcn="玲玲马戏团[平衡板](美)"/>
+	<Game id="R8OE54" en="Ringling Bros. and Barnum &amp; Bailey Circus" zhcn="玲玲马戏团(美)" collection="平衡板游戏"/>
 	<Game id="SRIE78" en="Rio" zhcn="里约大冒险(美)"/>
 	<Game id="SRIP78" en="Rio" zhcn="里约大冒险(欧)"/>
 	<Game id="SU7EG9" en="Rise of the Guardians" zhcn="守护者联盟(美)"/>

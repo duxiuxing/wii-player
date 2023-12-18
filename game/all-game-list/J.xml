@@ -82,11 +82,12 @@
 	<Game id="S2UP41" en="Just Dance 2020" zhcn="舞力全开2020(欧)"/>
 	<Game id="S2PE41" en="Just Dance 2020 Plus" zhcn="舞力全开2020 Plus"/>
 	<Game id="S85P41" en="Just Dance 2021" zhcn="舞力全开2021"/>
-	<Game id="S85E41" en="Just Dance 2021" zhcn="舞力全开2021" path="舞力全开年度系列\舞力全开2021 [S85E41]" collection="舞力全开年度版本"/>
-	<Game id="S68E41" en="Just Dance 2022" zhcn="舞力全开2022" path="舞力全开年度系列\舞力全开2022 [S68E41]" collection="舞力全开年度版本"/>
-	<Game id="S3EE41" en="Just Dance 2023" zhcn="舞力全开2023" path="舞力全开年度系列\舞力全开2023 [S3EE41]" collection="舞力全开年度版本"/>
+	<Game id="S85E41" en="Just Dance 2021" zhcn="舞力全开2021" collection="舞力全开年度版本"/>
+	<Game id="S68E41" en="Just Dance 2022" zhcn="舞力全开2022" collection="舞力全开年度版本"/>
+	<Game id="S3EE41" en="Just Dance 2023" zhcn="舞力全开2023" collection="舞力全开年度版本"/>
 	<Game id="S7EE41" en="Just Dance 2023 - Wii Edition" zhcn="舞力全开2023"/>
-	<Game id="SD2Y41" en="Just Dance 2: Best Buy Edition" zhcn="舞力全开2 百思买版(美)" path="舞力全开年度系列\舞力全开2 百思买版(美) [SD2Y41]" collection="舞力全开年度版本"/>
+    <Game id="J4EE41" en="Just Dance 2024 Edition" zhcn="舞力全开2024" collection="舞力全开年度版本"/>
+    <Game id="SD2Y41" en="Just Dance 2: Best Buy Edition" zhcn="舞力全开2 百思买版(美)" path="舞力全开年度系列\舞力全开2 百思买版(美) [SD2Y41]" collection="舞力全开年度版本"/>
 	<Game id="SJ9P41" en="Just Dance 2: Extra Songs" zhcn="舞力全开2 额外的歌曲(欧)" path="舞力全开年度系列\舞力全开2 额外的歌曲(欧) [SJ9P41]" collection="舞力全开年度版本"/>
 	<Game id="SJDE41" en="Just Dance 3" zhcn="舞力全开3(美)"/>
 	<Game id="SJDK41" en="Just Dance 3" zhcn="舞力全开3(韩)"/>

@@ -44,7 +44,7 @@
 	<Game id="STKE08" en="Tatsunoko vs. Capcom: Ultimate All-Stars" zhcn="龙之子对卡普空 究极全明星(美)" path="done2\龙之子对卡普空 究极全明星(美) [STKE08]"/>
 	<Game id="STKP08" en="Tatsunoko vs. Capcom: Ultimate All-Stars" zhcn="龙之子对卡普空 究极全明星(欧)"/>
 	<Game id="R7ZE41" en="Team Elimination Games" zhcn="团体淘汰赛[平衡板](美)"/>
-	<Game id="SX7E52" en="Teenage Mutant Ninja Turtles" zhcn="忍者神龟"/>
+	<Game id="SX7E52" en="Teenage Mutant Ninja Turtles" zhcn="忍者神龟(美)"/>
 	<Game id="SX7P52" en="Teenage Mutant Ninja Turtles" zhcn="Teenage Mutant Ninja Turtles"/>
 	<Game id="R2TP41" en="Teenage Mutant Ninja Turtles: Smash-Up" zhcn="忍者神龟 毁灭[WiFi](欧)"/>
 	<Game id="R2TE41" en="Teenage Mutant Ninja Turtles: Smash-Up" zhcn="忍者神龟 毁灭[WiFi](美)"/>
@@ -56,9 +56,9 @@
 	<Game id="RTNE41" en="Tenchu: Shadow Assassins" zhcn="天诛4(美)"/>
 	<Game id="SROJQC" en="Tenkuu no Kishi Rodea" zhcn="Tenkuu no Kishi Rodea"/>
 	<Game id="RK5K01" en="Teolsil Kirby Iyagi" zhcn="Teolsil Kirby Iyagi"/>
-	<Game id="STEETR" en="Tetris Party Deluxe" zhcn="俄罗斯方块派对 豪华版[WiFi][平衡板](美)"/>
+	<Game id="STEETR" en="Tetris Party Deluxe" zhcn="俄罗斯方块派对 豪华版(美)" collection="平衡板游戏"/>
 	<Game id="STEPTR" en="Tetris Party Deluxe" zhcn="俄罗斯方块派对 豪华版[WiFi][平衡板](欧)"/>
-	<Game id="STEJ18" en="Tetris Party Premium" zhcn="俄罗斯方块派对奖金(日或中)" path="平衡板游戏\俄罗斯方块派对奖金(中) [STEJ18]"/>
+	<Game id="STEJ18" en="Tetris Party Premium" zhcn="俄罗斯方块派对奖金(日或中)" collection="平衡板游戏"/>
 	<Game id="RXDD4Q" en="Th!nk Fast: The Ultimate Trivia Showdown" zhcn="灵机一动(德)"/>
 	<Game id="SP3E41" en="The $1,000,000 Pyramid" zhcn="百万美金金字塔(美)" path="done3\百万美金金字塔(美) [SP3E41]"/>
 	<Game id="STNE41" en="The Adventures of Tintin: The Game" zhcn="丁丁历险记 独角兽号的秘密(美)" path="done3\丁丁历险记 独角兽号的秘密(美) [STNE41]"/>
@@ -220,7 +220,7 @@
 	<Game id="RXRERS" en="The Tale of Despereaux" zhcn="浪漫鼠德佩罗(美)"/>
 	<Game id="RXRXRS" en="The Tale of Despereaux" zhcn="浪漫的老鼠(欧)"/>
 	<Game id="RXRPRS" en="The Tale of Despereaux" zhcn="浪漫鼠德佩罗(欧)"/>
-	<Game id="SDDPML" en="The Ultimate Battle of the Sexes" zhcn="两性终极之战[平衡板](欧)"/>
+	<Game id="SDDPML" en="The Ultimate Battle of the Sexes" zhcn="两性终极之战(欧)" collection="平衡板游戏"/>
 	<Game id="SQTPML" en="The Ultimate Battle of the Sexes: Quizz &amp; Play!" zhcn="The Ultimate Battle of the Sexes: Quizz &amp; Play!"/>
 	<Game id="R94PMR" en="The Ultimate Red Ball Challenge" zhcn="终极红球挑战赛(欧)"/>
 	<Game id="R94XMR" en="The Ultimate Red Ball Challenge" zhcn="终极红球挑战赛(X)"/>
@@ -341,10 +341,10 @@
 	<Game id="S7EE52" en="Transformers: Ultimate Battle Edition" zhcn="Transformers: Ultimate Battle Edition"/>
 	<Game id="S7EP52" en="Transformers: Ultimate Battle Edition" zhcn="Transformers: Ultimate Battle Edition"/>
 	<Game id="RK2P01" en="Trauma Center: New Blood" zhcn="超执刀 新血[WiFi](欧)"/>
-	<Game id="RK2EEB" en="Trauma Center: New Blood" zhcn="超执刀 新血[WiFi](美)"/>
+	<Game id="RK2EEB" en="Trauma Center: New Blood" zhcn="超执刀 新血(美)" collection="done3"/>
 	<Game id="RK2EUD" en="Trauma Center: New Blood Undub" zhcn="Trauma Center: New Blood Undub"/>
 	<Game id="RKDP01" en="Trauma Center: Second Opinion" zhcn="超执刀 再次执刀(欧)"/>
-	<Game id="RKDEEB" en="Trauma Center: Second Opinion" zhcn="超执刀 再次执刀(美)" path="done3\超执刀 再次执刀(美) [RKDEEB]"/>
+	<Game id="RKDEEB" en="Trauma Center: Second Opinion" zhcn="超执刀 再次执刀(美)" collection="done3"/>
 	<Game id="RKDEUD" en="Trauma Center: Second Opinion Undub" zhcn="Trauma Center: Second Opinion Undub"/>
 	<Game id="SK3EEB" en="Trauma Team" zhcn="超执刀 创伤小队(美)"/>
 	<Game id="SK3EUD" en="Trauma Team Undub" zhcn="Trauma Team Undub"/>

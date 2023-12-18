@@ -107,8 +107,8 @@
 	<Game id="SOBD7K" en="Bibi Blocksberg 2" zhcn="Bibi Blocksberg 2"/>
 	<Game id="RVEFMR" en="Bienvenue Chez Les Ch'tis" zhcn="欢迎来到北方(法)"/>
 	<Game id="RVVP78" en="Big Beach Sports" zhcn="大沙滩运动(欧)"/>
-	<Game id="RVVE78" en="Big Beach Sports" zhcn="大沙滩运动(美)" collection="运动会系列"/>
-	<Game id="SV2E78" en="Big Beach Sports 2" zhcn="大沙滩运动2(美)" collection="运动会系列"/>
+	<Game id="RVVE78" en="Big Beach Sports" zhcn="大沙滩运动(美)" collection="运动游戏 运动会"/>
+	<Game id="SV2E78" en="Big Beach Sports 2" zhcn="大沙滩运动2(美)" collection="运动游戏 运动会"/>
 	<Game id="SV2P78" en="Big Beach Sports 2" zhcn="大沙滩运动2[平衡板](欧)"/>
 	<Game id="RYWP01" en="Big Brain Academy for Wii" zhcn="轻松头脑教室(欧)"/>
 	<Game id="RYWE01" en="Big Brain Academy: Wii Degree" zhcn="轻松头脑教室(美)" path="done3\轻松头脑教室(美) [RYWE01]"/>
@@ -148,7 +148,7 @@
 	<Game id="RBLJ8P" en="Bleach Wii: Hakujin Kirameku Rondo" zhcn="死神 白刃闪耀圆舞曲(日)"/>
 	<Game id="RBLE8P" en="Bleach: Shattered Blade" zhcn="死神 白刃闪耀圆舞曲(美)" path="done3\死神 白刃闪耀圆舞曲(美) [RBLE8P]"/>
 	<Game id="RBLP8P" en="Bleach: Shattered Blade" zhcn="死神 白刃闪耀圆舞曲(欧)"/>
-	<Game id="RBXJ8P" en="Bleach: Versus Crusade" zhcn="死神 对决十刃[WiFi](日)"/>
+	<Game id="RBXJ8P" en="Bleach: Versus Crusade" zhcn="死神 对决十刃(日)"/>
 	<Game id="R6BJ78" en="Blob Colorful na Kibou" zhcn="颜料宝贝(日)" path="done2\颜料宝贝(日) [R6BJ78]"/>
 	<Game id="RRTE52" en="Block Party 20 Games" zhcn="打击聚会(美)" path="done3\打击聚会(美) [RRTE52]"/>
 	<Game id="RRTP52" en="Block Party! 20 Games" zhcn="打击聚会(欧)"/>

@@ -54,7 +54,7 @@
 	<Game id="RNYJDA" en="Naruto Shippuuden: Gekitou Ninja Taisen! EX2" zhcn="火影忍者疾风传 激斗忍者大战EX2(日)" collection="影视IP游戏 火影忍者系列"/>
 	<Game id="RNEJDA" en="Naruto Shippuuden: Gekitou Ninja Taisen! EX3" zhcn="火影忍者疾风传 激斗忍者大战EX3(日)" collection="影视IP游戏 火影忍者系列"/>
 	<Game id="SNXJDA" en="Naruto Shippuuden: Gekitou Ninja Taisen! Special" zhcn="火影忍者疾风传 激斗忍者大战特别版(日)" collection="影视IP游戏 火影忍者系列"/>
-	<Game id="SN4JDA" en="Naruto Shippuuden: Ryuu Jin-ki" zhcn="火影忍者疾风传 龙刃编年史(日)" path="done5\火影忍者疾风传 龙刃编年史(日) [SN4JDA]"/>
+	<Game id="SN4JDA" en="Naruto Shippuuden: Ryuu Jin-ki" zhcn="火影忍者疾风传 龙刃编年史(日)" collection="影视IP游戏 火影忍者系列"/>
 	<Game id="RNXEDA" en="Naruto: Clash of Ninja Revolution" zhcn="火影忍者疾风传 激斗忍者大战(美)"/>
 	<Game id="RNXPDA" en="Naruto: Clash of Ninja Revolution" zhcn="火影忍者疾风传 激斗忍者大战(欧)"/>
 	<Game id="RNYEDA" en="Naruto: Clash of Ninja Revolution 2" zhcn="火影忍者疾风传 激斗忍者大战 2(美)"/>
@@ -271,8 +271,8 @@
 	<Game id="SMNP61" en="New Super Summer Vacation" zhcn="New Super Summer Vacation"/>
 	<Game id="RUNJ0Q" en="New Unou Kids Wii" zhcn="新 右脑达人Wii(日)"/>
 	<Game id="NYIW69" en="New Yoshi's Island Wii" zhcn="New Yoshi's Island Wii"/>
-	<Game id="SLTPLG" en="NewU Fitness First Mind Body: Yoga &amp; Pilates Workout" zhcn="新优健身 瑜珈和普拉提[MP][平衡板](欧)"/>
-	<Game id="SLTEJJ" en="NewU Fitness First Mind Body: Yoga &amp; Pilates Workout" zhcn="新优健身：瑜伽和普拉提[MP][平衡板](美)"/>
+	<Game id="SLTPLG" en="NewU Fitness First Mind Body: Yoga &amp; Pilates Workout" zhcn="新优健身 瑜珈和普拉提(欧)" collection="平衡板游戏"/>
+	<Game id="SLTEJJ" en="NewU Fitness First Mind Body: Yoga &amp; Pilates Workout" zhcn="新优健身 瑜伽和普拉提(美)" collection="平衡板游戏"/>
 	<Game id="RU4X41" en="NewU Fitness First Personal Trainer" zhcn="新个人健身教练[平衡板](X)"/>
 	<Game id="RU4P41" en="NewU Fitness First Personal Trainer" zhcn="NewU Fitness First Personal Trainer"/>
 	<Game id="SMNJZA" en="Newer Apocalypse" zhcn="Newer Apocalypse"/>
@@ -355,7 +355,7 @@
 	<Game id="R8NJG0" en="Nihon Yakyuu Kikou Shounin - Batting Revolution" zhcn="日本棒球机构承认 击球革命[MP](日)"/>
 	<Game id="RY7PHZ" en="Ninja Captains" zhcn="忍者首领(欧)"/>
 	<Game id="RNZJ13" en="Ninja Reflex" zhcn="忍者反应(日)"/>
-	<Game id="RNZE69" en="Ninja Reflex" zhcn="忍者反应[WiFi](美)"/>
+	<Game id="RNZE69" en="Ninja Reflex" zhcn="忍者反应(美)"/>
 	<Game id="RNZK69" en="Ninja Reflex" zhcn="忍者反应(韩)"/>
 	<Game id="RNZP69" en="Ninja Reflex" zhcn="忍者反应(欧)"/>
 	<Game id="RNMXUG" en="Ninjabread Man" zhcn="面包忍者(X)"/>

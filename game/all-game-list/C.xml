@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Game-List>
-	<Game id="SCAJ18" en="CALLING Kuroki Chakushin" zhcn="鬼铃 黑暗来电(日)"/>
+	<Game id="SCAJ18" en="CALLING Kuroki Chakushin" zhcn="鬼铃 黑暗来电(日或中)" collection="中文游戏"/>
 	<Game id="RDYEGN" en="CID: The Dummy" zhcn="人偶CID(美)" path="done\人偶CID(美) [RDYEGN]"/>
 	<Game id="RC9PGN" en="CID: The Dummy" zhcn="人偶CID(欧)"/>
 	<Game id="R5UE41" en="CSI: Deadly Intent" zhcn="犯罪现场调查 致命意图(美)" path="done\犯罪现场调查 致命意图(美) [R5UE41]"/>
@@ -57,7 +57,7 @@
 	<Game id="SC7F52" en="Call of Duty: Black Ops" zhcn="使命召唤 黑色行动(法)"/>
 	<Game id="RJAE52" en="Call of Duty: Modern Warfare - Reflex Edition" zhcn="使命召唤 现代战争(美)" collection="光枪游戏 使命召唤系列"/>
 	<Game id="RJAD52" en="Call of Duty: Modern Warfare - Reflex Edition" zhcn="使命召唤 现代战争 反应能力[WiFi](德)"/>
-	<Game id="RJAP52" en="Call of Duty: Modern Warfare - Reflex Edition" zhcn="使命召唤 现代战争 反应能力[WiFi](欧)"/>
+	<Game id="RJAP52" en="Call of Duty: Modern Warfare - Reflex Edition" zhcn="使命召唤 现代战争(欧)" collection="光枪游戏 使命召唤系列"/>
 	<Game id="RJAX52" en="Call of Duty: Modern Warfare - Reflex Edition" zhcn="使命召唤 现代战争 反应能力[WiFi](X)"/>
 	<Game id="SM8F52" en="Call of Duty: Modern Warfare 3" zhcn="使命召唤 现代战争3(欧)"/>
 	<Game id="SM8I52" en="Call of Duty: Modern Warfare 3" zhcn="使命召唤 现代战争 3(欧)"/>
@@ -67,7 +67,7 @@
 	<Game id="SM8D52" en="Call of Duty: Modern Warfare 3" zhcn="使命召唤 现代战争3(欧)"/>
 	<Game id="SM8E52" en="Call of Duty: Modern Warfare 3" zhcn="使命召唤 现代战争3(美)" collection="光枪游戏 使命召唤系列"/>
 	<Game id="RVYY52" en="Call of Duty: World at War" zhcn="使命召唤 世界大战[WiFi](Y)"/>
-	<Game id="RVYP52" en="Call of Duty: World at War" zhcn="使命召唤 世界大战[WiFi](欧)"/>
+	<Game id="RVYP52" en="Call of Duty: World at War" zhcn="使命召唤 战争世界(欧)"  collection="光枪游戏 使命召唤系列"/>
 	<Game id="RVYK52" en="Call of Duty: World at War" zhcn="使命召唤 世界大战[WiFi](韩)"/>
 	<Game id="RVYE52" en="Call of Duty: World at War" zhcn="使命召唤 战争世界(美)" collection="光枪游戏 使命召唤系列"/>
 	<Game id="RVYX52" en="Call of Duty: World at War" zhcn="使命召唤 世界大战[WiFi](X)"/>
