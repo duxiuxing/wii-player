@@ -34,9 +34,9 @@
 	<Game id="RW6PA4" en="Dance Dance Revolution: Winx Club" zhcn="劲舞革命 美少女俱乐部(欧)" collection="劲舞革命系列"/>
 	<Game id="SDZP41" en="Dance Juniors" zhcn="舞力全开 儿童版(欧)"/>
 	<Game id="R9QPNG" en="Dance Party Club Hits" zhcn="舞会俱乐部精选(欧)"/>
-	<Game id="R9RPNG" en="Dance Party Pop Hits" zhcn="舞蹈派对 流行精选(欧)"/>
+	<Game id="R9RPNG" en="Dance Party Pop Hits" zhcn="舞蹈派对 流行精选(欧)" collection="跳舞毯游戏"/>
 	<Game id="SDEPGT" en="Dance Sensation!" zhcn="舞感[MP](美)"/>
-	<Game id="SDEE5G" en="Dance Sensation!" zhcn="舞感(美)" path="加速器游戏\舞感(美) [SDEE5G]"/>
+	<Game id="SDEE5G" en="Dance Sensation!" zhcn="舞感(美)" collection="加速器游戏"/>
 	<Game id="SBYP41" en="Dance on Broadway" zhcn="起舞百老汇(欧)"/>
 	<Game id="SBYE41" en="Dance on Broadway" zhcn="起舞百老汇(美)" path="done5\起舞百老汇(美) [SBYE41]"/>
 	<Game id="S2DPML" en="Dance! It's Your Stage" zhcn="跳吧！这是你的舞台[平衡板](欧)"/>
@@ -55,7 +55,7 @@
 	<Game id="DKWE03" en="Darky Kart Wii Vol. 3" zhcn="Darky Kart Wii Vol. 3"/>
 	<Game id="DKWE04" en="Darky Kart Wii Vol. 4" zhcn="Darky Kart Wii Vol. 4"/>
 	<Game id="R82JG0" en="Darts Wii DX" zhcn="飞标Wii DX(日)"/>
-	<Game id="R26E5G" en="Data East Arcade Classics" zhcn="Data East街机经典(美)" path="街机系列\Data East街机经典(美) [R26E5G]"/>
+	<Game id="R26E5G" en="Data East Arcade Classics" zhcn="Data East街机经典(美)" collection="街机游戏"/>
 	<Game id="RXCPGT" en="Dave Mirra BMX Challenge" zhcn="戴夫·米拉自行车越野挑战赛(欧)"/>
 	<Game id="RXCE4Z" en="Dave Mirra BMX Challenge" zhcn="戴夫·米拉自行车越野挑战赛(美)" path="done5\戴夫·米拉自行车越野挑战赛(美) [RXCE4Z]"/>
 	<Game id="RN4E41" en="Dawn of Discovery" zhcn="创造新世纪(美)" path="done5\创造新世纪(美) [RN4E41]"/>
@@ -173,7 +173,7 @@
 	<Game id="RI2P4Q" en="Disney Sing It: High School Musical" zhcn="迪斯尼 想唱就唱 高校音乐剧(欧)"/>
 	<Game id="REYP4Q" en="Disney Sing It: High School Musical 3" zhcn="迪士尼 想唱就唱 歌舞青春3 毕业季(欧)"/>
 	<Game id="REYX4Q" en="Disney Sing It: High School Musical 3" zhcn="Disney Sing It: High School Musical 3"/>
-	<Game id="REYE4Q" en="Disney Sing It: High School Musical 3 Senior Year" zhcn="歌舞青春3 毕业歌会(美)" path="影视和动漫系列\歌舞青春3 毕业歌会(美) [REYE4Q]"/>
+	<Game id="REYE4Q" en="Disney Sing It: High School Musical 3 Senior Year" zhcn="歌舞青春3 毕业歌会(美)" collection="影视IP游戏"/>
 	<Game id="SDIE4Q" en="Disney Sing It: Party Hits" zhcn="迪斯尼想唱就唱 聚会欢唱版(美)" path="done5\迪斯尼想唱就唱 聚会欢唱版(美) [SDIE4Q]"/>
 	<Game id="SDIP4Q" en="Disney Sing It: Party Hits" zhcn="迪斯尼想唱就唱 聚会欢唱版(欧)"/>
 	<Game id="R62E4Q" en="Disney Sing It: Pop Hits" zhcn="迪士尼 想唱就唱 流行节奏(美)" path="done5\迪士尼 想唱就唱 流行节奏(美) [R62E4Q]"/>
@@ -206,10 +206,10 @@
 	<Game id="RU5P4Q" en="Disney: The Princess and the Frog" zhcn="公主与青蛙(欧)"/>
 	<Game id="RU5X4Q" en="Disney: The Princess and the Frog" zhcn="公主与青蛙(X)"/>
 	<Game id="RU9PGT" en="Diva Girls: Diva Ballerina" zhcn="天后女孩 芭蕾天后[平衡板](欧)"/>
-	<Game id="RI9EGT" en="Diva Girls: Divas on Ice" zhcn="天后女孩 冰上公主(美)" path="平衡板游戏\天后女孩 冰上公主(美) [RI9EGT]"/>
+	<Game id="RI9EGT" en="Diva Girls: Divas on Ice" zhcn="天后女孩 冰上公主(美)" collection="平衡板游戏"/>
 	<Game id="RI9PGT" en="Diva Girls: Princess on Ice" zhcn="天后女孩 冰上公主[平衡板](欧)"/>
 	<Game id="R5NJN9" en="Doala de Wii" zhcn="多阿拉Wii(日)" path="done2\多阿拉Wii(日) [R5NJN9]"/>
-	<Game id="RJYE5Z" en="Doctor Fizzwizzle's Animal Rescue" zhcn="费兹维泽医生的动物大拯救(美)" path="平衡板游戏\费兹维泽医生的动物大拯救(美) [RJYE5Z]"/>
+	<Game id="RJYE5Z" en="Doctor Fizzwizzle's Animal Rescue" zhcn="费兹维泽医生的动物大拯救(美)" collection="平衡板游戏"/>
 	<Game id="SDOPLR" en="Doctor Who: Return To Earth" zhcn="神秘博士 重返地球(欧)"/>
 	<Game id="RIXP7J" en="Dodge Racing: Charger vs Challenger" zhcn="道奇赛车 掌控者与挑战者(欧)"/>
 	<Game id="RIXE20" en="Dodge Racing: Charger vs. Challenger" zhcn="道奇赛车 掌控者与挑战者(美)" path="done5\道奇赛车 掌控者与挑战者(美) [RIXE20]"/>
@@ -219,7 +219,7 @@
 	<Game id="R2DEEB" en="Dokapon Kingdom" zhcn="多卡波王国(美)" path="done5\多卡波王国(美) [R2DEEB]"/>
 	<Game id="R2DJEP" en="Dokapon Kingdom For Wii" zhcn="多卡波王国(日)"/>
 	<Game id="RDME6K" en="Domino Rally" zhcn="米侬向前冲(美)" path="done5\米侬向前冲(美) [RDME6K]"/>
-	<Game id="R2KE54" en="Don King Boxing" zhcn="唐金拳击(美)" path="平衡板游戏\唐金拳击(美) [R2KE54]"/>
+	<Game id="R2KE54" en="Don King Boxing" zhcn="唐金拳击(美)" collection="平衡板游戏"/>
 	<Game id="R2KP54" en="Don King Boxing" zhcn="唐金拳击[平衡板](欧)"/>
 	<Game id="SF8E01" en="Donkey Kong Country Returns" zhcn="大金刚国度 回归(美或中)" collection="中文游戏"/>
 	<Game id="SF8P01" en="Donkey Kong Country Returns" zhcn="大金刚国度 回归(欧)"/>
@@ -282,7 +282,7 @@
 	<Game id="R9DP78" en="Drawn to Life: The Next Chapter" zhcn="描绘生命 下一章(欧)"/>
 	<Game id="R9DE78" en="Drawn to Life: The Next Chapter" zhcn="描绘生命 下一章(美)" path="done5\描绘生命 下一章(美) [R9DE78]"/>
 	<Game id="SIXE41" en="Drawsome! Tablet" zhcn="Drawsome! Tablet"/>
-	<Game id="R86E20" en="Dream Dance &amp; Cheer" zhcn="梦之舞蹈啦啦队(美)" path="平衡板游戏\梦之舞蹈啦啦队(美) [R86E20]"/>
+	<Game id="R86E20" en="Dream Dance &amp; Cheer" zhcn="梦之舞蹈啦啦队(美)" collection="平衡板游戏"/>
 	<Game id="R3DES5" en="Dream Pinball 3D" zhcn="梦幻弹球3D(美)" path="done5\梦幻弹球3D(美) [R3DES5]"/>
 	<Game id="R3DPS5" en="Dream Pinball 3D" zhcn="梦幻弹球3D(欧)"/>
 	<Game id="R75E20" en="Dream Salon" zhcn="梦幻沙龙(美)" path="done5\梦幻沙龙(美) [R75E20]"/>

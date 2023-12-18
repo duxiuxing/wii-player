@@ -50,9 +50,9 @@
 	<Game id="SD7PTV" en="Lernerfolg Grundschule: Mathematik - Klasse 1-4" zhcn="小学学习检测 数学(欧)"/>
 	<Game id="SLDEYG" en="Let's Dance" zhcn="一起跳舞(美)" path="done3\一起跳舞(美) [SLDEYG]"/>
 	<Game id="SLDPLG" en="Let's Dance with Mel B" zhcn="跟Mel B一起跳舞(欧)"/>
-	<Game id="SPUE20" en="Let's Paint" zhcn="一起绘画(美)" path="wbfs\一起绘画(美) [SPUE20]"/>
+	<Game id="SPUE20" en="Let's Paint" zhcn="一起绘画(美)" collection="儿童游戏"/>
 	<Game id="RR3PA4" en="Let's Party!" zhcn="一起派对(欧)"/>
-	<Game id="SBREJJ" en="Let's Play Ballerina" zhcn="一起跳芭蕾(美)" path="平衡板游戏\一起跳芭蕾(美) [SBREJJ]"/>
+	<Game id="SBREJJ" en="Let's Play Ballerina" zhcn="一起跳芭蕾(美)" collection="平衡板游戏"/>
 	<Game id="SGDEJJ" en="Let's Play Garden" zhcn="花园一起玩(美)" path="donel\花园一起玩(美) [SGDEJJ]"/>
 	<Game id="SLFPKM" en="Let's Sing" zhcn="Let's Sing"/>
 	<Game id="S34SKM" en="Let's Sing 10" zhcn="Let's Sing 10"/>
@@ -80,12 +80,12 @@
 	<Game id="SLKPKM" en="Let’s Sing 2016 : Hits Français" zhcn="Let’s Sing 2016 : Hits Français"/>
 	<Game id="RLJEHJ" en="Line Rider 2: Unbound" zhcn="线条滑雪2(美)" path="donel\线条滑雪2(美) [RLJEHJ]"/>
 	<Game id="RLJPKM" en="Line Rider Freestyle" zhcn="线条滑雪2(欧)"/>
-	<Game id="RZPJ01" en="Link no Bowgun Training" zhcn="林克的十字弓练习(日或中)" path="加速器游戏\林克的十字弓练习(中) [RZPJ01]"/>
+	<Game id="RZPJ01" en="Link no Bowgun Training" zhcn="林克的十字弓练习(日或中)" collection="加速器游戏"/>
 	<Game id="RZPE01" en="Link's Crossbow Training" zhcn="林克的弓箭训练(美)"/>
 	<Game id="RZPP01" en="Link's Crossbow Training" zhcn="林克的弓箭训练(欧)"/>
 	<Game id="RZPK01" en="Linkui Sagyeok Training" zhcn="林克的弓箭训练(韩)"/>
 	<Game id="RO3P99" en="Little King's Story" zhcn="小国王物语(欧)"/>
-	<Game id="RO3EXJ" en="Little King's Story" zhcn="小国王物语(美)" path="donel\小国王物语(美) [RO3EXJ]"/>
+	<Game id="RO3EXJ" en="Little King's Story" zhcn="小国王物语(美)" collection="RPG游戏"/>
 	<Game id="RLHP52" en="Little League World Series Baseball 2008" zhcn="小联盟世界锦标赛2008(欧)"/>
 	<Game id="RLHE52" en="Little League World Series Baseball 2008" zhcn="小联盟世界锦标赛2008(美)" path="donel\小联盟世界锦标赛2008(美) [RLHE52]"/>
 	<Game id="R7RE52" en="Little League World Series Baseball 2009" zhcn="小联盟世界锦标赛2009(美)" path="donel\小联盟世界锦标赛2009(美) [R7RE52]"/>

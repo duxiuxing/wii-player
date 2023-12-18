@@ -2,16 +2,16 @@
 <Game-List>
 	<Game id="SVTP99" en="BIT.TRIP COMPLETE" zhcn="BIT.TRIP COMPLETE"/>
 	<Game id="R6APPU" en="Baby and Me" zhcn="宝贝和我[平衡板](欧)"/>
-	<Game id="SBWJRA" en="Babysitter Mama" zhcn="育儿妈妈(日或中)" path="料理妈妈系列\育儿妈妈(中) [SBWJRA]"/>
-	<Game id="SBWE5G" en="Babysitting Mama" zhcn="育儿妈妈(美)" path="wbfs3\育儿妈妈(美) [SBWE5G]"/>
+	<Game id="SBWJRA" en="Babysitter Mama" zhcn="育儿妈妈(日或中)" collection="料理妈妈系列"/>
+	<Game id="SBWE5G" en="Babysitting Mama" zhcn="育儿妈妈(美)" collection="料理妈妈系列"/>
 	<Game id="R8BP41" en="Babysitting Party" zhcn="保姆派对[平衡板](欧)"/>
 	<Game id="S5BPKM" en="Back to the Future: The Game" zhcn="Back to the Future: The Game"/>
 	<Game id="S5BETL" en="Back to the Future: The Game" zhcn="回到未来(美)" path="done3\回到未来(美) [S5BETL]"/>
-	<Game id="RB8E70" en="Backyard Baseball '09" zhcn="后院棒球09(美)" path="done3\后院棒球09(美) [RB8E70]"/>
+	<Game id="RB8E70" en="Backyard Baseball '09" zhcn="后院棒球09(美)" collection="运动游戏 棒球"/>
 	<Game id="RXBE70" en="Backyard Baseball '10" zhcn="后院棒球10(美)" path="done3\后院棒球10(美) [RXBE70]"/>
-	<Game id="RFTE70" en="Backyard Football" zhcn="后院橄榄球(美)" path="专项运动系列 橄榄球\后院橄榄球(美) [RFTE70]"/>
-	<Game id="RQQE70" en="Backyard Football '09" zhcn="后院橄榄球2009(美)" path="专项运动系列 橄榄球\后院橄榄球2009(美) [RQQE70]"/>
-	<Game id="SBFE70" en="Backyard Football '10" zhcn="后院橄榄球10(美)" path="专项运动系列 橄榄球\后院橄榄球10(美) [SBFE70]"/>
+	<Game id="RFTE70" en="Backyard Football" zhcn="后院橄榄球(美)" collection="运动游戏 橄榄球"/>
+	<Game id="RQQE70" en="Backyard Football '09" zhcn="后院橄榄球2009(美)" collection="运动游戏 橄榄球"/>
+	<Game id="SBFE70" en="Backyard Football '10" zhcn="后院橄榄球10(美)" collection="运动游戏 橄榄球"/>
 	<Game id="SFBE70" en="Backyard Sports Football: Rookie Rush" zhcn="后院运动 菜鸟向前冲(美)" path="done3\后院运动 菜鸟向前冲(美) [SFBE70]"/>
 	<Game id="SADE70" en="Backyard Sports: Sandlot Sluggers" zhcn="后院运动 沙地强打者(美)" path="done3\后院运动 沙地强打者(美) [SADE70]"/>
 	<Game id="RUHZ52" en="Bakugan Battle Brawlers" zhcn="爆丸 战斗对决(欧)"/>
@@ -23,9 +23,9 @@
 	<Game id="SBRPKM" en="Ballerina" zhcn="一起跳芭蕾[平衡板](欧)"/>
 	<Game id="RB2E6K" en="Balloon Pop" zhcn="气球泡泡(美)" path="done3\气球泡泡(美) [RB2E6K]"/>
 	<Game id="RBFP7J" en="Balls of Fury" zhcn="乒乓特种兵(欧)"/>
-	<Game id="RBFE20" en="Balls of Fury" zhcn="乒乓特种兵(美)" path="专项运动系列 乒乓球和网球\乒乓特种兵(美) [RBFE20]"/>
+	<Game id="RBFE20" en="Balls of Fury" zhcn="乒乓特种兵(美)" collection="运动游戏 乒乓球和网球"/>
 	<Game id="SXFP52" en="Band Hero" zhcn="乐团英雄[WiFi](欧)"/>
-	<Game id="SXFE52" en="Band Hero" zhcn="乐团英雄(美)" path="乐队系列\乐团英雄(美) [SXFE52]"/>
+	<Game id="SXFE52" en="Band Hero" zhcn="乐团英雄(美)" collection="乐队游戏"/>
 	<Game id="R96KAF" en="Baramui Klonoa - Door to Phantomile" zhcn="风之克罗诺亚 幻影之门(韩)"/>
 	<Game id="RRCP52" en="Barbie Horse Adventures: Riding Camp" zhcn="芭比小马冒险 骑术野营(欧)"/>
 	<Game id="RRCE52" en="Barbie Horse Adventures: Riding Camp" zhcn="芭比小马冒险 骑术野营(美)" collection="芭比系列"/>
@@ -51,7 +51,7 @@
 	<Game id="RM6P99" en="Baroque" zhcn="巴洛克(欧)"/>
 	<Game id="RM6EEB" en="Baroque" zhcn="巴洛克(美)" path="done3\巴洛克(美) [RM6EEB]"/>
 	<Game id="ROQJEP" en="Baroque for Wii" zhcn="巴洛克(日)"/>
-	<Game id="R6IE54" en="Baseball Blast!" zhcn="棒球冲击波(美)" path="专项运动系列\棒球冲击波(美) [R6IE54]"/>
+	<Game id="R6IE54" en="Baseball Blast!" zhcn="棒球冲击波(美)" collection="运动游戏 棒球"/>
 	<Game id="SHFE20" en="Basketball Hall of Fame: Ultimate Hoops Challenge" zhcn="篮球名人堂 极限挑战(美)" path="done3\篮球名人堂 极限挑战(美) [SHFE20]"/>
 	<Game id="RXNJJF" en="Bass Fishing Wii World Tournament" zhcn="鲈鱼钓手Wii 世界锦标赛[MP](日)"/>
 	<Game id="RXPJJF" en="Bass Fishing Wii: Rokumaru Densetsu" zhcn="实感钓鱼[WiFi](日)"/>
@@ -66,7 +66,7 @@
 	<Game id="RRVENR" en="Battle Rage: Mech Conflict" zhcn="战斗愤怒 机器人战争(美)" path="done3\战斗愤怒 机器人战争(美) [RRVENR]"/>
 	<Game id="RRVPNR" en="Battle Rage: The Robot Wars" zhcn="战斗愤怒 机器人战争(欧)"/>
 	<Game id="SGXE41" en="Battle of Giants: Dinosaurs Strike" zhcn="巨兽之战 恐龙袭击(美)" path="done3\巨兽之战 恐龙袭击(美) [SGXE41]"/>
-	<Game id="RHXE78" en="Battle of the Bands" zhcn="乐队大战(美)" path="乐队系列\乐队大战(美) [RHXE78]"/>
+	<Game id="RHXE78" en="Battle of the Bands" zhcn="乐队大战(美)" collection="乐队游戏"/>
 	<Game id="RHXP78" en="Battle of the Bands" zhcn="乐队大战(欧)"/>
 	<Game id="SVSPZX" en="Battle vs Chess" zhcn="Battle vs Chess"/>
 	<Game id="SVBP52" en="Battleship" zhcn="Battleship"/>
@@ -81,20 +81,20 @@
 	<Game id="RBEP52" en="Bee Movie Game" zhcn="蜜蜂总动员(欧)"/>
 	<Game id="RBEE52" en="Bee Movie Game" zhcn="蜜蜂总动员(美)"/>
 	<Game id="RWTPG9" en="Ben 10: Alien Force" zhcn="BEN 10 外星神力(欧)"/>
-	<Game id="RWTEG9" en="Ben 10: Alien Force" zhcn="少年骇客 外星英雄(美)" path="少儿游戏 少年骇客系列\少年骇客 外星英雄(美) [RWTEG9]"/>
+	<Game id="RWTEG9" en="Ben 10: Alien Force" zhcn="少年骇客 外星英雄(美)" collection="影视IP游戏 少年骇客系列"/>
 	<Game id="SBNPG9" en="Ben 10: Alien Force Vilgax Attacks" zhcn="BEN 10 外星神力 维尔加科斯的反击(欧)"/>
-	<Game id="SBNEG9" en="Ben 10: Alien Force Vilgax Attacks" zhcn="少年骇客 外星英雄之魔賈斯袭击(美)" path="少儿游戏 少年骇客系列\少年骇客 外星英雄之魔賈斯袭击(美) [SBNEG9]"/>
-	<Game id="SA6EG9" en="Ben 10: Galactic Racing" zhcn="少年骇客 银河赛车(美)" path="少儿游戏 少年骇客系列\少年骇客 银河赛车(美) [SA6EG9]"/>
+	<Game id="SBNEG9" en="Ben 10: Alien Force Vilgax Attacks" zhcn="少年骇客 外星英雄之魔賈斯袭击(美)" collection="影视IP游戏 少年骇客系列"/>
+	<Game id="SA6EG9" en="Ben 10: Galactic Racing" zhcn="少年骇客 银河赛车(美)" collection="影视IP游戏 少年骇客系列"/>
 	<Game id="SA6PAF" en="Ben 10: Galactic Racing" zhcn="Ben 10 银河赛车(美)"/>
-	<Game id="S5TEG9" en="Ben 10: Omniverse" zhcn="少年骇客 全面进化(美)" path="少儿游戏 少年骇客系列\少年骇客 全面进化(美) [S5TEG9]"/>
+	<Game id="S5TEG9" en="Ben 10: Omniverse" zhcn="少年骇客 全面进化(美)" collection="影视IP游戏 少年骇客系列"/>
 	<Game id="S5TPAF" en="Ben 10: Omniverse" zhcn="Ben 10: Omniverse"/>
-	<Game id="SVYEG9" en="Ben 10: Omniverse 2" zhcn="少年骇客 全面进化2(美)" path="少儿游戏 少年骇客系列\少年骇客 全面进化2(美) [SVYEG9]"/>
+	<Game id="SVYEG9" en="Ben 10: Omniverse 2" zhcn="少年骇客 全面进化2(美)" collection="影视IP游戏 少年骇客系列"/>
 	<Game id="SVYPAF" en="Ben 10: Omniverse 2" zhcn="Ben 10: Omniverse 2"/>
 	<Game id="RBNPG9" en="Ben 10: Protector of Earth" zhcn="Ben 10 守护地球(欧)"/>
-	<Game id="RBNEG9" en="Ben 10: Protector of Earth" zhcn="少年骇客 地球保卫者(美)" path="少儿游戏 少年骇客系列\少年骇客 地球保卫者(美) [RBNEG9]"/>
+	<Game id="RBNEG9" en="Ben 10: Protector of Earth" zhcn="少年骇客 地球保卫者(美)" collection="影视IP游戏 少年骇客系列"/>
 	<Game id="RBNXG9" en="Ben 10: Protector of Earth" zhcn="Ben 10 守护地球(X)"/>
 	<Game id="SBJPAF" en="Ben 10: Ultimate Alien Cosmic Destruction" zhcn="BEN 10 外星神力 终极异型(欧)"/>
-	<Game id="SBJEG9" en="Ben 10: Ultimate Alien Cosmic Destruction" zhcn="少年骇客 终极异形之宇宙毁灭(美)" path="少儿游戏 少年骇客系列\少年骇客 终极异形之宇宙毁灭(美) [SBJEG9]"/>
+	<Game id="SBJEG9" en="Ben 10: Ultimate Alien Cosmic Destruction" zhcn="少年骇客 终极异形之宇宙毁灭(美)" collection="影视IP游戏 少年骇客系列"/>
 	<Game id="SUZD7K" en="Benjamin Blümchen: Törööö! im Zoo" zhcn="Benjamin Blümchen: Törööö! im Zoo"/>
 	<Game id="SBEPSV" en="Bermuda Triangle" zhcn="百慕大三角 拯救珊瑚礁(欧)"/>
 	<Game id="SBZESZ" en="Bermuda Triangle: Saving the Coral" zhcn="百慕大三角 拯救珊瑚礁(美)" path="done3\百慕大三角 拯救珊瑚礁(美) [SBZESZ]"/>
@@ -114,7 +114,7 @@
 	<Game id="RYWE01" en="Big Brain Academy: Wii Degree" zhcn="轻松头脑教室(美)" path="done3\轻松头脑教室(美) [RYWE01]"/>
 	<Game id="SBQE4Z" en="Big Buck Hunter Pro" zhcn="雄鹿猎人(美)" path="done3\雄鹿猎人(美) [SBQE4Z]"/>
 	<Game id="RXPPGT" en="Big Catch Bass Fishing" zhcn="实感钓鱼[WiFi](欧)"/>
-	<Game id="RXNPGT" en="Big Catch Bass Fishing 2" zhcn="巴斯钓鱼2(欧)" path="专项运动系列 钓鱼\巴斯钓鱼2(欧) [RXNPGT]"/>
+	<Game id="RXNPGT" en="Big Catch Bass Fishing 2" zhcn="巴斯钓鱼2(欧)" collection="运动游戏 钓鱼"/>
 	<Game id="RN7P78" en="Big Family Games" zhcn="邻居间的游戏(欧)"/>
 	<Game id="RLQE52" en="Big League Sports" zhcn="大联盟运动(美)" path="done3\大联盟运动(美) [RLQE52]"/>
 	<Game id="RY5E52" en="Big League Sports: Summer" zhcn="夏日运动大联盟(美)" path="done3\夏日运动大联盟(美) [RY5E52]"/>
@@ -212,9 +212,9 @@
 	<Game id="RI8E41" en="Brothers In Arms: Road to Hill 30" zhcn="战火兄弟连 进军30高地(美)" path="done3\战火兄弟连 进军30高地(美) [RI8E41]"/>
 	<Game id="RB5P41" en="Brothers in Arms: Earned in Blood" zhcn="战火兄弟连 双重时间(欧)"/>
 	<Game id="RI8P41" en="Brothers in Arms: Road to Hill 30" zhcn="战火兄弟连 双重时间(欧)"/>
-	<Game id="RBPE4Z" en="Brunswick Pro Bowling" zhcn="布朗斯威克 职业保龄球赛(美)" path="专项运动系列\布朗斯威克 职业保龄球赛(美) [RBPE4Z]"/>
+	<Game id="RBPE4Z" en="Brunswick Pro Bowling" zhcn="布朗斯威克 职业保龄球赛(美)" collection="运动游戏 保龄球"/>
 	<Game id="RBPPGT" en="Brunswick Pro Bowling" zhcn="布朗斯威克 职业保龄球赛(欧)"/>
-	<Game id="SBKEPZ" en="Brunswick Zone Cosmic Bowling" zhcn="布朗斯威克 宇宙领域保龄球(美)" path="专项运动系列\布朗斯威克 宇宙领域保龄球(美) [SBKEPZ]"/>
+	<Game id="SBKEPZ" en="Brunswick Zone Cosmic Bowling" zhcn="布朗斯威克 宇宙领域保龄球(美)" collection="运动游戏 保龄球"/>
 	<Game id="R65ENR" en="Buck Fever" zhcn="猎鹿狂(美)" path="done3\猎鹿狂(美) [R65ENR]"/>
 	<Game id="RJNE20" en="Build 'N Race" zhcn="建道与赛车(美)" path="done3\建道与赛车(美) [RJNE20]"/>
 	<Game id="RR4PFK" en="Build-A-Bear Workshop: A Friend Fur All Seasons" zhcn="熊熊工作室(欧)"/>

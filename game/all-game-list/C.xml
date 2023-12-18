@@ -67,7 +67,7 @@
 	<Game id="SM8D52" en="Call of Duty: Modern Warfare 3" zhcn="使命召唤 现代战争3(欧)"/>
 	<Game id="SM8E52" en="Call of Duty: Modern Warfare 3" zhcn="使命召唤 现代战争3(美)" collection="光枪游戏 使命召唤系列"/>
 	<Game id="RVYY52" en="Call of Duty: World at War" zhcn="使命召唤 世界大战[WiFi](Y)"/>
-	<Game id="RVYP52" en="Call of Duty: World at War" zhcn="使命召唤 战争世界(欧)"  collection="光枪游戏 使命召唤系列"/>
+	<Game id="RVYP52" en="Call of Duty: World at War" zhcn="使命召唤 战争世界(欧)" collection="光枪游戏 使命召唤系列"/>
 	<Game id="RVYK52" en="Call of Duty: World at War" zhcn="使命召唤 世界大战[WiFi](韩)"/>
 	<Game id="RVYE52" en="Call of Duty: World at War" zhcn="使命召唤 战争世界(美)" collection="光枪游戏 使命召唤系列"/>
 	<Game id="RVYX52" en="Call of Duty: World at War" zhcn="使命召唤 世界大战[WiFi](X)"/>
@@ -150,7 +150,7 @@
 	<Game id="RXHF5D" en="Chaos à La Maison" zhcn="混沌之家(法)"/>
 	<Game id="CNSMBW" en="Chaotic New Super Mario Bros. Wii" zhcn="Chaotic New Super Mario Bros. Wii"/>
 	<Game id="R7QE52" en="Chaotic: Shadow Warriors" zhcn="混沌影子武士(美)" path="done\混沌影子武士(美) [R7QE52]"/>
-	<Game id="R7IE69" en="Charm Girls Club: Pajama Party" zhcn="魅力女孩俱乐部 睡衣派对(美)" path="平衡板游戏\魅力女孩俱乐部 睡衣派对(美) [R7IE69]"/>
+	<Game id="R7IE69" en="Charm Girls Club: Pajama Party" zhcn="魅力女孩俱乐部 睡衣派对(美)" collection="平衡板游戏"/>
 	<Game id="R7IP69" en="Charm Girls Club: Pyjama Party" zhcn="魅力女孩俱乐部 睡衣派对[平衡板](欧)"/>
 	<Game id="RSPE02" en="Checkered Sports" zhcn="Checkered Sports"/>
 	<Game id="RCYPGN" en="Cheggers Party Quiz" zhcn="切格的聚会迷题(欧)"/>
@@ -215,10 +215,10 @@
 	<Game id="RCCPGT" en="Cooking Mama" zhcn="料理妈妈(欧)"/>
 	<Game id="R2QJC0" en="Cooking Mama 2: Taihen!! Mama wa Ooisogashi!" zhcn="料理妈妈2 糟糕！妈妈好忙！！(日)"/>
 	<Game id="RWKPGT" en="Cooking Mama 2: World Kitchen" zhcn="料理妈妈 世界厨房(欧)"/>
-	<Game id="SBWPGT" en="Cooking Mama World: Babysitting Mama" zhcn="育儿妈妈(欧)" path="料理妈妈系列\育儿妈妈(欧) [SBWPGT]"/>
-	<Game id="RCCE5G" en="Cooking Mama: Cook Off" zhcn="料理妈妈(美)" path="料理妈妈系列\料理妈妈(美) [RCCE5G]"/>
+	<Game id="SBWPGT" en="Cooking Mama World: Babysitting Mama" zhcn="育儿妈妈(欧)" collection="料理妈妈系列"/>
+	<Game id="RCCE5G" en="Cooking Mama: Cook Off" zhcn="料理妈妈(美)" collection="料理妈妈系列"/>
 	<Game id="RCCJC0" en="Cooking Mama: Minna to Issho ni Oryouri Taikai!" zhcn="料理妈妈(日)"/>
-	<Game id="RWKE5G" en="Cooking Mama: World Kitchen" zhcn="料理妈妈 世界厨房(美)" path="料理妈妈系列\料理妈妈 世界厨房(美) [RWKE5G]"/>
+	<Game id="RWKE5G" en="Cooking Mama: World Kitchen" zhcn="料理妈妈 世界厨房(美)" collection="料理妈妈系列"/>
 	<Game id="RKLPG9" en="Coraline" zhcn="鬼妈妈(欧)"/>
 	<Game id="RKLEG9" en="Coraline" zhcn="鬼妈妈(美)" path="done\鬼妈妈(美) [RKLEG9]"/>
 	<Game id="RCFE41" en="Cosmic Family" zhcn="宇宙家庭(美)" path="done\宇宙家庭(美) [RCFE41]"/>
@@ -254,7 +254,7 @@
 	<Game id="SG2PUG" en="Crazy Mini Golf 2" zhcn="Crazy Mini Golf 2"/>
 	<Game id="SG2YFS" en="Crazy Mini Golf 2" zhcn="Crazy Mini Golf 2"/>
 	<Game id="SG2XUG" en="Crazy Mini Golf 2" zhcn="疯狂迷你高尔夫2[MP](美)"/>
-	<Game id="SG2EFS" en="Crazy Mini Golf 2" zhcn="疯狂迷你高尔夫2(美)" path="加速器游戏\疯狂迷你高尔夫2(美) [SG2EFS]"/>
+	<Game id="SG2EFS" en="Crazy Mini Golf 2" zhcn="疯狂迷你高尔夫2(美)" collection="运动游戏"/>
 	<Game id="R8QPRT" en="Crazy Quiz! Are You Crazy Enough?" zhcn="疯狂问答(欧)"/>
 	<Game id="SECE69" en="Create" zhcn="EA创造(美)" path="done\EA创造(美) [SECE69]"/>
 	<Game id="SECP69" en="Create" zhcn="EA创造(欧)"/>
@@ -262,7 +262,7 @@
 	<Game id="RCRE5D" en="Cruis'n" zhcn="劲速狂飙(美)" path="done\劲速狂飙(美) [RCRE5D]"/>
 	<Game id="RCRP5D" en="Cruis'n" zhcn="劲速狂飙(欧)"/>
 	<Game id="SCSPGR" en="Cruise Ship Resort" zhcn="游轮度假游戏[MP](欧)"/>
-	<Game id="SCSE52" en="Cruise Ship Vacation Games" zhcn="游轮度假游戏(美)" path="加速器游戏\游轮度假游戏(美) [SCSE52]"/>
+	<Game id="SCSE52" en="Cruise Ship Vacation Games" zhcn="游轮度假游戏(美)" collection="加速器游戏"/>
 	<Game id="RMCE7T" en="Cuber's Hack Pack" zhcn="Cuber's Hack Pack"/>
 	<Game id="RQ6XKM" en="Cursed Mountain" zhcn="妖山诅咒(X)"/>
 	<Game id="RQ6EJJ" en="Cursed Mountain" zhcn="妖山诅咒(美)" path="done\妖山诅咒(美) [RQ6EJJ]"/>

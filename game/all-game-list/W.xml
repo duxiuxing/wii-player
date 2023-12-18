@@ -48,7 +48,7 @@
 	<Game id="RODE01" en="WarioWare: Smooth Moves" zhcn="瓦里奥制造 平滑移动(美)" path="done2\瓦里奥制造 平滑移动(美) [RODE01]"/>
 	<Game id="RWNF70" en="Warning: Code De La Route" zhcn="警告 公路规则(法)"/>
 	<Game id="SSWPGR" en="Water Sports" zhcn="水上运动[平衡板](欧)"/>
-	<Game id="SSWEPZ" en="Water Sports" zhcn="水上运动(美)" path="平衡板游戏\水上运动(美) [SSWEPZ]"/>
+	<Game id="SSWEPZ" en="Water Sports" zhcn="水上运动(美)" collection="平衡板游戏"/>
 	<Game id="SSWDRM" en="Water Sports" zhcn="水上运动[平衡板](德)"/>
 	<Game id="RCHJAF" en="We Cheer" zhcn="大家的啦啦队(日)"/>
 	<Game id="RCHEAF" en="We Cheer" zhcn="大家的啦啦队(美)" path="done2\大家的啦啦队(美) [RCHEAF]"/>
@@ -78,8 +78,8 @@
 	<Game id="SINPNG" en="We Sing: Robbie Williams" zhcn="我们歌唱 罗比 威廉斯(欧)"/>
 	<Game id="SUQENG" en="We Sing: UK Hits" zhcn="We Sing: UK Hits"/>
 	<Game id="SUQPNG" en="We Sing: UK Hits" zhcn="We Sing: UK Hits"/>
-	<Game id="RSQEAF" en="We Ski" zhcn="家庭滑雪(美)" path="平衡板游戏\家庭滑雪(美) [RSQEAF]"/>
-	<Game id="RYKEAF" en="We Ski &amp; Snowboard" zhcn="家庭滑雪&amp;滑雪板(美)" path="平衡板游戏\家庭滑雪&amp;滑雪板(美) [RYKEAF]"/>
+	<Game id="RSQEAF" en="We Ski" zhcn="家庭滑雪(美)" collection="平衡板游戏"/>
+	<Game id="RYKEAF" en="We Ski &amp; Snowboard" zhcn="家庭滑雪&amp;滑雪板(美)" collection="平衡板游戏"/>
 	<Game id="SMCPXT" en="We Wish You a Merry Christmas" zhcn="我们祝你圣诞快乐(欧)" path="done2\我们祝你圣诞快乐(欧) [SMCPXT]"/>
 	<Game id="SMCENR" en="We Wish You a Merry Christmas" zhcn="我们祝你圣诞快乐(美)"/>
 	<Game id="SW7PNK" en="Western Heroes" zhcn="西部英雄(欧)"/>
@@ -111,7 +111,7 @@
 	<Game id="RFPP01" en="Wii Fit Plus" zhcn="Wii塑身Plus[平衡板](欧)"/>
 	<Game id="RFPW01" en="Wii Fit Plus" zhcn="Wii塑身Plus(中)" path="健身系列\Wii塑身Plus(中) [RFPW01]"/>
 	<Game id="RFLPWK" en="Wii Freeloader" zhcn="美式橄榄球大联盟09[WiFi](欧)"/>
-	<Game id="R64E01" en="Wii Music" zhcn="Wii音乐(美)" path="平衡板游戏\Wii音乐(美) [R64E01]"/>
+	<Game id="R64E01" en="Wii Music" zhcn="Wii音乐(美)" collection="平衡板游戏"/>
 	<Game id="R64J01" en="Wii Music" zhcn="Wii音乐[平衡板][WiFi](日)"/>
 	<Game id="R64K01" en="Wii Music" zhcn="Wii音乐[平衡板][WiFi](韩)"/>
 	<Game id="R64P01" en="Wii Music" zhcn="Wii音乐[平衡板][WiFi](欧)"/>
@@ -130,7 +130,7 @@
 	<Game id="SC8E01" en="Wii Play: Motion" zhcn="Wii遥控器Plus 动感欢乐组合[MP](美)"/>
 	<Game id="SC8P01" en="Wii Play: Motion" zhcn="Wii遥控器Plus 动感欢乐组合[MP](欧)"/>
 	<Game id="PC5P01" en="Wii Points Card" zhcn="Wii Points Card"/>
-	<Game id="SC8J01" en="Wii Remocon Plus: Variety" zhcn="Wii控制器加强版 动感欢乐组合(日或中)" path="加速器游戏\Wii控制器加强版 动感欢乐组合(中) [SC8J01]"/>
+	<Game id="SC8J01" en="Wii Remocon Plus: Variety" zhcn="Wii控制器加强版 动感欢乐组合(日或中)" collection="加速器游戏"/>
 	<Game id="SC8K01" en="Wii Remocon Plusro Jeulgineun - Variety Game Box" zhcn="Wii Remocon Plusro Jeulgineun - Variety Game Box"/>
 	<Game id="RSPE01" en="Wii Sports" zhcn="Wii运动(美)"/>
 	<Game id="RSPJ01" en="Wii Sports" zhcn="Wii运动(日)"/>

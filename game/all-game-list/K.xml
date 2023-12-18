@@ -41,34 +41,34 @@
 	<Game id="R96JAF" en="Kaze no Klonoa Door to Phantomile" zhcn="风之克罗诺亚 通向幻界之门(日或中)" collection="中文游戏"/>
 	<Game id="RK5J01" en="Keito no Kirby" zhcn="星之卡比 毛线传说(日)"/>
 	<Game id="RK4JAF" en="Kekkaishi: Kokubourou no Kage" zhcn="结界师 黑芒楼之影(日)"/>
-	<Game id="SKVE20" en="Kevin Van Dam's Big Bass Challenge" zhcn="凯文万达姆的大巴斯挑战(美)" path="专项运动系列 钓鱼\凯文万达姆的大巴斯挑战(美) [SKVE20]"/>
-	<Game id="SSTEG9" en="Kid Adventures: Sky Captain" zhcn="小子历险记 天空上尉(美)" path="儿童系列\小子历险记 天空上尉(美) [SSTEG9]"/>
-	<Game id="SJFE4Z" en="Kid Fit Island Resort" zhcn="儿童健身岛度假村(美)" path="儿童系列\儿童健身岛度假村(美) [SJFE4Z]"/>
+	<Game id="SKVE20" en="Kevin Van Dam's Big Bass Challenge" zhcn="凯文万达姆的大巴斯挑战(美)" collection="运动游戏 钓鱼"/>
+	<Game id="SSTEG9" en="Kid Adventures: Sky Captain" zhcn="小子历险记 天空上尉(美)" collection="儿童游戏"/>
+	<Game id="SJFE4Z" en="Kid Fit Island Resort" zhcn="儿童健身岛度假村(美)" collection="儿童游戏"/>
 	<Game id="RPAF70" en="Kid Paddle: Lost in the Game" zhcn="船桨男孩 迷失(法)"/>
 	<Game id="R79JAF" en="Kidou Senshi Gundam: MS Sensen 0079" zhcn="机动战士高达 MS战线0079(日)" path="done3\机动战士高达 MS战线0079(日) [R79JAF]"/>
-	<Game id="SKBEG9" en="Kidz Bop Dance Party!" zhcn="儿童舞蹈派对(美)" path="舞力全开衍生系列和其他\Kidz Bop舞蹈派对(美) [SKBEG9]"/>
-	<Game id="RKSENR" en="Kidz Sports: Basketball" zhcn="儿童篮球(美)" path="儿童系列\儿童篮球(美) [RKSENR]"/>
+	<Game id="SKBEG9" en="Kidz Bop Dance Party!" zhcn="儿童舞蹈派对(美)" collection="儿童游戏"/>
+	<Game id="RKSENR" en="Kidz Sports: Basketball" zhcn="儿童篮球(美)" collection="儿童游戏"/>
 	<Game id="RKSPUG" en="Kidz Sports: Basketball" zhcn="儿童篮球赛(欧)"/>
 	<Game id="RKSXUG" en="Kidz Sports: Basketball" zhcn="Kidz Sports: Basketball"/>
-	<Game id="RGKENR" en="Kidz Sports: Crazy Golf" zhcn="儿童高尔夫(美)" path="儿童系列\儿童高尔夫(美) [RGKENR]"/>
+	<Game id="RGKENR" en="Kidz Sports: Crazy Golf" zhcn="儿童高尔夫(美)" collection="儿童游戏"/>
 	<Game id="R3GXUG" en="Kidz Sports: Crazy Mini Golf" zhcn="儿童高尔夫(X)"/>
-	<Game id="RKIENR" en="Kidz Sports: Ice Hockey" zhcn="儿童冰球(美)" path="儿童系列\儿童冰球(美) [RKIENR]"/>
+	<Game id="RKIENR" en="Kidz Sports: Ice Hockey" zhcn="儿童冰球(美)" collection="儿童游戏"/>
 	<Game id="RKIPUG" en="Kidz Sports: Ice Hockey" zhcn="国际儿童冰球赛(欧)"/>
 	<Game id="RKIXUG" en="Kidz Sports: Ice Hockey" zhcn="国际儿童冰球赛(欧)"/>
 	<Game id="RKTXUG" en="Kidz Sports: International Football" zhcn="儿童足球(X)"/>
-	<Game id="RKTENR" en="Kidz Sports: International Soccer" zhcn="儿童足球(美)" path="儿童系列\儿童足球(美) [RKTENR]"/>
+	<Game id="RKTENR" en="Kidz Sports: International Soccer" zhcn="儿童足球(美)" collection="儿童游戏"/>
 	<Game id="ST3J01" en="Kiki Trick" zhcn="听力大考验(日)"/>
 	<Game id="RMCEK3" en="King Toad's Epic Music and Texture Pack" zhcn="King Toad's Epic Music and Texture Pack"/>
 	<Game id="R6VE4Z" en="King of Clubs" zhcn="俱乐部之王(美)" path="donek\俱乐部之王(美) [R6VE4Z]"/>
 	<Game id="R6VPGN" en="King of Clubs" zhcn="俱乐部之王(欧)"/>
 	<Game id="RKFP7U" en="King of Fighters Collection: The Orochi Saga" zhcn="格斗之王合辑 大蛇传说(欧)"/>
-	<Game id="RL9PHZ" en="King of Pool" zhcn="台球天王(欧)" path="专项运动系列\台球天王(欧) [RL9PHZ]"/>
+	<Game id="RL9PHZ" en="King of Pool" zhcn="台球天王(欧)" collection="运动游戏"/>
 	<Game id="KHPE01" en="Kirby Air Ride Hack Pack" zhcn="Kirby Air Ride Hack Pack"/>
 	<Game id="SUKP01" en="Kirby's Adventure Wii" zhcn="星之卡比 Wii(欧)"/>
-	<Game id="S72E01" en="Kirby's Dream Collection: Special Edition" zhcn="星之卡比 20周年纪念合集(美)" path="星之卡比系列\星之卡比 20周年纪念合集(美) [S72E01]"/>
+	<Game id="S72E01" en="Kirby's Dream Collection: Special Edition" zhcn="星之卡比 20周年纪念合集(美)" collection="星之卡比系列"/>
 	<Game id="RK5P01" en="Kirby's Epic Yarn" zhcn="星之卡比 毛线传说(欧)"/>
-	<Game id="RK5E01" en="Kirby's Epic Yarn" zhcn="星之卡比 毛线传说(美或中)" path="星之卡比系列\星之卡比 毛线传说(中) [RK5E01]"/>
-	<Game id="SUKE01" en="Kirby's Return to Dream Land" zhcn="星之卡比 重回梦幻岛(美)" path="星之卡比系列\星之卡比 重回梦幻岛(美) [SUKE01]"/>
+	<Game id="RK5E01" en="Kirby's Epic Yarn" zhcn="星之卡比 毛线传说(美或中)" collection="星之卡比系列"/>
+	<Game id="SUKE01" en="Kirby's Return to Dream Land" zhcn="星之卡比 重回梦幻岛(美)" collection="星之卡比系列"/>
 	<Game id="RODL01" en="Kirby: Revenge of Dream Land" zhcn="Kirby: Revenge of Dream Land"/>
 	<Game id="RMCEKW" en="Kiwi's Hide and Seek Pack" zhcn="Kiwi's Hide and Seek Pack"/>
 	<Game id="R96EAF" en="Klonoa" zhcn="风之克罗诺亚 幻影之门(美)"/>
@@ -87,16 +87,16 @@
 	<Game id="R5MJAF" en="Kotoba no Puzzle Mojipittan Wii Deluxe" zhcn="语言解谜 文字拼词Wii豪华版(日)"/>
 	<Game id="RMCEKK" en="Krash Kart Wii" zhcn="Krash Kart Wii"/>
 	<Game id="RMCEKB" en="Krash&amp;Burn's Other Texture Pack" zhcn="Krash&amp;Burn's Other Texture Pack"/>
-	<Game id="RKPE52" en="Kung Fu Panda" zhcn="功夫熊猫(美)" path="wbfs\功夫熊猫(美) [RKPE52]"/>
+	<Game id="RKPE52" en="Kung Fu Panda" zhcn="功夫熊猫(美)" collection="影视IP游戏"/>
 	<Game id="RKPP52" en="Kung Fu Panda" zhcn="功夫熊猫(欧)"/>
 	<Game id="RKPY52" en="Kung Fu Panda" zhcn="功夫熊猫(Y)"/>
 	<Game id="RKPX52" en="Kung Fu Panda" zhcn="功夫熊猫(Y)"/>
 	<Game id="RKPV52" en="Kung Fu Panda" zhcn="功夫熊猫(欧)"/>
-	<Game id="SKUE78" en="Kung Fu Panda 2" zhcn="功夫熊猫2(美)" path="wbfs\功夫熊猫2(美) [SKUE78]"/>
+	<Game id="SKUE78" en="Kung Fu Panda 2" zhcn="功夫熊猫2(美)" collection="影视IP游戏"/>
 	<Game id="SKUP78" en="Kung Fu Panda 2" zhcn="功夫熊猫2(欧)"/>
 	<Game id="SKUZ78" en="Kung Fu Panda 2 (Exclusive)" zhcn="功夫熊猫2(美)"/>
 	<Game id="RKHP52" en="Kung Fu Panda: Legendary Warriors" zhcn="功夫熊猫 神龙大侠(欧)"/>
-	<Game id="RKHE52" en="Kung Fu Panda: Legendary Warriors" zhcn="功夫熊猫 神龙大侠(美)" path="wbfs\功夫熊猫 神龙大侠(美) [RKHE52]"/>
+	<Game id="RKHE52" en="Kung Fu Panda: Legendary Warriors" zhcn="功夫熊猫 神龙大侠(美)" collection="影视IP游戏"/>
 	<Game id="KMKE01" en="Kustom Mario Kart Wii" zhcn="马里奥赛车Wii 自制版" collection="马里奥赛车系列"/>
 	<Game id="DUCE01" en="Kustom Mariokart Wii" zhcn="自制 马里奥赛车Wii(美)"/>
 	<Game id="SK5PY1" en="Kylie Sing &amp; Dance" zhcn="Kylie Sing &amp; Dance"/>

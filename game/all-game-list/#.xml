@@ -8,13 +8,13 @@
 	<Game id="SM2E52" en="10 Minute Solution" zhcn="十分钟快速健身(美)" path="健身系列\十分钟快速健身(美) [SM2E52]"/>
 	<Game id="SM2P52" en="10 Minute Solution" zhcn="十分钟快速健身(欧)"/>
 	<Game id="RMCE1C" en="100cc Pack" zhcn="100cc Pack"/>
-	<Game id="RYEEEB" en="101-in-1 Party Megamix" zhcn="101合1 聚会游戏大合集(美)" path="家庭聚会系列\101合1 聚会游戏大合集(美) [RYEEEB]"/>
+	<Game id="RYEEEB" en="101-in-1 Party Megamix" zhcn="101合1 聚会游戏大合集(美)" collection="家庭聚会游戏"/>
 	<Game id="RYEPHZ" en="101-in-1 Party Megamix" zhcn="101合1 聚会游戏大合集(欧)"/>
 	<Game id="SOIEEB" en="101-in-1 Sports Party Megamix" zhcn="101合1 运动聚会游戏大合集(美)" collection="运动游戏 运动会"/>
 	<Game id="SOIPHZ" en="101-in-1 Sports Party Megamix" zhcn="101合1运动聚会游戏超级合集(欧)"/>
 	<Game id="SL7DML" en="2-in-1 - Meine Tierpension + Meine Tiersprechstunde" zhcn="2-in-1 - Meine Tierpension + Meine Tiersprechstunde"/>
 	<Game id="S26PML" en="2-in-1: Pony Friends 2 + My Riding Stables: Life with Horses" zhcn="2-in-1: Pony Friends 2 + My Riding Stables: Life with Horses"/>
-	<Game id="SFWE69" en="2010 FIFA World Cup South Africa" zhcn="2010南非世界杯足球赛(美)" path="专项运动系列 足球\2010南非世界杯足球赛(美) [SFWE69]"/>
+	<Game id="SFWE69" en="2010 FIFA World Cup South Africa" zhcn="2010南非世界杯足球赛(美)" collection="运动游戏 足球"/>
 	<Game id="SFWK69" en="2010 FIFA World Cup South Africa" zhcn="2010南非世界杯足球赛(韩)"/>
 	<Game id="SFWP69" en="2010 FIFA World Cup South Africa" zhcn="2010南非世界杯足球赛(欧)"/>
 	<Game id="SFWX69" en="2010 FIFA World Cup South Africa" zhcn="2010南非世界杯足球赛(法)"/>

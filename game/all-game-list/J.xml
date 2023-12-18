@@ -8,7 +8,7 @@
 	<Game id="SJ3PNL" en="Jakers! Kart Racing" zhcn="Jakers! Kart Racing"/>
 	<Game id="RJJP8P" en="Jambo! Safari" zhcn="丛林之旅 动物救援(欧)"/>
 	<Game id="RJJE8P" en="Jambo! Safari Animal Rescue" zhcn="丛林之旅 动物救援(美)" path="donej\丛林之旅 动物救援(美) [RJJE8P]"/>
-	<Game id="R5VE41" en="James Cameron's Avatar: The Game" zhcn="阿凡达(美)" path="影视和动漫系列\阿凡达(美) [R5VE41]"/>
+	<Game id="R5VE41" en="James Cameron's Avatar: The Game" zhcn="阿凡达(美)" collection="影视IP游戏"/>
 	<Game id="R5VP41" en="James Cameron's Avatar: The Game" zhcn="阿凡达[MP][平衡板](欧)"/>
 	<Game id="R5VX41" en="James Cameron's Avatar: The Game" zhcn="阿凡达[MP][平衡板](X)"/>
 	<Game id="RJWJEL" en="Jawa: Mammoth to Himitsu no Ishi" zhcn="猛犸象与神秘之石(日)"/>
@@ -19,7 +19,7 @@
 	<Game id="RJEP70" en="Jenga World Tour" zhcn="层层叠世界巡回赛(欧)"/>
 	<Game id="RJEE70" en="Jenga World Tour" zhcn="层层叠世界巡回赛(美)" path="donej\层层叠世界巡回赛(美) [RJEE70]"/>
 	<Game id="SJPE78" en="Jeopardy!" zhcn="智力竞答(美)" path="donej\智力竞答(美) [SJPE78]"/>
-	<Game id="SJCEZW" en="Jerry Rice &amp; Nitus' Dog Football" zhcn="杰里和狗足球(美)" path="专项运动系列 足球\杰里和狗足球(美) [SJCEZW]"/>
+	<Game id="SJCEZW" en="Jerry Rice &amp; Nitus' Dog Football" zhcn="杰里和狗足球(美)" collection="运动游戏 足球"/>
 	<Game id="RJ4ENR" en="Jewel Master: Cradle of Rome" zhcn="珠宝大师 罗马发源地(美)" path="donej\珠宝大师 罗马发源地(美) [RJ4ENR]"/>
 	<Game id="RJ4PRM" en="Jewel Master: Cradle of Rome" zhcn="珠宝大师 罗马发源地(欧)"/>
 	<Game id="SJQEPZ" en="Jewel Quest Trilogy" zhcn="宝石探秘三部曲(美)" path="donej\宝石探秘三部曲(美) [SJQEPZ]"/>
@@ -30,7 +30,7 @@
 	<Game id="R3FJA4" en="Jikkyou Powerful Major League 3" zhcn="实况力量棒球大联盟3(日)"/>
 	<Game id="RP5JA4" en="Jikkyou Powerful Pro Yakyuu 15" zhcn="实况力量棒球15(日)"/>
 	<Game id="RX8JA4" en="Jikkyou Powerful Pro Yakyuu Next" zhcn="实况力量棒球NEXT(日)"/>
-	<Game id="RJPJA4" en="Jikkyou Powerful Pro Yakyuu Wii" zhcn="实况棒球Wii(日)" path="专项运动系列\实况棒球Wii(日) [RJPJA4]"/>
+	<Game id="RJPJA4" en="Jikkyou Powerful Pro Yakyuu Wii" zhcn="实况棒球Wii(日)" collection="运动游戏 棒球"/>
 	<Game id="RPZJA4" en="Jikkyou Powerful Pro Yakyuu Wii: Ketteiban" zhcn="实况力量职棒Wii 决定版[WiFi](日)"/>
 	<Game id="SJMPGT" en="Jillian Michaels Fitness Ultimatum 2010" zhcn="吉利安 麦克尔的健身训练2010[平衡板](欧)"/>
 	<Game id="SJME5G" en="Jillian Michaels Fitness Ultimatum 2010" zhcn="Jillian Michaels的健身训练2010(美)" path="健身系列\Jillian Michaels的健身训练2010(美) [SJME5G]"/>
@@ -58,7 +58,7 @@
 	<Game id="SJLPXT" en="Junior League Sports" zhcn="少年体育联赛(美)"/>
 	<Game id="SJLEFS" en="Junior League Sports" zhcn="少年体育联赛(美)" path="donej\少年体育联赛(美) [SJLEFS]"/>
 	<Game id="R8XE52" en="Jurassic: The Hunted" zhcn="侏罗纪 猎物(美)" path="donej\侏罗纪 猎物(美) [R8XE52]"/>
-	<Game id="SDNE41" en="Just Dance" zhcn="舞力全开(美)" path="舞力全开年度系列\舞力全开(美) [SDNE41]" collection="舞力全开年度版本"/>
+	<Game id="SDNE41" en="Just Dance" zhcn="舞力全开(美)" collection="舞力全开年度版本"/>
 	<Game id="SDNP41" en="Just Dance" zhcn="舞力全开(欧)"/>
 	<Game id="SD2E41" en="Just Dance 2" zhcn="舞力全开2(美)"/>
 	<Game id="SD2K41" en="Just Dance 2" zhcn="舞力全开2(韩)"/>
@@ -66,19 +66,19 @@
 	<Game id="DD2P41" en="Just Dance 2 (Demo)" zhcn="舞力全开2 试玩版(欧)"/>
 	<Game id="SJOP41" en="Just Dance 2014" zhcn="舞力全开2014(欧)"/>
 	<Game id="SJOE41" en="Just Dance 2014" zhcn="舞力全开2014(美)"/>
-	<Game id="SJEE41" en="Just Dance 2014 Plus" zhcn="舞力全开2014合集" path="舞力全开年度系列\舞力全开2014合集 [SJEE41]" collection="舞力全开年度版本"/>
+	<Game id="SJEE41" en="Just Dance 2014 Plus" zhcn="舞力全开2014合集" collection="舞力全开年度版本"/>
 	<Game id="SE3P41" en="Just Dance 2015" zhcn="舞力全开2015(欧)"/>
 	<Game id="SE3E41" en="Just Dance 2015" zhcn="舞力全开2015(美)"/>
-	<Game id="DLCE41" en="Just Dance 2015 All In One" zhcn="舞力全开2015合集" path="舞力全开年度系列\舞力全开2015合集 [DLCE41]" collection="舞力全开年度版本"/>
-	<Game id="SJNE41" en="Just Dance 2016" zhcn="舞力全开2016(美)" path="舞力全开年度系列\舞力全开2016(美) [SJNE41]" collection="舞力全开年度版本"/>
+	<Game id="DLCE41" en="Just Dance 2015 All In One" zhcn="舞力全开2015合集" collection="舞力全开年度版本"/>
+	<Game id="SJNE41" en="Just Dance 2016" zhcn="舞力全开2016(美)" collection="舞力全开年度版本"/>
 	<Game id="SJNP41" en="Just Dance 2016" zhcn="舞力全开2016(欧)"/>
-	<Game id="SZ7E41" en="Just Dance 2017" zhcn="舞力全开2017(美)" path="舞力全开年度系列\舞力全开2017(美) [SZ7E41]" collection="舞力全开年度版本"/>
+	<Game id="SZ7E41" en="Just Dance 2017" zhcn="舞力全开2017(美)" collection="舞力全开年度版本"/>
 	<Game id="SZ7P41" en="Just Dance 2017" zhcn="舞力全开2017(欧)"/>
 	<Game id="SE8P41" en="Just Dance 2018" zhcn="舞力全开2018(欧)"/>
-	<Game id="SE8E41" en="Just Dance 2018" zhcn="舞力全开2018(美)" path="舞力全开年度系列\舞力全开2018(美) [SE8E41]" collection="舞力全开年度版本"/>
-	<Game id="S5EE41" en="Just Dance 2019" zhcn="舞力全开2019(美)" path="舞力全开年度系列\舞力全开2019(美) [S5EE41]" collection="舞力全开年度版本"/>
+	<Game id="SE8E41" en="Just Dance 2018" zhcn="舞力全开2018(美)" collection="舞力全开年度版本"/>
+	<Game id="S5EE41" en="Just Dance 2019" zhcn="舞力全开2019(美)" collection="舞力全开年度版本"/>
 	<Game id="S5EP41" en="Just Dance 2019" zhcn="舞力全开2019(欧)"/>
-	<Game id="S2UE41" en="Just Dance 2020" zhcn="舞力全开2020(美)" path="舞力全开年度系列\舞力全开2020(美) [S2UE41]" collection="舞力全开年度版本"/>
+	<Game id="S2UE41" en="Just Dance 2020" zhcn="舞力全开2020(美)" collection="舞力全开年度版本"/>
 	<Game id="S2UP41" en="Just Dance 2020" zhcn="舞力全开2020(欧)"/>
 	<Game id="S2PE41" en="Just Dance 2020 Plus" zhcn="舞力全开2020 Plus"/>
 	<Game id="S85P41" en="Just Dance 2021" zhcn="舞力全开2021"/>
@@ -86,18 +86,18 @@
 	<Game id="S68E41" en="Just Dance 2022" zhcn="舞力全开2022" collection="舞力全开年度版本"/>
 	<Game id="S3EE41" en="Just Dance 2023" zhcn="舞力全开2023" collection="舞力全开年度版本"/>
 	<Game id="S7EE41" en="Just Dance 2023 - Wii Edition" zhcn="舞力全开2023"/>
-    <Game id="J4EE41" en="Just Dance 2024 Edition" zhcn="舞力全开2024" collection="舞力全开年度版本"/>
-    <Game id="SD2Y41" en="Just Dance 2: Best Buy Edition" zhcn="舞力全开2 百思买版(美)" path="舞力全开年度系列\舞力全开2 百思买版(美) [SD2Y41]" collection="舞力全开年度版本"/>
-	<Game id="SJ9P41" en="Just Dance 2: Extra Songs" zhcn="舞力全开2 额外的歌曲(欧)" path="舞力全开年度系列\舞力全开2 额外的歌曲(欧) [SJ9P41]" collection="舞力全开年度版本"/>
+	<Game id="J4EE41" en="Just Dance 2024 Edition" zhcn="舞力全开2024" collection="舞力全开年度版本"/>
+	<Game id="SD2Y41" en="Just Dance 2: Best Buy Edition" zhcn="舞力全开2 百思买版(美)" collection="舞力全开年度版本"/>
+	<Game id="SJ9P41" en="Just Dance 2: Extra Songs" zhcn="舞力全开2 额外的歌曲(欧)" collection="舞力全开年度版本"/>
 	<Game id="SJDE41" en="Just Dance 3" zhcn="舞力全开3(美)"/>
 	<Game id="SJDK41" en="Just Dance 3" zhcn="舞力全开3(韩)"/>
 	<Game id="SJDP41" en="Just Dance 3" zhcn="舞力全开3(欧)"/>
 	<Game id="SJDX41" en="Just Dance 3 Special Edition" zhcn="舞力全开3 特别版(欧)"/>
-	<Game id="SJDY41" en="Just Dance 3: Best Buy Exclusive Edition" zhcn="舞力全开3 百思买版(美)" path="舞力全开年度系列\舞力全开3 百思买版(美) [SJDY41]" collection="舞力全开年度版本"/>
+	<Game id="SJDY41" en="Just Dance 3: Best Buy Exclusive Edition" zhcn="舞力全开3 百思买版(美)" collection="舞力全开年度版本"/>
 	<Game id="SJDZ41" en="Just Dance 3: Target/Zellers Exclusive Edition" zhcn="舞力全开3 塔吉特版(美)" path="舞力全开年度系列\舞力全开3 塔吉特版(美) [SJDZ41]"/>
 	<Game id="SJXP41" en="Just Dance 4" zhcn="舞力全开4(欧)"/>
 	<Game id="SJXE41" en="Just Dance 4" zhcn="舞力全开4(美)"/>
-	<Game id="SJXD41" en="Just Dance 4 Special Edition" zhcn="舞力全开4 特别版(欧)" path="舞力全开年度系列\舞力全开4 特别版(欧) [SJXD41]" collection="舞力全开年度版本"/>
+	<Game id="SJXD41" en="Just Dance 4 Special Edition" zhcn="舞力全开4 特别版(欧)" collection="舞力全开年度版本"/>
 	<Game id="ASIE41" en="Just Dance Asia" zhcn="Just Dance Asia" path="舞力全开自制系列\舞力全开 Asia [ASIE41]"/>
 	<Game id="S12E41" en="Just Dance Best Of 2" zhcn="舞力全开 BestOf2"/>
 	<Game id="RJUE41" en="Just Dance China" zhcn="舞力全开 China"/>

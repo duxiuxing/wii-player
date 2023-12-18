@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Game-List>
 	<Game id="R7VEWR" en="Vacation Isle: Beach Party" zhcn="度假岛 海滩派对[平衡板](美)"/>
-	<Game id="R7VPWR" en="Vacation Isle: Beach Party" zhcn="度假岛 海滩派对(欧)" path="平衡板游戏\度假岛 海滩派对(欧) [R7VPWR]"/>
+	<Game id="R7VPWR" en="Vacation Isle: Beach Party" zhcn="度假岛 海滩派对(欧)" collection="平衡板游戏"/>
 	<Game id="R8SE41" en="Vacation Sports" zhcn="假日体育(美)"/>
 	<Game id="RVKKZA" en="Valhalla Knights: Eldar Saga" zhcn="瓦尔哈拉骑士 艾德尔传奇[WiFi](韩)"/>
 	<Game id="RVKEXJ" en="Valhalla Knights: Eldar Saga" zhcn="瓦尔哈拉骑士 艾德尔传奇[WiFi](美)"/>
@@ -30,7 +30,7 @@
 	<Game id="GVSJ9P" en="Virtua Striker 4 Ver.2006" zhcn="Virtua Striker 4 Ver.2006"/>
 	<Game id="RVUE8P" en="Virtua Tennis 2009" zhcn="VR网球2009[MP][WiFi](美)"/>
 	<Game id="RVUP8P" en="Virtua Tennis 2009" zhcn="VR网球2009[MP][WiFi](欧)"/>
-	<Game id="SV4E8P" en="Virtua Tennis 4" zhcn="VR网球4(美)" path="专项运动系列 乒乓球和网球\VR网球4(美) [SV4E8P]"/>
+	<Game id="SV4E8P" en="Virtua Tennis 4" zhcn="VR网球4(美)" collection="运动游戏 乒乓球和网球"/>
 	<Game id="SV4P8P" en="Virtua Tennis 4" zhcn="VR网球 4[MP][WiFi](欧)"/>
 	<Game id="SMNEV3" en="Volcano Newer Super Mario Bros. Wii" zhcn="Volcano Newer Super Mario Bros. Wii"/>
 </Game-List>

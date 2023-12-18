@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Game-List>
 	<Game id="RYTE4Z" en="PBR: Out of the Chute" zhcn="职业牛仔骑士公司 斜道之外(美)"/>
-	<Game id="RPDEGN" en="PDC World Championship Darts 2008" zhcn="PDC世界飞镖锦标赛2008(美)" path="专项运动系列\PDC世界飞镖锦标赛2008(美) [RPDEGN]"/>
+	<Game id="RPDEGN" en="PDC World Championship Darts 2008" zhcn="PDC世界飞镖锦标赛2008(美)" collection="运动游戏"/>
 	<Game id="RPDPGN" en="PDC World Championship Darts 2008" zhcn="PDC世界飞镖锦标赛2008(欧)"/>
 	<Game id="RQ3PGN" en="PDC World Championship Darts 2009" zhcn="PDC世界飞镖锦标赛2009(欧)"/>
 	<Game id="SDTPGN" en="PDC World Championship Darts: Pro Tour" zhcn="PDC世界飞镖锦标赛 职业巡回赛(欧)"/>
@@ -108,9 +108,9 @@
 	<Game id="G0060C" en="Pokémon: Red Version" zhcn="Pokémon: Red Version"/>
 	<Game id="R2RP4F" en="Pony Friends 2" zhcn="小马伙伴2(欧)"/>
 	<Game id="R2RE4F" en="Pony Friends 2" zhcn="小马伙伴2(美)"/>
-	<Game id="RUREPL" en="Pool Hall Pro" zhcn="职业撞球名人堂(美)" path="专项运动系列\职业撞球名人堂(美) [RUREPL]"/>
+	<Game id="RUREPL" en="Pool Hall Pro" zhcn="职业撞球名人堂(美)" collection="运动游戏"/>
 	<Game id="RURPPL" en="Pool Hall Pro" zhcn="职业撞球名人堂(欧)"/>
-	<Game id="RPQES5" en="Pool Party" zhcn="桌球派对(美)" path="专项运动系列\桌球派对(美) [RPQES5]"/>
+	<Game id="RPQES5" en="Pool Party" zhcn="桌球派对(美)" collection="运动游戏"/>
 	<Game id="RPQPS5" en="Pool Party" zhcn="桌球派对(欧)"/>
 	<Game id="RB2PGT" en="Pop!" zhcn="气球泡泡(欧)"/>
 	<Game id="R83EA4" en="Pop'n Music" zhcn="流行音乐(美)"/>
@@ -157,7 +157,7 @@
 	<Game id="S2PXA4" en="Pro Evolution Soccer 2012" zhcn="实况足球 中场指挥官 2012(欧)"/>
 	<Game id="S2PYA4" en="Pro Evolution Soccer 2012" zhcn="实况足球 中场指挥官 2012(欧)"/>
 	<Game id="S3IEA4" en="Pro Evolution Soccer 2013" zhcn="Pro Evolution Soccer 2013"/>
-	<Game id="S3IPA4" en="Pro Evolution Soccer 2013" zhcn="实况足球2013(欧)" path="专项运动系列 足球\实况足球2013(欧) [S3IPA4]"/>
+	<Game id="S3IPA4" en="Pro Evolution Soccer 2013" zhcn="实况足球2013(欧)" collection="运动游戏 足球"/>
 	<Game id="S3IYA4" en="Pro Evolution Soccer 2013" zhcn="Pro Evolution Soccer 2013"/>
 	<Game id="S3IXA4" en="Pro Evolution Soccer 2013" zhcn="Pro Evolution Soccer 2013"/>
 	<Game id="RP3JAF" en="Pro Golfer Saru" zhcn="高尔夫球选手猿(日)"/>
@@ -193,7 +193,7 @@
 	<Game id="RZKP7J" en="Puzzle Kingdoms" zhcn="谜题王国(欧)"/>
 	<Game id="RZKE20" en="Puzzle Kingdoms" zhcn="谜题王国(美)"/>
 	<Game id="RQWPG9" en="Puzzle Quest: Challenge of the Warlords" zhcn="益智之迷 战神的挑战(欧)"/>
-	<Game id="RQWEG9" en="Puzzle Quest: Challenge of the Warlords" zhcn="益智之迷 战神的挑战(美)"/>
+	<Game id="RQWEG9" en="Puzzle Quest: Challenge of the Warlords" zhcn="益智之迷 战神的挑战(美)" collection="RPG游戏"/>
 	<Game id="RD9J18" en="Puzzle Series Vol. 1: Sudoku" zhcn="解谜系列Vol.1 数独(日)"/>
 	<Game id="RILJ18" en="Puzzle Series Vol. 2: Illust Logic + Colorful Logic" zhcn="益智系列 Vol.2 插画逻辑＋色彩逻辑(日)"/>
 	<Game id="RPCX7J" en="Puzzler Collection" zhcn="难题收藏(X)"/>

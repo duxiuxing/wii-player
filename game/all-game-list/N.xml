@@ -11,9 +11,9 @@
 	<Game id="S2QP54" en="NBA 2K12" zhcn="NBA 2K12(欧)"/>
 	<Game id="S2QE54" en="NBA 2K12" zhcn="NBA 2K12(美)"/>
 	<Game id="SKSP54" en="NBA 2K13" zhcn="NBA 2K13"/>
-	<Game id="SKSE54" en="NBA 2K13" zhcn="NBA 2K13(美)" path="专项运动系列\NBA 2K13(美) [SKSE54]"/>
+	<Game id="SKSE54" en="NBA 2K13" zhcn="NBA 2K13(美)" collection="运动游戏"/>
 	<Game id="SNJP69" en="NBA Jam" zhcn="NBA嘉年华(欧)"/>
-	<Game id="SNJE69" en="NBA Jam" zhcn="NBA嘉年华(美)" path="专项运动系列\NBA嘉年华(美) [SNJE69]"/>
+	<Game id="SNJE69" en="NBA Jam" zhcn="NBA嘉年华(美)" collection="运动游戏"/>
 	<Game id="RNBX69" en="NBA Live 08" zhcn="美国职业篮球2008[WiFi](X)"/>
 	<Game id="RNBE69" en="NBA Live 08" zhcn="美国职业篮球2008[WiFi](美)"/>
 	<Game id="RNBP69" en="NBA Live 08" zhcn="美国职业篮球2008[WiFi](欧)"/>
@@ -336,14 +336,14 @@
 	<Game id="R7EJ8P" en="NiGHTS: Hoshi Furu Yoru no Monogatari" zhcn="梦精灵 星降夜物语[WiFi](日)"/>
 	<Game id="R7EE8P" en="NiGHTS: Journey of Dreams" zhcn="梦精灵 星降夜物语(美)" path="donem\梦精灵 星降夜物语(美) [R7EE8P]"/>
 	<Game id="R7EP8P" en="NiGHTS: Journey of Dreams" zhcn="梦精灵 星降夜物语[WiFi](欧)"/>
-	<Game id="SNLX54" en="Nickelodeon Dance" zhcn="尼克罗顿舞蹈(欧)" path="尼克罗顿系列\尼克罗顿舞蹈(欧) [SNLX54]"/>
+	<Game id="SNLX54" en="Nickelodeon Dance" zhcn="尼克罗顿舞蹈(欧)" collection="影视IP游戏"/>
 	<Game id="SNLE54" en="Nickelodeon Dance" zhcn="尼克罗顿舞蹈(美)"/>
 	<Game id="SU2P54" en="Nickelodeon Dance 2" zhcn="尼克罗顿舞蹈2(欧)"/>
 	<Game id="SU2X54" en="Nickelodeon Dance 2" zhcn="尼克罗顿舞蹈2(欧)"/>
 	<Game id="SU2E54" en="Nickelodeon Dance 2" zhcn="尼克罗顿舞蹈2(美)"/>
 	<Game id="SNKX54" en="Nickelodeon Fit" zhcn="尼克罗顿健身[平衡板](欧)"/>
 	<Game id="SNKP54" en="Nickelodeon Fit" zhcn="尼克罗顿健身[平衡板](欧)"/>
-	<Game id="SN9E54" en="Nickelodeon Fit" zhcn="尼克罗顿健身(美)" path="尼克罗顿系列\尼克罗顿健身(美) [SN9E54]"/>
+	<Game id="SN9E54" en="Nickelodeon Fit" zhcn="尼克罗顿健身(美)" collection="影视IP游戏"/>
 	<Game id="RQ4J78" en="Nickelodeon SpongeBob SquarePants" zhcn="棉球方块历险记(日)"/>
 	<Game id="RUSK78" en="Nickelodeon SpongeBob SquarePants featuring Nicktoons - Globs of Doom" zhcn="海绵宝宝历险记 致命水珠(韩)"/>
 	<Game id="SNIE54" en="Nicktoons MLB" zhcn="尼克卡通MLB(美)" path="done2\尼克卡通MLB(美) [SNIE54]"/>

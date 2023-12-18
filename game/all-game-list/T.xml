@@ -73,7 +73,7 @@
 	<Game id="RKVE54" en="The BIGS 2" zhcn="大棒球联盟2(美)" path="done3\大棒球联盟2(美) [RKVE54]"/>
 	<Game id="SBXEWR" en="The Bachelor: The Video Game" zhcn="亿万未婚夫(美)" path="done3\亿万未婚夫(美) [SBXEWR]"/>
 	<Game id="R9JP69" en="The Beatles: Rock Band" zhcn="甲壳虫 摇滚乐团[WiFi](欧)"/>
-	<Game id="R9JE69" en="The Beatles: Rock Band" zhcn="甲壳虫乐队 摇滚乐团(美)" path="乐队系列\甲壳虫乐队 摇滚乐团(美) [R9JE69]"/>
+	<Game id="R9JE69" en="The Beatles: Rock Band" zhcn="甲壳虫乐队 摇滚乐团(美)" collection="乐队游戏"/>
 	<Game id="RX6E78" en="The Biggest Loser" zhcn="减肥达人(美)" path="健身系列\减肥达人(美) [RX6E78]"/>
 	<Game id="RX6P78" en="The Biggest Loser" zhcn="减肥达人[平衡板](欧)"/>
 	<Game id="ST6E78" en="The Biggest Loser Challenge" zhcn="减肥达人挑战赛(美)" path="健身系列\减肥达人挑战赛(美) [ST6E78]"/>
@@ -245,7 +245,7 @@
 	<Game id="ST4PNX" en="Thomas &amp; Friends: Hero of the Rails" zhcn="托马斯和伙伴们 铁路小英雄[MP](美)"/>
 	<Game id="RTVP64" en="Thrillville: Off The Rails" zhcn="主题公园 惊奇世界(欧)"/>
 	<Game id="RTVE64" en="Thrillville: Off the Rails" zhcn="主题公园 惊奇世界(美)"/>
-	<Game id="RT7E69" en="Tiger Woods PGA Tour 07" zhcn="泰格伍兹高尔夫巡回赛07(美)" path="专项运动系列\泰格伍兹高尔夫巡回赛07(美) [RT7E69]"/>
+	<Game id="RT7E69" en="Tiger Woods PGA Tour 07" zhcn="泰格伍兹高尔夫巡回赛07(美)" collection="运动游戏"/>
 	<Game id="RT7F69" en="Tiger Woods PGA Tour 07" zhcn="泰格伍兹高尔夫巡回赛07(法)"/>
 	<Game id="RT7P69" en="Tiger Woods PGA Tour 07" zhcn="泰格伍兹高尔夫巡回赛07(欧)"/>
 	<Game id="RT8E69" en="Tiger Woods PGA Tour 08" zhcn="泰格伍兹高尔夫巡回赛08(美)"/>
@@ -262,16 +262,16 @@
 	<Game id="STWP69" en="Tiger Woods PGA Tour 11" zhcn="泰格伍兹高尔夫巡回赛11[MP][WiFi](欧)"/>
 	<Game id="STWE69" en="Tiger Woods PGA Tour 11" zhcn="泰格伍兹高尔夫巡回赛11[MP][WiFi](美)"/>
 	<Game id="STXE69" en="Tiger Woods PGA Tour 12: The Masters" zhcn="泰格伍兹高尔夫巡回赛12 大师(美)"/>
-	<Game id="STXP69" en="Tiger Woods PGA Tour 12: The Masters" zhcn="泰格伍兹高尔夫巡回赛12 大师(欧)" path="专项运动系列\泰格伍兹高尔夫巡回赛12 大师(欧) [STXP69]"/>
+	<Game id="STXP69" en="Tiger Woods PGA Tour 12: The Masters" zhcn="泰格伍兹高尔夫巡回赛12 大师(欧)" collection="运动游戏"/>
 	<Game id="STMPKP" en="Titanic Mystery" zhcn="泰坦尼克号之谜(欧)"/>
 	<Game id="STMEGN" en="Titanic Mystery" zhcn="泰坦尼克号之谜(美)"/>
 	<Game id="STIFKM" en="Titeuf le Film" zhcn="迪得夫的电影(欧)"/>
 	<Game id="SMNE84" en="Toad and Toadette Super Mario Bros. Wii" zhcn="Toad and Toadette Super Mario Bros. Wii"/>
 	<Game id="R89JEL" en="Tokyo Friend Park II: Ketteiban: Minna de Chousen! Taikan Attraction!" zhcn="东京友好乐园2(日)"/>
-	<Game id="SGHE41" en="Tom Clancy's Ghost Recon" zhcn="汤姆克兰西 幽灵行动(美)" path="汤姆克兰西系列\汤姆克兰西 幽灵行动(美) [SGHE41]"/>
+	<Game id="SGHE41" en="Tom Clancy's Ghost Recon" zhcn="汤姆克兰西 幽灵行动(美)" collection="汤姆克兰西系列"/>
 	<Game id="SGHP41" en="Tom Clancy's Ghost Recon" zhcn="汤姆克兰西 幽灵行动[WiFi](欧)"/>
 	<Game id="RTAE41" en="Tom Clancy's H.A.W.X. 2" zhcn="汤姆克兰西之鹰击长空2(美)"/>
-	<Game id="RTAP41" en="Tom Clancy's H.A.W.X. 2" zhcn="汤姆克兰西 鹰击长空2(欧)" path="汤姆克兰西系列\汤姆克兰西 鹰击长空2(欧) [RTAP41]"/>
+	<Game id="RTAP41" en="Tom Clancy's H.A.W.X. 2" zhcn="汤姆克兰西 鹰击长空2(欧)" collection="汤姆克兰西系列"/>
 	<Game id="RTCP41" en="Tom Clancy's Splinter Cell: Double Agent" zhcn="分裂细胞 双重间谍(欧)"/>
 	<Game id="RTCE41" en="Tom Clancy's Splinter Cell: Double Agent" zhcn="分裂细胞 双重间谍(美)"/>
 	<Game id="RMCET0" en="TomB's CT Pack" zhcn="TomB's CT Pack"/>
@@ -292,11 +292,11 @@
 	<Game id="RYLPSV" en="Top Model Academy" zhcn="Top Model Academy"/>
 	<Game id="ST9E52" en="Top Shot Arcade" zhcn="顶级射手(美)"/>
 	<Game id="R8XZ52" en="Top Shot Dinosaur Hunter" zhcn="顶级射手 恐龙猎人(美)"/>
-	<Game id="R3TP54" en="Top Spin 3" zhcn="上旋高手3(欧)" path="专项运动系列 乒乓球和网球\上旋高手3(欧) [R3TP54]"/>
+	<Game id="R3TP54" en="Top Spin 3" zhcn="上旋高手3(欧)" collection="运动游戏 乒乓球和网球"/>
 	<Game id="R3TJG9" en="Top Spin 3" zhcn="上旋高手3(日)"/>
 	<Game id="R3TE54" en="Top Spin 3" zhcn="上旋高手3(美)"/>
 	<Game id="R28P54" en="Top Spin 4" zhcn="上旋高手4(欧)"/>
-	<Game id="R28E54" en="Top Spin 4" zhcn="上旋高手4(美)" path="专项运动系列 乒乓球和网球\上旋高手4(美) [R28E54]"/>
+	<Game id="R28E54" en="Top Spin 4" zhcn="上旋高手4(美)" collection="运动游戏 乒乓球和网球"/>
 	<Game id="RTPP41" en="Top Trumps Adventures" zhcn="王牌冒险(欧)"/>
 	<Game id="RWHP4F" en="Top Trumps: Doctor Who" zhcn="顶级王牌 神秘博士(欧)"/>
 	<Game id="R6TPA4" en="Tornado Outbreak" zhcn="龙卷风爆发(欧)"/>

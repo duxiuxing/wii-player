@@ -14,7 +14,7 @@
 	<Game id="RY3J41" en="Rabbids Party: TV Party" zhcn="雷曼 疯狂兔子 电视聚会[平衡板](日)"/>
 	<Game id="SR4J41" en="Rabbids Party: Time Travel" zhcn="疯狂兔子：时光旅行[WiFi](日)"/>
 	<Game id="SRQP41" en="Racket Sports Party" zhcn="球拍运动[MP](欧)"/>
-	<Game id="SRQE41" en="Racquet Sports" zhcn="球拍运动(美)" path="专项运动系列 乒乓球和网球\球拍运动(美) [SRQE41]"/>
+	<Game id="SRQE41" en="Racquet Sports" zhcn="球拍运动(美)" collection="运动游戏 乒乓球和网球"/>
 	<Game id="RGCPGT" en="Radio Helicopter" zhcn="遥控直升机Wii 飞行大冒险(欧)"/>
 	<Game id="SRAJMS" en="Radirgy Noa Wii" zhcn="电波少女诺亚Wii(日)"/>
 	<Game id="RB2J2K" en="Rainbow Pop" zhcn="彩虹泡泡(日或中)" collection="中文游戏"/>
@@ -32,7 +32,7 @@
 	<Game id="RTBE52" en="Rapala Fishing Frenzy" zhcn="乐伯乐疯狂钓鱼(美)"/>
 	<Game id="SRFE52" en="Rapala Pro Bass Fishing" zhcn="乐伯乐职业钓鱼大赛(美)"/>
 	<Game id="SRFP52" en="Rapala Pro Bass Fishing" zhcn="乐伯乐职业钓鱼大赛(欧)"/>
-	<Game id="RPLE52" en="Rapala Tournament Fishing" zhcn="乐伯乐钓鱼巡回赛(美)" path="专项运动系列 钓鱼\乐伯乐钓鱼巡回赛(美) [RPLE52]"/>
+	<Game id="RPLE52" en="Rapala Tournament Fishing" zhcn="乐伯乐钓鱼巡回赛(美)" collection="运动游戏 钓鱼"/>
 	<Game id="RPLP52" en="Rapala Tournament Fishing" zhcn="乐伯乐钓鱼巡回赛(欧)"/>
 	<Game id="ROJE52" en="Rapala: We Fish" zhcn="乐伯乐 大众钓鱼(美)"/>
 	<Game id="ROJP52" en="Rapala: We Fish" zhcn="乐伯乐 大众钓鱼(欧)"/>
@@ -67,7 +67,7 @@
 	<Game id="SR9EHG" en="Reader Rabbit Preschool" zhcn="兔宝宝系列 学前教育(美)"/>
 	<Game id="SRLXNL" en="Reader Rabbit Preschool" zhcn="Reader Rabbit Preschool"/>
 	<Game id="RR5P70" en="Ready 2 Rumble Revolution" zhcn="暴力拳击2 革命(欧)"/>
-	<Game id="RR5E70" en="Ready 2 Rumble Revolution" zhcn="暴力拳击2 革命(美)"/>
+	<Game id="RR5E70" en="Ready 2 Rumble Revolution" zhcn="暴力拳击2 革命(美)" collection="运动游戏"/>
 	<Game id="RRJIMR" en="Ready Steady Cook: The Game" zhcn="准备稳妥的厨师(意)"/>
 	<Game id="RRJFMR" en="Ready Steady Cook: The Game" zhcn="准备稳妥的厨师(法)"/>
 	<Game id="RRJPMR" en="Ready Steady Cook: The Game" zhcn="准备好的可靠的厨师(欧)"/>
@@ -83,7 +83,7 @@
 	<Game id="REDJ41" en="Red Steel" zhcn="赤铁(日)"/>
 	<Game id="REDE41" en="Red Steel" zhcn="赤色钢铁(美)"/>
 	<Game id="REDP41" en="Red Steel" zhcn="赤铁(欧)"/>
-	<Game id="RD2X41" en="Red Steel 2" zhcn="赤铁2(X)" path="加速器游戏\赤铁2(X) [RD2X41]"/>
+	<Game id="RD2X41" en="Red Steel 2" zhcn="赤铁2(X)" collection="加速器游戏"/>
 	<Game id="RD2P41" en="Red Steel 2" zhcn="赤铁2[MP](欧)"/>
 	<Game id="RD2K41" en="Red Steel 2" zhcn="赤铁2[MP](韩)"/>
 	<Game id="RD2E41" en="Red Steel 2" zhcn="赤铁2[MP](美)"/>
@@ -115,7 +115,7 @@
 	<Game id="RE4E08" en="Resident Evil Archives: Resident Evil" zhcn="生化危机 复刻版(美)"/>
 	<Game id="RBHP08" en="Resident Evil Archives: Resident Evil Zero" zhcn="生化危机0(欧)"/>
 	<Game id="RBHE08" en="Resident Evil Archives: Resident Evil Zero" zhcn="生化危机0(美)"/>
-	<Game id="SBDE08" en="Resident Evil: The Darkside Chronicles" zhcn="生化危机 阴暗历代记(美或中)" collection="生化危机系列"/>
+	<Game id="SBDE08" en="Resident Evil: The Darkside Chronicles" zhcn="生化危机 阴暗编年史(美或中)" collection="生化危机系列"/>
 	<Game id="SBDP08" en="Resident Evil: The Darkside Chronicles" zhcn="生化危机 暗黑历代记[WiFi](欧)"/>
 	<Game id="RBUE08" en="Resident Evil: The Umbrella Chronicles" zhcn="生化危机 安布雷拉编年史(美或中)" collection="生化危机系列"/>
 	<Game id="RBUP08" en="Resident Evil: The Umbrella Chronicles" zhcn="生化危机 安布雷拉编年史(欧)"/>
@@ -145,7 +145,7 @@
 	<Game id="RRAPUG" en="Rock 'N' Roll Adventures" zhcn="猫王的摇滚大冒险(欧)"/>
 	<Game id="RRAXUG" en="Rock 'N' Roll Adventures" zhcn="猫王的摇滚大冒险(X)"/>
 	<Game id="RKXP69" en="Rock Band" zhcn="摇滚乐团(欧)"/>
-	<Game id="RKXE69" en="Rock Band" zhcn="摇滚乐团(美)"/>
+	<Game id="RKXE69" en="Rock Band" zhcn="摇滚乐团(美)" collection="乐队游戏"/>
 	<Game id="SZAP69" en="Rock Band 2" zhcn="摇滚乐团2[WiFi](欧)"/>
 	<Game id="SZAE69" en="Rock Band 2" zhcn="摇滚乐团2[WiFi](美)"/>
 	<Game id="SZBP69" en="Rock Band 3" zhcn="摇滚乐团3[WiFi](欧)"/>
@@ -162,7 +162,7 @@
 	<Game id="RVLPA4" en="Rock Revolution" zhcn="摇滚革命(欧)"/>
 	<Game id="RT3JEL" en="Rockstar Games Presents: Table Tennis" zhcn="Rockstar乒乓球(日)"/>
 	<Game id="RT3P54" en="Rockstar Games Presents: Table Tennis" zhcn="Rockstar乒乓球(欧)"/>
-	<Game id="RT3E54" en="Rockstar Games Presents: Table Tennis" zhcn="Rockstar乒乓球(美)" path="专项运动系列 乒乓球和网球\Rockstar乒乓球(美) [RT3E54]"/>
+	<Game id="RT3E54" en="Rockstar Games Presents: Table Tennis" zhcn="Rockstar乒乓球(美)" collection="运动游戏 乒乓球和网球"/>
 	<Game id="SROPNS" en="Rodea the Sky Soldier" zhcn="Rodea the Sky Soldier"/>
 	<Game id="SROENS" en="Rodea the Sky Soldier" zhcn="Rodea the Sky Soldier"/>
 	<Game id="RRYEHG" en="Rogue Trooper: Quartz Zone Massacre" zhcn="侠盗骑兵 石英地带大屠杀(美)"/>

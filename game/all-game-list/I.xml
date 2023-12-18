@@ -7,13 +7,13 @@
 	<Game id="R9CPMR" en="I'm a Celebrity...Get Me Out of Here!" zhcn="我是明星 快放我走(欧)" collection="平衡板游戏"/>
 	<Game id="R2AP7D" en="Ice Age 2: The Meltdown" zhcn="冰河世纪2 消融(欧)"/>
 	<Game id="R2AX7D" en="Ice Age 2: The Meltdown" zhcn="冰河世纪2 消融(X)"/>
-	<Game id="R2AE7D" en="Ice Age 2: The Meltdown" zhcn="冰河世纪2 消融(美)" path="影视和动漫系列\冰河世纪2 消融(美) [R2AE7D]"/>
+	<Game id="R2AE7D" en="Ice Age 2: The Meltdown" zhcn="冰河世纪2 消融(美)" collection="影视IP游戏"/>
 	<Game id="RIAI52" en="Ice Age 3: Dawn of the Dinosaurs" zhcn="冰河世纪3 恐龙的黎明(意)"/>
 	<Game id="RIAP52" en="Ice Age 3: Dawn of the Dinosaurs" zhcn="冰河世纪3 恐龙的黎明(欧)"/>
 	<Game id="SIAP52" en="Ice Age 4: Continental Drift - Artic Games" zhcn="冰原历险记4 板块漂移(欧)"/>
-	<Game id="SIAE52" en="Ice Age: Continental Drift - Arctic Games" zhcn="冰河世纪4 大陆漂移(美)" path="影视和动漫系列\冰河世纪4 大陆漂移(美) [SIAE52]"/>
+	<Game id="SIAE52" en="Ice Age: Continental Drift - Arctic Games" zhcn="冰河世纪4 大陆漂移(美)" collection="影视IP游戏"/>
 	<Game id="SIAI52" en="Ice Age: Continental Drift: Arctic Games" zhcn="冰原历险记4 板块漂移(欧)"/>
-	<Game id="RIAE52" en="Ice Age: Dawn of the Dinosaurs" zhcn="冰河世纪3 恐龙的黎明(美)" path="影视和动漫系列\冰河世纪3 恐龙的黎明(美) [RIAE52]"/>
+	<Game id="RIAE52" en="Ice Age: Dawn of the Dinosaurs" zhcn="冰河世纪3 恐龙的黎明(美)" collection="影视IP游戏"/>
 	<Game id="RIBES5" en="Igor the Game" zhcn="科学小怪蛋(美)" path="wbfs\科学小怪蛋(美) [RIBES5]"/>
 	<Game id="RIBPKM" en="Igor: The Game" zhcn="科学小怪蛋(欧)"/>
 	<Game id="SEKJ99" en="Ikenie no Yoru" zhcn="活祭之夜(日)"/>
@@ -22,27 +22,27 @@
 	<Game id="REVJ8P" en="Imabikisou Kaimei-hen" zhcn="忌火起草 解明篇(日或中)" collection="中文游戏"/>
 	<Game id="RW8P41" en="Imagine Champion Rider" zhcn="想象 冠军骑士(欧)"/>
 	<Game id="RFZP41" en="Imagine Fashion Idol" zhcn="想象 时尚偶像[平衡板](欧)"/>
-	<Game id="RFZE41" en="Imagine Fashion Party" zhcn="想象 时尚聚会(美)" path="平衡板游戏\想象 时尚聚会(美) [RFZE41]"/>
-	<Game id="R8BE41" en="Imagine Party Babyz" zhcn="想象 保姆派对(美)" path="平衡板游戏\想象 保姆派对(美) [R8BE41]"/>
-	<Game id="RIME36" en="Impossible Mission" zhcn="碟中谍(美)" path="影视和动漫系列\碟中谍(美) [RIME36]"/>
+	<Game id="RFZE41" en="Imagine Fashion Party" zhcn="想象 时尚聚会(美)" collection="平衡板游戏"/>
+	<Game id="R8BE41" en="Imagine Party Babyz" zhcn="想象 保姆派对(美)" collection="平衡板游戏"/>
+	<Game id="RIME36" en="Impossible Mission" zhcn="碟中谍(美)" collection="影视IP游戏"/>
 	<Game id="RIMP6M" en="Impossible Mission" zhcn="碟中谍(欧)"/>
 	<Game id="R53PFH" en="In The Mix Featuring Armin van Buuren" zhcn="混音大师 阿曼凡布伦(欧)"/>
 	<Game id="S5SJHI" en="Inazuma Eleven GO Strikers 2013" zhcn="Inazuma Eleven GO Strikers 2013"/>
 	<Game id="S5SJHF" en="Inazuma Eleven Go Strikers 2013" zhcn="闪电十一人GO时空之石 王牌前锋 2013(日)"/>
-	<Game id="STQJHF" en="Inazuma Eleven Strikers" zhcn="闪电十一人 王牌前锋(日)" path="专项运动系列 足球\闪电十一人 王牌前锋(日) [STQJHF]"/>
+	<Game id="STQJHF" en="Inazuma Eleven Strikers" zhcn="闪电十一人 王牌前锋(日)" collection="运动游戏 足球"/>
 	<Game id="STQP01" en="Inazuma Eleven Strikers" zhcn="Inazuma Eleven Strikers"/>
 	<Game id="STQX01" en="Inazuma Eleven Strikers" zhcn="Inazuma Eleven Strikers"/>
 	<Game id="SEZJHF" en="Inazuma Eleven Strikers 2012 Xtreme" zhcn="闪电十一人 强袭者 2012极限版(日)"/>
 	<Game id="RJ8P64" en="Indiana Jones and the Staff of Kings" zhcn="印第安纳琼斯与帝王手杖(欧)"/>
-	<Game id="RJ8E64" en="Indiana Jones and the Staff of Kings" zhcn="印第安纳琼斯与帝王手杖(美)" path="影视和动漫系列\印第安纳琼斯与帝王手杖(美) [RJ8E64]"/>
+	<Game id="RJ8E64" en="Indiana Jones and the Staff of Kings" zhcn="印第安纳琼斯与帝王手杖(美)" collection="影视IP游戏"/>
 	<Game id="RIZENR" en="Indianapolis 500 Legends" zhcn="印第500赛车(美)" path="wbfs\印第500赛车(美) [RIZENR]"/>
 	<Game id="RR8PUJ" en="International Athletics" zhcn="国际田径大赛(欧)" collection="运动游戏 运动会"/>
 	<Game id="RITFMR" en="Intervilles, le jeu officiel" zhcn="城市之间[平衡板](法)"/>
 	<Game id="RMCEIT" en="Invisibility Toggle" zhcn="Invisibility Toggle"/>
 	<Game id="RICENR" en="Iron Chef America: Supreme Cuisine" zhcn="美国铁人料理 顶级烹饪法(美)" path="wbfs\美国铁人料理 顶级烹饪法(美) [RICENR]"/>
-	<Game id="RIRE8P" en="Iron Man" zhcn="钢铁侠(美)" path="影视动漫系列 漫威\钢铁侠(美) [RIRE8P]"/>
+	<Game id="RIRE8P" en="Iron Man" zhcn="钢铁侠(美)" collection="影视IP游戏 漫威"/>
 	<Game id="RIRP8P" en="Iron Man" zhcn="钢铁侠(欧)"/>
-	<Game id="S2IE8P" en="Iron Man 2" zhcn="钢铁侠2(美)" path="影视动漫系列 漫威\钢铁侠2(美) [S2IE8P]"/>
+	<Game id="S2IE8P" en="Iron Man 2" zhcn="钢铁侠2(美)" collection="影视IP游戏 漫威"/>
 	<Game id="S2IP8P" en="Iron Man 2" zhcn="钢铁人2(欧)"/>
 	<Game id="S2IZ8P" en="Iron Man 2 - Walmart Edition" zhcn="Iron Man 2 - Walmart Edition"/>
 	<Game id="SISJ0Q" en="Isometric &amp; Karate Exercise: Wii de Kotsuban Fitness" zhcn="骨盆瘦身[平衡板](日)"/>

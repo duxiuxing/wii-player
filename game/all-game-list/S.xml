@@ -6,8 +6,8 @@
 	<Game id="SD9JAF" en="SD Gundam: Gashapon Wars" zhcn="SD高达 扭蛋战争(日)"/>
 	<Game id="RSDJAF" en="SD Gundam: Scad Hammers" zhcn="SD高达 疾速流星锤(日)"/>
 	<Game id="RT5E8P" en="SEGA Superstars Tennis" zhcn="世嘉超级明星网球(美)"/>
-	<Game id="RT5P8P" en="SEGA Superstars Tennis" zhcn="世嘉超级明星网球(欧)" path="专项运动系列 乒乓球和网球\世嘉超级明星网球(欧) [RT5P8P]"/>
-	<Game id="RNCEH4" en="SNK Arcade Classics Volume 1" zhcn="SNK街机经典Vol1(美)" path="街机系列\SNK街机经典Vol1(美) [RNCEH4]"/>
+	<Game id="RT5P8P" en="SEGA Superstars Tennis" zhcn="世嘉超级明星网球(欧)" collection="运动游戏 乒乓球和网球"/>
+	<Game id="RNCEH4" en="SNK Arcade Classics Volume 1" zhcn="SNK街机经典Vol1(美)" collection="街机游戏"/>
 	<Game id="RJZP7U" en="SNK Arcade Classics Volume 1" zhcn="SNK街机经典Vol1(欧)"/>
 	<Game id="RMGE64" en="SPG64 IN SMG!" zhcn="SPG64 IN SMG!"/>
 	<Game id="RYIPNK" en="SPRay" zhcn="涂鸦王子(欧)"/>
@@ -79,7 +79,7 @@
 	<Game id="RTUFKM" en="Secret Files: Tunguska" zhcn="秘密档案 通古斯(法)"/>
 	<Game id="SMGS01" en="Secret Mario Galaxy" zhcn="Secret Mario Galaxy"/>
 	<Game id="RMCESC" en="Secret Tracks" zhcn="Secret Tracks"/>
-	<Game id="RBTE8P" en="Sega Bass Fishing" zhcn="钓鱼高手(美)" path="专项运动系列 钓鱼\钓鱼高手(美) [RBTE8P]"/>
+	<Game id="RBTE8P" en="Sega Bass Fishing" zhcn="钓鱼高手(美)" collection="运动游戏 钓鱼"/>
 	<Game id="RBTP8P" en="Sega Bass Fishing" zhcn="钓鱼高手(欧)"/>
 	<Game id="SB3J08" en="Sengoku BASARA 3" zhcn="战国 BASARA 3(日)" path="done4\战国 BASARA 3(日) [SB3J08]"/>
 	<Game id="RBSJ08" en="Sengoku Basara 2: Heroes: Double Pack" zhcn="战国 BASARA 2 英雄外传A(日)"/>
@@ -102,7 +102,7 @@
 	<Game id="SEVPEY" en="Shakedown: Hawaii" zhcn="Shakedown: Hawaii"/>
 	<Game id="RS8J8N" en="Shanghai" zhcn="上海(日)"/>
 	<Game id="SHIJ2N" en="Shape Boxing 2: Wii de Enjoy Diet!" zhcn="有氧拳击2 Wii快乐瘦身(日)"/>
-	<Game id="REKJ2N" en="Shape Boxing: Wii de Enjoy Diet!" zhcn="有氧拳击 Wii快乐瘦身(日或中)" path="平衡板游戏\有氧拳击 Wii快乐瘦身(中) [REKJ2N]"/>
+	<Game id="REKJ2N" en="Shape Boxing: Wii de Enjoy Diet!" zhcn="有氧拳击 Wii快乐瘦身(日或中)" collection="平衡板游戏"/>
 	<Game id="RTKJDQ" en="Sharuui Takoron" zhcn="章鱼大作战[WiFi](日)"/>
 	<Game id="SHNE41" en="Shaun White Skateboarding" zhcn="肖恩怀特滑板[平衡板](美)"/>
 	<Game id="SHNP41" en="Shaun White Skateboarding" zhcn="肖恩怀特滑板[平衡板](欧)"/>
@@ -110,7 +110,7 @@
 	<Game id="RDFP41" en="Shaun White Snowboarding: Road Trip" zhcn="肖恩怀特滑雪板[平衡板](欧)"/>
 	<Game id="RW7E41" en="Shaun White Snowboarding: Road Trip - Target Limited Edition" zhcn="肖恩怀特滑雪[平衡板](美)"/>
 	<Game id="R6NP41" en="Shaun White Snowboarding: World Stage" zhcn="肖恩怀特滑雪 世界舞台[MP][平衡板](欧)"/>
-	<Game id="R6NY41" en="Shaun White Snowboarding: World Stage" zhcn="肖恩怀特滑雪 世界舞台(欧)" path="平衡板游戏\肖恩怀特滑雪 世界舞台(欧) [R6NY41]"/>
+	<Game id="R6NY41" en="Shaun White Snowboarding: World Stage" zhcn="肖恩怀特滑雪 世界舞台(欧)" collection="平衡板游戏"/>
 	<Game id="R6NE41" en="Shaun White Snowboarding: World Stage" zhcn="肖恩怀特滑雪 世界舞台[MP][平衡板](美)"/>
 	<Game id="SJVE20" en="Shawn Johnson Gymnastics" zhcn="肖恩约翰逊体操[平衡板](美)"/>
 	<Game id="SSHPHH" en="Sherlock Holmes: The Silver Earring" zhcn="夏洛克福尔摩斯 银耳饰之案(欧)"/>
@@ -122,7 +122,7 @@
 	<Game id="RTDJES" en="Shin Chuuka Taisen: Michael to Meimei no Bouken" zhcn="新中华大仙 米迦勒与美美的冒险(日)"/>
 	<Game id="RFSEEB" en="Shiren the Wanderer" zhcn="风来之西林3(美)"/>
 	<Game id="RMCESH" en="Shortcut Practice Pack" zhcn="Shortcut Practice Pack"/>
-	<Game id="RSYE20" en="Showtime Championship Boxing" zhcn="冠军拳击赛(美)" path="done2\冠军拳击赛(美) [RSYE20]"/>
+	<Game id="RSYE20" en="Showtime Championship Boxing" zhcn="冠军拳击赛(美)" collection="运动游戏"/>
 	<Game id="RSYP7J" en="Showtime Championship Boxing" zhcn="冠军拳击赛(欧)"/>
 	<Game id="SK4P52" en="Shrek Forever After" zhcn="史莱克4 快乐神仙(欧)"/>
 	<Game id="SK4E52" en="Shrek Forever After" zhcn="史莱克4 快乐神仙(美)"/>
@@ -338,7 +338,7 @@
 	<Game id="R3PPWR" en="Speed Racer: The Videogame" zhcn="极速赛车手(欧)"/>
 	<Game id="RZSEGJ" en="Speed Zone" zhcn="极速地带(美)"/>
 	<Game id="SPBPGT" en="Spellbound Party" zhcn="魅力聚会(欧)"/>
-	<Game id="RS3E52" en="Spider-Man 3" zhcn="蜘蛛侠3(美)" path="影视动漫系列 漫威\蜘蛛侠3(美) [RS3E52]"/>
+	<Game id="RS3E52" en="Spider-Man 3" zhcn="蜘蛛侠3(美)" collection="影视IP游戏 漫威"/>
 	<Game id="RS3J52" en="Spider-Man 3" zhcn="蜘蛛侠3(日)"/>
 	<Game id="RS3P52" en="Spider-Man 3" zhcn="蜘蛛侠3(欧)"/>
 	<Game id="RS3X52" en="Spider-Man 3" zhcn="蜘蛛侠3(X)"/>
@@ -544,7 +544,7 @@
 	<Game id="SFRE01" en="Super Mario Bros. Frozen Edition" zhcn="Super Mario Bros. Frozen Edition"/>
 	<Game id="SFRP01" en="Super Mario Bros. Frozen Edition" zhcn="Super Mario Bros. Frozen Edition"/>
 	<Game id="SVMK01" en="Super Mario Collection" zhcn="Super Mario Collection"/>
-	<Game id="SVMJ01" en="Super Mario Collection" zhcn="超级马里奥25周年纪念包(日)"/>
+	<Game id="SVMJ01" en="Super Mario Collection" zhcn="超级马里奥25周年纪念包(日)" collection="超级马里奥兄弟系列"/>
 	<Game id="RMGE04" en="Super Mario Earth" zhcn="Super Mario Earth"/>
 	<Game id="GMSE04" en="Super Mario Eclipse" zhcn="Super Mario Eclipse"/>
 	<Game id="RMGP01" en="Super Mario Galaxy" zhcn="超级马里奥银河(欧)"/>
@@ -609,12 +609,12 @@
 	<Game id="MG1E01" en="Super Mayro Galaxy" zhcn="Super Mayro Galaxy"/>
 	<Game id="SB4E03" en="Super Mayro Galaxy" zhcn="Super Mayro Galaxy"/>
 	<Game id="MG2E01" en="Super Mayro Galaxy Twoad" zhcn="Super Mayro Galaxy Twoad"/>
-	<Game id="SMBJ8P" en="Super Monkey Ball Athletic" zhcn="超级猴子球 平衡滚球(日)" path="平衡板游戏\超级猴子球 平衡滚球(日) [SMBJ8P]"/>
+	<Game id="SMBJ8P" en="Super Monkey Ball Athletic" zhcn="超级猴子球 平衡滚球(日)" collection="平衡板游戏"/>
 	<Game id="GM2EDX" en="Super Monkey Ball Deluxe" zhcn="Super Monkey Ball Deluxe"/>
 	<Game id="RSMP8P" en="Super Monkey Ball: Banana Blitz" zhcn="超级猴子球 香蕉闪电战(欧)"/>
 	<Game id="RSME8P" en="Super Monkey Ball: Banana Blitz" zhcn="超级猴子球 香蕉闪电战(美)" path="done2\超级猴子球 香蕉闪电战(美) [RSME8P]"/>
 	<Game id="SMBE8P" en="Super Monkey Ball: Step &amp; Roll" zhcn="超级猴子球 平衡滚球[平衡板](美)"/>
-	<Game id="SMBP8P" en="Super Monkey Ball: Step &amp; Roll" zhcn="超级猴子球 平衡滚球(欧)" path="平衡板游戏\超级猴子球 平衡滚球(欧) [SMBP8P]"/>
+	<Game id="SMBP8P" en="Super Monkey Ball: Step &amp; Roll" zhcn="超级猴子球 平衡滚球(欧)" collection="平衡板游戏"/>
 	<Game id="RSMJ8P" en="Super Monkey Ball: Uki Uki Party Daishuugou" zhcn="超级猴子球 香蕉闪电战(日)"/>
 	<Game id="R8PE02" en="Super Paper Isaiah" zhcn="Super Paper Isaiah"/>
 	<Game id="R8PK01" en="Super Paper Mario" zhcn="超级纸片马里奥(韩)"/>

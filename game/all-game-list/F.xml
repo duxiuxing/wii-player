@@ -30,21 +30,21 @@
 	<Game id="SVHE69" en="FIFA 14 - Legacy Edition" zhcn="FIFA 14 - Legacy Edition"/>
 	<Game id="SVHX69" en="FIFA 14 - Legacy Edition" zhcn="FIFA 14 - Legacy Edition"/>
 	<Game id="SVHP69" en="FIFA 14 - Legacy Edition" zhcn="FIFA 14 - Legacy Edition"/>
-	<Game id="SQVE69" en="FIFA 15" zhcn="FIFA 15(美)" path="专项运动系列 足球\FIFA 15(美) [SQVE69]"/>
+	<Game id="SQVE69" en="FIFA 15" zhcn="FIFA 15(美)" collection="运动游戏 足球"/>
 	<Game id="SQVX69" en="FIFA 15 - Legacy Edition" zhcn="FIFA足球 15"/>
 	<Game id="SQVP69" en="FIFA 15 - Legacy Edition" zhcn="FIFA 15 - Legacy Edition"/>
-	<Game id="RF8E69" en="FIFA Soccer 08" zhcn="FIFA足球08(美)" path="专项运动系列 足球\FIFA足球08(美) [RF8E69]"/>
+	<Game id="RF8E69" en="FIFA Soccer 08" zhcn="FIFA足球08(美)" collection="运动游戏 足球"/>
 	<Game id="RY9E69" en="FIFA Soccer 09 All-Play" zhcn="FIFA足球09[WiFi](美)"/>
-	<Game id="RF9E69" en="FIFA Soccer 09 All-Play" zhcn="FIFA足球09(美)" path="专项运动系列 足球\FIFA足球09(美) [RF9E69]"/>
+	<Game id="RF9E69" en="FIFA Soccer 09 All-Play" zhcn="FIFA足球09(美)" collection="运动游戏 足球"/>
 	<Game id="R4RE69" en="FIFA Soccer 10" zhcn="FIFA足球10[WiFi](美)"/>
-	<Game id="R4RZ69" en="FIFA Soccer 10" zhcn="FIFA足球10(Z)" path="专项运动系列 足球\FIFA足球10(Z) [R4RZ69]"/>
-	<Game id="SELE69" en="FIFA Soccer 11" zhcn="FIFA足球11(美)" path="专项运动系列 足球\FIFA足球11(美) [SELE69]"/>
-	<Game id="SI3E69" en="FIFA Soccer 12" zhcn="FIFA足球12(美)" path="专项运动系列 足球\FIFA足球12(美) [SI3E69]"/>
-	<Game id="S3FE69" en="FIFA Soccer 13" zhcn="FIFA足球13(美)" path="专项运动系列 足球\FIFA足球13(美) [S3FE69]"/>
+	<Game id="R4RZ69" en="FIFA Soccer 10" zhcn="FIFA足球10(Z)" collection="运动游戏 足球"/>
+	<Game id="SELE69" en="FIFA Soccer 11" zhcn="FIFA足球11(美)" collection="运动游戏 足球"/>
+	<Game id="SI3E69" en="FIFA Soccer 12" zhcn="FIFA足球12(美)" collection="运动游戏 足球"/>
+	<Game id="S3FE69" en="FIFA Soccer 13" zhcn="FIFA足球13(美)" collection="运动游戏 足球"/>
 	<Game id="RFQJ13" en="FaceBreaker K.O. Party" zhcn="破相拳击(日)"/>
 	<Game id="RFQE69" en="FaceBreaker K.O. Party" zhcn="破相拳击(美)"/>
 	<Game id="RFQK69" en="FaceBreaker K.O. Party" zhcn="破相拳击(韩)"/>
-	<Game id="RFQP69" en="FaceBreaker: K.O. Party" zhcn="破相拳击(欧)" path="专项运动系列\破相拳击(欧) [RFQP69]"/>
+	<Game id="RFQP69" en="FaceBreaker: K.O. Party" zhcn="破相拳击(欧)" collection="运动游戏"/>
 	<Game id="RMCEFC" en="Falco's Texture Pack" zhcn="Falco's Texture Pack"/>
 	<Game id="RR3JA4" en="Family Challenge Wii" zhcn="全家挑战(日)"/>
 	<Game id="R6EE41" en="Family Feud 2010 Edition" zhcn="家庭问答2010(美)" collection="影视IP游戏 电视节目"/>
@@ -54,19 +54,19 @@
 	<Game id="S22K01" en="Family Fishing" zhcn="Family Fishing"/>
 	<Game id="R9NPMR" en="Family Fortunes" zhcn="家族财富(欧)" path="done6\家族财富(欧) [R9NPMR]"/>
 	<Game id="R97E9B" en="Family Fun Football" zhcn="家庭欢乐橄榄球(美)" path="done6\家庭欢乐橄榄球(美) [R97E9B]"/>
-	<Game id="SGSP7J" en="Family GameShow" zhcn="家庭游戏秀(欧)"/>
-	<Game id="SGSESZ" en="Family Gameshow" zhcn="家庭游戏秀(美)" path="家庭聚会系列\家庭游戏秀(美) [SGSESZ]"/>
-	<Game id="RFJJAF" en="Family Jockey" zhcn="家庭赛马(日)" path="家庭聚会系列\家庭赛马(日) [RFJJAF]"/>
+	<Game id="SGSP7J" en="Family GameShow" zhcn="家庭游戏秀(欧)" collection="家庭聚会游戏"/>
+	<Game id="SGSESZ" en="Family Gameshow" zhcn="家庭游戏秀(美)" collection="家庭聚会游戏"/>
+	<Game id="RFJJAF" en="Family Jockey" zhcn="家庭赛马(日)" collection="家庭聚会游戏"/>
 	<Game id="RZ9PG9" en="Family Party: 30 Great Games" zhcn="简单2000系列2 家庭聚会(欧)"/>
-	<Game id="RZ9EG9" en="Family Party: 30 Great Games" zhcn="家庭聚会 30游戏(美)" path="wbfs2\家庭聚会 30游戏(美) [RZ9EG9]"/>
-	<Game id="R63EG9" en="Family Party: 30 Great Games Outdoor Fun" zhcn="家庭聚会 30款有趣的户外游戏(美)" path="done2\家庭聚会 30款有趣的户外游戏(美) [R63EG9]"/>
+	<Game id="RZ9EG9" en="Family Party: 30 Great Games" zhcn="家庭聚会 30游戏(美)" collection="家庭聚会游戏"/>
+	<Game id="R63EG9" en="Family Party: 30 Great Games Outdoor Fun" zhcn="家庭聚会 30款有趣的户外游戏(美)" collection="家庭聚会游戏"/>
 	<Game id="R63PG9" en="Family Party: 30 Great Games Outdoor Fun" zhcn="家庭聚会 30款有趣的户外游戏(欧)"/>
-	<Game id="S3WEG9" en="Family Party: 30 Great Games Winter Fun" zhcn="家庭聚会 30大冬季游戏(美)" path="done2\家庭聚会 30大冬季游戏(美) [S3WEG9]"/>
+	<Game id="S3WEG9" en="Family Party: 30 Great Games Winter Fun" zhcn="家庭聚会 30大冬季游戏(美)" collection="家庭聚会游戏"/>
 	<Game id="S3WPG9" en="Family Party: 30 Great Games Winter Fun" zhcn="家庭聚会 30大冬季游戏(欧)"/>
 	<Game id="SFYPAF" en="Family Party: 90 Great Games Party Pack" zhcn="家庭聚会 90个丰富好游戏(欧)"/>
-	<Game id="SFYEG9" en="Family Party: 90 Great Games Party Pack" zhcn="家庭聚会 90个丰富好游戏(美)" path="done2\家庭聚会 90个丰富好游戏(美) [SFYEG9]"/>
+	<Game id="SFYEG9" en="Family Party: 90 Great Games Party Pack" zhcn="家庭聚会 90个丰富好游戏(美)" collection="家庭聚会游戏"/>
 	<Game id="SFKPAF" en="Family Party: Fitness Fun" zhcn="家庭派对 欢乐瘦身[平衡板](欧)"/>
-	<Game id="SFKEG9" en="Family Party: Fitness Fun" zhcn="家庭聚会 欢乐瘦身(美)" path="平衡板游戏\家庭聚会 欢乐瘦身(美) [SFKEG9]"/>
+	<Game id="SFKEG9" en="Family Party: Fitness Fun" zhcn="家庭聚会 欢乐瘦身(美)" collection="平衡板游戏"/>
 	<Game id="SG5PSV" en="Family Quiz" zhcn="家庭测验(欧)"/>
 	<Game id="RSQJAF" en="Family Ski" zhcn="家庭滑雪(日)"/>
 	<Game id="RSQPAF" en="Family Ski" zhcn="家庭滑雪[平衡板](欧)"/>
@@ -82,7 +82,7 @@
 	<Game id="RMCEF1" en="Fancy's CT Pack" zhcn="Fancy's CT Pack"/>
 	<Game id="RMCEFE" en="Fancy's CT Pack - Extra Edition" zhcn="Fancy's CT Pack - Extra Edition"/>
 	<Game id="SFPPFR" en="Fantastic Football Fan Party" zhcn="梦幻足球派对(欧)"/>
-	<Game id="RF2E54" en="Fantastic Four: Rise of the Silver Surfer" zhcn="神奇四侠 银影侠来袭(美)" path="影视动漫系列 漫威\神奇四侠 银影侠来袭(美) [RF2E54]"/>
+	<Game id="RF2E54" en="Fantastic Four: Rise of the Silver Surfer" zhcn="神奇四侠 银影侠来袭(美)" collection="影视IP游戏 漫威"/>
 	<Game id="RF2P54" en="Fantastic Four: Rise of the Silver Surfer" zhcn="神奇四侠 神奇四侠与银影侠(欧)"/>
 	<Game id="RQYENR" en="Fantasy Aquarium World" zhcn="梦幻水族世界(美)" path="done6\梦幻水族世界(美) [RQYENR]"/>
 	<Game id="RCVE41" en="Far Cry: Vengeance" zhcn="孤岛惊魂 复仇(美)" path="done6\孤岛惊魂 复仇(美) [RCVE41]"/>
@@ -130,7 +130,7 @@
 	<Game id="SF4E20" en="Flatout" zhcn="横冲直撞(美)" path="done2\横冲直撞(美) [SF4E20]"/>
 	<Game id="SF4PXT" en="Flatout" zhcn="Flatout"/>
 	<Game id="R22P01" en="FlingSmash" zhcn="弹球小精灵[MP](欧)"/>
-	<Game id="R22E01" en="FlingSmash" zhcn="弹球小精灵(美)" path="加速器游戏\弹球小精灵(美) [R22E01]"/>
+	<Game id="R22E01" en="FlingSmash" zhcn="弹球小精灵(美)" collection="加速器游戏"/>
 	<Game id="R5DE5G" en="Flip's Twisted World" zhcn="翻转的扭曲世界(美)" path="done6\翻转的扭曲世界(美) [R5DE5G]"/>
 	<Game id="SFOEAF" en="Food Network: Cook or Be Cooked" zhcn="网络食谱 烹饪对战(美)" path="done6\网络食谱 烹饪对战(美) [SFOEAF]"/>
 	<Game id="RO2E7N" en="Ford Racing Off Road" zhcn="福特越野赛车(美)" path="done6\福特越野赛车(美) [RO2E7N]"/>
