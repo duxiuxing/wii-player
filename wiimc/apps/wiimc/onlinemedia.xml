@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<file app="WiiMC" version="1.1.1">
-<link name="SHOUTcast Radio" addr="http://www.wiimc.org/media/shoutcast_radio.php" />
-<link name="SHOUTcast Radio - Search" type="search" addr="http://www.wiimc.org/media/shoutcast_radio.php?q=" />
-<link name="SHOUTcast TV" addr="http://www.wiimc.org/media/shoutcast_tv.php" />
-<link name="YouTube" addr="http://www.wiimc.org/media/youtube.php" />
-<link name="YouTube - Search" type="search" addr="http://www.wiimc.org/media/youtube.php?q=" />
-<link name="Navi-Xtreme Media Portal" addr="http://www.navixtreme.com/wiilist/" />
-</file>
