@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>DVDx Installer</name>
+  <coder>Erant</coder>
+  <version></version>
+  <short_description>Allows DVDs to be played</short_description> 
+  <long_description>The DVDX installer will install a small, hidden, channel on your Wii that allows you to read DVDs on an unmodified system. Just follow the onscreen instructions to install.</long_description> 
+</app>
+
+
