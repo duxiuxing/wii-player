@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Game-List>
 	<Game id="SFXXKM" en="X Factor" zhcn="英国偶像(欧)"/>
-	<Game id="SX8E52" en="X-Men Destiny" zhcn="X战警 命运(美)"/>
+	<Game id="SX8E52" en="X-Men Destiny" zhcn="X战警 命运(美)" collection="X"/>
 	<Game id="SX8P52" en="X-Men Destiny" zhcn="X战警 命运(美)"/>
-	<Game id="RWUE52" en="X-Men Origins: Wolverine" zhcn="X战警 金钢狼(美)"/>
+	<Game id="RWUE52" en="X-Men Origins: Wolverine" zhcn="X战警 金钢狼(美)" collection="X"/>
 	<Game id="RWUP52" en="X-Men Origins: Wolverine" zhcn="X战警 金钢狼(欧)"/>
 	<Game id="RWUX52" en="X-Men Origins: Wolverine" zhcn="X战警 金钢狼(X)"/>
 	<Game id="RMCEXA" en="Xander Kart Wii" zhcn="Xander Kart Wii"/>

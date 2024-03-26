@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Game-List>
-	<Game id="R7VEWR" en="Vacation Isle: Beach Party" zhcn="度假岛 海滩派对[平衡板](美)"/>
+	<Game id="R7VEWR" en="Vacation Isle: Beach Party" zhcn="度假岛 海滩派对[平衡板](美)" collection="V"/>
 	<Game id="R7VPWR" en="Vacation Isle: Beach Party" zhcn="度假岛 海滩派对(欧)" collection="平衡板游戏"/>
-	<Game id="R8SE41" en="Vacation Sports" zhcn="假日体育(美)"/>
+	<Game id="R8SE41" en="Vacation Sports" zhcn="假日体育(美)" collection="1"/>
 	<Game id="RVKKZA" en="Valhalla Knights: Eldar Saga" zhcn="瓦尔哈拉骑士 艾德尔传奇[WiFi](韩)"/>
-	<Game id="RVKEXJ" en="Valhalla Knights: Eldar Saga" zhcn="瓦尔哈拉骑士 艾德尔传奇[WiFi](美)"/>
+	<Game id="RVKEXJ" en="Valhalla Knights: Eldar Saga" zhcn="瓦尔哈拉骑士 艾德尔传奇[WiFi](美)" collection="V"/>
 	<Game id="RVKJ99" en="Valhalla Knights: Eldar Saga" zhcn="瓦尔哈拉骑士 艾德尔传奇[WiFi](日)"/>
 	<Game id="SMNEV0" en="Vandalized Super Mario Bros. Wii" zhcn="Vandalized Super Mario Bros. Wii"/>
 	<Game id="SMNEWC" en="Vanilla Wacky Super Mario Bros. Wii" zhcn="Vanilla Wacky Super Mario Bros. Wii"/>
@@ -12,13 +12,13 @@
 	<Game id="RMCEVY" en="Variety Pack" zhcn="Variety Pack"/>
 	<Game id="RMCPVP" en="Variety Pack" zhcn="Variety Pack"/>
 	<Game id="SVPPNJ" en="Vegas Party" zhcn="维加斯聚会(欧)"/>
-	<Game id="SVPESZ" en="Vegas Party" zhcn="维加斯聚会(美)"/>
-	<Game id="SVWEQH" en="Veggy World" zhcn="蔬菜世界(美)"/>
-	<Game id="RVOEPL" en="Vertigo" zhcn="眩晕滚球[平衡板](美)"/>
-	<Game id="RVOPPL" en="Vertigo" zhcn="眩晕滚球[平衡板](欧)"/>
+	<Game id="SVPESZ" en="Vegas Party" zhcn="维加斯聚会(美)" collection="V"/>
+	<Game id="SVWEQH" en="Veggy World" zhcn="蔬菜世界(美)" collection="V"/>
+	<Game id="RVOEPL" en="Vertigo" zhcn="眩晕滚球[平衡板](美)" collection="V"/>
+	<Game id="RVOPPL" en="Vertigo" zhcn="眩晕滚球[平衡板](欧)" collection="3"/>
 	<Game id="RHIP41" en="Victorious Boxers Challenge" zhcn="第一神拳 革命(欧)"/>
-	<Game id="RHIEXJ" en="Victorious Boxers: Revolution" zhcn="第一神拳 革命(美)"/>
-	<Game id="S2VEG9" en="Victorious: Taking the Lead" zhcn="Victorious: Taking the Lead"/>
+	<Game id="RHIEXJ" en="Victorious Boxers: Revolution" zhcn="第一神拳 革命(美)" collection="V"/>
+	<Game id="S2VEG9" en="Victorious: Taking the Lead" zhcn="胜利之歌 领先者(美)" collection="V"/>
 	<Game id="S2VPAF" en="Victorious: Taking the Lead" zhcn="Victorious: Taking the Lead"/>
 	<Game id="RMCEVI" en="Vintage Kart Wii" zhcn="Vintage Kart Wii"/>
 	<Game id="RMCEVK" en="Violet Kart Wii" zhcn="Violet Kart Wii"/>
@@ -28,7 +28,7 @@
 	<Game id="GVS46E" en="Virtua Striker 4 Ver.2006" zhcn="Virtua Striker 4 Ver.2006"/>
 	<Game id="GVS46J" en="Virtua Striker 4 Ver.2006" zhcn="Virtua Striker 4 Ver.2006"/>
 	<Game id="GVSJ9P" en="Virtua Striker 4 Ver.2006" zhcn="Virtua Striker 4 Ver.2006"/>
-	<Game id="RVUE8P" en="Virtua Tennis 2009" zhcn="VR网球2009[MP][WiFi](美)"/>
+	<Game id="RVUE8P" en="Virtua Tennis 2009" zhcn="VR网球2009(美)" collection="V"/>
 	<Game id="RVUP8P" en="Virtua Tennis 2009" zhcn="VR网球2009[MP][WiFi](欧)"/>
 	<Game id="SV4E8P" en="Virtua Tennis 4" zhcn="VR网球4(美)" collection="运动游戏 乒乓球和网球"/>
 	<Game id="SV4P8P" en="Virtua Tennis 4" zhcn="VR网球 4[MP][WiFi](欧)"/>

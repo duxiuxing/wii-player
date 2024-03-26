@@ -4,162 +4,162 @@
 	<Game id="R77JAF" en="SD Gundam: GGeneration Wars" zhcn="SD高达G世代：世纪战役(日)"/>
 	<Game id="SDJJAF" en="SD Gundam: GGeneration World" zhcn="SD高达G世代：新世界(日)"/>
 	<Game id="SD9JAF" en="SD Gundam: Gashapon Wars" zhcn="SD高达 扭蛋战争(日)"/>
-	<Game id="RSDJAF" en="SD Gundam: Scad Hammers" zhcn="SD高达 疾速流星锤(日)"/>
-	<Game id="RT5E8P" en="SEGA Superstars Tennis" zhcn="世嘉超级明星网球(美)"/>
+	<Game id="RSDJAF" en="SD Gundam: Scad Hammers" zhcn="SD高达 疾速流星锤(日)" collection="5"/>
+	<Game id="RT5E8P" en="SEGA Superstars Tennis" zhcn="世嘉超级明星网球(美)" collection="S"/>
 	<Game id="RT5P8P" en="SEGA Superstars Tennis" zhcn="世嘉超级明星网球(欧)" collection="运动游戏 乒乓球和网球"/>
 	<Game id="RNCEH4" en="SNK Arcade Classics Volume 1" zhcn="SNK街机经典Vol1(美)" collection="街机游戏"/>
 	<Game id="RJZP7U" en="SNK Arcade Classics Volume 1" zhcn="SNK街机经典Vol1(欧)"/>
 	<Game id="RMGE64" en="SPG64 IN SMG!" zhcn="SPG64 IN SMG!"/>
 	<Game id="RYIPNK" en="SPRay" zhcn="涂鸦王子(欧)"/>
-	<Game id="RYIE9B" en="SPRay" zhcn="涂鸦王子(美)"/>
+	<Game id="RYIE9B" en="SPRay" zhcn="涂鸦王子(美)" collection="S"/>
 	<Game id="RSXJ13" en="SSX Blur" zhcn="极限滑雪(日)"/>
 	<Game id="RSXP69" en="SSX Blur" zhcn="极限滑雪(欧)"/>
-	<Game id="RSXE69" en="SSX Blur" zhcn="极限滑雪(美)" path="done4\极限滑雪(美) [RSXE69]"/>
+	<Game id="RSXE69" en="SSX Blur" zhcn="极限滑雪(美)" collection="done4"/>
 	<Game id="RSXK69" en="SSX Blur" zhcn="极限滑雪(韩)"/>
 	<Game id="RFWPNK" en="Safari Adventures Africa" zhcn="非洲徒步大冒险(欧)"/>
-	<Game id="RFWE5Z" en="Safari Adventures Africa" zhcn="野外探险 非洲(美)"/>
+	<Game id="RFWE5Z" en="Safari Adventures Africa" zhcn="野外探险 非洲(美)" collection="S"/>
 	<Game id="RQFP6V" en="Safecracker" zhcn="破箱人 终极难题冒险(欧)"/>
-	<Game id="RQFE6U" en="Safecracker: The Ultimate Puzzle Adventure" zhcn="破箱人 终极难题冒险(美)"/>
-	<Game id="RZCE6K" en="Saint" zhcn="大圣王(美)"/>
-	<Game id="SAKENS" en="Sakura Wars: So Long, My Love" zhcn="樱花大战5 再见吾爱(美)"/>
+	<Game id="RQFE6U" en="Safecracker: The Ultimate Puzzle Adventure" zhcn="破箱人 终极难题冒险(美)" collection="S"/>
+	<Game id="RZCE6K" en="Saint" zhcn="大圣王(美)" collection="S"/>
+	<Game id="SAKENS" en="Sakura Wars: So Long, My Love" zhcn="樱花大战5 再见吾爱(美)" collection="S"/>
 	<Game id="SAKPNS" en="Sakura Wars: So Long, My Love" zhcn="樱花大战5 再见吾爱(欧)"/>
-	<Game id="R3XE6U" en="Sam &amp; Max: Season One" zhcn="山姆和迈克斯第一季(美)"/>
+	<Game id="R3XE6U" en="Sam &amp; Max: Season One" zhcn="山姆和迈克斯第一季(美)" collection="S"/>
 	<Game id="R3XP6V" en="Sam &amp; Max: Season One" zhcn="山姆和迈克斯第一季(欧)"/>
-	<Game id="R3YE70" en="Sam &amp; Max: Season Two: Beyond Time and Space" zhcn="山姆和迈克斯2 超越时空(美)"/>
+	<Game id="R3YE70" en="Sam &amp; Max: Season Two: Beyond Time and Space" zhcn="山姆和迈克斯2 超越时空(美)" collection="S"/>
 	<Game id="R3YP70" en="Sam &amp; Max: Season Two: Beyond Time and Space" zhcn="山姆和迈克斯2 超越时空(欧)"/>
 	<Game id="R3BP8P" en="Samba de Amigo" zhcn="快乐桑巴[WiFi](欧)"/>
 	<Game id="R3BJ8P" en="Samba de Amigo" zhcn="快乐桑巴[WiFi](日)"/>
-	<Game id="R3BE8P" en="Samba de Amigo" zhcn="快乐桑巴(美)" path="done2\快乐桑巴(美) [R3BE8P]"/>
+	<Game id="R3BE8P" en="Samba de Amigo" zhcn="快乐桑巴(美)" collection="1"/>
 	<Game id="RSSP7U" en="Samurai Shodown Anthology" zhcn="侍魂 六番胜负(欧)"/>
-	<Game id="RSSEH4" en="Samurai Shodown Anthology" zhcn="侍魂 六番胜负(美)"/>
+	<Game id="RSSEH4" en="Samurai Shodown Anthology" zhcn="侍魂 六番胜负(美)" collection="S"/>
 	<Game id="RSSK52" en="Samurai Spirits - 6beonui Seungbu" zhcn="侍魂 六番胜负(韩)"/>
-	<Game id="RSSJH4" en="Samurai Spirits: Rokuban Shoubu" zhcn="侍魂 六番胜负(日)"/>
-	<Game id="S59E01" en="Samurai Warriors 3" zhcn="战国无双 3(美)"/>
+	<Game id="RSSJH4" en="Samurai Spirits: Rokuban Shoubu" zhcn="侍魂 六番胜负(日)" collection="3"/>
+	<Game id="S59E01" en="Samurai Warriors 3" zhcn="战国无双 3(美)" collection="S"/>
 	<Game id="S59P01" en="Samurai Warriors 3" zhcn="战国无双 3(欧)"/>
 	<Game id="RS5PC8" en="Samurai Warriors: Katana" zhcn="战国无双 KATANA(欧)"/>
-	<Game id="RS5EC8" en="Samurai Warriors: Katana" zhcn="战国无双KATANA(美)"/>
+	<Game id="RS5EC8" en="Samurai Warriors: Katana" zhcn="战国无双KATANA(美)" collection="S"/>
 	<Game id="R35JC8" en="Sangokushi 11 with Power-Up Kit" zhcn="三国志11 威力加强版(日)"/>
 	<Game id="SMNE83" en="Sans Super Mario Bros. Wii" zhcn="Sans Super Mario Bros. Wii"/>
-	<Game id="SX5E4Z" en="Santa Claus is Comin' to Town!" zhcn="圣诞老人进城啰(美)"/>
-	<Game id="SS5ENR" en="Satisfashion" zhcn="赛帝时尚公司(美)"/>
+	<Game id="SX5E4Z" en="Santa Claus is Comin' to Town!" zhcn="圣诞老人进城啰(美)" collection="S"/>
+	<Game id="SS5ENR" en="Satisfashion" zhcn="赛帝时尚公司(美)" collection="S"/>
 	<Game id="RSCD7D" en="Scarface: The World Is Yours" zhcn="疤面煞星 掌握世界(德)"/>
 	<Game id="RSCU7D" en="Scarface: The World Is Yours" zhcn="疤面煞星 掌握世界(英)"/>
 	<Game id="RSCP7D" en="Scarface: The World Is Yours" zhcn="疤面煞星 掌握世界(欧)"/>
-	<Game id="RSCE7D" en="Scarface: The World Is Yours" zhcn="疤面煞星 掌握世界(美)"/>
+	<Game id="RSCE7D" en="Scarface: The World Is Yours" zhcn="疤面煞星 掌握世界(美)" collection="S"/>
 	<Game id="SSCIWR" en="Scene It? Bright Lights! Big Screen!" zhcn="电影场景猜猜 明亮的灯光与大屏幕(意)"/>
 	<Game id="SSCSWR" en="Scene It? Bright Lights! Big Screen!" zhcn="电影场景猜猜 明亮的灯光与大屏幕(西)"/>
 	<Game id="SSCXPM" en="Scene It? Bright Lights! Big Screen!" zhcn="电影场景猜猜 明亮的灯光与大屏幕(美)"/>
 	<Game id="SSCPWR" en="Scene It? Bright Lights! Big Screen!" zhcn="电影场景猜猜 明亮的灯光与大屏幕(欧)"/>
-	<Game id="SSCEPM" en="Scene It? Bright Lights! Big Screen!" zhcn="电影场景猜猜 明亮的灯光与大屏幕(美)"/>
+	<Game id="SSCEPM" en="Scene It? Bright Lights! Big Screen!" zhcn="电影场景猜猜 明亮的灯光与大屏幕(美)" collection="S"/>
 	<Game id="SSCDWR" en="Scene It? Bright Lights! Big Screen!" zhcn="电影场景猜猜 明亮的灯光与大屏幕(德)"/>
 	<Game id="SSCFWR" en="Scene It? Bright Lights! Big Screen!" zhcn="电影场景猜猜 明亮的灯光与大屏幕(法)"/>
 	<Game id="SCNPA4" en="Scene It? Twilight" zhcn="暮光之城(欧)"/>
-	<Game id="SCNEA4" en="Scene It? Twilight" zhcn="暮光之城(美)"/>
+	<Game id="SCNEA4" en="Scene It? Twilight" zhcn="暮光之城(美)" collection="S"/>
 	<Game id="SSDDRV" en="Schlag den Raab" zhcn="自制 挑战拉普(德)"/>
 	<Game id="SCQDRV" en="Schlag den Raab: Das 2. Spiel" zhcn="Schlag den Raab: Das 2. Spiel"/>
 	<Game id="SUYDRV" en="Schlag den Raab: Das 3. Spiel" zhcn="Schlag den Raab: Das 3. Spiel"/>
-	<Game id="RZEE52" en="Science Papa" zhcn="科学爸爸(美)"/>
+	<Game id="RZEE52" en="Science Papa" zhcn="科学爸爸(美)" collection="1"/>
 	<Game id="RZEP52" en="Science Papa" zhcn="科学爸爸(欧)"/>
-	<Game id="RQNEWR" en="Scooby-Doo! First Frights" zhcn="史酷比最初恐惧(美)"/>
+	<Game id="RQNEWR" en="Scooby-Doo! First Frights" zhcn="史酷比最初恐惧(美)" collection="S"/>
 	<Game id="RQNPWR" en="Scooby-Doo! First Frights" zhcn="史酷比最初恐惧(欧)"/>
 	<Game id="SDAE01" en="Scooby-Doo! The Bros Adventure" zhcn="自制 史酷比！冒险的兄弟(美)"/>
-	<Game id="SJ2EWR" en="Scooby-Doo! and the Spooky Swamp" zhcn="史酷比 幽灵沼泽(美)"/>
+	<Game id="SJ2EWR" en="Scooby-Doo! and the Spooky Swamp" zhcn="史酷比 幽灵沼泽(美)" collection="S"/>
 	<Game id="SJ2PWR" en="Scooby-Doo! and the Spooky Swamp" zhcn="史酷比 幽灵沼泽(欧)"/>
-	<Game id="RJCE52" en="Score International Baja 1000: World Championship Offroad Racing" zhcn="Baja 1000越野拉力赛(美)"/>
+	<Game id="RJCE52" en="Score International Baja 1000: World Championship Offroad Racing" zhcn="Baja 1000越野拉力赛(美)" collection="S"/>
 	<Game id="RJCP52" en="Score International Baja 1000: World Championship Offroad Racing" zhcn="Baja 1000越野拉力赛(欧)"/>
 	<Game id="RVHP41" en="Scrabble Interactive: 2009 Edition" zhcn="拼字游戏互动2009[WiFi][平衡板](欧)"/>
-	<Game id="RC7E20" en="Sea Monsters: A Prehistoric Adventure" zhcn="与海怪同行 史前探险(美)"/>
+	<Game id="RC7E20" en="Sea Monsters: A Prehistoric Adventure" zhcn="与海怪同行 史前探险(美)" collection="S"/>
 	<Game id="RC7P7J" en="Sea Monsters: A Prehistoric Adventure" zhcn="与海怪同行 史前探险(欧)"/>
 	<Game id="SB4P05" en="Season Cycle Galaxy" zhcn="Season Cycle Galaxy"/>
 	<Game id="SB4E05" en="Season Cycle Galaxy" zhcn="Season Cycle Galaxy"/>
 	<Game id="SB4J05" en="Season Cycle Galaxy" zhcn="Season Cycle Galaxy"/>
 	<Game id="RZFPKM" en="Secret Files 2: Puritas Cordis" zhcn="秘密档案2 清心(欧)"/>
-	<Game id="RTUEJJ" en="Secret Files Tunguska" zhcn="秘密档案 通古斯(美)"/>
+	<Game id="RTUEJJ" en="Secret Files Tunguska" zhcn="秘密档案 通古斯(美)" collection="S"/>
 	<Game id="RTUPKM" en="Secret Files: Tunguska" zhcn="秘密档案 通古斯(欧)"/>
 	<Game id="RTUFKM" en="Secret Files: Tunguska" zhcn="秘密档案 通古斯(法)"/>
 	<Game id="SMGS01" en="Secret Mario Galaxy" zhcn="Secret Mario Galaxy"/>
 	<Game id="RMCESC" en="Secret Tracks" zhcn="Secret Tracks"/>
 	<Game id="RBTE8P" en="Sega Bass Fishing" zhcn="钓鱼高手(美)" collection="运动游戏 钓鱼"/>
 	<Game id="RBTP8P" en="Sega Bass Fishing" zhcn="钓鱼高手(欧)"/>
-	<Game id="SB3J08" en="Sengoku BASARA 3" zhcn="战国 BASARA 3(日)" path="done4\战国 BASARA 3(日) [SB3J08]"/>
+	<Game id="SB3J08" en="Sengoku BASARA 3" zhcn="战国 BASARA 3(日)" collection="done4"/>
 	<Game id="RBSJ08" en="Sengoku Basara 2: Heroes: Double Pack" zhcn="战国 BASARA 2 英雄外传A(日)"/>
-	<Game id="S3HJ08" en="Sengoku Basara 3 Utage" zhcn="战国 BASARA3 宴(日)" path="done2\战国 BASARA3 宴(日) [S3HJ08]"/>
+	<Game id="S3HJ08" en="Sengoku Basara 3 Utage" zhcn="战国 BASARA3 宴(日)" collection="3"/>
 	<Game id="SB3P08" en="Sengoku Basara: Samurai Heroes" zhcn="战国 BASARA 3(欧)"/>
-	<Game id="SB3E08" en="Sengoku Basara: Samurai Heroes" zhcn="战国 BASARA 3(美)"/>
+	<Game id="SB3E08" en="Sengoku Basara: Samurai Heroes" zhcn="战国 BASARA 3(美)" collection="S"/>
 	<Game id="SB3EUD" en="Sengoku Basara: Samurai Heroes Undub" zhcn="Sengoku Basara: Samurai Heroes Undub"/>
-	<Game id="S59JC8" en="Sengoku Musou 3" zhcn="战国无双 3(日)"/>
-	<Game id="S5QJC8" en="Sengoku Musou 3 Moushouden" zhcn="战国无双3 猛将传(日)"/>
-	<Game id="RS5JC8" en="Sengoku Musou KATANA" zhcn="战国无双 KATANA(日)"/>
-	<Game id="SS4EWR" en="Sesame Street: Cookie's Counting Carnival" zhcn="芝麻街 饼干计数嘉年华(美)"/>
+	<Game id="S59JC8" en="Sengoku Musou 3" zhcn="战国无双 3(日)" collection="5"/>
+	<Game id="S5QJC8" en="Sengoku Musou 3 Moushouden" zhcn="战国无双3 猛将传(日)" collection="3"/>
+	<Game id="RS5JC8" en="Sengoku Musou KATANA" zhcn="战国无双 KATANA(日)" collection="5"/>
+	<Game id="SS4EWR" en="Sesame Street: Cookie's Counting Carnival" zhcn="芝麻街 饼干计数嘉年华(美)" collection="S"/>
 	<Game id="SS4UWR" en="Sesame Street: Cookie's Counting Carnival" zhcn="芝麻街 饼干计数嘉年华(美)"/>
-	<Game id="SS3EWR" en="Sesame Street: Elmo's A-to-Zoo Adventure" zhcn="芝麻街 埃尔默动物园历险记(美)"/>
+	<Game id="SS3EWR" en="Sesame Street: Elmo's A-to-Zoo Adventure" zhcn="芝麻街 埃尔默动物园历险记(美)" collection="S"/>
 	<Game id="SS3PWR" en="Sesame Street: Elmo's A-to-Zoo Adventure" zhcn="芝麻街 埃尔默动物园历险记(欧)"/>
 	<Game id="SS3UWR" en="Sesame Street: Elmo's A-to-Zoo Adventure" zhcn="芝麻街 埃尔默动物园历险记(欧)"/>
-	<Game id="SSSEWR" en="Sesame Street: Elmo's Musical Monsterpiece" zhcn="Sesame Street: Elmo's Musical Monsterpiece"/>
-	<Game id="SESEWR" en="Sesame Street: Ready, Set, Grover!" zhcn="Sesame Street: Ready, Set, Grover!"/>
+	<Game id="SSSEWR" en="Sesame Street: Elmo's Musical Monsterpiece" zhcn="芝麻街 埃尔默的音乐怪兽(美)" collection="S"/>
+	<Game id="SESEWR" en="Sesame Street: Ready, Set, Grover!" zhcn="芝麻街 准备就位葛罗弗(美)" collection="S"/>
 	<Game id="SESPWR" en="Sesame Street: Ready, Set, Grover!" zhcn="Sesame Street: Ready, Set, Grover!"/>
 	<Game id="SESUWR" en="Sesame Street: Ready, Set, Grover!" zhcn="Sesame Street: Ready, Set, Grover!"/>
-	<Game id="SEVPEY" en="Shakedown: Hawaii" zhcn="Shakedown: Hawaii"/>
-	<Game id="RS8J8N" en="Shanghai" zhcn="上海(日)"/>
+	<Game id="SEVPEY" en="Shakedown: Hawaii" zhcn="夏威夷劫案(欧)" collection="S"/>
+	<Game id="RS8J8N" en="Shanghai" zhcn="上海(日)" collection="5"/>
 	<Game id="SHIJ2N" en="Shape Boxing 2: Wii de Enjoy Diet!" zhcn="有氧拳击2 Wii快乐瘦身(日)"/>
 	<Game id="REKJ2N" en="Shape Boxing: Wii de Enjoy Diet!" zhcn="有氧拳击 Wii快乐瘦身(日或中)" collection="平衡板游戏"/>
 	<Game id="RTKJDQ" en="Sharuui Takoron" zhcn="章鱼大作战[WiFi](日)"/>
-	<Game id="SHNE41" en="Shaun White Skateboarding" zhcn="肖恩怀特滑板[平衡板](美)"/>
+	<Game id="SHNE41" en="Shaun White Skateboarding" zhcn="肖恩怀特滑板[平衡板](美)" collection="S"/>
 	<Game id="SHNP41" en="Shaun White Skateboarding" zhcn="肖恩怀特滑板[平衡板](欧)"/>
-	<Game id="RDFE41" en="Shaun White Snowboarding: Road Trip" zhcn="肖恩怀特滑雪板[平衡板](美)"/>
+	<Game id="RDFE41" en="Shaun White Snowboarding: Road Trip" zhcn="肖恩怀特滑雪板[平衡板](美)" collection="S"/>
 	<Game id="RDFP41" en="Shaun White Snowboarding: Road Trip" zhcn="肖恩怀特滑雪板[平衡板](欧)"/>
-	<Game id="RW7E41" en="Shaun White Snowboarding: Road Trip - Target Limited Edition" zhcn="肖恩怀特滑雪[平衡板](美)"/>
+	<Game id="RW7E41" en="Shaun White Snowboarding: Road Trip - Target Limited Edition" zhcn="肖恩怀特滑雪[平衡板](美)" collection="S"/>
 	<Game id="R6NP41" en="Shaun White Snowboarding: World Stage" zhcn="肖恩怀特滑雪 世界舞台[MP][平衡板](欧)"/>
 	<Game id="R6NY41" en="Shaun White Snowboarding: World Stage" zhcn="肖恩怀特滑雪 世界舞台(欧)" collection="平衡板游戏"/>
-	<Game id="R6NE41" en="Shaun White Snowboarding: World Stage" zhcn="肖恩怀特滑雪 世界舞台[MP][平衡板](美)"/>
-	<Game id="SJVE20" en="Shawn Johnson Gymnastics" zhcn="肖恩约翰逊体操[平衡板](美)"/>
+	<Game id="R6NE41" en="Shaun White Snowboarding: World Stage" zhcn="肖恩怀特滑雪 世界舞台[MP][平衡板](美)" collection="S"/>
+	<Game id="SJVE20" en="Shawn Johnson Gymnastics" zhcn="肖恩约翰逊体操[平衡板](美)" collection="S"/>
 	<Game id="SSHPHH" en="Sherlock Holmes: The Silver Earring" zhcn="夏洛克福尔摩斯 银耳饰之案(欧)"/>
-	<Game id="R4MJ0Q" en="Shikakui Atama o Maruku Suru. Wii" zhcn="使头脑变灵活Wii(日)" path="done2\使头脑变灵活Wii(日) [R4MJ0Q]"/>
-	<Game id="RS4JJF" en="Shikigami no Shiro III" zhcn="式神之城3(日)"/>
+	<Game id="R4MJ0Q" en="Shikakui Atama o Maruku Suru. Wii" zhcn="使头脑变灵活Wii(日)" collection="done2"/>
+	<Game id="RS4JJF" en="Shikigami no Shiro III" zhcn="式神之城3(日)" collection="5"/>
 	<Game id="R39PNK" en="Shimano Extreme Fishing" zhcn="禧玛诺极限钓鱼(欧)"/>
-	<Game id="R39EFP" en="Shimano Xtreme Fishing" zhcn="禧玛诺极限钓鱼(美)"/>
+	<Game id="R39EFP" en="Shimano Xtreme Fishing" zhcn="禧玛诺极限钓鱼(美)" collection="S"/>
 	<Game id="RC4SGT" en="Shin Chan The New Adventures For Wii" zhcn="蜡笔小新 最强家族春日部之王(西)"/>
 	<Game id="RTDJES" en="Shin Chuuka Taisen: Michael to Meimei no Bouken" zhcn="新中华大仙 米迦勒与美美的冒险(日)"/>
-	<Game id="RFSEEB" en="Shiren the Wanderer" zhcn="风来之西林3(美)"/>
+	<Game id="RFSEEB" en="Shiren the Wanderer" zhcn="风来之西林3(美)" collection="S"/>
 	<Game id="RMCESH" en="Shortcut Practice Pack" zhcn="Shortcut Practice Pack"/>
 	<Game id="RSYE20" en="Showtime Championship Boxing" zhcn="冠军拳击赛(美)" collection="运动游戏"/>
 	<Game id="RSYP7J" en="Showtime Championship Boxing" zhcn="冠军拳击赛(欧)"/>
 	<Game id="SK4P52" en="Shrek Forever After" zhcn="史莱克4 快乐神仙(欧)"/>
-	<Game id="SK4E52" en="Shrek Forever After" zhcn="史莱克4 快乐神仙(美)"/>
+	<Game id="SK4E52" en="Shrek Forever After" zhcn="史莱克4 快乐神仙(美)" collection="S"/>
 	<Game id="SK4I52" en="Shrek Forever After" zhcn="Shrek Forever After"/>
-	<Game id="RSKE52" en="Shrek The Third" zhcn="怪物史莱克3(美)"/>
+	<Game id="RSKE52" en="Shrek The Third" zhcn="怪物史莱克3(美)" collection="S"/>
 	<Game id="RSKP52" en="Shrek The Third" zhcn="怪物史莱克3(欧)"/>
 	<Game id="RSKX52" en="Shrek The Third" zhcn="怪物史莱克3(X)"/>
-	<Game id="RRQE52" en="Shrek's Carnival Craze Party Games" zhcn="史莱克的疯狂嘉年华(美)"/>
+	<Game id="RRQE52" en="Shrek's Carnival Craze Party Games" zhcn="史莱克的疯狂嘉年华(美)" collection="S"/>
 	<Game id="RRQP52" en="Shrek's Carnival Craze Party Games" zhcn="史莱克的疯狂嘉年华(欧)"/>
 	<Game id="RRQX52" en="Shrek's Carnival Craze Party Games" zhcn="史莱克的疯狂嘉年华(X)"/>
 	<Game id="SIDP54" en="Sid Meier's Pirates!" zhcn="席德梅尔的海盗(欧)"/>
-	<Game id="SIDE54" en="Sid Meier's Pirates!" zhcn="席德梅尔的海盗(美)"/>
+	<Game id="SIDE54" en="Sid Meier's Pirates!" zhcn="席德梅尔的海盗(美)" collection="S"/>
 	<Game id="R5WJA4" en="Silent Hill: Shattered Memories" zhcn="寂静岭 破碎的记忆(日)"/>
-	<Game id="R5WEA4" en="Silent Hill: Shattered Memories" zhcn="寂静岭 破碎的记忆(美)" path="done2\寂静岭 破碎的记忆(美) [R5WEA4]"/>
+	<Game id="R5WEA4" en="Silent Hill: Shattered Memories" zhcn="寂静岭 破碎的记忆(美)" collection="done2"/>
 	<Game id="SHLPA4" en="Silent Hill: Shattered Memories" zhcn="寂静岭 破碎的记忆(欧)"/>
 	<Game id="R4AP69" en="SimAnimals" zhcn="模拟动物(欧)"/>
-	<Game id="R4AE69" en="SimAnimals" zhcn="模拟动物(美)"/>
+	<Game id="R4AE69" en="SimAnimals" zhcn="模拟动物(美)" collection="S"/>
 	<Game id="R4AJ13" en="SimAnimals" zhcn="模拟动物(日)"/>
-	<Game id="R7AE69" en="SimAnimals Africa" zhcn="模拟动物 非洲(美)"/>
+	<Game id="R7AE69" en="SimAnimals Africa" zhcn="模拟动物 非洲(美)" collection="S"/>
 	<Game id="R7AJ13" en="SimAnimals Africa" zhcn="模拟动物 非洲(日)"/>
 	<Game id="R7AP69" en="SimAnimals Africa" zhcn="模拟动物 非洲(欧)"/>
 	<Game id="R4CP69" en="SimCity Creator" zhcn="模拟城市 建筑大师[WiFi](欧)"/>
 	<Game id="R4CJ13" en="SimCity Creator" zhcn="模拟城市 建筑大师[WiFi](日)"/>
-	<Game id="R4CE69" en="SimCity Creator" zhcn="模拟城市 建筑大师[WiFi](美)"/>
+	<Game id="R4CE69" en="SimCity Creator" zhcn="模拟城市 建筑大师[WiFi](美)" collection="S"/>
 	<Game id="R4CK69" en="SimCity Namanui Dosi" zhcn="模拟城市 建筑大师[WiFi](韩)"/>
 	<Game id="RZ8JG9" en="Simple 2000 Series Wii Vol. 1: The Table Game: Mahjong, Igo, Shougi, Card, Hanafuda, Reversi, Gomoku Narabe" zhcn="简单2000系列1 桌面游戏(日)"/>
-	<Game id="RZ9JG9" en="Simple 2000 Series Wii Vol. 2: The Party Game" zhcn="简单2000系列2 聚会游戏(日或中)" collection="中文游戏"/>
+	<Game id="RZ9JG9" en="Simple 2000 Series Wii Vol. 2: The Party Game" zhcn="简单2000系列2 聚会游戏(日或中)" collection="聚会游戏"/>
 	<Game id="RZ2JG9" en="Simple Wii Series Vol. 1: The Minna de Kart Race" zhcn="简单Wii系列1 大家一起赛车[WiFi](日)"/>
 	<Game id="RZ3JG9" en="Simple Wii Series Vol. 2: The Minna de Bass Tsuri Taikai" zhcn="简单Wii系列2 大家一起钓鱼[WiFi](日)"/>
 	<Game id="RZ4JG9" en="Simple Wii Series Vol. 3: Asonde Oboeru: The Party Casino" zhcn="简单Wii系列3 赌场聚会[WiFi](日)"/>
 	<Game id="RZ5JG9" en="Simple Wii Series Vol. 4: The Shooting Action" zhcn="简单Wii系列4 战斗射击[WiFi](日)"/>
 	<Game id="RZ6JG9" en="Simple Wii Series Vol. 5: The Block Kuzushi" zhcn="简单Wii系列5 打砖块[WiFi](日)"/>
 	<Game id="RZ7JG9" en="Simple Wii Series Vol. 6: The Wai Wai Combat" zhcn="简单Wii系列6 喧哗枪战[WiFi](日)"/>
-	<Game id="R2VE01" en="Sin &amp; Punishment: Star Successor" zhcn="罪与罚 宇宙的后继者[WiFi](美)"/>
+	<Game id="R2VE01" en="Sin &amp; Punishment: Star Successor" zhcn="罪与罚 宇宙的后继者(美)" collection="光枪游戏"/>
 	<Game id="RTDK8M" en="Sin Junghwa-daeseon - Michaelgwa Meimeiui Moheom" zhcn="新中华大仙 米迦勒与美美的冒险(韩)"/>
 	<Game id="R2VP01" en="Sin and Punishment: Successor of the Skies" zhcn="罪与罚 宇宙的后继者[WiFi](欧)"/>
-	<Game id="SIHE4Z" en="Sing 4: The Hits Edition" zhcn="Sing 4: The Hits Edition"/>
+	<Game id="SIHE4Z" en="Sing 4: The Hits Edition" zhcn="唱吧热门歌曲(美)" collection="S"/>
 	<Game id="SSFPKM" en="Sing 4: The Hits Edition" zhcn="Sing 4: The Hits Edition"/>
 	<Game id="PT3PSI" en="Sing IT Portugal Hits - Morangos com Açucar" zhcn="Sing IT Portugal Hits - Morangos com Açucar"/>
 	<Game id="MILPSI" en="Sing IT Star: Miliki" zhcn="自制 唱吧 下载版(欧)"/>
@@ -244,26 +244,26 @@
 	<Game id="DMSP4Q" en="SingItStar: Best of Disney" zhcn="自制 迪斯尼电影 想唱就唱(欧)"/>
 	<Game id="SRBP4Q" en="SingItStar: R&amp;B" zhcn="自制 唱吧 下载版(欧)"/>
 	<Game id="R6FE41" en="Six Flags Fun Park" zhcn="六旗主题乐园(美)"/>
-	<Game id="R6FERS" en="Six Flags Fun Park" zhcn="六旗主题乐园(美)"/>
+	<Game id="R6FERS" en="Six Flags Fun Park" zhcn="六旗主题乐园(美)" collection="S"/>
 	<Game id="RHUE20" en="Skate City Heroes" zhcn="轮滑城市英雄(美)" collection="平衡板游戏"/>
 	<Game id="RHUP7J" en="Skate City Heroes" zhcn="轮滑城市英雄[平衡板](欧)"/>
-	<Game id="RVSE69" en="Skate It" zhcn="极限滑板[平衡板](美)"/>
+	<Game id="RVSE69" en="Skate It" zhcn="极限滑板[平衡板](美)" collection="S"/>
 	<Game id="RVSP69" en="Skate It" zhcn="极限滑板[平衡板](欧)"/>
 	<Game id="RVSJ13" en="Skate It" zhcn="极限滑板[平衡板](日)"/>
 	<Game id="RUME5Z" en="Ski and Shoot" zhcn="滑雪射击(美)" collection="平衡板游戏"/>
-	<Game id="R87EVN" en="Ski-Doo: Snowmobile Challenge" zhcn="斯基度雪地车挑战赛(美)"/>
+	<Game id="R87EVN" en="Ski-Doo: Snowmobile Challenge" zhcn="斯基度雪地车挑战赛(美)" collection="3"/>
 	<Game id="RMCEST" en="Skipper's 200Kmh Distribution" zhcn="Skipper's 200Kmh Distribution"/>
 	<Game id="RQRJAF" en="Sky Crawlers: Innocent Aces" zhcn="空中杀手 无罪王牌(日)"/>
 	<Game id="SKYY52" en="Skylanders: Giants" zhcn="小龙斯派罗：巨人(欧)"/>
 	<Game id="SKYX52" en="Skylanders: Giants" zhcn="小龙斯派罗：巨人(欧)"/>
 	<Game id="SKYP52" en="Skylanders: Giants" zhcn="小龙斯派罗：巨人(欧)"/>
-	<Game id="SKYE52" en="Skylanders: Giants" zhcn="小龙斯派罗：巨人(美)"/>
+	<Game id="SKYE52" en="Skylanders: Giants" zhcn="小龙斯派罗：巨人(美)" collection="S"/>
 	<Game id="SKYZ52" en="Skylanders: Giants" zhcn="小龙斯派罗：巨人(欧)"/>
 	<Game id="SSPJGD" en="Skylanders: Spyro no Daibouken" zhcn="Skylanders: Spyro no Daibouken"/>
-	<Game id="SSPE52" en="Skylanders: Spyro's Adventure" zhcn="Skylanders: Spyro's Adventure"/>
+	<Game id="SSPE52" en="Skylanders: Spyro's Adventure" zhcn="小龙斯派罗的大冒险(美)" collection="S"/>
 	<Game id="SSPY52" en="Skylanders: Spyro's Adventure" zhcn="Skylanders: Spyro's Adventure"/>
-	<Game id="SSPX52" en="Skylanders: Spyro's Adventure" zhcn="小龙斯派罗的大冒险(欧)"/>
-	<Game id="SSPP52" en="Skylanders: Spyro's Adventure" zhcn="小龙斯派罗的大冒险(歐)"/>
+	<Game id="SSPX52" en="Skylanders: Spyro's Adventure" zhcn="小龙斯派罗的大冒险(X)"/>
+	<Game id="SSPP52" en="Skylanders: Spyro's Adventure" zhcn="小龙斯派罗的大冒险(欧)"/>
 	<Game id="SKNP52" en="Skylanders: SuperChargers Racing" zhcn="Skylanders: SuperChargers Racing"/>
 	<Game id="SKNE52" en="Skylanders: SuperChargers Racing" zhcn="Skylanders: SuperChargers Racing"/>
 	<Game id="SVXP52" en="Skylanders: Swap Force" zhcn="Skylanders: Swap Force"/>
@@ -271,7 +271,7 @@
 	<Game id="SVXY52" en="Skylanders: Swap Force" zhcn="Skylanders: Swap Force"/>
 	<Game id="SVXF52" en="Skylanders: Swap Force" zhcn="Skylanders: Swap Force"/>
 	<Game id="SVXI52" en="Skylanders: Swap Force" zhcn="Skylanders: Swap Force"/>
-	<Game id="SVXE52" en="Skylanders: Swap Force" zhcn="Skylanders: Swap Force"/>
+	<Game id="SVXE52" en="Skylanders: Swap Force" zhcn="小龙斯派罗 交换力量(美)" collection="S"/>
 	<Game id="SK8V52" en="Skylanders: Trap Team" zhcn="Skylanders: Trap Team"/>
 	<Game id="SK8P52" en="Skylanders: Trap Team" zhcn="Skylanders: Trap Team"/>
 	<Game id="SK8I52" en="Skylanders: Trap Team" zhcn="Skylanders: Trap Team"/>
@@ -279,25 +279,25 @@
 	<Game id="SK8E52" en="Skylanders: Trap Team" zhcn="Skylanders: Trap Team"/>
 	<Game id="SK8X52" en="Skylanders: Trap Team" zhcn="Skylanders: Trap Team"/>
 	<Game id="R3KP6N" en="Skyscraper" zhcn="摩天大楼(欧)"/>
-	<Game id="R9YES5" en="Sled Shred" zhcn="撕裂雪橇(美)"/>
+	<Game id="R9YES5" en="Sled Shred" zhcn="撕裂雪橇(美)" collection="S"/>
 	<Game id="R9LE41" en="Sleepover Party" zhcn="女孩生活 通宵派对(美)" collection="平衡板游戏"/>
 	<Game id="RMCES1" en="Smacpack" zhcn="Smacpack"/>
-	<Game id="R67E6K" en="Smart Series Presents: JaJa's Adventure" zhcn="聪明系列出品 佳佳的冒险(美)" path="done2\聪明系列出品 佳佳的冒险(美) [R67E6K]"/>
+	<Game id="R67E6K" en="Smart Series Presents: JaJa's Adventure" zhcn="聪明系列出品 佳佳的冒险(美)" collection="done2"/>
 	<Game id="RP2P69" en="Smarty Pants" zhcn="冷知识游戏(欧)"/>
-	<Game id="RP2E69" en="Smarty Pants" zhcn="冷知识游戏(美)"/>
+	<Game id="RP2E69" en="Smarty Pants" zhcn="冷知识游戏(美)" collection="S"/>
 	<Game id="RSBEUV" en="Smash Universe Mod 1.0" zhcn="Smash Universe Mod 1.0"/>
-	<Game id="RIDE20" en="Smiley World: Island Challenge" zhcn="微笑世界岛屿挑战(美)"/>
+	<Game id="RIDE20" en="Smiley World: Island Challenge" zhcn="微笑世界岛屿挑战(美)" collection="S"/>
 	<Game id="RIDP7J" en="Smiley World: Island Challenge" zhcn="微笑的世界岛屿挑战(欧)"/>
 	<Game id="SSNPHY" en="Sniper Elite" zhcn="狙击精英[WiFi](欧)"/>
-	<Game id="SSNEYG" en="Sniper Elite" zhcn="狙击精英(美)" path="done2\狙击精英(美) [SSNEYG]"/>
+	<Game id="SSNEYG" en="Sniper Elite" zhcn="狙击精英(美)" collection="done2"/>
 	<Game id="RMCESU" en="SnorgUp's Textures and Music Pack" zhcn="SnorgUp's Textures and Music Pack"/>
 	<Game id="RVJPFR" en="So Blonde: Back to the Island" zhcn="金发美女 回到小岛(欧)"/>
 	<Game id="RSOP4Z" en="Solitaire &amp; Mahjong" zhcn="纸牌麻将游戏专辑(欧)"/>
-	<Game id="RSOE4Z" en="Solitaire &amp; Mahjong" zhcn="纸牌麻将游戏专辑(美)"/>
-	<Game id="R3RP8P" en="Sonic &amp; SEGA All-Stars Racing" zhcn="索尼克与世嘉全明星赛车(欧)"/>
-	<Game id="R3RE8P" en="Sonic &amp; SEGA All-Stars Racing" zhcn="索尼克与世嘉全明星赛车(美)" path="wbfs2\索尼克与世嘉全明星赛车(美) [R3RE8P]"/>
-	<Game id="SNCE8P" en="Sonic Colors" zhcn="索尼克 五彩缤纷(美)" path="done2\索尼克 五彩缤纷(美) [SNCE8P]"/>
-	<Game id="SNCJ8P" en="Sonic Colors" zhcn="索尼克 五彩缤纷(日)" path="done2\索尼克 五彩缤纷(日) [SNCJ8P]"/>
+	<Game id="RSOE4Z" en="Solitaire &amp; Mahjong" zhcn="纸牌麻将游戏专辑(美)" collection="3"/>
+	<Game id="R3RP8P" en="Sonic &amp; SEGA All-Stars Racing" zhcn="索尼克与世嘉全明星赛车(欧)" collection="5"/>
+	<Game id="R3RE8P" en="Sonic &amp; SEGA All-Stars Racing" zhcn="索尼克与世嘉全明星赛车(美)" collection="done2"/>
+	<Game id="SNCE8P" en="Sonic Colors" zhcn="索尼克 五彩缤纷(美)" collection="done2"/>
+	<Game id="SNCJ8P" en="Sonic Colors" zhcn="索尼克 五彩缤纷(日)" collection="done2"/>
 	<Game id="SCUE8P" en="Sonic Colors: Ultimate" zhcn="Sonic Colors: Ultimate"/>
 	<Game id="SNCP8P" en="Sonic Colours" zhcn="索尼克 五彩缤纷[WiFi](欧)"/>
 	<Game id="GDXE8P" en="Sonic Riders DX" zhcn="Sonic Riders DX"/>
@@ -305,13 +305,13 @@
 	<Game id="SRZE8P" en="Sonic Riders: Regravitified" zhcn="Sonic Riders: Regravitified"/>
 	<Game id="RS9J8P" en="Sonic Riders: Shooting Star Story" zhcn="索尼克滑板 失重[WiFi](日)"/>
 	<Game id="RS9P8P" en="Sonic Riders: Zero Gravity" zhcn="索尼克滑板 失重[WiFi](欧)"/>
-	<Game id="RS9E8P" en="Sonic Riders: Zero Gravity" zhcn="索尼克滑板 失重(美)" path="done2\索尼克滑板 失重(美) [RS9E8P]"/>
-	<Game id="RSVE8P" en="Sonic Unleashed" zhcn="索尼克 释放(美)"/>
+	<Game id="RS9E8P" en="Sonic Riders: Zero Gravity" zhcn="索尼克滑板 失重(美)" collection="done2"/>
+	<Game id="RSVE8P" en="Sonic Unleashed" zhcn="索尼克 释放(美)" collection="3"/>
 	<Game id="RSVP8P" en="Sonic Unleashed" zhcn="索尼克 释放(欧)"/>
 	<Game id="RSVJ8P" en="Sonic World Adventure" zhcn="索尼克 释放(日)"/>
 	<Game id="RENP8P" en="Sonic and the Black Knight" zhcn="索尼克与黑暗骑士[WiFi](欧)"/>
-	<Game id="RENE8P" en="Sonic and the Black Knight" zhcn="索尼克与黑暗骑士(美)" path="done2\索尼克与黑暗骑士(美) [RENE8P]"/>
-	<Game id="RSRE8P" en="Sonic and the Secret Rings" zhcn="索尼克与神秘指环(美)"/>
+	<Game id="RENE8P" en="Sonic and the Black Knight" zhcn="索尼克与黑暗骑士(美)" collection="done2"/>
+	<Game id="RSRE8P" en="Sonic and the Secret Rings" zhcn="索尼克与神秘指环(美)" collection="S"/>
 	<Game id="RSRP8P" en="Sonic and the Secret Rings" zhcn="索尼克与神秘指环(欧)"/>
 	<Game id="DSRJ8P" en="Sonic and the Secret Rings (Demo)" zhcn="索尼克与神秘指环 试玩版(日)"/>
 	<Game id="RENJ8P" en="Sonic to Ankoku no Kishi" zhcn="索尼克与黑暗骑士[WiFi](日)"/>
@@ -320,89 +320,89 @@
 	<Game id="RSLKAF" en="Soulcalibur Legends" zhcn="剑魂传说(韩)"/>
 	<Game id="RSLJAF" en="Soulcalibur: Legends" zhcn="剑魂传说(日)"/>
 	<Game id="RSLPAF" en="Soulcalibur: Legends" zhcn="剑魂传说(欧)"/>
-	<Game id="RSLEAF" en="Soulcalibur: Legends" zhcn="剑魂传说(美)"/>
+	<Game id="RSLEAF" en="Soulcalibur: Legends" zhcn="剑魂传说(美)" collection="1"/>
 	<Game id="RIYP52" en="Space Camp" zhcn="太空营地(欧)"/>
-	<Game id="RIYE52" en="Space Camp" zhcn="太空营地(美)"/>
+	<Game id="RIYE52" en="Space Camp" zhcn="太空营地(美)" collection="S"/>
 	<Game id="RP9XRS" en="Space Chimps" zhcn="太空黑猩猩(X)"/>
 	<Game id="RP9PRS" en="Space Chimps" zhcn="太空黑猩猩(欧)"/>
-	<Game id="RP9ERS" en="Space Chimps" zhcn="太空黑猩猩(美)"/>
+	<Game id="RP9ERS" en="Space Chimps" zhcn="太空黑猩猩(美)" collection="S"/>
 	<Game id="RMCE81" en="Spade's Custom Track Pack" zhcn="Spade's Custom Track Pack"/>
 	<Game id="SPHPJW" en="Spaghetti Western Shooter" zhcn="Spaghetti Western Shooter"/>
-	<Game id="RXXE4Q" en="Spectrobes: Origins" zhcn="化石超进化 起源(美)"/>
+	<Game id="RXXE4Q" en="Spectrobes: Origins" zhcn="化石超进化 起源(美)" collection="S"/>
 	<Game id="RXXP4Q" en="Spectrobes: Origins" zhcn="化石超进化 起源(欧)"/>
 	<Game id="SPEPXT" en="Speed" zhcn="极速(欧)"/>
-	<Game id="SPEE20" en="Speed" zhcn="极速(美)"/>
+	<Game id="SPEE20" en="Speed" zhcn="极速(美)" collection="S"/>
 	<Game id="SQPPX4" en="Speed 2" zhcn="速度 2(欧)"/>
 	<Game id="R3PJ52" en="Speed Racer" zhcn="极速赛车手(日)"/>
-	<Game id="R3PEWR" en="Speed Racer: The Videogame" zhcn="极速赛车手(美)"/>
+	<Game id="R3PEWR" en="Speed Racer: The Videogame" zhcn="极速赛车手(美)" collection="S"/>
 	<Game id="R3PPWR" en="Speed Racer: The Videogame" zhcn="极速赛车手(欧)"/>
-	<Game id="RZSEGJ" en="Speed Zone" zhcn="极速地带(美)"/>
+	<Game id="RZSEGJ" en="Speed Zone" zhcn="极速地带(美)" collection="S"/>
 	<Game id="SPBPGT" en="Spellbound Party" zhcn="魅力聚会(欧)"/>
 	<Game id="RS3E52" en="Spider-Man 3" zhcn="蜘蛛侠3(美)" collection="影视IP游戏 漫威"/>
 	<Game id="RS3J52" en="Spider-Man 3" zhcn="蜘蛛侠3(日)"/>
 	<Game id="RS3P52" en="Spider-Man 3" zhcn="蜘蛛侠3(欧)"/>
 	<Game id="RS3X52" en="Spider-Man 3" zhcn="蜘蛛侠3(X)"/>
-	<Game id="SQME52" en="Spider-Man: Edge of Time" zhcn="蜘蛛侠：时间边缘(美)"/>
+	<Game id="SQME52" en="Spider-Man: Edge of Time" zhcn="蜘蛛侠 时间边缘(美)" collection="影视IP游戏 漫威"/>
 	<Game id="SQMP52" en="Spider-Man: Edge of Time" zhcn="蜘蛛人 时间裂痕(欧)"/>
 	<Game id="RFOX52" en="Spider-Man: Friend or Foe" zhcn="蜘蛛侠 敌友难辨(X)"/>
 	<Game id="RFOP52" en="Spider-Man: Friend or Foe" zhcn="蜘蛛侠 敌友难辨(欧)"/>
-	<Game id="RFOE52" en="Spider-Man: Friend or Foe" zhcn="蜘蛛侠 敌友难辨(美)"/>
+	<Game id="RFOE52" en="Spider-Man: Friend or Foe" zhcn="蜘蛛侠 敌友难辨(美)" collection="影视IP游戏 漫威"/>
 	<Game id="SPDP52" en="Spider-Man: Shattered Dimensions" zhcn="蜘蛛侠 破碎时空(欧)"/>
-	<Game id="SPDE52" en="Spider-Man: Shattered Dimensions" zhcn="蜘蛛侠 破碎时空(美)"/>
-	<Game id="R3SE52" en="Spider-Man: Web of Shadows" zhcn="蜘蛛侠 影之网(美)"/>
+	<Game id="SPDE52" en="Spider-Man: Shattered Dimensions" zhcn="蜘蛛侠 破碎时空(美)" collection="影视IP游戏 漫威"/>
+	<Game id="R3SE52" en="Spider-Man: Web of Shadows" zhcn="蜘蛛侠 影之网(美)" collection="影视IP游戏 漫威"/>
 	<Game id="R3SP52" en="Spider-Man: Web of Shadows" zhcn="蜘蛛侠 影之网(欧)"/>
 	<Game id="SB4E10" en="Spinless Mario Galaxy 2" zhcn="Spinless Mario Galaxy 2"/>
 	<Game id="SLPP5D" en="Spirit of the Wolf" zhcn="狼的精神(欧)"/>
 	<Game id="RUSX78" en="SpongeBob SquarePants Featuring Nicktoons: Globs of Doom" zhcn="海绵宝宝历险记 致命水珠(X)"/>
 	<Game id="RUSP78" en="SpongeBob SquarePants featuring Nicktoons: Globs of Doom" zhcn="海绵宝宝历险记 致命水珠(欧)"/>
-	<Game id="RUSE78" en="SpongeBob SquarePants featuring Nicktoons: Globs of Doom" zhcn="海绵宝宝历险记 致命水珠(美)"/>
+	<Game id="RUSE78" en="SpongeBob SquarePants featuring Nicktoons: Globs of Doom" zhcn="海绵宝宝历险记 致命水珠(美)" collection="S"/>
 	<Game id="RUSY78" en="SpongeBob SquarePants featuring Nicktoons: Globs of Doom" zhcn="海绵宝宝历险记 致命水珠(Y)"/>
-	<Game id="RQ4E78" en="SpongeBob SquarePants: Creature from the Krusty Krab" zhcn="棉球方块历险记(美)"/>
+	<Game id="RQ4E78" en="SpongeBob SquarePants: Creature from the Krusty Krab" zhcn="棉球方块历险记(美)" collection="S"/>
 	<Game id="RQ4P78" en="SpongeBob SquarePants: Creature from the Krusty Krab" zhcn="棉球方块历险记(欧)"/>
-	<Game id="SVDE52" en="SpongeBob SquarePants: Plankton's Robotic Revenge" zhcn="SpongeBob SquarePants: Plankton's Robotic Revenge"/>
+	<Game id="SVDE52" en="SpongeBob SquarePants: Plankton's Robotic Revenge" zhcn="海绵宝宝 痞老板机器人复仇(美)" collection="S"/>
 	<Game id="SVDP52" en="SpongeBob SquarePants: Plankton's Robotic Revenge" zhcn="海绵宝宝 痞老板机器人复仇"/>
-	<Game id="SS8E78" en="SpongeBob SquigglePants" zhcn="海绵宝宝 涂鸦裤子(美)"/>
+	<Game id="SS8E78" en="SpongeBob SquigglePants" zhcn="海绵宝宝 涂鸦裤子(美)" collection="S"/>
 	<Game id="SS8P78" en="SpongeBob SquigglePants" zhcn="海绵宝宝 涂鸦裤子(欧)"/>
 	<Game id="RN3J78" en="SpongeBob to Nakamatachi: Toybot no Kougeki" zhcn="海绵宝宝 玩具机器人来袭(日)"/>
-	<Game id="RSAE78" en="SpongeBob's Atlantis SquarePantis" zhcn="海绵宝宝 亚特兰蒂斯(美)"/>
+	<Game id="RSAE78" en="SpongeBob's Atlantis SquarePantis" zhcn="海绵宝宝 亚特兰蒂斯(美)" collection="S"/>
 	<Game id="RSAP78" en="SpongeBob's Atlantis SquarePantis" zhcn="海绵宝宝 亚特兰蒂斯(欧)"/>
 	<Game id="SBVS78" en="SpongeBob's Boating Bash" zhcn="海绵宝宝 碰碰船竞速(欧)"/>
 	<Game id="SBVP78" en="SpongeBob's Boating Bash" zhcn="海绵宝宝 碰碰船竞速(欧)"/>
-	<Game id="SBVE78" en="SpongeBob's Boating Bash" zhcn="海绵宝宝 碰碰船竞速(美)"/>
+	<Game id="SBVE78" en="SpongeBob's Boating Bash" zhcn="海绵宝宝 碰碰船竞速(美)" collection="S"/>
 	<Game id="R8IS78" en="SpongeBob's Truth or Square" zhcn="海绵宝宝 诚实还是正直[MP](欧)"/>
 	<Game id="R8IP78" en="SpongeBob's Truth or Square" zhcn="海绵宝宝 诚实还是正直[MP](欧)"/>
-	<Game id="R8IE78" en="SpongeBob's Truth or Square" zhcn="海绵宝宝 诚实还是正直[MP](美)"/>
+	<Game id="R8IE78" en="SpongeBob's Truth or Square" zhcn="海绵宝宝 诚实还是正直[MP](美)" collection="S"/>
 	<Game id="RQOP69" en="Spore Hero" zhcn="孢子英雄(欧)"/>
-	<Game id="RQOE69" en="Spore Hero" zhcn="孢子英雄(美)"/>
+	<Game id="RQOE69" en="Spore Hero" zhcn="孢子英雄(美)" collection="S"/>
 	<Game id="RQOJ13" en="Spore: Kimi ga Tsukuru Hero" zhcn="孢子英雄(日)"/>
 	<Game id="RDXP18" en="Sports Island" zhcn="德卡运动会(欧)"/>
 	<Game id="R2SP18" en="Sports Island 2" zhcn="德卡运动会2[WiFi](欧)"/>
 	<Game id="S3DP18" en="Sports Island 3" zhcn="德卡运动会3[MP][WiFi](欧)"/>
-	<Game id="RSUP41" en="Sports Party" zhcn="夏季运动会 天堂岛(欧)" path="done5\夏季运动会 天堂岛(欧) [RSUP41]"/>
+	<Game id="RSUP41" en="Sports Party" zhcn="夏季运动会 天堂岛(欧)" collection="done5"/>
 	<Game id="RSBE09" en="Springboy64's Brawl Hack Pack" zhcn="Springboy64's Brawl Hack Pack"/>
 	<Game id="RSBE27" en="Springboy64's Super Smash Bros. Brawl Hack Pack" zhcn="Springboy64's Super Smash Bros. Brawl Hack Pack"/>
 	<Game id="SPKXPV" en="Springdale" zhcn="斯普林骑马探险(欧)"/>
 	<Game id="SN8PNG" en="Sprint Cars" zhcn="急速赛车 冲刺车(欧)"/>
 	<Game id="RDLP70" en="Spy Fox In Dry Cereal" zhcn="狐狸侦探智救人质(欧)"/>
-	<Game id="RDLE5G" en="Spy Fox in Dry Cereal" zhcn="狐狸侦探智救人质(美)"/>
-	<Game id="RECE6K" en="Spy Games: Elevator Mission" zhcn="间谍游戏 电梯任务(美)"/>
+	<Game id="RDLE5G" en="Spy Fox in Dry Cereal" zhcn="狐狸侦探智救人质(美)" collection="S"/>
+	<Game id="RECE6K" en="Spy Games: Elevator Mission" zhcn="间谍游戏 电梯任务(美)" collection="S"/>
 	<Game id="RMCE77" en="SpyKid's CT Pack" zhcn="SpyKid's CT Pack"/>
 	<Game id="RSWP08" en="Spyborgs" zhcn="生化间谍(欧)"/>
-	<Game id="RSWE08" en="Spyborgs" zhcn="生化间谍(美)"/>
+	<Game id="RSWE08" en="Spyborgs" zhcn="生化间谍(美)" collection="S"/>
 	<Game id="RMCESY" en="Spyro's Texture Pack" zhcn="Spyro's Texture Pack"/>
-	<Game id="R6YEXS" en="Squeeballs Party" zhcn="橡皮球聚会(美)"/>
+	<Game id="R6YEXS" en="Squeeballs Party" zhcn="橡皮球聚会(美)" collection="3"/>
 	<Game id="R6YPH3" en="Squeeballs Party" zhcn="橡皮球聚会(欧)"/>
 	<Game id="RTJP68" en="Star Trek: Conquest" zhcn="星舰迷航记 征服(欧)"/>
-	<Game id="RTJE68" en="Star Trek: Conquest" zhcn="星舰迷航记 征服(美)"/>
+	<Game id="RTJE68" en="Star Trek: Conquest" zhcn="星舰迷航记 征服(美)" collection="S"/>
 	<Game id="RLFP64" en="Star Wars The Clone Wars: Lightsaber Duels" zhcn="星球大战 复制战纪(欧)"/>
-	<Game id="RLFE64" en="Star Wars The Clone Wars: Lightsaber Duels" zhcn="星球大战 复制战纪(美)"/>
-	<Game id="RQLE64" en="Star Wars The Clone Wars: Republic Heroes" zhcn="星球大战之克隆战争 共和国英雄(美)"/>
+	<Game id="RLFE64" en="Star Wars The Clone Wars: Lightsaber Duels" zhcn="星球大战 复制战纪(美)" collection="S"/>
+	<Game id="RQLE64" en="Star Wars The Clone Wars: Republic Heroes" zhcn="星球大战之克隆战争 共和国英雄(美)" collection="S"/>
 	<Game id="RQLP64" en="Star Wars The Clone Wars: Republic Heroes" zhcn="星球大战之克隆战争 共和国英雄(欧)"/>
-	<Game id="RSTE64" en="Star Wars: The Force Unleashed" zhcn="星球大战 原力释放(美)"/>
+	<Game id="RSTE64" en="Star Wars: The Force Unleashed" zhcn="星球大战 原力释放(美)" collection="S"/>
 	<Game id="RSTJ52" en="Star Wars: The Force Unleashed" zhcn="星球大战 原力释放(日)"/>
 	<Game id="RSTP64" en="Star Wars: The Force Unleashed" zhcn="星球大战 原力释放(欧)"/>
 	<Game id="SF2P64" en="Star Wars: The Force Unleashed II" zhcn="星际大战 原力解放2(欧)"/>
-	<Game id="SFUE64" en="Star Wars: The Force Unleashed II" zhcn="星际大战 原力解放2(美)"/>
+	<Game id="SFUE64" en="Star Wars: The Force Unleashed II" zhcn="星际大战 原力解放2(美)" collection="S"/>
 	<Game id="CS5P00" en="StarSing : '70s v2.3" zhcn="自制 唱吧 '70s v2.3"/>
 	<Game id="SIS80S" en="StarSing : '80s Volume 1 v1.2" zhcn="自制 唱吧 '80s Volume 1 v1.2"/>
 	<Game id="CS2PZZ" en="StarSing : '80s Volume 1 v2.0" zhcn="自制 唱吧 '80s Volume 1 v2.0(欧)"/>
@@ -510,11 +510,11 @@
 	<Game id="SISACD" en="StarSing AC/DC" zhcn="自制 唱吧 AC/DC"/>
 	<Game id="RY6PA4" en="Step to the Beat" zhcn="节拍漫步[平衡板][跳舞毯](欧)"/>
 	<Game id="RMCE70" en="Stickboy Kart Wii" zhcn="Stickboy Kart Wii"/>
-	<Game id="R3AE20" en="Story Hour: Adventures" zhcn="故事时间 冒险故事(美)"/>
+	<Game id="R3AE20" en="Story Hour: Adventures" zhcn="故事时间 冒险故事(美)" collection="S"/>
 	<Game id="R3AP7J" en="Story Hour: Adventures" zhcn="故事时间 冒险故事(欧)"/>
-	<Game id="R4FE20" en="Story Hour: Fairy Tales" zhcn="故事时间 童话故事(美)"/>
+	<Game id="R4FE20" en="Story Hour: Fairy Tales" zhcn="故事时间 童话故事(美)" collection="S"/>
 	<Game id="R4FP7J" en="Story Hour: Fairy Tales" zhcn="故事时间 童话故事(欧)"/>
-	<Game id="R4VEA4" en="Storybook Workshop" zhcn="故事绘本工坊(美)"/>
+	<Game id="R4VEA4" en="Storybook Workshop" zhcn="故事绘本工坊(美)" collection="S"/>
 	<Game id="R8KPKM" en="Street Football 2" zhcn="街头足球 尼科拉斯阿内尔卡(欧)"/>
 	<Game id="SSTPY5" en="Stunt Flyer: Hero of the Skies" zhcn="特技飞行 空中英雄(欧)"/>
 	<Game id="R9SPPL" en="Sudoku Ball: Detective" zhcn="球形数独 侦探(欧)"/>
@@ -522,24 +522,24 @@
 	<Game id="R4YJ2M" en="Sukeban Shachou Rena Wii: Neko Shachou, Tsukaeru Shain Daiboshuu." zhcn="猫社长蕾娜Wii(日)"/>
 	<Game id="RUMPFR" en="Summer Athletics" zhcn="夏季田径运动会(欧)"/>
 	<Game id="R9MPFR" en="Summer Athletics 2009" zhcn="夏季运动会2009[平衡板](欧)"/>
-	<Game id="RU3E5Z" en="Summer Athletics: The Ultimate Challenge" zhcn="夏季田径运动会(美)"/>
+	<Game id="RU3E5Z" en="Summer Athletics: The Ultimate Challenge" zhcn="夏季田径运动会(美)" collection="S"/>
 	<Game id="RE6PRT" en="Summer Challenge: Athletics Tournament" zhcn="夏季田径邀请赛的挑战(欧)"/>
 	<Game id="RI6ENR" en="Summer Sports 2: Island Sports Party" zhcn="夏季运动会2 小岛运动会(美)" collection="运动游戏 运动会"/>
 	<Game id="RI6P41" en="Summer Sports Party" zhcn="夏季运动聚会(欧)"/>
 	<Game id="RSUENR" en="Summer Sports: Paradise Island" zhcn="夏季运动会 天堂岛(美)" collection="运动游戏 运动会"/>
 	<Game id="SSJPKM" en="Summer Stars 2012" zhcn="夏季明星 2012(欧)"/>
-	<Game id="SSJEJJ" en="Summer Stars 2012" zhcn="夏季明星 2012(美)"/>
+	<Game id="SSJEJJ" en="Summer Stars 2012" zhcn="夏季明星 2012(美)" collection="S"/>
 	<Game id="SMNECB" en="Super Classic Mario Bros. Wii" zhcn="Super Classic Mario Bros. Wii"/>
-	<Game id="RF4E36" en="Super Fruit Fall" zhcn="超级水果瀑布(美)"/>
-	<Game id="RF4P6M" en="Super Fruit Fall" zhcn="超级水果瀑布(欧)"/>
+	<Game id="RF4E36" en="Super Fruit Fall" zhcn="超级水果瀑布(美)" collection="S"/>
+	<Game id="RF4P6M" en="Super Fruit Fall" zhcn="超级水果瀑布(欧)" collection="2"/>
 	<Game id="SSQE02" en="Super Isaiah Party" zhcn="Super Isaiah Party"/>
 	<Game id="SN6PNG" en="Super Karts" zhcn="急速赛车 超级卡丁车(欧)"/>
 	<Game id="SLNE01" en="Super Luigi Land Wii" zhcn="Super Luigi Land Wii"/>
 	<Game id="GLSE01" en="Super Luigi Sunshine" zhcn="Super Luigi Sunshine"/>
-	<Game id="SVME01" en="Super Mario All-Stars" zhcn="超级马里奥25周年纪念包(美)"/>
+	<Game id="SVME01" en="Super Mario All-Stars" zhcn="超级马里奥25周年纪念包(美)" collection="S"/>
 	<Game id="SVMP01" en="Super Mario All-Stars: 25th Anniversary Edition" zhcn="超级马里奥25周年纪念包(欧)"/>
 	<Game id="SB4E06" en="Super Mario Another Galaxy" zhcn="Super Mario Another Galaxy"/>
-	<Game id="SM3E01" en="Super Mario Bros. 3+" zhcn="超级马里奥兄弟3+"/>
+	<Game id="SM3E01" en="Super Mario Bros. 3+" zhcn="超级马里奥兄弟3+" collection="S"/>
 	<Game id="SFRJ01" en="Super Mario Bros. Frozen Edition" zhcn="Super Mario Bros. Frozen Edition"/>
 	<Game id="SFRE01" en="Super Mario Bros. Frozen Edition" zhcn="Super Mario Bros. Frozen Edition"/>
 	<Game id="SFRP01" en="Super Mario Bros. Frozen Edition" zhcn="Super Mario Bros. Frozen Edition"/>
@@ -574,7 +574,7 @@
 	<Game id="RMGE06" en="Super Mario Galaxy: Anti Piracy" zhcn="Super Mario Galaxy: Anti Piracy"/>
 	<Game id="RMGE08" en="Super Mario Galaxy: Multiplayer Splitscreen" zhcn="Super Mario Galaxy: Multiplayer Splitscreen"/>
 	<Game id="RMGE05" en="Super Mario Galaxy: No Black Holes" zhcn="Super Mario Galaxy: No Black Holes"/>
-	<Game id="RNVW01" en="Super Mario Galaxy: Nvidia Shield TV" zhcn="超级马里奥银河(中)" path="done3\超级马里奥银河(中) [RNVW01]"/>
+	<Game id="RNVW01" en="Super Mario Galaxy: Nvidia Shield TV" zhcn="超级马里奥银河(中)" collection="超级马里奥3D系列"/>
 	<Game id="SB4E08" en="Super Mario Galaxy: Remastered" zhcn="Super Mario Galaxy: Remastered"/>
 	<Game id="TGSE01" en="Super Mario Galaxy: The Green Stars" zhcn="Super Mario Galaxy: The Green Stars"/>
 	<Game id="TKG1ES" en="Super Mario Galaxy: The Kaizo Green Stars" zhcn="Super Mario Galaxy: The Kaizo Green Stars"/>
@@ -612,10 +612,10 @@
 	<Game id="SMBJ8P" en="Super Monkey Ball Athletic" zhcn="超级猴子球 平衡滚球(日)" collection="平衡板游戏"/>
 	<Game id="GM2EDX" en="Super Monkey Ball Deluxe" zhcn="Super Monkey Ball Deluxe"/>
 	<Game id="RSMP8P" en="Super Monkey Ball: Banana Blitz" zhcn="超级猴子球 香蕉闪电战(欧)"/>
-	<Game id="RSME8P" en="Super Monkey Ball: Banana Blitz" zhcn="超级猴子球 香蕉闪电战(美)" path="done2\超级猴子球 香蕉闪电战(美) [RSME8P]"/>
+	<Game id="RSME8P" en="Super Monkey Ball: Banana Blitz" zhcn="超级猴子球 香蕉闪电战(美)" collection="4"/>
 	<Game id="SMBE8P" en="Super Monkey Ball: Step &amp; Roll" zhcn="超级猴子球 平衡滚球[平衡板](美)"/>
 	<Game id="SMBP8P" en="Super Monkey Ball: Step &amp; Roll" zhcn="超级猴子球 平衡滚球(欧)" collection="平衡板游戏"/>
-	<Game id="RSMJ8P" en="Super Monkey Ball: Uki Uki Party Daishuugou" zhcn="超级猴子球 香蕉闪电战(日)"/>
+	<Game id="RSMJ8P" en="Super Monkey Ball: Uki Uki Party Daishuugou" zhcn="超级猴子球 香蕉闪电战(日)" collection="5"/>
 	<Game id="R8PE02" en="Super Paper Isaiah" zhcn="Super Paper Isaiah"/>
 	<Game id="R8PK01" en="Super Paper Mario" zhcn="超级纸片马里奥(韩)"/>
 	<Game id="R8PE01" en="Super Paper Mario" zhcn="超级纸片马里奥(美)"/>
@@ -623,14 +623,14 @@
 	<Game id="R8PJ01" en="Super Paper Mario" zhcn="超级纸片马里奥(日)"/>
 	<Game id="R8PC01" en="Super Paper Mario(CN)" zhcn="超级纸片马里奥(中)" collection="超级马里奥3D系列"/>
 	<Game id="SMNE28" en="Super Penguin Bros." zhcn="Super Penguin Bros."/>
-	<Game id="RQUEFS" en="Super PickUps" zhcn="超级小卡车(美)"/>
-	<Game id="RRWJAF" en="Super Robot Taisen NEO" zhcn="超级机器人大战NEO(日)"/>
+	<Game id="RQUEFS" en="Super PickUps" zhcn="超级小卡车(美)" collection="S"/>
+	<Game id="RRWJAF" en="Super Robot Taisen NEO" zhcn="超级机器人大战NEO(日)" collection="2"/>
 	<Game id="SRJJAF" en="Super Sentai Battle: Ranger Cross" zhcn="超级战队大战 群雄云集(日)"/>
 	<Game id="RSBEUW" en="Super Smash Bros Ultimate For Wii" zhcn="Super Smash Bros Ultimate For Wii"/>
 	<Game id="RSBE24" en="Super Smash Bros. 3" zhcn="Super Smash Bros. 3"/>
 	<Game id="RSBEBB" en="Super Smash Bros. Balanced Brawl" zhcn="Super Smash Bros. Balanced Brawl"/>
 	<Game id="RSBP01" en="Super Smash Bros. Brawl" zhcn="任天堂明星大乱斗X[WiFi](欧)"/>
-	<Game id="RSBE01" en="Super Smash Bros. Brawl" zhcn="任天堂明星大乱斗X(美)" path="done4\任天堂明星大乱斗X(美) [RSBE01]"/>
+	<Game id="RSBE01" en="Super Smash Bros. Brawl" zhcn="任天堂明星大乱斗X(美)" collection="done4"/>
 	<Game id="RSBE17" en="Super Smash Bros. Brawl - Battlefield Build" zhcn="Super Smash Bros. Brawl - Battlefield Build"/>
 	<Game id="RSYP06" en="Super Smash Bros. Brawl : YF06's Mod" zhcn="自制 任天堂明星大乱斗X YF06修改版(欧)"/>
 	<Game id="RSBE03" en="Super Smash Bros. Brawl DX" zhcn="Super Smash Bros. Brawl DX"/>
@@ -695,30 +695,30 @@
 	<Game id="RSBE39" en="Super Smash Bros. Ultra Project M" zhcn="Super Smash Bros. Ultra Project M"/>
 	<Game id="RSBENQ" en="Super Smash Bros. but Not Quite! (Gamma Version)" zhcn="Super Smash Bros. but Not Quite! (Gamma Version)"/>
 	<Game id="RSBE38" en="Super Smash Sisters Generations 2" zhcn="Super Smash Sisters Generations 2"/>
-	<Game id="SRSE20" en="Super Sonic Racer" zhcn="超级音速赛车(美)"/>
-	<Game id="RPYE9B" en="Super Swing Golf" zhcn="魔法高尔夫(美)" path="done4\魔法高尔夫(美) [RPYE9B]"/>
+	<Game id="SRSE20" en="Super Sonic Racer" zhcn="超级音速赛车(美)" collection="S"/>
+	<Game id="RPYE9B" en="Super Swing Golf" zhcn="魔法高尔夫(美)" collection="done4"/>
 	<Game id="R2PP99" en="Super Swing Golf" zhcn="魔法高尔夫(欧)"/>
-	<Game id="R2PE9B" en="Super Swing Golf Season 2" zhcn="魔法飞球2(美)"/>
-	<Game id="SN7PNG" en="Super Truck Racer" zhcn="急速赛车 超级卡车赛(欧)" path="done2\急速赛车 超级卡车赛(欧) [SN7PNG]"/>
+	<Game id="R2PE9B" en="Super Swing Golf Season 2" zhcn="魔法飞球2(美)" collection="S"/>
+	<Game id="SN7PNG" en="Super Truck Racer" zhcn="急速赛车 超级卡车赛(欧)" collection="done2"/>
 	<Game id="RSBE28" en="SuperYoshiStar's Super Smash Bros. Brawl Hack Pack" zhcn="SuperYoshiStar's Super Smash Bros. Brawl Hack Pack"/>
 	<Game id="SRSPXT" en="Supersonic Racer" zhcn="Supersonic Racer"/>
 	<Game id="RXUX41" en="Surf's Up" zhcn="冲浪企鹅(X)"/>
 	<Game id="RXUP41" en="Surf's Up" zhcn="冲浪企鹅(欧)"/>
-	<Game id="RXUE41" en="Surf's Up" zhcn="冲浪企鹅(美)"/>
+	<Game id="RXUE41" en="Surf's Up" zhcn="冲浪企鹅(美)" collection="S"/>
 	<Game id="RKZJA4" en="Survival Kids Wii" zhcn="幸存少年Wii(日或中)" collection="中文游戏"/>
 	<Game id="RLNIMR" en="Survivor" zhcn="前进鲁宾逊[平衡板](意)"/>
 	<Game id="RLNPMR" en="Survivor" zhcn="幸存者[平衡板](欧)"/>
 	<Game id="RLNHMR" en="Survivor" zhcn="前进鲁宾逊[平衡板](荷)"/>
 	<Game id="RV7SMR" en="Survivor" zhcn="幸存者[平衡板](欧)"/>
 	<Game id="RLNFMR" en="Survivor" zhcn="兰达岛生存游戏[平衡板](法)"/>
-	<Game id="RLNEVN" en="Survivor" zhcn="幸存者[平衡板](美)"/>
-	<Game id="SSUES5" en="Sushi Go Round" zhcn="回转寿司(美)"/>
+	<Game id="RLNEVN" en="Survivor" zhcn="幸存者[平衡板](美)" collection="S"/>
+	<Game id="SSUES5" en="Sushi Go Round" zhcn="回转寿司(美)" collection="1"/>
 	<Game id="RHHJ8J" en="Suzumiya Haruhi no Gekidou" zhcn="凉宫春日的激动(日或中)" collection="中文游戏"/>
 	<Game id="R44J8P" en="Suzumiya Haruhi no Heiretsu" zhcn="凉宫春日的并列(日)"/>
 	<Game id="RGHE62" en="Sweet Home Alabama - GH3" zhcn="自制 吉他英雄3 下载版(美)"/>
 	<Game id="RPYJ9B" en="Swing Golf Pangya" zhcn="魔法高尔夫(日)"/>
 	<Game id="R2PKZ4" en="Swing Golf Pangya 2nd Shot!" zhcn="魔法飞球2(韩)"/>
 	<Game id="R2PJ9B" en="Swing Golf Pangya 2nd Shot!" zhcn="魔法飞球2(日)"/>
-	<Game id="SSZE5G" en="Swords" zhcn="剑(美)"/>
+	<Game id="SSZE5G" en="Swords" zhcn="剑(美)" collection="1"/>
 	<Game id="RMCESR" en="S☆Ris CT Pack" zhcn="S☆Ris CT Pack"/>
 </Game-List>

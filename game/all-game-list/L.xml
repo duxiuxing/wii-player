@@ -19,7 +19,7 @@
 	<Game id="R6LEWR" en="LEGO Rock Band" zhcn="乐高摇滚乐团(美)" collection="乐高系列"/>
 	<Game id="R6LPWR" en="LEGO Rock Band" zhcn="乐高摇滚乐团(欧)"/>
 	<Game id="SC4P64" en="LEGO Star Wars III: The Clone Wars" zhcn="乐高星球大战3 克隆人战争(欧)"/>
-	<Game id="SC4E64" en="LEGO Star Wars III: The Clone Wars" zhcn="乐高星球大战3 克隆人战争(美)" path="done5\乐高星球大战3 克隆人战争(美) [SC4E64]"/>
+	<Game id="SC4E64" en="LEGO Star Wars III: The Clone Wars" zhcn="乐高星球大战3 克隆人战争(美)" collection="done5"/>
 	<Game id="RLGE64" en="LEGO Star Wars: The Complete Saga" zhcn="乐高星球大战 完整的传奇(美)" collection="乐高系列"/>
 	<Game id="RLGJ52" en="LEGO Star Wars: The Complete Saga" zhcn="乐高星球大战 完整的传奇(日)"/>
 	<Game id="RLGP64" en="LEGO Star Wars: The Complete Saga" zhcn="乐高星球大战 完整的传奇(欧)"/>
@@ -36,10 +36,10 @@
 	<Game id="SMNE90" en="Legend Of Custom Levels" zhcn="Legend Of Custom Levels"/>
 	<Game id="RLDPFK" en="Legend Of The Dragon" zhcn="龙的传说(欧)"/>
 	<Game id="RSZPGT" en="Legend of Sayuki" zhcn="雪女大旋风纱雪小雪的惊奇大骚动(欧)"/>
-	<Game id="RO8E7D" en="Legend of Spyro: Dawn of the Dragon" zhcn="斯派罗传说 龙之黎明(美)" path="donel\斯派罗传说 龙之黎明(美) [RO8E7D]"/>
-	<Game id="RO7E7D" en="Legend of Spyro: The Eternal Night" zhcn="斯派罗传说 永夜(美)" path="donel\斯派罗传说 永夜(美) [RO7E7D]"/>
-	<Game id="RLDEGY" en="Legend of the Dragon" zhcn="龙的传说(美)" path="donel\龙的传说(美) [RLDEGY]"/>
-	<Game id="R9GEWR" en="Legend of the Guardians: The Owls of Ga'Hoole" zhcn="猫头鹰家族守卫者(美)" path="donel\猫头鹰家族守卫者(美) [R9GEWR]"/>
+	<Game id="RO8E7D" en="Legend of Spyro: Dawn of the Dragon" zhcn="斯派罗传说 龙之黎明(美)" collection="donel"/>
+	<Game id="RO7E7D" en="Legend of Spyro: The Eternal Night" zhcn="斯派罗传说 永夜(美)" collection="donel"/>
+	<Game id="RLDEGY" en="Legend of the Dragon" zhcn="龙的传说(美)" collection="donel"/>
+	<Game id="R9GEWR" en="Legend of the Guardians: The Owls of Ga'Hoole" zhcn="猫头鹰家族守卫者(美)" collection="donel"/>
 	<Game id="R9GPWR" en="Legend of the Guardians: The Owls of Ga'Hoole" zhcn="猫头鹰家族守卫者(欧)"/>
 	<Game id="SMNP45" en="Lemmy's Winter Palace" zhcn="Lemmy's Winter Palace"/>
 	<Game id="SMNJ45" en="Lemmy's Winter Palace" zhcn="Lemmy's Winter Palace"/>
@@ -48,12 +48,12 @@
 	<Game id="SD5PTV" en="Lernerfolg Grundschule: Deutsch - Klasse 1-4" zhcn="小学学习检测 德语(欧)"/>
 	<Game id="SD6PTV" en="Lernerfolg Grundschule: Englisch - Klasse 1-4" zhcn="小学学习检测 英语1-4年级(欧)"/>
 	<Game id="SD7PTV" en="Lernerfolg Grundschule: Mathematik - Klasse 1-4" zhcn="小学学习检测 数学(欧)"/>
-	<Game id="SLDEYG" en="Let's Dance" zhcn="一起跳舞(美)" path="done3\一起跳舞(美) [SLDEYG]"/>
+	<Game id="SLDEYG" en="Let's Dance" zhcn="一起跳舞(美)" collection="done3"/>
 	<Game id="SLDPLG" en="Let's Dance with Mel B" zhcn="跟Mel B一起跳舞(欧)"/>
 	<Game id="SPUE20" en="Let's Paint" zhcn="一起绘画(美)" collection="儿童游戏"/>
 	<Game id="RR3PA4" en="Let's Party!" zhcn="一起派对(欧)"/>
 	<Game id="SBREJJ" en="Let's Play Ballerina" zhcn="一起跳芭蕾(美)" collection="平衡板游戏"/>
-	<Game id="SGDEJJ" en="Let's Play Garden" zhcn="花园一起玩(美)" path="donel\花园一起玩(美) [SGDEJJ]"/>
+	<Game id="SGDEJJ" en="Let's Play Garden" zhcn="花园一起玩(美)" collection="donel"/>
 	<Game id="SLFPKM" en="Let's Sing" zhcn="Let's Sing"/>
 	<Game id="S34SKM" en="Let's Sing 10" zhcn="Let's Sing 10"/>
 	<Game id="S7KPKM" en="Let's Sing 2014" zhcn="Let's Sing 2014"/>
@@ -76,9 +76,9 @@
 	<Game id="S7LPKM" en="Let's Sing @ Radio Italia" zhcn="Let's Sing @ Radio Italia"/>
 	<Game id="R2UJ8P" en="Let's Tap" zhcn="一起来拍打(日或中)" collection="中文游戏"/>
 	<Game id="R2UP8P" en="Let's Tap" zhcn="一起来敲打(欧)"/>
-	<Game id="R2UE8P" en="Let's Tap" zhcn="一起来敲打(美)" path="donel\一起来敲打(美) [R2UE8P]"/>
+	<Game id="R2UE8P" en="Let's Tap" zhcn="一起来敲打(美)" collection="3"/>
 	<Game id="SLKPKM" en="Let’s Sing 2016 : Hits Français" zhcn="Let’s Sing 2016 : Hits Français"/>
-	<Game id="RLJEHJ" en="Line Rider 2: Unbound" zhcn="线条滑雪2(美)" path="donel\线条滑雪2(美) [RLJEHJ]"/>
+	<Game id="RLJEHJ" en="Line Rider 2: Unbound" zhcn="线条滑雪2(美)" collection="donel"/>
 	<Game id="RLJPKM" en="Line Rider Freestyle" zhcn="线条滑雪2(欧)"/>
 	<Game id="RZPJ01" en="Link no Bowgun Training" zhcn="林克的十字弓练习(日或中)" collection="加速器游戏"/>
 	<Game id="RZPE01" en="Link's Crossbow Training" zhcn="林克的弓箭训练(美)"/>
@@ -87,23 +87,23 @@
 	<Game id="RO3P99" en="Little King's Story" zhcn="小国王物语(欧)"/>
 	<Game id="RO3EXJ" en="Little King's Story" zhcn="小国王物语(美)" collection="RPG游戏"/>
 	<Game id="RLHP52" en="Little League World Series Baseball 2008" zhcn="小联盟世界锦标赛2008(欧)"/>
-	<Game id="RLHE52" en="Little League World Series Baseball 2008" zhcn="小联盟世界锦标赛2008(美)" path="donel\小联盟世界锦标赛2008(美) [RLHE52]"/>
-	<Game id="R7RE52" en="Little League World Series Baseball 2009" zhcn="小联盟世界锦标赛2009(美)" path="donel\小联盟世界锦标赛2009(美) [R7RE52]"/>
-	<Game id="SLIE52" en="Little League World Series Baseball: Double Play" zhcn="小联盟棒球 二合一(美)" path="donel\小联盟棒球 二合一(美) [SLIE52]"/>
+	<Game id="RLHE52" en="Little League World Series Baseball 2008" zhcn="小联盟世界锦标赛2008(美)" collection="donel"/>
+	<Game id="R7RE52" en="Little League World Series Baseball 2009" zhcn="小联盟世界锦标赛2009(美)" collection="donel"/>
+	<Game id="SLIE52" en="Little League World Series Baseball: Double Play" zhcn="小联盟棒球 二合一(美)" collection="donel"/>
 	<Game id="RLPP69" en="Littlest Pet Shop" zhcn="小小宠物店(欧)"/>
-	<Game id="RLPE69" en="Littlest Pet Shop" zhcn="小小宠物店(美)" path="donel\小小宠物店(美) [RLPE69]"/>
+	<Game id="RLPE69" en="Littlest Pet Shop" zhcn="小小宠物店(美)" collection="donel"/>
 	<Game id="RL7P69" en="Littlest Pet Shop: Friends" zhcn="小小宠物店 朋友(欧)"/>
-	<Game id="RL7E69" en="Littlest Pet Shop: Friends" zhcn="小小宠物店 朋友(美)" path="donel\小小宠物店 朋友(美) [RL7E69]"/>
-	<Game id="RLTXUG" en="London Taxi: Rush Hour" zhcn="伦敦出租车 高峰时间(X)" path="donel\伦敦出租车 高峰时间 [RLTXUG]"/>
+	<Game id="RL7E69" en="Littlest Pet Shop: Friends" zhcn="小小宠物店 朋友(美)" collection="donel"/>
+	<Game id="RLTXUG" en="London Taxi: Rush Hour" zhcn="伦敦出租车 高峰时间(X)" collection="donel"/>
 	<Game id="RLTENR" en="London Taxi: Rush Hour" zhcn="伦敦出租车 高峰时间(美)"/>
 	<Game id="RLYPWR" en="Looney Tunes: Acme Arsenal" zhcn="华纳群星总动员 超级兵工厂(欧)"/>
-	<Game id="RLYEWR" en="Looney Tunes: Acme Arsenal" zhcn="华纳群星总动员 超级兵工厂(美)" path="donel\华纳群星总动员 超级兵工厂(美) [RLYEWR]"/>
+	<Game id="RLYEWR" en="Looney Tunes: Acme Arsenal" zhcn="华纳群星总动员 超级兵工厂(美)" collection="donel"/>
 	<Game id="SL4PAF" en="Los 40 Principales Karaoke Party" zhcn="Los 40 Principales Karaoke Party"/>
 	<Game id="SLMPWL" en="Los 40 Principales Karaoke Party Vol. 2" zhcn="Los 40 Principales Karaoke Party Vol. 2"/>
 	<Game id="DDWX18" en="Lost In Shadow - Best Buy (Demo)" zhcn="Lost In Shadow - Best Buy (Demo)"/>
 	<Game id="RKZPA4" en="Lost in Blue: Shipwrecked" zhcn="迷失蔚蓝Wii(欧)"/>
 	<Game id="RKZEA4" en="Lost in Blue: Shipwrecked" zhcn="迷失蔚蓝Wii(美)"/>
-	<Game id="SDWE18" en="Lost in Shadow" zhcn="黑影之塔(美)" path="donel\黑影之塔(美) [SDWE18]"/>
+	<Game id="SDWE18" en="Lost in Shadow" zhcn="黑影之塔(美)" collection="donel"/>
 	<Game id="DDWE18" en="Lost in Shadow - Press Disc (Demo)" zhcn="黑影之塔 试玩版(美)"/>
 	<Game id="RLCP7J" en="Love is... in bloom" zhcn="爱如鲜花盛开(欧)"/>
 	<Game id="SLLEWW" en="Lucha Libre AAA: Héroes del Ring" zhcn="Lucha Libre AAA: Héroes del Ring"/>
@@ -120,7 +120,7 @@
 	<Game id="RMCJL1" en="Luma's CT Pack" zhcn="Luma's CT Pack"/>
 	<Game id="RMCPL1" en="Luma's CT Pack" zhcn="Luma's CT Pack"/>
 	<Game id="RSPE05" en="Luna's Wii Sports" zhcn="Luna's Wii Sports"/>
-	<Game id="RL3EMJ" en="Luxor 3" zhcn="金字塔祖玛 3(美)" path="donel\金字塔祖玛 3(美) [RL3EMJ]"/>
-	<Game id="RLXEMJ" en="Luxor: Pharaoh's Challenge" zhcn="埃及祖玛 法老王的挑战(美)" path="donel\埃及祖玛 法老王的挑战(美) [RLXEMJ]"/>
+	<Game id="RL3EMJ" en="Luxor 3" zhcn="金字塔祖玛 3(美)" collection="1"/>
+	<Game id="RLXEMJ" en="Luxor: Pharaoh's Challenge" zhcn="埃及祖玛 法老王的挑战(美)" collection="4"/>
 	<Game id="RLXP36" en="Luxor: Pharaoh's Challenge" zhcn="埃及祖玛 法老王的挑战(欧)"/>
 </Game-List>

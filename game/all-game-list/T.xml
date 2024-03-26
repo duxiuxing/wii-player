@@ -11,7 +11,7 @@
 	<Game id="RXKPGL" en="TV Show King Party" zhcn="电视秀之王聚会(欧)"/>
 	<Game id="STVDSV" en="TV Total Events" zhcn="电视总事件(德)"/>
 	<Game id="RQCJAF" en="Tabemon" zhcn="大胃王(日)"/>
-	<Game id="R4BPGT" en="Table Football" zhcn="桌面足球(欧)"/>
+	<Game id="R4BPGT" en="Table Football" zhcn="桌面足球(欧)" collection="5"/>
 	<Game id="R2JJAF" en="Taiko no Tatsujin Wii" zhcn="太鼓达人Wii(日)" collection="太鼓达人系列"/>
 	<Game id="S5KJAF" en="Taiko no Tatsujin Wii: Chou Goukaban" zhcn="太鼓达人Wii 超豪华版(日)" collection="太鼓达人系列"/>
 	<Game id="S2TJAF" en="Taiko no Tatsujin Wii: Dodoon to 2-daime!" zhcn="太鼓达人Wii 大张旗鼓！二代目(日)" collection="太鼓达人系列"/>
@@ -29,7 +29,7 @@
 	<Game id="RT4EAF" en="Tales of Symphonia: Dawn of the New World" zhcn="仙乐传说 拉塔托斯克的骑士(美)"/>
 	<Game id="RT4PAF" en="Tales of Symphonia: Dawn of the New World" zhcn="仙乐传说 拉塔托斯克的骑士(欧)"/>
 	<Game id="RT4EUD" en="Tales of Symphonia: Dawn of the New World Undub" zhcn="Tales of Symphonia: Dawn of the New World Undub"/>
-	<Game id="RT4JAF" en="Tales of Symphonia: Ratatosk no Kishi" zhcn="仙乐传说 拉塔托斯克的骑士(日)"/>
+	<Game id="RT4JAF" en="Tales of Symphonia: Ratatosk no Kishi" zhcn="仙乐传说 拉塔托斯克的骑士(日)" collection="3"/>
 	<Game id="RMMJ7U" en="Tama-run" zhcn="水银融化 革命(日)"/>
 	<Game id="RTTJAF" en="Tamagotchi no Furi Furi Kagekidan!" zhcn="电子鸡宠物店(日)"/>
 	<Game id="RDTJAF" en="Tamagotchi no Pika Pika Daitouryou!" zhcn="电子鸡宠物店(日)"/>
@@ -39,12 +39,12 @@
 	<Game id="SSQE04" en="Tanooki Mr. L Mail Shy Guy Mod" zhcn="Tanooki Mr. L Mail Shy Guy Mod"/>
 	<Game id="RGDEA4" en="Target: Terror" zhcn="恐怖行动(美)"/>
 	<Game id="R22J01" en="Tataite Hazumu: Super Smash Ball Plus" zhcn="弹球小精灵[MP](日)"/>
-	<Game id="RF7J08" en="Tatsunoko vs. Capcom: Cross Generation of Heroes" zhcn="龙之子对卡普空(日)" path="done4\龙之子对卡普空(日) [RF7J08]"/>
+	<Game id="RF7J08" en="Tatsunoko vs. Capcom: Cross Generation of Heroes" zhcn="龙之子对卡普空(日)" collection="1"/>
 	<Game id="STKJ08" en="Tatsunoko vs. Capcom: Ultimate All-Stars" zhcn="龙之子对卡普空 究极全明星(日)"/>
-	<Game id="STKE08" en="Tatsunoko vs. Capcom: Ultimate All-Stars" zhcn="龙之子对卡普空 究极全明星(美)" path="done2\龙之子对卡普空 究极全明星(美) [STKE08]"/>
+	<Game id="STKE08" en="Tatsunoko vs. Capcom: Ultimate All-Stars" zhcn="龙之子对卡普空 究极全明星(美)" collection="done2"/>
 	<Game id="STKP08" en="Tatsunoko vs. Capcom: Ultimate All-Stars" zhcn="龙之子对卡普空 究极全明星(欧)"/>
 	<Game id="R7ZE41" en="Team Elimination Games" zhcn="团体淘汰赛[平衡板](美)"/>
-	<Game id="SX7E52" en="Teenage Mutant Ninja Turtles" zhcn="忍者神龟(美)"/>
+	<Game id="SX7E52" en="Teenage Mutant Ninja Turtles" zhcn="忍者神龟(美)" collection="3"/>
 	<Game id="SX7P52" en="Teenage Mutant Ninja Turtles" zhcn="Teenage Mutant Ninja Turtles"/>
 	<Game id="R2TP41" en="Teenage Mutant Ninja Turtles: Smash-Up" zhcn="忍者神龟 毁灭[WiFi](欧)"/>
 	<Game id="R2TE41" en="Teenage Mutant Ninja Turtles: Smash-Up" zhcn="忍者神龟 毁灭[WiFi](美)"/>
@@ -60,37 +60,37 @@
 	<Game id="STEPTR" en="Tetris Party Deluxe" zhcn="俄罗斯方块派对 豪华版[WiFi][平衡板](欧)"/>
 	<Game id="STEJ18" en="Tetris Party Premium" zhcn="俄罗斯方块派对奖金(日或中)" collection="平衡板游戏"/>
 	<Game id="RXDD4Q" en="Th!nk Fast: The Ultimate Trivia Showdown" zhcn="灵机一动(德)"/>
-	<Game id="SP3E41" en="The $1,000,000 Pyramid" zhcn="百万美金金字塔(美)" path="done3\百万美金金字塔(美) [SP3E41]"/>
-	<Game id="STNE41" en="The Adventures of Tintin: The Game" zhcn="丁丁历险记 独角兽号的秘密(美)" path="done3\丁丁历险记 独角兽号的秘密(美) [STNE41]"/>
+	<Game id="SP3E41" en="The $1,000,000 Pyramid" zhcn="百万美金金字塔(美)" collection="done3"/>
+	<Game id="STNE41" en="The Adventures of Tintin: The Game" zhcn="丁丁历险记 独角兽号的秘密(美)" collection="done3"/>
 	<Game id="STNP41" en="The Adventures of Tintin: The Secret of the Unicorn" zhcn="丁丁历险记 独角兽号的秘密(欧)"/>
-	<Game id="SAGE41" en="The Amazing Race" zhcn="极速前进(美)" path="done3\极速前进(美) [SAGE41]"/>
-	<Game id="SAZE52" en="The Amazing Spider-Man" zhcn="蜘蛛人 惊奇再起(美)" path="done3\蜘蛛人 惊奇再起(美) [SAZE52]"/>
+	<Game id="SAGE41" en="The Amazing Race" zhcn="极速前进(美)" collection="done3"/>
+	<Game id="SAZE52" en="The Amazing Spider-Man" zhcn="蜘蛛人 惊奇再起(美)" collection="done3"/>
 	<Game id="SA8P52" en="The Amazing Spider-Man" zhcn="The Amazing Spider-Man"/>
 	<Game id="SAZP52" en="The Amazing Spider-Man" zhcn="蜘蛛人 惊奇再起(欧)"/>
-	<Game id="RI3E5D" en="The Ant Bully" zhcn="别惹蚂蚁(美)" path="done3\别惹蚂蚁(美) [RI3E5D]"/>
+	<Game id="RI3E5D" en="The Ant Bully" zhcn="别惹蚂蚁(美)" collection="done3"/>
 	<Game id="RI3P5D" en="The Ant Bully" zhcn="别惹蚂蚁(欧)"/>
-	<Game id="RBGE54" en="The BIGS" zhcn="大棒球联盟(美)" path="done3\大棒球联盟(美) [RBGE54]"/>
-	<Game id="RKVE54" en="The BIGS 2" zhcn="大棒球联盟2(美)" path="done3\大棒球联盟2(美) [RKVE54]"/>
-	<Game id="SBXEWR" en="The Bachelor: The Video Game" zhcn="亿万未婚夫(美)" path="done3\亿万未婚夫(美) [SBXEWR]"/>
+	<Game id="RBGE54" en="The BIGS" zhcn="大棒球联盟(美)" collection="done3"/>
+	<Game id="RKVE54" en="The BIGS 2" zhcn="大棒球联盟2(美)" collection="done3"/>
+	<Game id="SBXEWR" en="The Bachelor: The Video Game" zhcn="亿万未婚夫(美)" collection="done3"/>
 	<Game id="R9JP69" en="The Beatles: Rock Band" zhcn="甲壳虫 摇滚乐团[WiFi](欧)"/>
 	<Game id="R9JE69" en="The Beatles: Rock Band" zhcn="甲壳虫乐队 摇滚乐团(美)" collection="乐队游戏"/>
-	<Game id="RX6E78" en="The Biggest Loser" zhcn="减肥达人(美)" path="健身系列\减肥达人(美) [RX6E78]"/>
+	<Game id="RX6E78" en="The Biggest Loser" zhcn="减肥达人(美)" collection="2"/>
 	<Game id="RX6P78" en="The Biggest Loser" zhcn="减肥达人[平衡板](欧)"/>
 	<Game id="ST6E78" en="The Biggest Loser Challenge" zhcn="减肥达人挑战赛(美)" path="健身系列\减肥达人挑战赛(美) [ST6E78]"/>
 	<Game id="ST6P78" en="The Biggest Loser Challenge" zhcn="减肥达人挑战赛(欧)" path="健身系列\减肥达人挑战赛(欧) [ST6P78]"/>
 	<Game id="RBGP54" en="The Bigs" zhcn="职业棒球联赛(欧)"/>
 	<Game id="RKVP54" en="The Bigs 2: Baseball" zhcn="大棒球联盟2(欧)"/>
 	<Game id="SEPP41" en="The Black Eyed Peas Experience" zhcn="黑眼豆豆大体验(欧)"/>
-	<Game id="SEPE41" en="The Black Eyed Peas Experience" zhcn="黑眼豆豆大体验(美)" path="done3\黑眼豆豆大体验(美) [SEPE41]"/>
+	<Game id="SEPE41" en="The Black Eyed Peas Experience" zhcn="黑眼豆豆大体验(美)" collection="done3"/>
 	<Game id="SEPX41" en="The Black Eyed Peas Experience D1 Edition" zhcn="The Black Eyed Peas Experience D1 Edition"/>
-	<Game id="SEPZ41" en="The Black Eyed Peas Experience: Limited Edition" zhcn="黑眼豆豆大体验 特别版(美)" path="done3\黑眼豆豆大体验 特别版(美) [SEPZ41]"/>
+	<Game id="SEPZ41" en="The Black Eyed Peas Experience: Limited Edition" zhcn="黑眼豆豆大体验 特别版(美)" collection="done3"/>
 	<Game id="R8NEA4" en="The Cages: Pro Style Batting Practice" zhcn="专业击球练习场[MP](美)"/>
 	<Game id="RNNZ4Q" en="The Chronicles of Narnia: Prince Caspian" zhcn="纳尼亚传奇 凯斯宾王子(Z)"/>
 	<Game id="RNNY4Q" en="The Chronicles of Narnia: Prince Caspian" zhcn="纳尼亚传奇 凯斯宾王子(Y)"/>
 	<Game id="RNNP4Q" en="The Chronicles of Narnia: Prince Caspian" zhcn="纳尼亚传奇 凯斯宾王子(欧)"/>
 	<Game id="RNNE4Q" en="The Chronicles of Narnia: Prince Caspian" zhcn="纳尼亚传奇 凯斯宾王子(美)"/>
 	<Game id="RNNX4Q" en="The Chronicles of Narnia: Prince Caspian" zhcn="纳尼亚传奇 凯斯宾王子(X)"/>
-	<Game id="RCJE8P" en="The Conduit" zhcn="管道(美)" path="done2\管道(美) [RCJE8P]"/>
+	<Game id="RCJE8P" en="The Conduit" zhcn="管道(美)" collection="2"/>
 	<Game id="RCJP8P" en="The Conduit" zhcn="管道[WiFi](欧)"/>
 	<Game id="SVVEG9" en="The Croods: Prehistoric Party!" zhcn="疯狂原始人：史前派对(美)"/>
 	<Game id="SVVPAF" en="The Croods: Prehistoric Party!" zhcn="古魯家族(歐)"/>
@@ -100,7 +100,7 @@
 	<Game id="SDAE5G" en="The Daring Game for Girls" zhcn="女孩们的勇敢游戏(美)"/>
 	<Game id="RZRPGT" en="The Destiny of Zorro" zhcn="佐罗的宿命(欧)"/>
 	<Game id="RZREGT" en="The Destiny of Zorro" zhcn="佐罗的宿命(美)"/>
-	<Game id="RDIE41" en="The Dog Island" zhcn="宠物狗乐园(美)" path="done3\宠物狗乐园(美) [RDIE41]"/>
+	<Game id="RDIE41" en="The Dog Island" zhcn="宠物狗乐园(美)" collection="done3"/>
 	<Game id="RDIP41" en="The Dog Island" zhcn="宠物狗乐园(欧)"/>
 	<Game id="SMNPEF" en="The End for Newer Super Mario Bros. U" zhcn="The End for Newer Super Mario Bros. U"/>
 	<Game id="SODPYK" en="The Explorer and the Mystery of the Diamond Scarab" zhcn="The Explorer and the Mystery of the Diamond Scarab"/>
@@ -135,7 +135,7 @@
 	<Game id="SIFPNJ" en="The Island of Dr. Frankenstein" zhcn="弗兰克斯坦博士岛(欧)"/>
 	<Game id="SIFESZ" en="The Island of Dr. Frankenstein" zhcn="弗兰克斯坦博士岛(美)"/>
 	<Game id="RKFKZA" en="The King of Fighters Collection - The Orochi Saga" zhcn="格斗之王合辑 大蛇传说(韩)"/>
-	<Game id="RKFEH4" en="The King of Fighters Collection: The Orochi Saga" zhcn="格斗天王合辑 大蛇传说(美)" path="done2\格斗天王合辑 大蛇传说(美) [RKFEH4]"/>
+	<Game id="RKFEH4" en="The King of Fighters Collection: The Orochi Saga" zhcn="格斗天王合辑 大蛇传说(美)" collection="2"/>
 	<Game id="SP5E70" en="The Kore Gang: Outvasion From Inner Earth" zhcn="惡徒 來自地底的侵略者(美)"/>
 	<Game id="SP5PVV" en="The Kore Gang: Outvasion From Inner Earth" zhcn="恶徒 来自地底的侵略者(欧)"/>
 	<Game id="SLAP78" en="The Last Airbender" zhcn="最后的气宗(欧)"/>
@@ -143,7 +143,7 @@
 	<Game id="SLAX78" en="The Last Airbender: Special Edition" zhcn="The Last Airbender: Special Edition"/>
 	<Game id="SLAZ78" en="The Last Airbender: Toys R Us Special Edition" zhcn="最后的气宗 玩具反斗城版(美)"/>
 	<Game id="SLSJ01" en="The Last Story" zhcn="最后的故事(日)"/>
-	<Game id="SLSEXJ" en="The Last Story" zhcn="最后的故事"/>
+	<Game id="SLSEXJ" en="The Last Story" zhcn="最后的故事" collection="T"/>
 	<Game id="SLSP01" en="The Last Story" zhcn="最后的故事(日)"/>
 	<Game id="KLSEXJ" en="The Last Story (NTSC-U, Japanese Audio)" zhcn="The Last Story (NTSC-U, Japanese Audio)"/>
 	<Game id="RO8X7D" en="The Legend of Spyro: Dawn of the Dragon" zhcn="斯派罗传说 龙之黎明(X)"/>
@@ -188,7 +188,7 @@
 	<Game id="SMNJZP" en="The Pit of 100 Trials 1-20" zhcn="The Pit of 100 Trials 1-20"/>
 	<Game id="SMNEZP" en="The Pit of 100 Trials 1-20" zhcn="The Pit of 100 Trials 1-20"/>
 	<Game id="RRPE41" en="The Price Is Right" zhcn="正确定价(美)"/>
-	<Game id="SRVE41" en="The Price Is Right Decades" zhcn="价格是正确的(美)"/>
+	<Game id="SRVE41" en="The Price Is Right Decades" zhcn="价格是正确的(美)" collection="T"/>
 	<Game id="SPRE41" en="The Price Is Right: 2010 Edition" zhcn="正确定价 2010版(美)"/>
 	<Game id="RU5E4Q" en="The Princess and the Frog" zhcn="迪士尼公主和青蛙(美)"/>
 	<Game id="RU5Y4Q" en="The Princess and the Frog (Riverboat Jazz Edition)" zhcn="公主与青蛙(Y)"/>
@@ -202,7 +202,7 @@
 	<Game id="RSNE69" en="The Simpsons Game" zhcn="辛普森一家(美)"/>
 	<Game id="R42E69" en="The Sims 2: Castaway" zhcn="模拟人生2 生存游戏(美)"/>
 	<Game id="R42P69" en="The Sims 2: Castaway" zhcn="模拟人生2 生存游戏(欧)"/>
-	<Game id="R4PE69" en="The Sims 2: Pets" zhcn="模拟人生2 宠物(美)" path="done2\模拟人生2 宠物(美) [R4PE69]"/>
+	<Game id="R4PE69" en="The Sims 2: Pets" zhcn="模拟人生2 宠物(美)" collection="done2"/>
 	<Game id="R4PP69" en="The Sims 2: Pets" zhcn="模拟人生2 宠物(欧)"/>
 	<Game id="S3MP69" en="The Sims 3" zhcn="模拟人生3(欧)"/>
 	<Game id="S3ME69" en="The Sims 3" zhcn="模拟人生3(美)"/>
@@ -244,7 +244,7 @@
 	<Game id="ST4XNX" en="Thomas &amp; Friends: Hero of the Rails" zhcn="托马斯和伙伴们 铁路小英雄[MP](美)"/>
 	<Game id="ST4PNX" en="Thomas &amp; Friends: Hero of the Rails" zhcn="托马斯和伙伴们 铁路小英雄[MP](美)"/>
 	<Game id="RTVP64" en="Thrillville: Off The Rails" zhcn="主题公园 惊奇世界(欧)"/>
-	<Game id="RTVE64" en="Thrillville: Off the Rails" zhcn="主题公园 惊奇世界(美)"/>
+	<Game id="RTVE64" en="Thrillville: Off the Rails" zhcn="主题公园 惊奇世界(美)" collection="T"/>
 	<Game id="RT7E69" en="Tiger Woods PGA Tour 07" zhcn="泰格伍兹高尔夫巡回赛07(美)" collection="运动游戏"/>
 	<Game id="RT7F69" en="Tiger Woods PGA Tour 07" zhcn="泰格伍兹高尔夫巡回赛07(法)"/>
 	<Game id="RT7P69" en="Tiger Woods PGA Tour 07" zhcn="泰格伍兹高尔夫巡回赛07(欧)"/>
@@ -258,7 +258,7 @@
 	<Game id="R9TP69" en="Tiger Woods PGA Tour 09 All-Play" zhcn="泰格伍兹高尔夫巡回赛09[WiFi](欧)"/>
 	<Game id="R9OP69" en="Tiger Woods PGA Tour 10" zhcn="泰格伍兹高尔夫巡回赛10[MP][WiFi](欧)"/>
 	<Game id="R9OK69" en="Tiger Woods PGA Tour 10" zhcn="泰格伍兹高尔夫巡回赛10[MP][WiFi](韩)"/>
-	<Game id="R9OE69" en="Tiger Woods PGA Tour 10" zhcn="泰格伍兹高尔夫巡回赛10[MP][WiFi](美)"/>
+	<Game id="R9OE69" en="Tiger Woods PGA Tour 10" zhcn="泰格伍兹高尔夫巡回赛10[MP][WiFi](美)" collection="5"/>
 	<Game id="STWP69" en="Tiger Woods PGA Tour 11" zhcn="泰格伍兹高尔夫巡回赛11[MP][WiFi](欧)"/>
 	<Game id="STWE69" en="Tiger Woods PGA Tour 11" zhcn="泰格伍兹高尔夫巡回赛11[MP][WiFi](美)"/>
 	<Game id="STXE69" en="Tiger Woods PGA Tour 12: The Masters" zhcn="泰格伍兹高尔夫巡回赛12 大师(美)"/>
@@ -270,18 +270,18 @@
 	<Game id="R89JEL" en="Tokyo Friend Park II: Ketteiban: Minna de Chousen! Taikan Attraction!" zhcn="东京友好乐园2(日)"/>
 	<Game id="SGHE41" en="Tom Clancy's Ghost Recon" zhcn="汤姆克兰西 幽灵行动(美)" collection="汤姆克兰西系列"/>
 	<Game id="SGHP41" en="Tom Clancy's Ghost Recon" zhcn="汤姆克兰西 幽灵行动[WiFi](欧)"/>
-	<Game id="RTAE41" en="Tom Clancy's H.A.W.X. 2" zhcn="汤姆克兰西之鹰击长空2(美)"/>
+	<Game id="RTAE41" en="Tom Clancy's H.A.W.X. 2" zhcn="汤姆克兰西之鹰击长空2(美)" collection="T"/>
 	<Game id="RTAP41" en="Tom Clancy's H.A.W.X. 2" zhcn="汤姆克兰西 鹰击长空2(欧)" collection="汤姆克兰西系列"/>
 	<Game id="RTCP41" en="Tom Clancy's Splinter Cell: Double Agent" zhcn="分裂细胞 双重间谍(欧)"/>
 	<Game id="RTCE41" en="Tom Clancy's Splinter Cell: Double Agent" zhcn="分裂细胞 双重间谍(美)"/>
 	<Game id="RMCET0" en="TomB's CT Pack" zhcn="TomB's CT Pack"/>
-	<Game id="RLRE4F" en="Tomb Raider: Anniversary" zhcn="古墓丽影 十周年纪念版(美)" path="done2\古墓丽影 十周年纪念版(美) [RLRE4F]"/>
+	<Game id="RLRE4F" en="Tomb Raider: Anniversary" zhcn="古墓丽影 十周年纪念版(美)" collection="done2"/>
 	<Game id="RLRP4F" en="Tomb Raider: Anniversary" zhcn="古墓丽影 十周年纪念版(欧)"/>
 	<Game id="RH8P4F" en="Tomb Raider: Underworld" zhcn="古墓丽影 地下世界(欧)"/>
-	<Game id="RH8E4F" en="Tomb Raider: Underworld" zhcn="古墓丽影 地下世界(美)"/>
+	<Game id="RH8E4F" en="Tomb Raider: Underworld" zhcn="古墓丽影 地下世界(美)" collection="2"/>
 	<Game id="RH8JEL" en="Tomb Raider: Underworld" zhcn="古墓丽影 地下世界(日)"/>
 	<Game id="RTHP52" en="Tony Hawk's Downhill Jam" zhcn="托尼霍克滑板(欧)"/>
-	<Game id="RTHE52" en="Tony Hawk's Downhill Jam" zhcn="托尼霍克滑板 下坡.(美)" path="done4\托尼霍克滑板 下坡.(美) [RTHE52]"/>
+	<Game id="RTHE52" en="Tony Hawk's Downhill Jam" zhcn="托尼霍克滑板 下坡.(美)" collection="done4"/>
 	<Game id="RT9P52" en="Tony Hawk's Proving Ground" zhcn="托尼霍克滑板 练习场[WiFi](欧)"/>
 	<Game id="RT9E52" en="Tony Hawk's Proving Ground" zhcn="托尼霍克滑板 练习场[WiFi](美)"/>
 	<Game id="RX5P52" en="Tony Hawk: Ride" zhcn="托尼霍克 直立滑行(欧)"/>
@@ -307,7 +307,7 @@
 	<Game id="R8TENR" en="Tournament Pool" zhcn="台球巡回赛(美)"/>
 	<Game id="SGAE8P" en="Tournament of Legends" zhcn="剑斗士传奇(美)"/>
 	<Game id="SGAP8P" en="Tournament of Legends" zhcn="剑斗士传奇(欧)"/>
-	<Game id="RO4JDA" en="Toushinden" zhcn="斗真传(日)"/>
+	<Game id="RO4JDA" en="Toushinden" zhcn="斗真传(日)" collection="5"/>
 	<Game id="RMCETX" en="Toxic's Hide and Seek Pack" zhcn="Toxic's Hide and Seek Pack"/>
 	<Game id="RMCET2" en="Toxic's Texture and Music Pack" zhcn="Toxic's Texture and Music Pack"/>
 	<Game id="STSP4Q" en="Toy Story 3" zhcn="玩具总动员3(欧)"/>
@@ -317,17 +317,17 @@
 	<Game id="STSE4Q" en="Toy Story 3" zhcn="玩具总动员3(美)"/>
 	<Game id="STSZ4Q" en="Toy Story 3: Toy Box Special Edition" zhcn="玩具总动员3 玩具盒特别版(美)"/>
 	<Game id="R5IR4Q" en="Toy Story Mania!" zhcn="Toy Story Mania!"/>
-	<Game id="R5IE4Q" en="Toy Story Mania!" zhcn="玩具总动员(美)" path="done2\玩具总动员(美) [R5IE4Q]"/>
+	<Game id="R5IE4Q" en="Toy Story Mania!" zhcn="玩具总动员(美)" collection="done2"/>
 	<Game id="R5IX4Q" en="Toy Story Mania!" zhcn="玩具总动员(X)"/>
 	<Game id="R5IP4Q" en="Toy Story Mania!" zhcn="玩具总动员(欧)"/>
 	<Game id="R6RPHH" en="TrackMania" zhcn="赛道狂飙(欧)"/>
-	<Game id="R6REJH" en="TrackMania: Build to Race" zhcn="赛道狂飙 建设赛(美)" path="done2\赛道狂飙 建设赛(美) [R6REJH]"/>
+	<Game id="R6REJH" en="TrackMania: Build to Race" zhcn="赛道狂飙 建设赛(美)" collection="done2"/>
 	<Game id="RMGE07" en="Transformationless Mario Galaxy" zhcn="Transformationless Mario Galaxy"/>
 	<Game id="SB4E11" en="Transformationless Mario Galaxy 2" zhcn="Transformationless Mario Galaxy 2"/>
 	<Game id="STFP52" en="Transformers Prime: The Game" zhcn="变形金刚：领袖(欧)"/>
 	<Game id="ST5P52" en="Transformers: Cybertron Adventures" zhcn="变形金刚 赛博坦大战(欧)"/>
-	<Game id="ST5E52" en="Transformers: Cybertron Adventures" zhcn="变形金刚 塞伯坦冒险(美)" path="done3\变形金刚 塞伯坦冒险(美) [ST5E52]"/>
-	<Game id="STZE52" en="Transformers: Dark of the Moon - Stealth Force Edition" zhcn="变形金刚3 月黑之时(美)" path="done3\变形金刚3 月黑之时(美) [STZE52]"/>
+	<Game id="ST5E52" en="Transformers: Cybertron Adventures" zhcn="变形金刚 塞伯坦冒险(美)" collection="done3"/>
+	<Game id="STZE52" en="Transformers: Dark of the Moon - Stealth Force Edition" zhcn="变形金刚3 月黑之时(美)" collection="done3"/>
 	<Game id="STZP52" en="Transformers: Dark of the Moon - Stealth Force Edition" zhcn="变形金刚3(欧)"/>
 	<Game id="STFE52" en="Transformers: Prime" zhcn="变形金刚：领袖(美)"/>
 	<Game id="RXIP52" en="Transformers: Revenge of the Fallen" zhcn="变形金刚2 卷土重来[WiFi](欧)"/>
@@ -370,8 +370,8 @@
 	<Game id="SOSEG9" en="Turbo: Super Stunt Squad" zhcn="极速蜗牛 超级特技队(美)"/>
 	<Game id="SOSPAF" en="Turbo: Super Stunt Squad" zhcn="Turbo: Super Stunt Squad"/>
 	<Game id="ROTE20" en="Twin Strike: Operation Thunder" zhcn="双重打击 雷电行动(美)"/>
-	<Game id="ROTP7J" en="Twin Strike: Operation Thunder" zhcn="双重打击 雷电行动(欧)"/>
-	<Game id="S3RJMS" en="Twinkle Queen" zhcn="一闪女皇(日)"/>
+	<Game id="ROTP7J" en="Twin Strike: Operation Thunder" zhcn="双重打击 雷电行动(欧)" collection="5"/>
+	<Game id="S3RJMS" en="Twinkle Queen" zhcn="一闪女皇(日)" collection="T"/>
 	<Game id="RXVXWP" en="Télé 7 Jeux: Mots Croisés" zhcn="填字游戏(X)"/>
 	<Game id="RJ7FWP" en="Télé 7 Jeux: Mots Fléchés" zhcn="电视7游戏 法语填字游戏(法)"/>
 	<Game id="RJ9E5Z" en="thinkSMART Family" zhcn="智能家庭(美)"/>

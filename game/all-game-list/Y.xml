@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Game-List>
-	<Game id="RYXE20" en="Yamaha Supercross" zhcn="雅马哈超级摩托(美)"/>
+	<Game id="RYXE20" en="Yamaha Supercross" zhcn="雅马哈超级摩托(美)" collection="Y"/>
 	<Game id="RYXP7J" en="Yamaha Supercross" zhcn="雅马哈超级摩托(欧)"/>
 	<Game id="RYAJSC" en="Yatterman Wii (Simplified Chinese Translation)" zhcn="小双侠赛车 Wii 惊心动魄机器猛竞速"/>
 	<Game id="RYAJDA" en="Yatterman Wii: Bikkuri Dokkiri Machine de Mou Race da Koron" zhcn="小双侠Wii 惊心动魄机器猛竞速(日或中)" collection="中文游戏"/>
 	<Game id="RMCEY8" en="Yeet Kart Wii" zhcn="Yeet Kart Wii"/>
 	<Game id="SPYDSV" en="Yetisports: Penguin Party Island" zhcn="企鹅派对岛(德)"/>
-	<Game id="SEGE6U" en="Yoga" zhcn="瑜伽[平衡板](美)"/>
-	<Game id="SEGP6V" en="Yoga" zhcn="瑜伽(欧)" path="健身系列\瑜伽(欧) [SEGP6V]"/>
-	<Game id="SG8EG9" en="Yogi Bear" zhcn="瑜伽熊(美)"/>
+	<Game id="SEGE6U" en="Yoga" zhcn="瑜伽(美)" collection="平衡板游戏"/>
+	<Game id="SEGP6V" en="Yoga" zhcn="瑜伽(欧)" collection="3"/>
+	<Game id="SG8EG9" en="Yogi Bear" zhcn="瑜伽熊(美)" collection="Y"/>
 	<Game id="SG8PAF" en="Yogi Bear: The Video Game" zhcn="瑜珈熊(欧)"/>
 	<Game id="RMCEY9" en="Yosh's Track Pack" zhcn="Yosh's Track Pack"/>
 	<Game id="RMCEYT" en="Yosh's Track Pack DX" zhcn="Yosh's Track Pack DX"/>
@@ -20,12 +20,12 @@
 	<Game id="RMCPYC" en="Yoshi's Racing Resort Plus" zhcn="Yoshi's Racing Resort Plus"/>
 	<Game id="RMCPYP" en="Yoshi's Racing Resort Plus" zhcn="耀西赛车度假村Plus(欧)"/>
 	<Game id="RMCRYP" en="Yoshi's Racing Resort Plus" zhcn="Yoshi's Racing Resort Plus"/>
-	<Game id="SKJE78" en="You Don't Know Jack" zhcn="死亡医生(美)"/>
+	<Game id="SKJE78" en="You Don't Know Jack" zhcn="死亡医生(美)" collection="Y"/>
 	<Game id="SMNEYM" en="You Super Mario Bros. Me Summer Special" zhcn="You Super Mario Bros. Me Summer Special"/>
 	<Game id="SMNJYM" en="You Super Mario Bros. Me Summer Special" zhcn="You Super Mario Bros. Me Summer Special"/>
 	<Game id="SMNPYM" en="You Super Mario Bros. Me Summer Special" zhcn="You Super Mario Bros. Me Summer Special"/>
 	<Game id="RYRP41" en="Your Shape" zhcn="你的塑身(欧)"/>
-	<Game id="RYRE41" en="Your Shape" zhcn="你的塑身(美)"/>
+	<Game id="RYRE41" en="Your Shape" zhcn="你的塑身(美)" collection="3"/>
 	<Game id="R8DJA4" en="Yu-Gi-Oh! 5D's: Duel Transer" zhcn="游戏王5D's 决斗狂热者(日或中)" collection="中文游戏"/>
 	<Game id="R8DEA4" en="Yu-Gi-Oh! 5D's: Duel Transer" zhcn="游戏王5D's 决斗狂热者[WiFi](美)"/>
 	<Game id="R8DPA4" en="Yu-Gi-Oh! 5D's: Master of the Cards" zhcn="游戏王5D's 决斗狂热者[WiFi](欧)"/>

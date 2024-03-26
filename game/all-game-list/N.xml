@@ -1,106 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Game-List>
-	<Game id="SNSE52" en="NASCAR 2011: The Game" zhcn="云斯顿赛车 2011(美)" path="done2\云斯顿赛车 2011(美) [SNSE52]"/>
-	<Game id="R2NE69" en="NASCAR Kart Racing" zhcn="纳斯卡卡丁车赛(美)"/>
-	<Game id="SNPE52" en="NASCAR The Game: Inside Line" zhcn="NASCAR The Game: Inside Line"/>
-	<Game id="SNRE52" en="NASCAR Unleashed" zhcn="云斯顿赛车 快感释放(美)"/>
-	<Game id="R76E54" en="NBA 2K10" zhcn="NBA 2010[WiFi](美)"/>
+	<Game id="SNSE52" en="NASCAR 2011: The Game" zhcn="云斯顿赛车 2011(美)" collection="done2"/>
+	<Game id="R2NE69" en="NASCAR Kart Racing" zhcn="纳斯卡卡丁车赛(美)" collection="N"/>
+	<Game id="SNPE52" en="NASCAR The Game: Inside Line" zhcn="云斯顿赛车 内线(美)" collection="N"/>
+	<Game id="SNRE52" en="NASCAR Unleashed" zhcn="云斯顿赛车 快感释放(美)" collection="N"/>
+	<Game id="R76E54" en="NBA 2K10" zhcn="NBA 2010[WiFi](美)" collection="N"/>
 	<Game id="R76P54" en="NBA 2K10" zhcn="NBA 2010[WiFi](欧)"/>
 	<Game id="SB5P54" en="NBA 2K11" zhcn="NBA 2K11[WiFi](欧)"/>
-	<Game id="SB5E54" en="NBA 2K11" zhcn="NBA 2K11[WiFi](美)"/>
+	<Game id="SB5E54" en="NBA 2K11" zhcn="NBA 2K11[WiFi](美)" collection="N"/>
 	<Game id="S2QP54" en="NBA 2K12" zhcn="NBA 2K12(欧)"/>
-	<Game id="S2QE54" en="NBA 2K12" zhcn="NBA 2K12(美)"/>
+	<Game id="S2QE54" en="NBA 2K12" zhcn="NBA 2K12(美)" collection="N"/>
 	<Game id="SKSP54" en="NBA 2K13" zhcn="NBA 2K13"/>
 	<Game id="SKSE54" en="NBA 2K13" zhcn="NBA 2K13(美)" collection="运动游戏"/>
 	<Game id="SNJP69" en="NBA Jam" zhcn="NBA嘉年华(欧)"/>
 	<Game id="SNJE69" en="NBA Jam" zhcn="NBA嘉年华(美)" collection="运动游戏"/>
 	<Game id="RNBX69" en="NBA Live 08" zhcn="美国职业篮球2008[WiFi](X)"/>
-	<Game id="RNBE69" en="NBA Live 08" zhcn="美国职业篮球2008[WiFi](美)"/>
+	<Game id="RNBE69" en="NBA Live 08" zhcn="美国职业篮球2008[WiFi](美)" collection="N"/>
 	<Game id="RNBP69" en="NBA Live 08" zhcn="美国职业篮球2008[WiFi](欧)"/>
 	<Game id="RQ9S69" en="NBA Live 09 All-Play" zhcn="美国职业篮球2009[WiFi](西)"/>
 	<Game id="RQ9P69" en="NBA Live 09 All-Play" zhcn="美国职业篮球2009[WiFi](欧)"/>
 	<Game id="RQ9F69" en="NBA Live 09 All-Play" zhcn="美国职业篮球2009[WiFi](法)"/>
-	<Game id="RQ9E69" en="NBA Live 09 All-Play" zhcn="美国职业篮球2009[WiFi](美)"/>
-	<Game id="RNAE69" en="NCAA Football 09" zhcn="美国大学橄榄球2009(美)"/>
-	<Game id="SNBE41" en="NCIS: The Game" zhcn="重返犯罪现场 NCIS(美)"/>
-	<Game id="SNBP41" en="NCIS: The Game" zhcn="重返犯罪现场 NCIS(欧)" path="done2\重返犯罪现场 NCIS(欧) [SNBP41]"/>
+	<Game id="RQ9E69" en="NBA Live 09 All-Play" zhcn="美国职业篮球2009[WiFi](美)" collection="N"/>
+	<Game id="RNAE69" en="NCAA Football 09" zhcn="美国大学橄榄球2009(美)" collection="N"/>
+	<Game id="SNBE41" en="NCIS: The Game" zhcn="重返犯罪现场 NCIS(美)" collection="N"/>
+	<Game id="SNBP41" en="NCIS: The Game" zhcn="重返犯罪现场 NCIS(欧)" collection="done2"/>
 	<Game id="RNKE69" en="NERF N-Strike" zhcn="玩具枪大作战(美)" collection="光枪游戏"/>
 	<Game id="RNKP69" en="NERF N-Strike" zhcn="玩具枪大战(欧)"/>
 	<Game id="SN2E69" en="NERF N-Strike Double Blast Bundle" zhcn="玩具枪大作战 双重爆破合集(美)" collection="光枪游戏"/>
 	<Game id="RL6E69" en="NERF N-Strike Elite" zhcn="玩具枪大作战 精英(美)" collection="光枪游戏"/>
 	<Game id="RQIJ01" en="NHK Kouhaku Quiz Gassen" zhcn="NHK红白猜谜合战(日)"/>
-	<Game id="R7OE54" en="NHL 2K10" zhcn="北美冰球联盟2010[MP][WiFi](美)"/>
+	<Game id="R7OE54" en="NHL 2K10" zhcn="北美冰球联盟2010[MP][WiFi](美)" collection="N"/>
 	<Game id="R7OP54" en="NHL 2K10" zhcn="北美冰球联盟2010[MP][WiFi](欧)"/>
 	<Game id="SH3P54" en="NHL 2K11" zhcn="北美冰球联盟2011[MP][WiFi](欧)"/>
-	<Game id="SH3E54" en="NHL 2K11" zhcn="北美冰球联盟2011[MP][WiFi](美)"/>
-	<Game id="RNLE54" en="NHL 2K9" zhcn="北美冰球联盟2009[WiFi](美)"/>
+	<Game id="SH3E54" en="NHL 2K11" zhcn="北美冰球联盟2011[MP][WiFi](美)" collection="N"/>
+	<Game id="RNLE54" en="NHL 2K9" zhcn="北美冰球联盟2009[WiFi](美)" collection="N"/>
 	<Game id="RNLP54" en="NHL 2K9" zhcn="北美冰球联盟2009[WiFi](欧)"/>
-	<Game id="SHYE69" en="NHL SlapShot" zhcn="NHL冰球 强打(美)"/>
+	<Game id="SHYE69" en="NHL SlapShot" zhcn="NHL冰球 强打(美)" collection="N"/>
 	<Game id="SHYP69" en="NHL Slapshot" zhcn="NHL冰球 强打(欧)"/>
-	<Game id="R29E52" en="NPPL Championship Paintball 2009" zhcn="世界彩弹锦标赛2009(美)"/>
-	<Game id="SNMEAF" en="Namco Museum Megamix" zhcn="Namco博物馆 重制版(美)"/>
+	<Game id="R29E52" en="NPPL Championship Paintball 2009" zhcn="世界彩弹锦标赛2009(美)" collection="N"/>
+	<Game id="SNMEAF" en="Namco Museum Megamix" zhcn="Namco博物馆 重制版(美)" collection="N"/>
 	<Game id="RN2P70" en="Namco Museum Remix" zhcn="Namco博物馆重制版(欧)"/>
-	<Game id="RN2EAF" en="Namco Museum Remix" zhcn="Namco博物馆重制版(美)" path="done4\Namco博物馆重制版(美) [RN2EAF]"/>
+	<Game id="RN2EAF" en="Namco Museum Remix" zhcn="Namco博物馆重制版(美)" collection="4"/>
 	<Game id="RNWKAF" en="Namco Museum Remix" zhcn="Namco博物馆 重制版(韩)"/>
-	<Game id="RNUE8P" en="Nancy Drew: The White Wolf of Icicle Creek" zhcn="南茜朱儿 冰溪白狼(美)"/>
+	<Game id="RNUE8P" en="Nancy Drew: The White Wolf of Icicle Creek" zhcn="南茜朱儿 冰溪白狼(美)" collection="N"/>
 	<Game id="RNNJ4Q" en="Narnia Koku Monogatari: Dai-2 Shou: Caspian Ouji no Tsunobue" zhcn="纳尼亚传奇 凯斯宾王子(日)"/>
 	<Game id="G4NEDA" en="Naruto Gektiou Ninja Taisen! 4 [Eng]" zhcn="Naruto Gektiou Ninja Taisen! 4 [Eng]"/>
 	<Game id="RNEEDA" en="Naruto Shippuden: Clash of Ninja Revolution 3" zhcn="火影忍者疾风传 激斗忍者大战3(美)" collection="影视IP游戏 火影忍者系列"/>
 	<Game id="RNEPDA" en="Naruto Shippuden: Clash of Ninja Revolution 3" zhcn="火影忍者疾风传 激斗忍者大战 3[WiFi](欧)"/>
 	<Game id="RNEEUD" en="Naruto Shippuden: Clash of Ninja Revolution 3 Undub" zhcn="Naruto Shippuden: Clash of Ninja Revolution 3 Undub"/>
 	<Game id="SN4XGT" en="Naruto Shippuden: Dragon Blade Chronicles" zhcn="火影忍者疾风传 龙刃编年史(欧)"/>
-	<Game id="SN4EDA" en="Naruto Shippuden: Dragon Blade Chronicles" zhcn="火影忍者疾风传 龙刃编年史(美)"/>
+	<Game id="SN4EDA" en="Naruto Shippuden: Dragon Blade Chronicles" zhcn="火影忍者疾风传 龙刃编年史(美)" collection="N"/>
 	<Game id="RNXJDA" en="Naruto Shippuuden: Gekitou Ninja Taisen! EX" zhcn="火影忍者疾风传 激斗忍者大战EX(日)" collection="影视IP游戏 火影忍者系列"/>
 	<Game id="RNYJDA" en="Naruto Shippuuden: Gekitou Ninja Taisen! EX2" zhcn="火影忍者疾风传 激斗忍者大战EX2(日)" collection="影视IP游戏 火影忍者系列"/>
 	<Game id="RNEJDA" en="Naruto Shippuuden: Gekitou Ninja Taisen! EX3" zhcn="火影忍者疾风传 激斗忍者大战EX3(日)" collection="影视IP游戏 火影忍者系列"/>
 	<Game id="SNXJDA" en="Naruto Shippuuden: Gekitou Ninja Taisen! Special" zhcn="火影忍者疾风传 激斗忍者大战特别版(日)" collection="影视IP游戏 火影忍者系列"/>
 	<Game id="SN4JDA" en="Naruto Shippuuden: Ryuu Jin-ki" zhcn="火影忍者疾风传 龙刃编年史(日)" collection="影视IP游戏 火影忍者系列"/>
-	<Game id="RNXEDA" en="Naruto: Clash of Ninja Revolution" zhcn="火影忍者疾风传 激斗忍者大战(美)"/>
+	<Game id="RNXEDA" en="Naruto: Clash of Ninja Revolution" zhcn="火影忍者疾风传 激斗忍者大战(美)" collection="N"/>
 	<Game id="RNXPDA" en="Naruto: Clash of Ninja Revolution" zhcn="火影忍者疾风传 激斗忍者大战(欧)"/>
-	<Game id="RNYEDA" en="Naruto: Clash of Ninja Revolution 2" zhcn="火影忍者疾风传 激斗忍者大战 2(美)"/>
+	<Game id="RNYEDA" en="Naruto: Clash of Ninja Revolution 2" zhcn="火影忍者疾风传 激斗忍者大战 2(美)" collection="N"/>
 	<Game id="RNYPDA" en="Naruto: Clash of Ninja Revolution 2" zhcn="火影忍者疾风传 激斗忍者大战 2(欧)"/>
 	<Game id="SG4JDA" en="Naruto: Super Clash of Ninja 4" zhcn="Naruto: Super Clash of Ninja 4"/>
 	<Game id="SGEEG9" en="Nat Geo Challenge! Wild Life" zhcn="国家地理杂志问答 野生动物(美)"/>
 	<Game id="SGEPLG" en="Nat Geo Quiz! Wild Life" zhcn="国家地理杂志问答 野生动物(欧)"/>
-	<Game id="SNQE7U" en="National Geographic Challenge!" zhcn="国家地理大挑战(美)"/>
+	<Game id="SNQE7U" en="National Geographic Challenge!" zhcn="国家地理大挑战(美)" collection="N"/>
 	<Game id="SNQPLG" en="National Geographic Challenge!" zhcn="国家地理大挑战(欧)"/>
 	<Game id="RMCENH" en="Navi's HNS CT Pack" zhcn="Navi's HNS CT Pack"/>
 	<Game id="RN9JEL" en="Necro-Nesia" zhcn="巨虫魔岛(日)"/>
-	<Game id="RNSE69" en="Need for Speed Carbon" zhcn="极品飞车10卡本峡谷(美)"/>
+	<Game id="RNSE69" en="Need for Speed Carbon" zhcn="极品飞车 卡本峡谷(美)" collection="N"/>
 	<Game id="RNSF69" en="Need for Speed: Carbon" zhcn="极品飞车10卡本峡谷(法)"/>
 	<Game id="RNSJ13" en="Need for Speed: Carbon" zhcn="极品飞车10卡本峡谷(日)"/>
 	<Game id="RNSP69" en="Need for Speed: Carbon" zhcn="极品飞车10卡本峡谷(欧)"/>
 	<Game id="RNSD69" en="Need for Speed: Carbon" zhcn="极品飞车10卡本峡谷(德)"/>
 	<Game id="SNHP69" en="Need for Speed: Hot Pursuit" zhcn="极品飞车 热力追踪(欧)"/>
-	<Game id="SNHE69" en="Need for Speed: Hot Pursuit" zhcn="极品飞车 热力追踪(美)"/>
-	<Game id="SNHJ13" en="Need for Speed: Hot Pursuit" zhcn="极品飞车 热力追踪(日)" path="done2\极品飞车 热力追踪(日) [SNHJ13]"/>
-	<Game id="R7XE69" en="Need for Speed: Nitro" zhcn="极品飞车 氮气(美)" path="done2\极品飞车 氮气(美) [R7XE69]"/>
+	<Game id="SNHE69" en="Need for Speed: Hot Pursuit" zhcn="极品飞车 热力追踪(美)" collection="1"/>
+	<Game id="SNHJ13" en="Need for Speed: Hot Pursuit" zhcn="极品飞车 热力追踪(日)" collection="done2"/>
+	<Game id="R7XE69" en="Need for Speed: Nitro" zhcn="极品飞车 氮气(美)" collection="1"/>
 	<Game id="R7XJ13" en="Need for Speed: Nitro" zhcn="极品飞车 氮气(日)"/>
 	<Game id="R7XP69" en="Need for Speed: Nitro" zhcn="极品飞车 氮气(欧)"/>
-	<Game id="RNPE69" en="Need for Speed: ProStreet" zhcn="极品飞车 街头职业赛(美)" path="done3\极品飞车 街头职业赛(美) [RNPE69]"/>
+	<Game id="RNPE69" en="Need for Speed: ProStreet" zhcn="极品飞车 街头职业赛(美)" collection="done3"/>
 	<Game id="RNPJ13" en="Need for Speed: ProStreet" zhcn="极品飞车 街头职业赛(日)"/>
 	<Game id="RNPP69" en="Need for Speed: ProStreet" zhcn="极品飞车 街头职业赛(欧)"/>
 	<Game id="RNPX69" en="Need for Speed: ProStreet" zhcn="极品飞车 街头职业赛(X)"/>
 	<Game id="RNPY69" en="Need for Speed: ProStreet" zhcn="极品飞车 街头职业赛(Y)"/>
 	<Game id="RNPK69" en="Need for Speed: ProStreet" zhcn="极品飞车 街头职业赛(韩)"/>
 	<Game id="SNVP69" en="Need for Speed: The Run" zhcn="极速快感 亡命天涯(欧)"/>
-	<Game id="SNVJ13" en="Need for Speed: The Run" zhcn="极速快感 亡命天涯(日)" path="done2\极速快感 亡命天涯(日) [SNVJ13]"/>
-	<Game id="SNVE69" en="Need for Speed: The Run" zhcn="极速快感 亡命天涯(美)" path="done4\极速快感 亡命天涯(美) [SNVE69]"/>
+	<Game id="SNVJ13" en="Need for Speed: The Run" zhcn="极速快感 亡命天涯(日)" collection="done2"/>
+	<Game id="SNVE69" en="Need for Speed: The Run" zhcn="极速快感 亡命天涯(美)" collection="2"/>
 	<Game id="RX9K69" en="Need for Speed: Undercover" zhcn="极品飞车 卧底(韩)"/>
 	<Game id="RX9Y69" en="Need for Speed: Undercover" zhcn="极品飞车 卧底(Y)"/>
 	<Game id="RX9X69" en="Need for Speed: Undercover" zhcn="极品飞车 卧底(X)"/>
-	<Game id="RX9E69" en="Need for Speed: Undercover" zhcn="极品飞车 卧底(美)" path="done3\极品飞车 卧底(美) [RX9E69]"/>
+	<Game id="RX9E69" en="Need for Speed: Undercover" zhcn="极品飞车 卧底(美)" collection="done3"/>
 	<Game id="RX9J13" en="Need for Speed: Undercover" zhcn="极品飞车 卧底(日)"/>
 	<Game id="RX9P69" en="Need for Speed: Undercover" zhcn="极品飞车 卧底(欧)"/>
 	<Game id="RNGJ99" en="Negima! Neo-Pactio Fight!!" zhcn="魔法老师涅吉！？新契约大战！！(日)"/>
-	<Game id="RN7E78" en="Neighborhood Games" zhcn="邻居间的游戏(美)"/>
+	<Game id="RN7E78" en="Neighborhood Games" zhcn="邻居间的游戏(美)" collection="N"/>
 	<Game id="NMGE01" en="Neo Mario Galaxy" zhcn="Neo Mario Galaxy"/>
 	<Game id="SB4J02" en="Neo Mario Galaxy" zhcn="Neo Mario Galaxy"/>
 	<Game id="SB4E02" en="Neo Mario Galaxy" zhcn="Neo Mario Galaxy"/>
 	<Game id="NMGP01" en="Neo Mario Galaxy" zhcn="Neo Mario Galaxy"/>
 	<Game id="SB4P02" en="Neo Mario Galaxy" zhcn="Neo Mario Galaxy"/>
-	<Game id="R52P08" en="Neopets Puzzle Adventure" zhcn="尼奥宠物谜题大冒险(欧)" path="done2\尼奥宠物谜题大冒险(欧) [R52P08]"/>
-	<Game id="R52E08" en="Neopets Puzzle Adventure" zhcn="尼奥宠物谜题大冒险(美)"/>
+	<Game id="R52P08" en="Neopets Puzzle Adventure" zhcn="尼奥宠物谜题大冒险(欧)" collection="3"/>
+	<Game id="R52E08" en="Neopets Puzzle Adventure" zhcn="尼奥宠物谜题大冒险(美)" collection="N"/>
 	<Game id="RMCEBC" en="Neptune777 Forza MAX Broad Challenge" zhcn="Neptune777 Forza MAX Broad Challenge"/>
 	<Game id="RMCENG" en="Neptune777 Forza MAX New Generation" zhcn="Neptune777 Forza MAX New Generation"/>
 	<Game id="RMCENL" en="Neptune777 Forza MAX Next Layer" zhcn="Neptune777 Forza MAX Next Layer"/>
@@ -110,7 +110,7 @@
 	<Game id="RMCENQ" en="Nevesqq's Texture n' Music Pack" zhcn="Nevesqq's Texture n' Music Pack"/>
 	<Game id="RMCENA" en="New Adventure All-Stars" zhcn="New Adventure All-Stars"/>
 	<Game id="S2CP54" en="New Carnival Funfair Games" zhcn="新嘉年华游戏[MP](欧)"/>
-	<Game id="S2CE54" en="New Carnival Games" zhcn="新嘉年华游戏[MP](美)"/>
+	<Game id="S2CE54" en="New Carnival Games" zhcn="新嘉年华游戏[MP](美)" collection="N"/>
 	<Game id="RMCEM6" en="New Mario Kart Seven" zhcn="New Mario Kart Seven"/>
 	<Game id="RMCEG5" en="New Mario Kart Wii 64" zhcn="New Mario Kart Wii 64"/>
 	<Game id="RMCEM9" en="New Mario Kart: Double Dash!!" zhcn="New Mario Kart: Double Dash!!"/>
@@ -199,7 +199,7 @@
 	<Game id="UUUE01" en="New Super Mario Bros. Wii 19 Resurrection U" zhcn="New Super Mario Bros. Wii 19 Resurrection U"/>
 	<Game id="NSMB02" en="New Super Mario Bros. Wii 2" zhcn="New Super Mario Bros. Wii 2"/>
 	<Game id="PPNP01" en="New Super Mario Bros. Wii 2: The Next Levels" zhcn="自制 新超级马里奥兄弟Wii 2 下一阶段(欧)"/>
-	<Game id="PPNE01" en="New Super Mario Bros. Wii 2: The Next Levels" zhcn="新超级马里奥兄弟Wii2 下一阶段"/>
+	<Game id="PPNE01" en="New Super Mario Bros. Wii 2: The Next Levels" zhcn="新超级马里奥兄弟Wii2 下一阶段" collection="3"/>
 	<Game id="SMPP01" en="New Super Mario Bros. Wii 2: The Other P" zhcn="新超级马里奥兄弟Wii2 另一个P"/>
 	<Game id="SMNJ11" en="New Super Mario Bros. Wii 4" zhcn="New Super Mario Bros. Wii 4"/>
 	<Game id="SMNE11" en="New Super Mario Bros. Wii 4" zhcn="New Super Mario Bros. Wii 4"/>
@@ -240,7 +240,7 @@
 	<Game id="SMNE38" en="New Super Mario Bros. Wii Underground Maze" zhcn="New Super Mario Bros. Wii Underground Maze"/>
 	<Game id="SMNP38" en="New Super Mario Bros. Wii Underground Maze" zhcn="New Super Mario Bros. Wii Underground Maze"/>
 	<Game id="SMNEWI" en="New Super Mario Bros. Wii Winter Edition" zhcn="New Super Mario Bros. Wii Winter Edition"/>
-	<Game id="HBWE01" en="New Super Mario Bros. Wii: Hellboy Edition" zhcn="自制 超级马里奥兄弟Wii 地狱男爵版(美)"/>
+	<Game id="HBWE01" en="New Super Mario Bros. Wii: Hellboy Edition" zhcn="自制 超级马里奥兄弟Wii 地狱男爵版(美)" collection="N"/>
 	<Game id="SMNP14" en="New Super Mario Bros. Wii: Pain Coins" zhcn="New Super Mario Bros. Wii: Pain Coins"/>
 	<Game id="SMNE14" en="New Super Mario Bros. Wii: Pain Coins" zhcn="New Super Mario Bros. Wii: Pain Coins"/>
 	<Game id="SMNJ14" en="New Super Mario Bros. Wii: Pain Coins" zhcn="New Super Mario Bros. Wii: Pain Coins"/>
@@ -332,45 +332,45 @@
 	<Game id="SMNENT" en="Newest Super Mario Bros. Wii" zhcn="Newest Super Mario Bros. Wii"/>
 	<Game id="SMNE13" en="Newest Super Mario Bros. Wii" zhcn="Newest Super Mario Bros. Wii"/>
 	<Game id="R6HP54" en="Ni Hao, Kai-lan: Super Game Day" zhcn="你好，开兰 超级游戏日(欧)"/>
-	<Game id="R6HE54" en="Ni Hao, Kai-lan: Super Game Day" zhcn="你好，开兰 超级游戏日(美)"/>
+	<Game id="R6HE54" en="Ni Hao, Kai-lan: Super Game Day" zhcn="你好，开兰 超级游戏日(美)" collection="N"/>
 	<Game id="R7EJ8P" en="NiGHTS: Hoshi Furu Yoru no Monogatari" zhcn="梦精灵 星降夜物语[WiFi](日)"/>
-	<Game id="R7EE8P" en="NiGHTS: Journey of Dreams" zhcn="梦精灵 星降夜物语(美)" path="donem\梦精灵 星降夜物语(美) [R7EE8P]"/>
+	<Game id="R7EE8P" en="NiGHTS: Journey of Dreams" zhcn="梦精灵 星降夜物语(美)" collection="donem"/>
 	<Game id="R7EP8P" en="NiGHTS: Journey of Dreams" zhcn="梦精灵 星降夜物语[WiFi](欧)"/>
 	<Game id="SNLX54" en="Nickelodeon Dance" zhcn="尼克罗顿舞蹈(欧)" collection="影视IP游戏"/>
 	<Game id="SNLE54" en="Nickelodeon Dance" zhcn="尼克罗顿舞蹈(美)"/>
 	<Game id="SU2P54" en="Nickelodeon Dance 2" zhcn="尼克罗顿舞蹈2(欧)"/>
 	<Game id="SU2X54" en="Nickelodeon Dance 2" zhcn="尼克罗顿舞蹈2(欧)"/>
-	<Game id="SU2E54" en="Nickelodeon Dance 2" zhcn="尼克罗顿舞蹈2(美)"/>
+	<Game id="SU2E54" en="Nickelodeon Dance 2" zhcn="尼克罗顿舞蹈2(美)" collection="N"/>
 	<Game id="SNKX54" en="Nickelodeon Fit" zhcn="尼克罗顿健身[平衡板](欧)"/>
 	<Game id="SNKP54" en="Nickelodeon Fit" zhcn="尼克罗顿健身[平衡板](欧)"/>
 	<Game id="SN9E54" en="Nickelodeon Fit" zhcn="尼克罗顿健身(美)" collection="影视IP游戏"/>
 	<Game id="RQ4J78" en="Nickelodeon SpongeBob SquarePants" zhcn="棉球方块历险记(日)"/>
 	<Game id="RUSK78" en="Nickelodeon SpongeBob SquarePants featuring Nicktoons - Globs of Doom" zhcn="海绵宝宝历险记 致命水珠(韩)"/>
-	<Game id="SNIE54" en="Nicktoons MLB" zhcn="尼克卡通MLB(美)" path="done2\尼克卡通MLB(美) [SNIE54]"/>
+	<Game id="SNIE54" en="Nicktoons MLB" zhcn="尼克卡通MLB(美)" collection="done2"/>
 	<Game id="RN3X78" en="Nicktoons: Attack of the Toybots" zhcn="海绵宝宝 玩具机器人来袭(X)"/>
 	<Game id="RN3P78" en="Nicktoons: Attack of the Toybots" zhcn="海绵宝宝 玩具机器人来袭(欧)"/>
-	<Game id="RN3E78" en="Nicktoons: Attack of the Toybots" zhcn="海绵宝宝 玩具机器人来袭(美)"/>
-	<Game id="RU7E5G" en="Night at the Museum: Battle of the Smithsonian - The Video Game" zhcn="博物馆奇妙夜2 决战史密森尼(美)"/>
+	<Game id="RN3E78" en="Nicktoons: Attack of the Toybots" zhcn="海绵宝宝 玩具机器人来袭(美)" collection="N"/>
+	<Game id="RU7E5G" en="Night at the Museum: Battle of the Smithsonian - The Video Game" zhcn="博物馆奇妙夜2 决战史密森尼(美)" collection="N"/>
 	<Game id="RU7X5G" en="Night at the Museum: Battle of the Smithsonian - The Video Game" zhcn="博物馆奇妙夜2 决战史密森尼(X)"/>
 	<Game id="R8NJG0" en="Nihon Yakyuu Kikou Shounin - Batting Revolution" zhcn="日本棒球机构承认 击球革命[MP](日)"/>
 	<Game id="RY7PHZ" en="Ninja Captains" zhcn="忍者首领(欧)"/>
 	<Game id="RNZJ13" en="Ninja Reflex" zhcn="忍者反应(日)"/>
-	<Game id="RNZE69" en="Ninja Reflex" zhcn="忍者反应(美)"/>
+	<Game id="RNZE69" en="Ninja Reflex" zhcn="忍者反应(美)" collection="3"/>
 	<Game id="RNZK69" en="Ninja Reflex" zhcn="忍者反应(韩)"/>
 	<Game id="RNZP69" en="Ninja Reflex" zhcn="忍者反应(欧)"/>
 	<Game id="RNMXUG" en="Ninjabread Man" zhcn="面包忍者(X)"/>
-	<Game id="RNME5Z" en="Ninjabread Man" zhcn="面包忍者(美)"/>
-	<Game id="RNMPUG" en="Ninjabread Man" zhcn="面包忍者(欧)"/>
+	<Game id="RNME5Z" en="Ninjabread Man" zhcn="面包忍者(美)" collection="N"/>
+	<Game id="RNMPUG" en="Ninjabread Man" zhcn="面包忍者(欧)" collection="5"/>
 	<Game id="RMCEN2" en="Nintendo Remasters" zhcn="Nintendo Remasters"/>
-	<Game id="RNRE41" en="Nitro Bike" zhcn="火爆机车[WiFi](美)"/>
+	<Game id="RNRE41" en="Nitro Bike" zhcn="火爆机车[WiFi](美)" collection="N"/>
 	<Game id="RNRP41" en="Nitro Bike" zhcn="火爆机车[WiFi](欧)"/>
 	<Game id="RMCEN8" en="Nitro CT Pack" zhcn="Nitro CT Pack"/>
 	<Game id="RNRJ41" en="Nitrobike" zhcn="火爆机车[WiFi](日)"/>
 	<Game id="RNHP99" en="No More Heroes" zhcn="英雄不再(欧)"/>
 	<Game id="RNHK8M" en="No More Heroes" zhcn="英雄不再(韩)"/>
-	<Game id="RNHJ99" en="No More Heroes" zhcn="英雄不再(日)"/>
-	<Game id="RNHE41" en="No More Heroes" zhcn="英雄不再(美)"/>
-	<Game id="RUYE41" en="No More Heroes 2: Desperate Struggle" zhcn="英雄不再2 垂死挣扎(美)" path="done5\英雄不再2 垂死挣扎(美) [RUYE41]"/>
+	<Game id="RNHJ99" en="No More Heroes" zhcn="英雄不再(日)" collection="3"/>
+	<Game id="RNHE41" en="No More Heroes" zhcn="英雄不再(美)" collection="N"/>
+	<Game id="RUYE41" en="No More Heroes 2: Desperate Struggle" zhcn="英雄不再2 垂死挣扎(美)" collection="3"/>
 	<Game id="RUYJ99" en="No More Heroes 2: Desperate Struggle" zhcn="英雄不再2：垂死挣扎(日)"/>
 	<Game id="RUYP99" en="No More Heroes 2: Desperate Struggle" zhcn="英雄不再2 垂死挣扎(欧)"/>
 	<Game id="RN8JC8" en="Nobunaga no Yabou Kakushin with Power-Up Kit" zhcn="信长的野望·革新 威力加强版(日)"/>
@@ -378,8 +378,8 @@
 	<Game id="SMNEN2" en="Normal Super Mario Bros. Wii" zhcn="Normal Super Mario Bros. Wii"/>
 	<Game id="SNEPXT" en="North American Hunting 2: Extravaganza" zhcn="北美狩猎盛典2(欧)"/>
 	<Game id="RN6P7J" en="North American Hunting Extravaganza" zhcn="北美狩猎盛典(欧)"/>
-	<Game id="RN6ENR" en="North American Hunting Extravaganza" zhcn="北美狩猎盛典(美)"/>
-	<Game id="SNEENR" en="North American Hunting Extravaganza 2" zhcn="北美狩猎盛典2(美)"/>
+	<Game id="RN6ENR" en="North American Hunting Extravaganza" zhcn="北美狩猎盛典(美)" collection="N"/>
+	<Game id="SNEENR" en="North American Hunting Extravaganza 2" zhcn="北美狩猎盛典2(美)" collection="N"/>
 	<Game id="SNOPY1" en="Now! That's What I Call Music: Dance &amp; Sing" zhcn="Now! That's What I Call Music: Dance &amp; Sing"/>
 	<Game id="RC3J41" en="Nyanko to Mahou no Boushi" zhcn="模拟宠物猫2(日)"/>
 </Game-List>

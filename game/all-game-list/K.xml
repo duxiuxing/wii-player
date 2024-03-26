@@ -2,13 +2,13 @@
 <Game-List>
 	<Game id="SK6KJD" en="K-Pop Dance Festival" zhcn="舞动韩流(韩)" path="舞力全开衍生系列和其他\舞动韩流(韩) [SK6KJD]"/>
 	<Game id="SKLDSV" en="K11 - Kommissare im Einsatz" zhcn="K11 专员行动(欧)"/>
-	<Game id="SDWJ18" en="Kage no Tou" zhcn="黑影之塔(日)"/>
+	<Game id="SDWJ18" en="Kage no Tou" zhcn="黑影之塔(日)" collection="1"/>
 	<Game id="KMGE01" en="Kaizo Mario Galaxy" zhcn="Kaizo Mario Galaxy"/>
 	<Game id="S7CJAF" en="Kamen Rider Climax Heroes Fourze" zhcn="假面骑士 巅峰英雄 Fourze(日)"/>
 	<Game id="SCMJAF" en="Kamen Rider Climax Heroes OOO" zhcn="假面骑士 巅峰英雄欧兹(日)"/>
-	<Game id="SKMJAF" en="Kamen Rider Climax Heroes W" zhcn="假面骑士 巅峰英雄W(日)" path="done4\假面骑士 巅峰英雄W(日) [SKMJAF]"/>
-	<Game id="SKREG9" en="Kamen Rider Dragon Knight" zhcn="假面骑士 龙骑士(美)" path="donek\假面骑士 龙骑士(美) [SKREG9]"/>
-	<Game id="SKHJAF" en="Kamen Rider Super Climax Heroes" zhcn="假面骑士 超巅峰英雄(日)" path="done4\假面骑士 超巅峰英雄(日) [SKHJAF]"/>
+	<Game id="SKMJAF" en="Kamen Rider Climax Heroes W" zhcn="假面骑士 巅峰英雄W(日)" collection="done4"/>
+	<Game id="SKREG9" en="Kamen Rider Dragon Knight" zhcn="假面骑士 龙骑士(美)" collection="donek"/>
+	<Game id="SKHJAF" en="Kamen Rider Super Climax Heroes" zhcn="假面骑士 超巅峰英雄(日)" collection="done4"/>
 	<Game id="SOKEA4" en="Karaoke Joysound" zhcn="卡拉OK 欢乐之声(美)" collection="卡拉OK游戏"/>
 	<Game id="ROKJ18" en="Karaoke Joysound Wii" zhcn="卡拉OK 欢乐之声Wii(日)"/>
 	<Game id="SOKJ18" en="Karaoke Joysound Wii DX" zhcn="卡拉OK 欢乐之声Wii DX(日)"/>
@@ -25,19 +25,19 @@
 	<Game id="SKOEA4" en="Karaoke Revolution Glee Volume 3" zhcn="卡拉OK革命 欢乐合唱团3(美)" collection="卡拉OK游戏"/>
 	<Game id="RIEEA4" en="Karaoke Revolution Presents: American Idol Encore" zhcn="卡拉OK革命 美国偶像 再次演唱(美)" collection="卡拉OK游戏"/>
 	<Game id="RIFEA4" en="Karaoke Revolution Presents: American Idol Encore 2" zhcn="卡拉OK革命 美国偶像 再次演唱2(美)" collection="卡拉OK游戏"/>
-	<Game id="RIIEQH" en="Kart Racer" zhcn="卡丁赛车手(美)" path="donek\卡丁赛车手(美) [RIIEQH]"/>
+	<Game id="RIIEQH" en="Kart Racer" zhcn="卡丁赛车手(美)" collection="donek"/>
 	<Game id="RIIPNG" en="Kart Racer" zhcn="卡丁赛车手(欧)"/>
 	<Game id="RXXJ4Q" en="Kaseki Monster: Spectrobes" zhcn="化石超进化 起源(日)"/>
 	<Game id="RHRJ99" en="Katekyoo Hitman Reborn! Dream Hyper Battle! Wii" zhcn="家庭教师REBORN 超梦幻决胜(日或中)" collection="中文游戏"/>
 	<Game id="RE8J99" en="Katekyoo Hitman Reborn! Kindan no Yami no Delta" zhcn="家庭教师 禁断的暗之三角[WiFi](日)"/>
-	<Game id="RJSENR" en="Kawasaki Jet Ski" zhcn="川崎水上摩托(美)" path="donek\川崎水上摩托(美) [RJSENR]"/>
+	<Game id="RJSENR" en="Kawasaki Jet Ski" zhcn="川崎水上摩托(美)" collection="donek"/>
 	<Game id="RJSPUG" en="Kawasaki Jet Ski" zhcn="川崎水上摩托(欧)"/>
-	<Game id="RJSXUG" en="Kawasaki Jet Ski" zhcn="川崎水上摩托(X)"/>
+	<Game id="RJSXUG" en="Kawasaki Jet Ski" zhcn="川崎水上摩托(X)" collection="2"/>
 	<Game id="RQBPUG" en="Kawasaki Quad Bikes" zhcn="川崎4X4沙滩车(欧)"/>
 	<Game id="RQBXUG" en="Kawasaki Quad Bikes" zhcn="川崎4X4沙滩车(X)"/>
-	<Game id="RQBENR" en="Kawasaki Quad Bikes" zhcn="川崎4X4沙滩车(美)" path="donek\川崎4X4沙滩车(美) [RQBENR]"/>
+	<Game id="RQBENR" en="Kawasaki Quad Bikes" zhcn="川崎4X4沙滩车(美)" collection="donek"/>
 	<Game id="RWBXUG" en="Kawasaki Snow Mobiles" zhcn="川崎雪橇(X)"/>
-	<Game id="RWBENR" en="Kawasaki Snowmobiles" zhcn="川崎雪橇(美)" path="donek\川崎雪橇(美) [RWBENR]"/>
+	<Game id="RWBENR" en="Kawasaki Snowmobiles" zhcn="川崎雪橇(美)" collection="donek"/>
 	<Game id="R96JAF" en="Kaze no Klonoa Door to Phantomile" zhcn="风之克罗诺亚 通向幻界之门(日或中)" collection="中文游戏"/>
 	<Game id="RK5J01" en="Keito no Kirby" zhcn="星之卡比 毛线传说(日)"/>
 	<Game id="RK4JAF" en="Kekkaishi: Kokubourou no Kage" zhcn="结界师 黑芒楼之影(日)"/>
@@ -45,7 +45,7 @@
 	<Game id="SSTEG9" en="Kid Adventures: Sky Captain" zhcn="小子历险记 天空上尉(美)" collection="儿童游戏"/>
 	<Game id="SJFE4Z" en="Kid Fit Island Resort" zhcn="儿童健身岛度假村(美)" collection="儿童游戏"/>
 	<Game id="RPAF70" en="Kid Paddle: Lost in the Game" zhcn="船桨男孩 迷失(法)"/>
-	<Game id="R79JAF" en="Kidou Senshi Gundam: MS Sensen 0079" zhcn="机动战士高达 MS战线0079(日)" path="done3\机动战士高达 MS战线0079(日) [R79JAF]"/>
+	<Game id="R79JAF" en="Kidou Senshi Gundam: MS Sensen 0079" zhcn="机动战士高达 MS战线0079(日)" collection="done3"/>
 	<Game id="SKBEG9" en="Kidz Bop Dance Party!" zhcn="儿童舞蹈派对(美)" collection="儿童游戏"/>
 	<Game id="RKSENR" en="Kidz Sports: Basketball" zhcn="儿童篮球(美)" collection="儿童游戏"/>
 	<Game id="RKSPUG" en="Kidz Sports: Basketball" zhcn="儿童篮球赛(欧)"/>
@@ -59,7 +59,7 @@
 	<Game id="RKTENR" en="Kidz Sports: International Soccer" zhcn="儿童足球(美)" collection="儿童游戏"/>
 	<Game id="ST3J01" en="Kiki Trick" zhcn="听力大考验(日)"/>
 	<Game id="RMCEK3" en="King Toad's Epic Music and Texture Pack" zhcn="King Toad's Epic Music and Texture Pack"/>
-	<Game id="R6VE4Z" en="King of Clubs" zhcn="俱乐部之王(美)" path="donek\俱乐部之王(美) [R6VE4Z]"/>
+	<Game id="R6VE4Z" en="King of Clubs" zhcn="俱乐部之王(美)" collection="donek"/>
 	<Game id="R6VPGN" en="King of Clubs" zhcn="俱乐部之王(欧)"/>
 	<Game id="RKFP7U" en="King of Fighters Collection: The Orochi Saga" zhcn="格斗之王合辑 大蛇传说(欧)"/>
 	<Game id="RL9PHZ" en="King of Pool" zhcn="台球天王(欧)" collection="运动游戏"/>
@@ -83,7 +83,7 @@
 	<Game id="RCPP18" en="Kororinpa" zhcn="穿越迷路(欧)"/>
 	<Game id="DK6J18" en="Kororinpa 2 (Demo)" zhcn="穿越迷路2 试玩版[平衡板][WiFi](日)"/>
 	<Game id="RK6J18" en="Kororinpa 2: Anthony to Kin'iro Himawari no Tane" zhcn="穿越迷路2[平衡板][WiFi](日)"/>
-	<Game id="RCPE18" en="Kororinpa: Marble Mania" zhcn="穿越迷路(美)" path="donek\穿越迷路(美) [RCPE18]"/>
+	<Game id="RCPE18" en="Kororinpa: Marble Mania" zhcn="穿越迷路(美)" collection="donek"/>
 	<Game id="R5MJAF" en="Kotoba no Puzzle Mojipittan Wii Deluxe" zhcn="语言解谜 文字拼词Wii豪华版(日)"/>
 	<Game id="RMCEKK" en="Krash Kart Wii" zhcn="Krash Kart Wii"/>
 	<Game id="RMCEKB" en="Krash&amp;Burn's Other Texture Pack" zhcn="Krash&amp;Burn's Other Texture Pack"/>

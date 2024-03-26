@@ -2,10 +2,10 @@
 <Game-List>
 	<Game id="RMCES0" en="$uicideboy$ Texture &amp; Music Pack" zhcn="$uicideboy$ Texture &amp; Music Pack"/>
 	<Game id="RJ2JGD" en="007: Nagusame no Houshuu" zhcn="詹姆斯邦德007 量子危机[WiFi](日)"/>
-	<Game id="RJ2E52" en="007: Quantum of Solace" zhcn="詹姆斯邦德007 量子危机(美)" path="done3\詹姆斯邦德007 量子危机(美) [RJ2E52]"/>
+	<Game id="RJ2E52" en="007: Quantum of Solace" zhcn="詹姆斯邦德007 量子危机(美)" collection="done3"/>
 	<Game id="RJ2P52" en="007: Quantum of Solace" zhcn="詹姆斯邦德007 量子危机[WiFi](欧)"/>
 	<Game id="RMCEK1" en="1-Lap Kart Wii" zhcn="1-Lap Kart Wii"/>
-	<Game id="SM2E52" en="10 Minute Solution" zhcn="十分钟快速健身(美)" path="健身系列\十分钟快速健身(美) [SM2E52]"/>
+	<Game id="SM2E52" en="10 Minute Solution" zhcn="十分钟快速健身(美)" collection="3"/>
 	<Game id="SM2P52" en="10 Minute Solution" zhcn="十分钟快速健身(欧)"/>
 	<Game id="RMCE1C" en="100cc Pack" zhcn="100cc Pack"/>
 	<Game id="RYEEEB" en="101-in-1 Party Megamix" zhcn="101合1 聚会游戏大合集(美)" collection="家庭聚会游戏"/>
@@ -29,7 +29,7 @@
 	<Game id="SMNEYE" en="8Forrest's Super Mario Bros. Wii" zhcn="8Forrest's Super Mario Bros. Wii"/>
 	<Game id="SMNJYE" en="8Forrest's Super Mario Bros. Wii" zhcn="8Forrest's Super Mario Bros. Wii"/>
 	<Game id="SMNPYE" en="8Forrest's Super Mario Bros. Wii" zhcn="8Forrest's Super Mario Bros. Wii"/>
-	<Game id="ROWE08" en="Ōkami" zhcn="大神(美)"/>
+	<Game id="ROWE08" en="Ōkami" zhcn="大神(美)" collection="O"/>
 	<Game id="ROWJ08" en="Ōkami" zhcn="大神(日或中)" collection="中文游戏"/>
 	<Game id="ROWP08" en="Ōkami" zhcn="大神(欧)"/>
 </Game-List>
