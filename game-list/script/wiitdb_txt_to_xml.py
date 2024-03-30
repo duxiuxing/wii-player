@@ -8,13 +8,13 @@ from local_settings import LocalSettings
 from lxml import etree
 
 
-def save_id2name_dict_to_xml(id2name_dict, xml_file_path):
+def save_id2name_dict_to_xml(id2name_dict, title_attr_name, xml_file_path):
     game_list_elem = etree.Element("Game-List")
 
     for key, value in id2name_dict.items():
         attr_dict = {}
         attr_dict["id"] = key
-        attr_dict["title"] = value
+        attr_dict[title_attr_name] = value
 
         game_elem = etree.SubElement(game_list_elem, "Game", attr_dict)
 
@@ -23,7 +23,7 @@ def save_id2name_dict_to_xml(id2name_dict, xml_file_path):
               xml_declaration=True, pretty_print=True)
 
 
-def convert_txt_to_xml(txt_file_path):
+def convert_txt_to_xml(txt_file_path, title_attr_name):
     txt_file = open(txt_file_path, 'r', encoding="UTF-8")
 
     txt_line = txt_file.readline()
@@ -61,19 +61,19 @@ def convert_txt_to_xml(txt_file_path):
 
     wii_xml_file_path = txt_file_path.replace("wiitdb.", "wii.")
     wii_xml_file_path = wii_xml_file_path.replace(".txt", ".xml")
-    save_id2name_dict_to_xml(wii_id2name_dict, wii_xml_file_path)
+    save_id2name_dict_to_xml(wii_id2name_dict, title_attr_name, wii_xml_file_path)
     print(f"Total Wii games count: {len(wii_id2name_dict)}")
 
     wiiware_xml_file_path = txt_file_path.replace("wiitdb.", "wiiware.")
     wiiware_xml_file_path = wiiware_xml_file_path.replace(".txt", ".xml")
-    save_id2name_dict_to_xml(wiiware_id2name_dict, wiiware_xml_file_path)
+    save_id2name_dict_to_xml(wiiware_id2name_dict, title_attr_name, wiiware_xml_file_path)
     print(f"Total WiiWare games count: {len(wiiware_id2name_dict)}")
 
     ngc_xml_file_path = txt_file_path.replace("wiitdb.", "ngc.")
     ngc_xml_file_path = ngc_xml_file_path.replace(".txt", ".xml")
-    save_id2name_dict_to_xml(ngc_id2name_dict, ngc_xml_file_path)
+    save_id2name_dict_to_xml(ngc_id2name_dict, title_attr_name, ngc_xml_file_path)
     print(f"Total NGC games count: {len(ngc_id2name_dict)}")
 
 
-convert_txt_to_xml(LocalSettings.wiitdb_en_txt)
-convert_txt_to_xml(LocalSettings.wiitdb_zhcn_txt)
+convert_txt_to_xml(LocalSettings.wiitdb_en_txt, "en")
+convert_txt_to_xml(LocalSettings.wiitdb_zhcn_txt, "zhcn")

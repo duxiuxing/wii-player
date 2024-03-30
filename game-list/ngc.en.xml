@@ -1,1711 +1,1711 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Game-List>
-  <Game id="301E01" title="GameCube Service Disc"/>
-  <Game id="D23J01" title="Game Taikai Yuushou Kinen: Tokusei SmaBro DX Movie Disc"/>
-  <Game id="D24J01" title="SmaBro DX Event-you Disc"/>
-  <Game id="D28J01" title="Interactive Multi-Game Demo Disk - April 2002"/>
-  <Game id="D29J01" title="Gekkan Nintendo Tentou Demo 2002.5.1"/>
-  <Game id="D32J01" title="Gekkan Nintendo Tentou Demo 2002.6.1"/>
-  <Game id="D33J01" title="Gekkan Nintendo Tentou Demo 2002.7.1"/>
-  <Game id="D34J01" title="Gekkan Nintendo Tentou Demo 2002.7.10"/>
-  <Game id="D38J01" title="Gekkan Nintendo Tentou Demo 2002.9.1"/>
-  <Game id="D39J01" title="Gekkan Nintendo Tentou Demo 2002.10.1"/>
-  <Game id="D42J01" title="Gekkan Nintendo Tentou Demo 2002.11.1"/>
-  <Game id="D43E01" title="The Legend of Zelda: Ocarina of Time / Master Quest"/>
-  <Game id="D43J01" title="Zelda no Densetsu: Toki no Ocarina GC / Ura Zelda"/>
-  <Game id="D43P01" title="The Legend of Zelda: Ocarina of Time / Master Quest"/>
-  <Game id="D43U01" title="The Legend of Zelda: Ocarina of Time (Bonus Disc)"/>
-  <Game id="D43W01" title="The Legend of Zelda: Ocarina of Time / Master Quest"/>
-  <Game id="D44J01" title="Gekkan Nintendo Tentou Demo 2002.12.1"/>
-  <Game id="D46J01" title="Gekkan Nintendo Tentou Demo 2003.1.1"/>
-  <Game id="D47J01" title="Gekkan Nintendo Tentou Demo 2003.2.1"/>
-  <Game id="D48J01" title="Gekkan Nintendo Tentou Demo 2003.3.1"/>
-  <Game id="D49J01" title="Gekkan Nintendo Tentou Demo 2003.4.1"/>
-  <Game id="D4BE08" title="Resident Evil 4: Preview Disc"/>
-  <Game id="D4BP01" title="Resident Evil 4: Bonus Disc"/>
-  <Game id="D4BU01" title="Resident Evil 4: Bonus Disc"/>
-  <Game id="D52J01" title="Gekkan Nintendo Tentou Demo 2003.5.1"/>
-  <Game id="D53J01" title="Monthly Nintendo Shop Demo - May 2003"/>
-  <Game id="D54J01" title="Gekkan Nintendo Tentou Demo 2003.6.1"/>
-  <Game id="D55J01" title="Interactive Disc Catalog Summer 2003"/>
-  <Game id="D56E01" title="Interactive Multi-Game Demo Disc - Version 35"/>
-  <Game id="D56J01" title="Pokémon Channel (Bonus Disc)"/>
-  <Game id="D57E01" title="Interactive Multi-Game Demo Disc - Version 34"/>
-  <Game id="D58E01" title="Interactive Multi-Game Demo Disc - Version 33"/>
-  <Game id="D59E01" title="Interactive Multi-Game Demo Disc - Version 32"/>
-  <Game id="D59J01" title="Gekkan Nintendo Tentou Demo 2003.7.1"/>
-  <Game id="D62E01" title="Interactive Multi-Game Demo Disc - Version 31"/>
-  <Game id="D62J01" title="Gekkan Nintendo Tentou Demo 2003.8.1"/>
-  <Game id="D63E01" title="Interactive Multi-Game Demo Disc - Version 30"/>
-  <Game id="D64E01" title="Interactive Multi-Game Demo Disc - Version 29"/>
-  <Game id="D64J01" title="Gekkan Nintendo Tentou Demo 2003.10.1"/>
-  <Game id="D65E01" title="Interactive Multi-Game Demo Disc - Version 28"/>
-  <Game id="D65J01" title="Gekkan Nintendo Tentou Demo 2003.11.1"/>
-  <Game id="D66E01" title="Interactive Multi-Game Demo Disc - Version 27"/>
-  <Game id="D66JAF" title="Baten Kaitos: Eternal Wings and the Lost Ocean - Special Experience Disc"/>
-  <Game id="D67E01" title="Interactive Multi-Game Demo Disc - Version 26"/>
-  <Game id="D67J01" title="Gekkan Nintendo Tentou Demo 2003.12.1"/>
-  <Game id="D68E01" title="Interactive Multi-Game Demo Disc - Version 25"/>
-  <Game id="D68J01" title="Gekkan Nintendo Tentou Demo 2004.1.1"/>
-  <Game id="D69E01" title="Interactive Multi-Game Demo Disc - Version 24"/>
-  <Game id="D72E01" title="Interactive Multi-Game Demo Disc - Version 23"/>
-  <Game id="D73E01" title="Interactive Multi-Game Demo Disc - Version 22"/>
-  <Game id="D73J01" title="Gekkan Nintendo Tentou Demo 2004.2.1"/>
-  <Game id="D74E01" title="Interactive Multi-Game Demo Disc - Version 21"/>
-  <Game id="D75E01" title="Interactive Multi-Game Demo Disc - Version 20"/>
-  <Game id="D75J01" title="Gekkan Nintendo Tentou Demo 2004.3.1"/>
-  <Game id="D76E01" title="Interactive Multi-Game Demo Disc - Version 19"/>
-  <Game id="D77E01" title="Interactive Multi-Game Demo Disc - Version 18"/>
-  <Game id="D77J01" title="Gekkan Nintendo Tentou Demo 2004.4.1"/>
-  <Game id="D77P01" title="Interactive Multi-Game Demo Disc - April 2006"/>
-  <Game id="D78E01" title="Interactive Multi-Game Demo Disc - Version 17"/>
-  <Game id="D78J01" title="Gekkan Nintendo Tentou Demo 2004.5.1"/>
-  <Game id="D78P01" title="Interactive Multi-Game Demo Disc - October 2005"/>
-  <Game id="D79E01" title="Interactive Multi-Game Demo Disc - Version 16"/>
-  <Game id="D79J01" title="Gekkan Nintendo Tentou Demo 2004.6.1"/>
-  <Game id="D79P01" title="Interactive Multi-Game Demo Disc - May 2005"/>
-  <Game id="D82E01" title="Interactive Multi-Game Demo Disc - Version 15"/>
-  <Game id="D82J01" title="Gekkan Nintendo Tentou Demo 2004.7.1"/>
-  <Game id="D82P01" title="Interactive Multi-Game Demo Disc - April 2005"/>
-  <Game id="D83E01" title="Interactive Multi-Game Demo Disc - Version 14"/>
-  <Game id="D83P01" title="Interactive Multi-Game Demo Disc - February 2005"/>
-  <Game id="D84E01" title="Interactive Multi-Game Demo Disc - Version 13"/>
-  <Game id="D84J01" title="Gekkan Nintendo Tentou Demo 2004.8.1"/>
-  <Game id="D84P01" title="Interactive Multi-Game Demo Disc - November 2004"/>
-  <Game id="D85E01" title="Interactive Multi-Game Demo Disc - Version 12"/>
-  <Game id="D85J01" title="Gekkan Nintendo Tentou Demo 2004.9.1"/>
-  <Game id="D85P01" title="Interactive Multi-Game Demo Disc - July 2004"/>
-  <Game id="D86E01" title="Interactive Multi-Game Demo Disc - Version 11"/>
-  <Game id="D86J01" title="Gekkan Nintendo Tentou Demo 2004.10.1"/>
-  <Game id="D86P01" title="Interactive Multi-Game Demo Disc - May 2004"/>
-  <Game id="D87E01" title="GameCube Preview Disc"/>
-  <Game id="D87J01" title="Gekkan Nintendo Tentou Demo 2004.11.1"/>
-  <Game id="D87P01" title="Interactive Multi-Game Demo Disc - March 2004"/>
-  <Game id="D88E01" title="Interactive Multi-Game Demo Disc - Version 10"/>
-  <Game id="D88J01" title="Gekkan Nintendo Tentou Demo 2004.12.1"/>
-  <Game id="D88P01" title="Interactive Multi-Game Demo Disc - November 2003"/>
-  <Game id="D89E01" title="Interactive Multi-Game Demo Disc - Version 9"/>
-  <Game id="D89J01" title="Club Nintendo Original e-Catalog 2004"/>
-  <Game id="D89P01" title="Interactive Multi-Game Demo Disc - September 2003"/>
-  <Game id="D92E01" title="Interactive Multi-Game Demo Disc - Version 8"/>
-  <Game id="D92J01" title="Gekkan Nintendo Tentou Demo 2004-2005 Nenmatsunenshi-gou"/>
-  <Game id="D92P01" title="Interactive Multi-Game Demo Disc - June 2003"/>
-  <Game id="D93E01" title="Interactive Multi-Game Demo Disc - Version 7"/>
-  <Game id="D93J01" title="Gekkan Nintendo Tentou Demo 2005.1.1"/>
-  <Game id="D93P01" title="Interactive Multi-Game Demo Disc - April 2003"/>
-  <Game id="D94J01" title="Gekkan Nintendo Tentou Demo 2005.2.1"/>
-  <Game id="D94P01" title="Interactive Multi-Game Demo Disc - February 2003"/>
-  <Game id="D95P01" title="Interactive Multi-Game Demo Disc - December 2002"/>
-  <Game id="D97J01" title="Gekkan Nintendo Tentou Demo 2005.5.1"/>
-  <Game id="DALJ01" title="Dairantou Smash Brothers DX (Demo)"/>
-  <Game id="DBIJ08" title="Biohazard - Movie Demo Disc"/>
-  <Game id="DBJJ08" title="Biohazard: Special Edition (Demo)"/>
-  <Game id="DBZJ08" title="Biohazard Zero: Trial Edition"/>
-  <Game id="DCEP41" title="Tom Clancy's Splinter Cell (Demo)"/>
-  <Game id="DEZP8P" title="Billy Hatcher and the Giant Egg (Demo)"/>
-  <Game id="DGAJB2" title="Kidou Senshi Gundam - Senshitachi no Kiseki Special Disc"/>
-  <Game id="DLSE64" title="Star Wars: Rogue Squadron III: Rebel Strike: Limited Edition Bonus Disc (Demo)"/>
-  <Game id="DLSP64" title="Star Wars: Rogue Squadron III: Rebel Strike: Limited Edition Bonus Disc (Demo)"/>
-  <Game id="DM2J8P" title="Super Monkey Ball 2 (Demo)"/>
-  <Game id="DNUEDA" title="Naruto Clash of Ninja 2 (Demo)"/>
-  <Game id="DPIJ01" title="Pikmin (Demo)"/>
-  <Game id="DPNP08" title="P.N.03 (Promo)"/>
-  <Game id="DPOJ8P" title="Phantasy Star Online Episode I &amp; II Trial Edition (Demo)"/>
-  <Game id="DPSJ8P" title="Phantasy Star Online Episode III: C.A.R.D. Revolution (Demo)"/>
-  <Game id="DR2JCQ" title="Rune II: Koruten no Kagi no Himitsu (Demo)"/>
-  <Game id="DRSEAF" title="Soulcalibur II (Demo)"/>
-  <Game id="DSWJ13" title="Star Wars: Rogue Squadron II (Demo)"/>
-  <Game id="DTLX01" title="Action Replay"/>
-  <Game id="DVJP08" title="Viewtiful Joe (Promotional demo)"/>
-  <Game id="E23J01" title="Gekkan Nintendo Tentou Demo 2005.9.1"/>
-  <Game id="E24J01" title="Gekkan Nintendo Tentou Demo 2005.10.1"/>
-  <Game id="E25J01" title="Gekkan Nintendo Tentou Demo 2005.11.1"/>
-  <Game id="E27J01" title="Gekkan Nintendo Tentou Demo 2006.1.1"/>
-  <Game id="E32J01" title="Gekkan Nintendo Tentou Demo 2006.4.1"/>
-  <Game id="E34J01" title="Gekkan Nintendo Tentou Demo 2006.6.1"/>
-  <Game id="E35J01" title="Gekkan Nintendo Tentou Demo 2006.7.1"/>
-  <Game id="E36J01" title="Gekkan Nintendo Tentou Demo 2006.8.1"/>
-  <Game id="E37J01" title="Gekkan Nintendo Tentou Demo 2006.9.1"/>
-  <Game id="G2BE5G" title="Black &amp; Bruised"/>
-  <Game id="G2BP7D" title="Black &amp; Bruised"/>
-  <Game id="G2CD52" title="True Crime: New York City"/>
-  <Game id="G2CE52" title="True Crime: New York City"/>
-  <Game id="G2CP52" title="True Crime: New York City"/>
-  <Game id="G2CX52" title="True Crime: New York City"/>
-  <Game id="G2DJB2" title="Digimon Battle Chronicle"/>
-  <Game id="G2FD78" title="Tak 2: The Staff of Dreams"/>
-  <Game id="G2FE78" title="Tak 2: The Staff of Dreams"/>
-  <Game id="G2FF78" title="Tak 2: The Staff of Dreams"/>
-  <Game id="G2FP78" title="Tak 2: The Staff of Dreams"/>
-  <Game id="G2GJB2" title="Mobile Suit Gundam: Gundam vs. Z Gundam"/>
-  <Game id="G2KE8P" title="NHL 2K3"/>
-  <Game id="G2KP8P" title="NHL 2K3"/>
-  <Game id="G2ME01" title="Metroid Prime 2: Echoes"/>
-  <Game id="G2MJ01" title="Metroid Prime 2: Dark Echoes"/>
-  <Game id="G2MP01" title="Metroid Prime 2: Echoes"/>
-  <Game id="G2NJ13" title="Need for Speed - Underground 2"/>
-  <Game id="G2OE41" title="Prince of Persia: Warrior Within"/>
-  <Game id="G2OP41" title="Prince of Persia: Warrior Within"/>
-  <Game id="G2PE6U" title="Spirits &amp; Spells"/>
-  <Game id="G2RE52" title="Shrek SuperSlam"/>
-  <Game id="G2SJGE" title="Shikigami no Shiro II"/>
-  <Game id="G2TE52" title="Tony Hawk's Underground 2"/>
-  <Game id="G2TP52" title="Tony Hawk's Underground 2"/>
-  <Game id="G2VE08" title="Viewtiful Joe 2"/>
-  <Game id="G2VJ08" title="Viewtiful Joe 2: Blackfilm no Nazo"/>
-  <Game id="G2VP08" title="Viewtiful Joe 2"/>
-  <Game id="G2XE8P" title="Sonic Gems Collection"/>
-  <Game id="G2XJ8P" title="Sonic Gems Collection"/>
-  <Game id="G2XP8P" title="Sonic Gems Collection"/>
-  <Game id="G3AD69" title="The Lord of the Rings: The Third Age"/>
-  <Game id="G3AE69" title="The Lord of the Rings: The Third Age"/>
-  <Game id="G3AF69" title="The Lord of the Rings: The Third Age"/>
-  <Game id="G3AJ13" title="Lord of the Rings - Nakatsu Kuni Daisanki"/>
-  <Game id="G3AP69" title="The Lord of the Rings: The Third Age"/>
-  <Game id="G3AS69" title="The Lord of the Rings: The Third Age"/>
-  <Game id="G3BE9G" title="Serious Sam: Next Encounter"/>
-  <Game id="G3BP9G" title="Serious Sam: Next Encounter"/>
-  <Game id="G3DE6L" title="Carmen Sandiego: The Secret of the Stolen Drums"/>
-  <Game id="G3DP6L" title="Carmen Sandiego: The Secret of the Stolen Drums"/>
-  <Game id="G3DX6L" title="Carmen Sandiego: The Secret of the Stolen Drums"/>
-  <Game id="G3EE51" title="XGIII: Extreme G Racing"/>
-  <Game id="G3EJB0" title="XGIII: Extreme G Racing"/>
-  <Game id="G3EP51" title="XGIII: Extreme G Racing"/>
-  <Game id="G3FD69" title="TimeSplitters: Future Perfect"/>
-  <Game id="G3FE69" title="TimeSplitters: Future Perfect"/>
-  <Game id="G3FF69" title="TimeSplitters: Future Perfect"/>
-  <Game id="G3FP69" title="TimeSplitters: Future Perfect"/>
-  <Game id="G3FS69" title="TimeSplitters: Future Perfect"/>
-  <Game id="G3JEAF" title="Curious George"/>
-  <Game id="G3LE8P" title="Super Monkey Ball Adventure"/>
-  <Game id="G3LP8P" title="Super Monkey Ball Adventure"/>
-  <Game id="G3ME41" title="Tom Clancy's The Sum of All Fears"/>
-  <Game id="G3MP41" title="The Sum of All Fears"/>
-  <Game id="G3NJDA" title="Naruto: Gekitô Ninja Taisen! 3"/>
-  <Game id="G3QEA4" title="Teenage Mutant Ninja Turtles 3: Mutant Nightmare"/>
-  <Game id="G3RD52" title="Shrek 2"/>
-  <Game id="G3RE52" title="Shrek 2"/>
-  <Game id="G3RF52" title="Shrek 2"/>
-  <Game id="G3RM52" title="Shrek 2"/>
-  <Game id="G3RP52" title="Shrek 2"/>
-  <Game id="G3SE41" title="Bust-A-Move 3000"/>
-  <Game id="G3SJC0" title="Super Puzzle Bobble All Stars"/>
-  <Game id="G3SWC0" title="Super Puzzle Bobble All Stars"/>
-  <Game id="G3TJ8P" title="Derby Tsuku 3: Derby Uma O Tsukurou!"/>
-  <Game id="G3VE69" title="NBA Street V3"/>
-  <Game id="G3VJ13" title="NBA Street V3 - Mario de Dunk"/>
-  <Game id="G3VP69" title="NBA Street V3"/>
-  <Game id="G3XE52" title="X-Men: The Official Game"/>
-  <Game id="G3XP52" title="X-Men: The Official Game"/>
-  <Game id="G3YP52" title="Shrek Super Slam"/>
-  <Game id="G3YX52" title="Shrek Super Slam"/>
-  <Game id="G3YY52" title="Shrek Super Slam"/>
-  <Game id="G4AEE9" title="Harvest Moon: Magical Melody"/>
-  <Game id="G4AJ99" title="Bokujou Monogatari - Shiawase no Uta"/>
-  <Game id="G4BD08" title="Resident Evil 4"/>
-  <Game id="G4BE08" title="Resident Evil 4"/>
-  <Game id="G4BJ08" title="Biohazard 4"/>
-  <Game id="G4BP08" title="Resident Evil 4"/>
-  <Game id="G4CE54" title="Charlie and the Chocolate Factory"/>
-  <Game id="G4CP54" title="Charlie and the Chocolate Factory"/>
-  <Game id="G4FD69" title="FIFA 07"/>
-  <Game id="G4FE69" title="FIFA Soccer 07"/>
-  <Game id="G4FF69" title="FIFA 07"/>
-  <Game id="G4FP69" title="FIFA 07"/>
-  <Game id="G4GEE9" title="Harvest Moon: Another Wonderful Life"/>
-  <Game id="G4GJ99" title="Bokujou Monogatari - Wonderful Life for Girls"/>
-  <Game id="G4IE52" title="Shrek Smash n' Crash Racing"/>
-  <Game id="G4IP52" title="Shrek Smash n' Crash Racing"/>
-  <Game id="G4ME69" title="The Sims Bustin' Out"/>
-  <Game id="G4MP69" title="The Sims: Bustin' Out"/>
-  <Game id="G4NJDA" title="Naruto: Gekitô Ninja Taisen! 4"/>
-  <Game id="G4OE69" title="The Sims 2: Pets"/>
-  <Game id="G4OP69" title="The Sims 2: Pets"/>
-  <Game id="G4PJ13" title="The Sims"/>
-  <Game id="G4QE01" title="Super Mario Strikers"/>
-  <Game id="G4QJ01" title="Super Mario Strikers"/>
-  <Game id="G4QP01" title="Mario Smash Football"/>
-  <Game id="G4SE01" title="The Legend of Zelda: Four Swords Adventures"/>
-  <Game id="G4SJ01" title="The Legend of Zelda: Four Swords +"/>
-  <Game id="G4SP01" title="The Legend of Zelda: Four Swords Adventures"/>
-  <Game id="G4WJ99" title="Bokujou Monogatari - Shiawase no Uta for World"/>
-  <Game id="G4ZE69" title="The Sims 2"/>
-  <Game id="G4ZP69" title="The Sims 2"/>
-  <Game id="G5BE4Z" title="Strike Force Bowling"/>
-  <Game id="G5DE78" title="Scooby-Doo! - Unmasked"/>
-  <Game id="G5DP78" title="Scooby-Doo! - Unmasked"/>
-  <Game id="G5NEAF" title="Namco Museum 50th Anniversary"/>
-  <Game id="G5NP69" title="Namco Museum 50th Anniversary"/>
-  <Game id="G5SE7D" title="Spyro: A Hero's Tail"/>
-  <Game id="G5SP7D" title="Spyro: A Hero's Tail"/>
-  <Game id="G5TE69" title="Tiger Woods PGA Tour 2005"/>
-  <Game id="G5TP69" title="Tiger Woods PGA Tour 2005"/>
-  <Game id="G62E54" title="Major League Baseball 2K6"/>
-  <Game id="G63E41" title="Tom Clancy's Rainbow Six 3"/>
-  <Game id="G63P41" title="Tom Clancy's Rainbow Six 3"/>
-  <Game id="G6FD69" title="2006 FIFA World Cup"/>
-  <Game id="G6FE69" title="2006 FIFA World Cup"/>
-  <Game id="G6FF69" title="2006 FIFA World Cup"/>
-  <Game id="G6FP69" title="2006 FIFA World Cup"/>
-  <Game id="G6ME69" title="Madden NFL 06"/>
-  <Game id="G6MP69" title="Madden NFL 06"/>
-  <Game id="G6NE69" title="NBA Live 06"/>
-  <Game id="G6NP69" title="NBA Live 06"/>
-  <Game id="G6QE08" title="Mega Man Anniversary Collection"/>
-  <Game id="G6SE7D" title="The Legend of Spyro: A New Beginning"/>
-  <Game id="G6SP7D" title="The Legend of Spyro: A New Beginning"/>
-  <Game id="G6TE5G" title="Teen Titans"/>
-  <Game id="G6TP78" title="Teen Titans"/>
-  <Game id="G6WE69" title="Tiger Woods PGA Tour 06"/>
-  <Game id="G6WP69" title="Tiger Woods PGA Tour 06"/>
-  <Game id="G7FE69" title="FIFA Soccer 07"/>
-  <Game id="G7ME69" title="Madden NFL 07"/>
-  <Game id="G89EAF" title="Pac-Man World Rally"/>
-  <Game id="G8FE8P" title="Virtua Quest"/>
-  <Game id="G8FJ8P" title="Virtua Fighter Cyber Generation"/>
-  <Game id="G8ME01" title="Paper Mario: The Thousand-Year Door"/>
-  <Game id="G8MJ01" title="Paper Mario RPG"/>
-  <Game id="G8MK01" title="Paper Mario RPG"/>
-  <Game id="G8MP01" title="Paper Mario: The Thousand-Year Door"/>
-  <Game id="G8OJ18" title="Bobobo-bo Bo-bobo Dassutsu! Hajike Royale"/>
-  <Game id="G8SJAF" title="Battle Stadium D.O.N"/>
-  <Game id="G8WE01" title="Battalion Wars"/>
-  <Game id="G8WJ01" title="Totsugeki!! Famicom Wars"/>
-  <Game id="G8WP01" title="Battalion Wars"/>
-  <Game id="G94E01" title="Interactive Multi-Game Demo Disc - August 2002"/>
-  <Game id="G95E01" title="Interactive Multi-Game Demo Disc - July 2002"/>
-  <Game id="G96E01" title="Interactive Multi-Game Demo Disc - June 2002"/>
-  <Game id="G96P01" title="Interactive Multi-Game Demo Disc - November 2002"/>
-  <Game id="G97E01" title="Interactive Multi-Game Demo Disc - March 2002"/>
-  <Game id="G97P01" title="Interactive Multi Game Demo Disc - September 2002"/>
-  <Game id="G97U01" title="Interactive Multi-Game Demo Disc - September 2002"/>
-  <Game id="G98E01" title="Interactive Multi-Game Demo Disc - January 2002"/>
-  <Game id="G98P01" title="Interactive Multi-Game Demo Disc - May 2002"/>
-  <Game id="G99E01" title="Interactive Multi-Game Demo Disc - October 2001"/>
-  <Game id="G99P01" title="Interactive Multi-Game Demo Disc - March 2002"/>
-  <Game id="G9BEE9" title="Mark Davis Pro Bass Challenge"/>
-  <Game id="G9KJCM" title="Jikkyou Powerful Pro Yakyuu 9 - Ketteiban"/>
-  <Game id="G9RD7D" title="Crash Tag Team Racing"/>
-  <Game id="G9RE7D" title="Crash Tag Team Racing"/>
-  <Game id="G9RF7D" title="Crash Tag Team Racing"/>
-  <Game id="G9RH7D" title="Crash Tag Team Racing"/>
-  <Game id="G9RJ7D" title="Crash Bandicoot Gacchanko World"/>
-  <Game id="G9RP7D" title="Crash Tag Team Racing"/>
-  <Game id="G9SE8P" title="Sonic Heroes"/>
-  <Game id="G9SJ8P" title="Sonic Heroes"/>
-  <Game id="G9SP8P" title="Sonic Heroes"/>
-  <Game id="G9TD52" title="Shark Tale"/>
-  <Game id="G9TE52" title="Shark Tale"/>
-  <Game id="G9TF52" title="Shark Tale"/>
-  <Game id="G9TI52" title="Shark Tale"/>
-  <Game id="G9TJC0" title="Shark Tale"/>
-  <Game id="G9TP52" title="Shark Tale"/>
-  <Game id="GA2E51" title="All-Star Baseball 2002"/>
-  <Game id="GA3E51" title="All-Star Baseball 2003"/>
-  <Game id="GA3J51" title="All-Star Baseball 2003"/>
-  <Game id="GA4E51" title="All-Star Baseball 2004"/>
-  <Game id="GA7E70" title="Backyard Sports Baseball 2007"/>
-  <Game id="GAAJ08" title="Disney's Mickey &amp; Minnie Trick &amp; Chase"/>
-  <Game id="GABEAF" title="Zatch Bell! Mamodo Fury"/>
-  <Game id="GABJB2" title="Konjiki no Gashbell!! Go! Go! Mamono Fight!!"/>
-  <Game id="GACE5H" title="Army Men: Air Combat The Elite Missions"/>
-  <Game id="GAEJ01" title="Doubutu no Mori e+"/>
-  <Game id="GAFE01" title="Animal Crossing"/>
-  <Game id="GAFJ01" title="Animal Forest +"/>
-  <Game id="GAFP01" title="Animal Crossing"/>
-  <Game id="GAFU01" title="Animal Crossing"/>
-  <Game id="GAGP70" title="Asterix &amp; Obelix XXL"/>
-  <Game id="GAHEGG" title="Alien Hominid"/>
-  <Game id="GAKE5D" title="Midway Arcade Treasures"/>
-  <Game id="GALE01" title="Super Smash Bros. Melee"/>
-  <Game id="GALJ01" title="Dairantou Smash Brothers DX"/>
-  <Game id="GALP01" title="Super Smash Bros. Melee"/>
-  <Game id="GAME5H" title="Army Men Sarge's War"/>
-  <Game id="GANE7U" title="Animaniacs: The Great Edgar Hunt"/>
-  <Game id="GANP7U" title="Animaniacs: The Great Edgar Hunt"/>
-  <Game id="GAPE52" title="American Chopper 2 - Full Throttle"/>
-  <Game id="GAQE6S" title="Aquaman: Battle of Atlantis"/>
-  <Game id="GARE5H" title="Army Men: RTS"/>
-  <Game id="GASJ8P" title="Sonic Adventure DX"/>
-  <Game id="GATE51" title="ATV Quad Power Racing 2"/>
-  <Game id="GATP51" title="ATV Quad Power Racing 2"/>
-  <Game id="GAUE08" title="Auto Modellista"/>
-  <Game id="GAUJ08" title="Auto Modellista: U.S.-tuned"/>
-  <Game id="GAVE78" title="Avatar The Last Airbender"/>
-  <Game id="GAVY78" title="Avatar: The Legend of Aang"/>
-  <Game id="GAXE5D" title="The Ant Bully"/>
-  <Game id="GAYE5D" title="Midway Arcade Treasures 2"/>
-  <Game id="GAZD69" title="Harry Potter and the Prisoner of Azkaban"/>
-  <Game id="GAZE69" title="Harry Potter and the Prisoner of Azkaban"/>
-  <Game id="GAZF69" title="Harry Potter and the Prisoner of Azkaban"/>
-  <Game id="GAZH69" title="Harry Potter and the Prisoner of Azkaban"/>
-  <Game id="GAZI69" title="Harry Potter and the Prisoner of Azkaban"/>
-  <Game id="GAZJ13" title="Harry Potter to Azkaban no Shuujin"/>
-  <Game id="GAZM69" title="Harry Potter and the Prisoner of Azkaban"/>
-  <Game id="GAZP69" title="Harry Potter and the Prisoner of Azkaban"/>
-  <Game id="GAZS69" title="Harry Potter and the Prisoner of Azkaban"/>
-  <Game id="GB2J18" title="Bomberman Land 2"/>
-  <Game id="GB3E51" title="BMX XXX"/>
-  <Game id="GB3P51" title="BMX XXX"/>
-  <Game id="GB4E51" title="Burnout 2: Point of Impact"/>
-  <Game id="GB4P51" title="Burnout 2: Point of Impact"/>
-  <Game id="GBAE8P" title="NBA 2K2"/>
-  <Game id="GBDE5G" title="BloodRayne"/>
-  <Game id="GBDF7D" title="BloodRayne"/>
-  <Game id="GBDP7D" title="BloodRayne"/>
-  <Game id="GBDS7D" title="BloodRayne"/>
-  <Game id="GBFE70" title="Backyard Football"/>
-  <Game id="GBGE5G" title="Bomberman Generation"/>
-  <Game id="GBGJ18" title="Bomberman Generation"/>
-  <Game id="GBGP7D" title="Bomberman Generation"/>
-  <Game id="GBHDC8" title="Mystic Heroes"/>
-  <Game id="GBHEC8" title="Mystic Heroes"/>
-  <Game id="GBHFC8" title="Mystic Heroes"/>
-  <Game id="GBHJC8" title="Battle Houshin"/>
-  <Game id="GBHPC8" title="Mystic Heroes"/>
-  <Game id="GBIE08" title="Resident Evil"/>
-  <Game id="GBIJ08" title="Biohazard"/>
-  <Game id="GBIP08" title="Resident Evil"/>
-  <Game id="GBKE70" title="Backyard Baseball"/>
-  <Game id="GBLE52" title="Bloody Roar: Primal Fury"/>
-  <Game id="GBLP52" title="Bloody Roar: Primal Fury"/>
-  <Game id="GBME7F" title="Batman: Dark Tomorrow"/>
-  <Game id="GBMJ28" title="Batman: Dark Tomorrow"/>
-  <Game id="GBMP7F" title="Batman: Dark Tomorrow"/>
-  <Game id="GBNJC0" title="Warrior Blade: Rastan vs. Barbarian"/>
-  <Game id="GBOE51" title="Burnout"/>
-  <Game id="GBOP51" title="Burnout"/>
-  <Game id="GBPJCM" title="The Baseball 2003 - Battle Ball Park Sengen Perfect Play Pro Yakyuu"/>
-  <Game id="GBQE78" title="Rocket Power: Beach Bandits"/>
-  <Game id="GBQP78" title="Rocket Power: Beach Bandits"/>
-  <Game id="GBRJ18" title="Bloody Roar Extreme"/>
-  <Game id="GBSE8P" title="Beach Spikers: Virtua Beach Volleyball"/>
-  <Game id="GBSJ8P" title="Beach Spikers: Virtua Beach Volleyball"/>
-  <Game id="GBSP8P" title="Beach Spikers: Virtua Beach Volleyball"/>
-  <Game id="GBTE70" title="Beyblade VForce - Super Tournament Battle"/>
-  <Game id="GBTJA7" title="Bakuten Shoot Beyblade 2002: Nettou! Magne Tag Battle"/>
-  <Game id="GBTP70" title="Beyblade VForce - Super Tournament Battle"/>
-  <Game id="GBVE41" title="Batman: Vengeance"/>
-  <Game id="GBVP41" title="Batman Vengeance"/>
-  <Game id="GBWD64" title="Star Wars: Bounty Hunter"/>
-  <Game id="GBWE64" title="Star Wars: Bounty Hunter"/>
-  <Game id="GBWF64" title="Star Wars: Bounty Hunter"/>
-  <Game id="GBWI64" title="Star Wars: Bounty Hunter"/>
-  <Game id="GBWP64" title="Star Wars Bounty Hunter"/>
-  <Game id="GBWS64" title="Star Wars: Bounty Hunter"/>
-  <Game id="GBXE51" title="Dave Mirra Freestyle BMX 2"/>
-  <Game id="GBXP51" title="Dave Mirra Freestyle BMX 2"/>
-  <Game id="GBYE0A" title="Super Bubble Pop"/>
-  <Game id="GBZE08" title="Resident Evil Zero"/>
-  <Game id="GBZJ08" title="Biohazard 0"/>
-  <Game id="GBZP08" title="Resident Evil Zero"/>
-  <Game id="GC2E9G" title="Conflict: Desert Storm II: Back to Baghdad"/>
-  <Game id="GC2P75" title="Conflict: Desert Storm II: Back to Baghdad"/>
-  <Game id="GC3D78" title="Scooby-Doo! Mystery Mayhem"/>
-  <Game id="GC3E78" title="Scooby-Doo!: Mystery Mayhem"/>
-  <Game id="GC3F78" title="Scooby-Doo! Mystery Mayhem"/>
-  <Game id="GC3P78" title="Scooby-Doo!: Mystery Mayhem"/>
-  <Game id="GC4JBN" title="Shinseiki GPX Cyber Formula Road To The EVOLUTION"/>
-  <Game id="GC5PNK" title="Cocoto: Kart Racer"/>
-  <Game id="GC6E01" title="Pokémon Colosseum"/>
-  <Game id="GC6J01" title="Pokémon Colosseum"/>
-  <Game id="GC6P01" title="Pokémon Colosseum"/>
-  <Game id="GC7PNK" title="Cocoto Platform Jumper"/>
-  <Game id="GC8JA4" title="Crash Bandicoot: Bakusou! Nitro Kart"/>
-  <Game id="GC9P6S" title="Conan"/>
-  <Game id="GCAE5H" title="Cubix: Robots for Everyone Showdown"/>
-  <Game id="GCBE7D" title="Crash Bandicoot: The Wrath of Cortex"/>
-  <Game id="GCBJA4" title="Crash Bandicoot 4: Sakuretsu! Majin Power"/>
-  <Game id="GCBP7D" title="Crash Bandicoot: The Wrath of Cortex"/>
-  <Game id="GCCE01" title="Final Fantasy Crystal Chronicles"/>
-  <Game id="GCCJ01" title="Final Fantasy Crystal Chronicles"/>
-  <Game id="GCCJGC" title="Final Fantasy Crystal Chronicles"/>
-  <Game id="GCCP01" title="Final Fantasy Crystal Chronicles"/>
-  <Game id="GCDE08" title="Resident Evil Code: Veronica X"/>
-  <Game id="GCDJ08" title="Biohazard Code: Veronica Complete"/>
-  <Game id="GCDP08" title="Resident Evil Code: Veronica X"/>
-  <Game id="GCEE41" title="Tom Clancy's Splinter Cell"/>
-  <Game id="GCEP41" title="Tom Clancy's Splinter Cell"/>
-  <Game id="GCFE9G" title="Conflict: Desert Storm"/>
-  <Game id="GCFP75" title="Conflict: Desert Storm"/>
-  <Game id="GCGE41" title="Charlie's Angels"/>
-  <Game id="GCGP41" title="Charlie's Angels"/>
-  <Game id="GCHE78" title="WWE Crush Hour"/>
-  <Game id="GCHP78" title="WWE Crush Hour"/>
-  <Game id="GCIE69" title="The Sims"/>
-  <Game id="GCIP69" title="The Sims"/>
-  <Game id="GCJE41" title="Tom Clancy's Splinter Cell: Chaos Theory"/>
-  <Game id="GCJP41" title="Tom Clancy's Splinter Cell: Chaos Theory"/>
-  <Game id="GCLE69" title="Cel Damage"/>
-  <Game id="GCLP69" title="Cel Damage"/>
-  <Game id="GCMJA4" title="Muscle Champion ~Battle of Muscle Island~"/>
-  <Game id="GCNE7D" title="Crash Nitro Kart"/>
-  <Game id="GCNP7D" title="Crash Nitro Kart"/>
-  <Game id="GCOD52" title="Call of Duty: Finest Hour"/>
-  <Game id="GCOE52" title="Call of Duty: Finest Hour"/>
-  <Game id="GCOF52" title="Call of Duty: Finest Hour"/>
-  <Game id="GCOP52" title="Call of Duty: Finest Hour"/>
-  <Game id="GCPE6S" title="Casper: Spirit Dimensions"/>
-  <Game id="GCPP6S" title="Casper: Spirit Dimensions"/>
-  <Game id="GCQD7D" title="Buffy The Vampire Slayer Chaos Bleeds"/>
-  <Game id="GCQE7D" title="Buffy the Vampire Slayer: Chaos Bleeds"/>
-  <Game id="GCQF7D" title="Buffy The Vampire Slayer Chaos Bleeds"/>
-  <Game id="GCQP7D" title="Buffy The Vampire Slayer Chaos Bleeds"/>
-  <Game id="GCSEAF" title="Street Racing Syndicate"/>
-  <Game id="GCSPAF" title="Street Racing Syndicate"/>
-  <Game id="GCTE51" title="Crazy Taxi"/>
-  <Game id="GCTJ8P" title="Crazy Taxi"/>
-  <Game id="GCTP51" title="Crazy Taxi"/>
-  <Game id="GCUE69" title="NCAA Football 2005"/>
-  <Game id="GCVEEB" title="Cubivore: Survival of the Fittest"/>
-  <Game id="GCWJBL" title="Mahou no Pumpkin - An to Greg no Daibouken"/>
-  <Game id="GCWP6X" title="Castleween"/>
-  <Game id="GCZE69" title="Catwoman"/>
-  <Game id="GCZP69" title="Catwoman"/>
-  <Game id="GD4E6S" title="Dinotopia - The Sunstone Odyssey"/>
-  <Game id="GD5JB2" title="Dragon Drive: D-Masters Shot"/>
-  <Game id="GD6EB2" title="Digimon Rumble Arena 2"/>
-  <Game id="GD6P70" title="Digimon Rumble Arena 2"/>
-  <Game id="GD7E70" title="Dragon Ball Z - Budokai"/>
-  <Game id="GD7PB2" title="Dragon Ball Z: Budokai"/>
-  <Game id="GD9E69" title="Drome Racers"/>
-  <Game id="GD9P69" title="Drome Racers"/>
-  <Game id="GDAJE5" title="Doraemon Minna De Asobou!"/>
-  <Game id="GDBJ01" title="Doubutsu Bancho"/>
-  <Game id="GDCE51" title="Speed Kings"/>
-  <Game id="GDCP51" title="Speed Kings"/>
-  <Game id="GDDE41" title="Disney's Donald Duck: Goin' Quackers"/>
-  <Game id="GDDP41" title="Disney's Donald Duck: Qu@ck Att@ck"/>
-  <Game id="GDED71" title="Baldur's Gate Dark Alliance"/>
-  <Game id="GDEE71" title="Baldur's Gate: Dark Alliance"/>
-  <Game id="GDEF71" title="Baldur's Gate: Dark Alliance"/>
-  <Game id="GDEP71" title="Baldur's Gate Dark Alliance"/>
-  <Game id="GDFE5D" title="Defender"/>
-  <Game id="GDFP5D" title="Defender: For All Mankind"/>
-  <Game id="GDGE7H" title="Dragon's Lair 3D: Return to the Lair"/>
-  <Game id="GDGP78" title="Dragon's Lair 3D Special Edition"/>
-  <Game id="GDIE7D" title="Die Hard: Vendetta"/>
-  <Game id="GDIP7D" title="Die Hard: Vendetta"/>
-  <Game id="GDIX7D" title="Die Hard: Vendetta"/>
-  <Game id="GDIY7D" title="Die Hard: Vendetta"/>
-  <Game id="GDJEB2" title="Digimon World 4"/>
-  <Game id="GDJJB2" title="Digimon World X"/>
-  <Game id="GDKEA4" title="Disney Sports: Soccer"/>
-  <Game id="GDKJA4" title="Disney Sports: Soccer"/>
-  <Game id="GDKPA4" title="Disney Sports: Football"/>
-  <Game id="GDLEA4" title="Disney Sports: Basketball"/>
-  <Game id="GDLJA4" title="Disney Sports: Basketball"/>
-  <Game id="GDLPA4" title="Disney Sports: Basketball"/>
-  <Game id="GDME01" title="Disney's Magical Mirror Starring Mickey Mouse"/>
-  <Game id="GDMJ01" title="Disney's Mickey Mouse no Fushigi na Kagami"/>
-  <Game id="GDMP01" title="Disney's Magical Mirror Starring Mickey Mouse"/>
-  <Game id="GDNJE8" title="Dokapon DX"/>
-  <Game id="GDOP41" title="Disney's Donald Duck: PK"/>
-  <Game id="GDPJAF" title="Mr. Driller: Drill Land"/>
-  <Game id="GDQE7L" title="Darkened Skye"/>
-  <Game id="GDQP6S" title="Darkened Skye"/>
-  <Game id="GDREAF" title="Dead to Rights"/>
-  <Game id="GDRP69" title="Dead to Rights"/>
-  <Game id="GDSE78" title="Dark Summit"/>
-  <Game id="GDSP78" title="Dark Summit"/>
-  <Game id="GDTE69" title="Def Jam Vendetta"/>
-  <Game id="GDTP69" title="Def Jam Vendetta"/>
-  <Game id="GDUJA7" title="Duel Masters: Nettou! Battle Arena"/>
-  <Game id="GDVE6L" title="Driven"/>
-  <Game id="GDVP6L" title="Driven"/>
-  <Game id="GDWEA4" title="Disney Sports Football"/>
-  <Game id="GDWJA4" title="Disney Sports - American Football"/>
-  <Game id="GDXEA4" title="Disney Sports Skateboarding"/>
-  <Game id="GDXJA4" title="Disney Sports Skateboarding"/>
-  <Game id="GDXPA4" title="Disney Sports Skateboarding"/>
-  <Game id="GE3E5D" title="Midway Arcade Treasures 3"/>
-  <Game id="GE4E7D" title="4x4 Evo 2"/>
-  <Game id="GE5EA4" title="TMNT: Mutant Melee"/>
-  <Game id="GE6JA4" title="Eisei Meijin VI"/>
-  <Game id="GE9E5D" title="Ed, Edd n Eddy: The Mis-Edventures"/>
-  <Game id="GEAE8P" title="Skies of Arcadia Legends"/>
-  <Game id="GEAJ8P" title="Eternal Arcadia Legends"/>
-  <Game id="GEAP8P" title="Skies of Arcadia Legends"/>
-  <Game id="GEBEA4" title="Evolution Snowboarding"/>
-  <Game id="GEBPA4" title="Evolution Snowboarding"/>
-  <Game id="GEDE01" title="Eternal Darkness: Sanity's Requiem"/>
-  <Game id="GEDJ01" title="Eternal Darkness: Manekareta 13-nin"/>
-  <Game id="GEDP01" title="Eternal Darkness: Sanity's Requiem"/>
-  <Game id="GEDW01" title="Eternal Darkness: Sanity's Requiem"/>
-  <Game id="GEGJ8P" title="Billy Hatcher and the Giant Egg"/>
-  <Game id="GEJJCM" title="Jikkyou Powerful Pro Yakyuu 11 Chou Ketteiban"/>
-  <Game id="GEME7F" title="Egg Mania: Eggstreme Madness"/>
-  <Game id="GEMJ28" title="Tsukande! Mawashite! Dossun Puzzle EggMania"/>
-  <Game id="GEMP7F" title="Eggo Mania"/>
-  <Game id="GEND69" title="James Bond 007: Everything Or Nothing"/>
-  <Game id="GENE69" title="007: Everything or Nothing"/>
-  <Game id="GENF69" title="James Bond 007: Everything or Nothing"/>
-  <Game id="GENJ13" title="007 - Everything or Nothing"/>
-  <Game id="GENP69" title="James Bond 007: Everything Or Nothing"/>
-  <Game id="GENS69" title="James Bond 007: Everything or Nothing"/>
-  <Game id="GEOE08" title="Capcom vs. SNK 2 EO"/>
-  <Game id="GEOJ08" title="Capcom vs. SNK 2 EO: Millionaire Fighting 2001"/>
-  <Game id="GEOP08" title="Capcom vs. SNK 2 EO: Millionaire Fighting 2001"/>
-  <Game id="GESEA4" title="Evolution Skateboarding"/>
-  <Game id="GESJA4" title="Evolution Skateboarding"/>
-  <Game id="GESPA4" title="Evolution Skateboarding"/>
-  <Game id="GEVJ0M" title="Shinki Sekai Evolutia"/>
-  <Game id="GEWE41" title="Evolution Worlds"/>
-  <Game id="GEWP41" title="Evolution Worlds"/>
-  <Game id="GEXE52" title="Disney's Extreme Skate Adventure"/>
-  <Game id="GEXP52" title="Disney Extreme Skate Adventure"/>
-  <Game id="GEXX52" title="Disney's Extreme Skate Adventure"/>
-  <Game id="GEXY52" title="Disney Extreme Skate Adventure"/>
-  <Game id="GEYE69" title="Fight Night Round 2"/>
-  <Game id="GEYJ13" title="Fight Night Round 2"/>
-  <Game id="GEYP69" title="Fight Night Round 2"/>
-  <Game id="GEZE8P" title="Billy Hatcher and the Giant Egg"/>
-  <Game id="GEZP8P" title="Billy Hatcher and the Giant Egg"/>
-  <Game id="GF2E69" title="F1 2002"/>
-  <Game id="GF2P69" title="F1 2002"/>
-  <Game id="GF3E8P" title="NFL 2K3"/>
-  <Game id="GF3P8P" title="NFL 2K3"/>
-  <Game id="GF4D52" title="Fantastic 4"/>
-  <Game id="GF4E52" title="Fantastic 4"/>
-  <Game id="GF4F52" title="Fantastic 4"/>
-  <Game id="GF4H52" title="Fantastic 4"/>
-  <Game id="GF4I52" title="Fantastic 4"/>
-  <Game id="GF4P52" title="Fantastic 4"/>
-  <Game id="GF4S52" title="Fantastic 4"/>
-  <Game id="GF5D69" title="FIFA Football 2005"/>
-  <Game id="GF5E69" title="FIFA Soccer 2005"/>
-  <Game id="GF5F69" title="FIFA Football 2005"/>
-  <Game id="GF5H69" title="FIFA Football 2005"/>
-  <Game id="GF5I69" title="FIFA Football 2005"/>
-  <Game id="GF5P69" title="FIFA Football 2005"/>
-  <Game id="GF5S69" title="FIFA Football 2005"/>
-  <Game id="GF6D69" title="FIFA 06"/>
-  <Game id="GF6E69" title="FIFA Soccer 06"/>
-  <Game id="GF6F69" title="FIFA 06"/>
-  <Game id="GF6H69" title="FIFA 06"/>
-  <Game id="GF6I69" title="FIFA 06"/>
-  <Game id="GF6P69" title="FIFA 06"/>
-  <Game id="GF6S69" title="FIFA 06"/>
-  <Game id="GF7E01" title="Star Fox: Assault"/>
-  <Game id="GF7J01" title="Star Fox: Assault"/>
-  <Game id="GF7P01" title="Star Fox: Assault"/>
-  <Game id="GF8E69" title="FIFA Street"/>
-  <Game id="GF8P69" title="FIFA Street"/>
-  <Game id="GFAD69" title="FIFA Football 2003"/>
-  <Game id="GFAE69" title="FIFA Soccer 2003"/>
-  <Game id="GFAF69" title="FIFA Football 2003"/>
-  <Game id="GFAI69" title="FIFA Football 2003"/>
-  <Game id="GFAJ13" title="FIFA 2003"/>
-  <Game id="GFAP69" title="FIFA Football 2003"/>
-  <Game id="GFAS69" title="FIFA Football 2003"/>
-  <Game id="GFBE5D" title="FireBlade"/>
-  <Game id="GFBP5D" title="Fireblade"/>
-  <Game id="GFCP69" title="F1 Career Challenge"/>
-  <Game id="GFDD69" title="Freedom Fighters"/>
-  <Game id="GFDE69" title="Freedom Fighters"/>
-  <Game id="GFDF69" title="Freedom Fighters"/>
-  <Game id="GFDP69" title="Freedom Fighters"/>
-  <Game id="GFEE01" title="Fire Emblem: Path of Radiance"/>
-  <Game id="GFEJ01" title="Fire Emblem: Souen no Kiseki"/>
-  <Game id="GFEP01" title="Fire Emblem: Path of Radiance"/>
-  <Game id="GFFE5D" title="Freaky Flyers"/>
-  <Game id="GFGEA4" title="Frogger Beyond"/>
-  <Game id="GFGJA4" title="Frogger"/>
-  <Game id="GFGPA4" title="Frogger Beyond"/>
-  <Game id="GFHP6V" title="Neighbours from Hell"/>
-  <Game id="GFIE69" title="2002 FIFA World Cup"/>
-  <Game id="GFIJ13" title="2002 FIFA World Cup"/>
-  <Game id="GFJE69" title="FIFA Soccer 06"/>
-  <Game id="GFKE69" title="Freekstyle"/>
-  <Game id="GFKP69" title="Freekstyle"/>
-  <Game id="GFMJAF" title="Family Stadium 2003"/>
-  <Game id="GFNJG2" title="Finding Nemo"/>
-  <Game id="GFOE78" title="The Fairly OddParents - Shadow Showdown"/>
-  <Game id="GFPEA4" title="Frogger: Ancient Shadow"/>
-  <Game id="GFQEA4" title="Frogger's Adventures: The Rescue"/>
-  <Game id="GFSD69" title="2002 FIFA World Cup"/>
-  <Game id="GFSE69" title="FIFA Soccer 2002"/>
-  <Game id="GFSF69" title="2002 FIFA World Cup"/>
-  <Game id="GFSJ13" title="FIFA Soccer 2002"/>
-  <Game id="GFSP69" title="2002 FIFA World Cup"/>
-  <Game id="GFSX69" title="2002 FIFA World Cup"/>
-  <Game id="GFTE01" title="Mario Golf: Toadstool Tour"/>
-  <Game id="GFTJ01" title="Mario Golf: Family Tour"/>
-  <Game id="GFTP01" title="Mario Golf: Toadstool Tour"/>
-  <Game id="GFUE4Z" title="Future Tactics: The Uprising"/>
-  <Game id="GFUP6V" title="Future Tactics: The Uprising"/>
-  <Game id="GFVE5D" title="NFL Blitz Pro"/>
-  <Game id="GFWE78" title="The Fairly OddParents: Breakin' Da Rules"/>
-  <Game id="GFXE5D" title="Freestyle Metal X"/>
-  <Game id="GFYE69" title="FIFA Street 2"/>
-  <Game id="GFYP69" title="FIFA Street 2"/>
-  <Game id="GFZE01" title="F-Zero GX"/>
-  <Game id="GFZJ01" title="F-Zero GX"/>
-  <Game id="GFZP01" title="F-Zero GX"/>
-  <Game id="GG2E4Z" title="Trigger Man"/>
-  <Game id="GG4E08" title="Gotcha Force"/>
-  <Game id="GG4J08" title="Gotcha Force"/>
-  <Game id="GG4P08" title="Gotcha Force"/>
-  <Game id="GG5E52" title="Cabela's Big Game Hunter 2005"/>
-  <Game id="GGAJB2" title="Mobile Suit Gundam: The Ace Pilot"/>
-  <Game id="GGCE0A" title="Goblin Commander: Unleash The Horde"/>
-  <Game id="GGCP0A" title="Goblin Commander: Unleash the Horde"/>
-  <Game id="GGEE41" title="Beyond Good &amp; Evil"/>
-  <Game id="GGEP41" title="Beyond Good &amp; Evil"/>
-  <Game id="GGEX41" title="Beyond Good &amp; Evil"/>
-  <Game id="GGEY41" title="Beyond Good &amp; Evil"/>
-  <Game id="GGFJ01" title="GiFTPiA"/>
-  <Game id="GGIJ13" title="GoldenEye - Dark Agent"/>
-  <Game id="GGKJB2" title="Konjiki no Gashbell!! Yuujou Tag Battle - Full Power"/>
-  <Game id="GGNE5D" title="The Grim Adventures of Billy and Mandy"/>
-  <Game id="GGPJAF" title="SD Gundam Gashapon Wars"/>
-  <Game id="GGPJB2" title="SD Gundam Gashapon Wars"/>
-  <Game id="GGRD41" title="Tom Clancy's Ghost Recon"/>
-  <Game id="GGRE41" title="Tom Clancy's Ghost Recon"/>
-  <Game id="GGRP41" title="Tom Clancy's Ghost Recon"/>
-  <Game id="GGSEA4" title="Metal Gear Solid: The Twin Snakes"/>
-  <Game id="GGSJA4" title="Metal Gear Solid: The Twin Snakes"/>
-  <Game id="GGSPA4" title="Metal Gear Solid: The Twin Snakes"/>
-  <Game id="GGTE01" title="Chibi-Robo!"/>
-  <Game id="GGTJ01" title="Chibi-Robo!"/>
-  <Game id="GGTP01" title="Chibi-Robo!"/>
-  <Game id="GGVD78" title="SpongeBob SquarePants: The Movie"/>
-  <Game id="GGVE78" title="SpongeBob SquarePants: The Movie"/>
-  <Game id="GGVP78" title="SpongeBob SquarePants: The Movie"/>
-  <Game id="GGVX78" title="SpongeBob SquarePants: The Movie"/>
-  <Game id="GGYE41" title="Tom Clancy's Ghost Recon 2"/>
-  <Game id="GGYP41" title="Tom Clancy's Ghost Recon 2"/>
-  <Game id="GGZE52" title="Madagascar"/>
-  <Game id="GGZH52" title="Madagascar"/>
-  <Game id="GGZI52" title="Madagascar"/>
-  <Game id="GGZJB2" title="Madagascar"/>
-  <Game id="GGZP52" title="Madagascar"/>
-  <Game id="GGZS52" title="Madagascar"/>
-  <Game id="GGZX52" title="Madagascar"/>
-  <Game id="GH2E69" title="Need for Speed: Hot Pursuit 2"/>
-  <Game id="GH2P69" title="Need for Speed: Hot Pursuit 2"/>
-  <Game id="GH3E69" title="NHL 2003"/>
-  <Game id="GH3P69" title="NHL 2003"/>
-  <Game id="GH4D69" title="Harry Potter and the Goblet of Fire"/>
-  <Game id="GH4E69" title="Harry Potter and the Goblet of Fire"/>
-  <Game id="GH4F69" title="Harry Potter and the Goblet of Fire"/>
-  <Game id="GH4H69" title="Harry Potter and the Goblet of Fire"/>
-  <Game id="GH4I69" title="Harry Potter and the Goblet of Fire"/>
-  <Game id="GH4J13" title="Harry Potter to Honoo no Goblet"/>
-  <Game id="GH4M69" title="Harry Potter and the Goblet of Fire"/>
-  <Game id="GH4P69" title="Harry Potter and the Goblet of Fire"/>
-  <Game id="GH4S69" title="Harry Potter and the Goblet of Fire"/>
-  <Game id="GH5D52" title="Over The Hedge"/>
-  <Game id="GH5E52" title="Over The Hedge"/>
-  <Game id="GH5F52" title="Over The Hedge"/>
-  <Game id="GH5P52" title="Over The Hedge"/>
-  <Game id="GH6EAF" title="Hello Kitty: Roller Rescue"/>
-  <Game id="GH6P7N" title="Hello Kitty: Roller Rescue"/>
-  <Game id="GH7E5D" title="Happy Feet"/>
-  <Game id="GH9P52" title="Tony Hawk's American Wasteland"/>
-  <Game id="GHAE08" title="Resident Evil 2"/>
-  <Game id="GHAJ08" title="Biohazard 2"/>
-  <Game id="GHAP08" title="Resident Evil 2"/>
-  <Game id="GHBE7D" title="The Hobbit"/>
-  <Game id="GHBP7D" title="The Hobbit"/>
-  <Game id="GHCD4Q" title="Chicken Little"/>
-  <Game id="GHCE4Q" title="Chicken Little"/>
-  <Game id="GHCF4Q" title="Chicken Little"/>
-  <Game id="GHCJG9" title="Chicken Little"/>
-  <Game id="GHCP4Q" title="Chicken Little"/>
-  <Game id="GHEJ91" title="Homeland"/>
-  <Game id="GHFE4Z" title="Pinball Hall of Fame: The Gottlieb Collection"/>
-  <Game id="GHGEEB" title="Go! Go! Hypergrind"/>
-  <Game id="GHKD7D" title="Hulk"/>
-  <Game id="GHKE7D" title="Hulk"/>
-  <Game id="GHKF7D" title="Hulk"/>
-  <Game id="GHKP7D" title="Hulk"/>
-  <Game id="GHKS7D" title="Hulk"/>
-  <Game id="GHLE69" title="Harry Potter and the Sorcerer's Stone"/>
-  <Game id="GHLJ13" title="Harry Potter to Kenja no Ishi"/>
-  <Game id="GHLP69" title="Harry Potter and the Philosopher's Stone"/>
-  <Game id="GHLX69" title="Harry Potter and the Philosopher's Stone"/>
-  <Game id="GHLY69" title="Harry Potter and the Sorcerer's Stone"/>
-  <Game id="GHLZ69" title="Harry Potter and the Sorcerer's Stone"/>
-  <Game id="GHMD4F" title="Hitman 2: Silent Assassin"/>
-  <Game id="GHME4F" title="Hitman 2: Silent Assassin"/>
-  <Game id="GHMF4F" title="Hitman 2: Silent Assassin"/>
-  <Game id="GHMP4F" title="Hitman 2: Silent Assassin"/>
-  <Game id="GHNE71" title="Hunter: The Reckoning"/>
-  <Game id="GHNX71" title="Hunter: The Reckoning"/>
-  <Game id="GHPE52" title="Street Hoops"/>
-  <Game id="GHQE7D" title="The Simpsons: Hit &amp; Run"/>
-  <Game id="GHQP7D" title="The Simpsons: Hit &amp; Run"/>
-  <Game id="GHRE78" title="Hot Wheels: World Race"/>
-  <Game id="GHRP78" title="Hot Wheels: World Race"/>
-  <Game id="GHSE69" title="Harry Potter and the Chamber of Secrets"/>
-  <Game id="GHSJ13" title="Harry Potter to Himitsu no Heya"/>
-  <Game id="GHSP69" title="Harry Potter and the Chamber of Secrets"/>
-  <Game id="GHSX69" title="Harry Potter and the Chamber of Secrets"/>
-  <Game id="GHSY69" title="Harry Potter and the Chamber of Secrets"/>
-  <Game id="GHTJA4" title="Hikaru No Go 3"/>
-  <Game id="GHUE7D" title="The Incredible Hulk: Ultimate Destruction"/>
-  <Game id="GHUF7D" title="The Incredible Hulk Ultimate Destruction"/>
-  <Game id="GHUP7D" title="The Incredible Hulk Ultimate Destruction"/>
-  <Game id="GHVE08" title="Disney's Hide &amp; Sneak"/>
-  <Game id="GHVP08" title="Disney's Hide &amp; Sneak"/>
-  <Game id="GHWE78" title="Hot Wheels: Velocity X"/>
-  <Game id="GHWP78" title="Hot Wheels: Velocity X"/>
-  <Game id="GHYE6S" title="The Haunted Mansion"/>
-  <Game id="GHZE5D" title="NHL Hitz Pro"/>
-  <Game id="GI2J18" title="Momotarou Dentetsu 12"/>
-  <Game id="GIAE7D" title="Ice Age 2: The Meltdown"/>
-  <Game id="GIAP7D" title="Ice Age 2: The Meltdown"/>
-  <Game id="GIBE4F" title="The Italian Job"/>
-  <Game id="GIBP4F" title="The Italian Job"/>
-  <Game id="GICD78" title="The Incredibles"/>
-  <Game id="GICE78" title="The Incredibles"/>
-  <Game id="GICF78" title="The Incredibles"/>
-  <Game id="GICH78" title="The Incredibles"/>
-  <Game id="GICJG9" title="Mr. Inkurediburu"/>
-  <Game id="GICP78" title="The Incredibles"/>
-  <Game id="GIFJDQ" title="Generation of Chaos Exceed"/>
-  <Game id="GIGJ8P" title="Bleach GC: Tasogare Ni Mamieru Shinigami"/>
-  <Game id="GIHD78" title="Scooby-Doo!  Night of 100 Frights"/>
-  <Game id="GIHE78" title="Scooby-Doo!  Night of 100 Frights"/>
-  <Game id="GIHF78" title="Scooby-Doo! Night of 100 Frights"/>
-  <Game id="GIHP78" title="Scooby-Doo!  Night of 100 Frights"/>
-  <Game id="GIIJ18" title="Momotarou Dentetsu 11"/>
-  <Game id="GIJEFP" title="Space Raiders"/>
-  <Game id="GIJJC0" title="Space Raiders"/>
-  <Game id="GIJKC0" title="Space Raiders"/>
-  <Game id="GIKE70" title="Ikaruga"/>
-  <Game id="GIKJ70" title="Ikaruga"/>
-  <Game id="GIKP70" title="Ikaruga"/>
-  <Game id="GILE51" title="Aggressive Inline"/>
-  <Game id="GILP51" title="Aggressive Inline"/>
-  <Game id="GINE69" title="Batman Begins"/>
-  <Game id="GINX69" title="Batman Begins"/>
-  <Game id="GIOJCM" title="Jikkyou Powerful Pro Yakyuu 10 Chou Ketteiban - 2003 Memorial"/>
-  <Game id="GIPEAF" title="Shonen Jump's One Piece: Pirates Carnival"/>
-  <Game id="GIPJB2" title="Shonen Jump's One Piece: Pirates Carnival"/>
-  <Game id="GIQE78" title="The Incredibles: Rise of the Underminer"/>
-  <Game id="GIQJ8P" title="The Incredibles: Rise of the Underminer"/>
-  <Game id="GIQX78" title="The Incredibles: Rise of the Underminer"/>
-  <Game id="GIQY78" title="The Incredibles: Rise of the Underminer"/>
-  <Game id="GISE36" title="Second Sight"/>
-  <Game id="GISP36" title="Second Sight"/>
-  <Game id="GITE01" title="Geist"/>
-  <Game id="GITP01" title="Geist"/>
-  <Game id="GIVE4Z" title="Intellivision Lives"/>
-  <Game id="GIZE52" title="Ty the Tasmanian Tiger 3: Night of the Quinkan"/>
-  <Game id="GJ2JCM" title="Jikkyou World Soccer 2002"/>
-  <Game id="GJ2PA4" title="International Superstar Soccer 2"/>
-  <Game id="GJ3PA4" title="International Superstar Soccer 3"/>
-  <Game id="GJBE18" title="Bomberman Jetters"/>
-  <Game id="GJBE5G" title="Bomberman Jetters"/>
-  <Game id="GJBJ18" title="Bomberman Jetters"/>
-  <Game id="GJCE8P" title="Samurai Jack: The Shadow of Aku"/>
-  <Game id="GJCP8P" title="Samurai Jack: The Shadow of Aku"/>
-  <Game id="GJDE5S" title="Judge Dredd: Dredd vs. Death"/>
-  <Game id="GJDX7D" title="Judge Dredd: Dredd vs. Death"/>
-  <Game id="GJDY7D" title="Judge Dredd: Dredd vs. Death"/>
-  <Game id="GJFE78" title="Jimmy Neutron Jet Fusion"/>
-  <Game id="GJFP78" title="Jimmy Neutron Jet Fusion"/>
-  <Game id="GJKD52" title="Star Wars Jedi Knight II: Jedi Outcast"/>
-  <Game id="GJKE52" title="Star Wars Jedi Knight II: Jedi Outcast"/>
-  <Game id="GJKF52" title="Star Wars Jedi Knight II: Jedi Outcast"/>
-  <Game id="GJKP52" title="Star Wars Jedi Knight II: Jedi Outcast"/>
-  <Game id="GJND78" title="Jimmy Neutron: Boy Genius"/>
-  <Game id="GJNE78" title="Jimmy Neutron Boy Genius"/>
-  <Game id="GJNP78" title="Jimmy Neutron Boy Genius"/>
-  <Game id="GJPJCM" title="Jikkyou Powerful Pro Yakyuu 11"/>
-  <Game id="GJSJ18" title="Hudson Selection Vol. 2: Star Soldier"/>
-  <Game id="GJUD78" title="Tak and the Power of Juju"/>
-  <Game id="GJUE78" title="Tak and the Power of Juju"/>
-  <Game id="GJUF78" title="Tak and the Power of Juju"/>
-  <Game id="GJUP78" title="Tak and the Power of Juju"/>
-  <Game id="GJWE78" title="Tak: The Great Juju Challenge"/>
-  <Game id="GJWP78" title="Tak: The Great Juju Challenge"/>
-  <Game id="GJXE51" title="Vexx"/>
-  <Game id="GJXP51" title="Vexx"/>
-  <Game id="GJYE78" title="Jimmy Neutron: Attack of the Twonkies"/>
-  <Game id="GJYP78" title="Jimmy Neutron Boy Genius: Attack of the Twonkies"/>
-  <Game id="GJZE52" title="SeaWorld Adventure Parks: Shamu's Deep Sea Adventures"/>
-  <Game id="GJZP52" title="SeaWorld Adventure Parks: Shamu's Deep Sea Adventures"/>
-  <Game id="GK2D52" title="Spider-Man 2"/>
-  <Game id="GK2E52" title="Spider-Man 2"/>
-  <Game id="GK2F52" title="Spider-Man 2"/>
-  <Game id="GK2I52" title="Spider-Man 2"/>
-  <Game id="GK2P52" title="Spider-Man 2"/>
-  <Game id="GK3E8P" title="NBA 2K3"/>
-  <Game id="GK3P8P" title="NBA 2K3"/>
-  <Game id="GK4E01" title="Baten Kaitos Origins"/>
-  <Game id="GK4J01" title="Baten Kaitos II: Hajimari no Tsubasa to Kamigami no Shishi"/>
-  <Game id="GK5E78" title="Monster House"/>
-  <Game id="GK5P78" title="Monster House"/>
-  <Game id="GK5X78" title="Monster House"/>
-  <Game id="GK6JA4" title="Croket Banking no Kikiwosukue"/>
-  <Game id="GK7E08" title="Killer7"/>
-  <Game id="GK7J08" title="Killer7"/>
-  <Game id="GK7P08" title="Killer 7"/>
-  <Game id="GK9EA4" title="Karaoke Revolution Party"/>
-  <Game id="GKAE8P" title="Amazing Island"/>
-  <Game id="GKAJ8P" title="Kaijuu no Shima: Amazing Island"/>
-  <Game id="GKBEAF" title="Baten Kaitos Eternal Wings and the Lost Ocean"/>
-  <Game id="GKBJAF" title="Baten Kaitos: Owaranai Tsubasa to Ushinawareta Umi"/>
-  <Game id="GKBPAF" title="Baten Kaitos: Eternal Wings and the Lost Ocean"/>
-  <Game id="GKDJ01" title="Kyojin no Doshin"/>
-  <Game id="GKDP01" title="Doshin the Giant"/>
-  <Game id="GKEJA4" title="Jikkyou Powerful Pro Yakyuu 12 Ketteiban"/>
-  <Game id="GKFEGG" title="Chaos Field"/>
-  <Game id="GKFJ8P" title="Chaos Field Expanded"/>
-  <Game id="GKFJMS" title="Chaos Field Expanded"/>
-  <Game id="GKGE01" title="Donkey Konga"/>
-  <Game id="GKGJ01" title="Donkey Konga"/>
-  <Game id="GKGP01" title="Donkey Konga"/>
-  <Game id="GKHEA4" title="King Arthur"/>
-  <Game id="GKHPA4" title="King Arthur"/>
-  <Game id="GKJD78" title="Cars"/>
-  <Game id="GKJE78" title="Cars"/>
-  <Game id="GKJF78" title="Cars"/>
-  <Game id="GKJH78" title="Cars"/>
-  <Game id="GKJJ78" title="Cars"/>
-  <Game id="GKJP78" title="Cars"/>
-  <Game id="GKJS78" title="Cars"/>
-  <Game id="GKKE69" title="Knockout Kings 2003"/>
-  <Game id="GKKP69" title="Knockout Kings 2003"/>
-  <Game id="GKLD69" title="The Lord of the Rings: The Return of the King"/>
-  <Game id="GKLE69" title="The Lord of the Rings: The Return of the King"/>
-  <Game id="GKLF69" title="The Lord of the Rings: The Return of the King"/>
-  <Game id="GKLI69" title="The Lord of the Rings: The Return of the King"/>
-  <Game id="GKLJ13" title="The Lord of the Rings: The Return of the King"/>
-  <Game id="GKLP69" title="The Lord of the Rings: The Return of the King"/>
-  <Game id="GKLS69" title="The Lord of the Rings: The Return of the King"/>
-  <Game id="GKME41" title="Prince of Persia: The Two Thrones"/>
-  <Game id="GKMP41" title="Prince of Persia: The Two Thrones"/>
-  <Game id="GKNEB2" title="Ultimate Muscle: Legends vs. New Generation"/>
-  <Game id="GKNJB2" title="Kinnikuman Nisei: Shinsedai Choujin vs Densetsu Choujin"/>
-  <Game id="GKOE70" title="Kao The Kangaroo Round 2"/>
-  <Game id="GKOP6V" title="Kao The Kangaroo Round 2"/>
-  <Game id="GKPJA4" title="Jikkyou Powerful Pro Yakyuu 12"/>
-  <Game id="GKQJ01" title="Kururin Squash!"/>
-  <Game id="GKREB2" title="Ribbit King"/>
-  <Game id="GKRJB2" title="Kero Kero King DX"/>
-  <Game id="GKRPB2" title="Ribbit King"/>
-  <Game id="GKSE52" title="Kelly Slater's Pro Surfer"/>
-  <Game id="GKSP52" title="Kelly Slater's Pro Surfer"/>
-  <Game id="GKSX52" title="Kelly Slater's Pro Surfer"/>
-  <Game id="GKTJA4" title="Captain Tsubasa: Ougon Sedai no Chousen"/>
-  <Game id="GKUE9G" title="Scaler"/>
-  <Game id="GKWJ18" title="DreamMix TV World Fighters"/>
-  <Game id="GKXJE7" title="Kiwame Mahjong DX2"/>
-  <Game id="GKYE01" title="Kirby Air Ride"/>
-  <Game id="GKYJ01" title="Kirby's Airride"/>
-  <Game id="GKYP01" title="Kirby Air Ride"/>
-  <Game id="GKZD54" title="Codename: Kids Next Door - Operation: V.I.D.E.O.G.A.M.E."/>
-  <Game id="GKZE9G" title="Codename Kids Next Door - Operation V.I.D.E.O.G.A.M.E"/>
-  <Game id="GKZP54" title="Codename Kids Next Door - Operation V.I.D.E.O.G.A.M.E"/>
-  <Game id="GL2E51" title="Legends of Wrestling II"/>
-  <Game id="GL2P51" title="Legends of Wrestling II"/>
-  <Game id="GL3JE8" title="Lupin The Third - Umi Ni Kieta Hihou"/>
-  <Game id="GL5E4F" title="LEGO Star Wars: The Video Game"/>
-  <Game id="GL5P4F" title="LEGO Star Wars: The Video Game"/>
-  <Game id="GL5X4F" title="LEGO Star Wars: The Video Game"/>
-  <Game id="GL7E64" title="LEGO Star Wars II: The Original Trilogy"/>
-  <Game id="GL7P64" title="LEGO Star Wars II: The Original Trilogy"/>
-  <Game id="GL8D4F" title="Lara Croft Tomb Raider: Legend"/>
-  <Game id="GL8E4F" title="Lara Croft Tomb Raider: Legend"/>
-  <Game id="GL8F4F" title="Lara Croft Tomb Raider: Legend"/>
-  <Game id="GL8P4F" title="Lara Croft Tomb Raider: Legend"/>
-  <Game id="GLBE8P" title="Home Run King"/>
-  <Game id="GLCD52" title="Lemony Snickets A Series Of Unfortunate Events"/>
-  <Game id="GLCE52" title="Lemony Snickets A Series Of Unfortunate Events"/>
-  <Game id="GLCF52" title="Lemony Snickets A Series Of Unfortunate Events"/>
-  <Game id="GLCP52" title="Lemony Snickets A Series Of Unfortunate Events"/>
-  <Game id="GLCS52" title="Lemony Snickets A Series Of Unfortunate Events"/>
-  <Game id="GLEE08" title="Resident Evil 3: Nemesis"/>
-  <Game id="GLEJ08" title="BioHazard 3: Last Escape"/>
-  <Game id="GLEP08" title="Resident Evil 3: Nemesis"/>
-  <Game id="GLGP41" title="Largo Winch: Empire Under Threat"/>
-  <Game id="GLHEG9" title="Flushed Away"/>
-  <Game id="GLHPG9" title="Flushed Away"/>
-  <Game id="GLIJA7" title="Special Jinsei Game"/>
-  <Game id="GLJJMS" title="Radirgy Generic"/>
-  <Game id="GLLE78" title="Ratatouille"/>
-  <Game id="GLLF78" title="Ratatouille"/>
-  <Game id="GLME01" title="Luigi's Mansion"/>
-  <Game id="GLMJ01" title="Luigi's Mansion"/>
-  <Game id="GLMP01" title="Luigi's Mansion"/>
-  <Game id="GLNE69" title="Looney Tunes: Back in Action"/>
-  <Game id="GLNP69" title="Looney Tunes: Back in Action"/>
-  <Game id="GLOD69" title="The Lord of the Rings: The Two Towers"/>
-  <Game id="GLOE69" title="The Lord of the Rings: The Two Towers"/>
-  <Game id="GLOF69" title="The Lord of the Rings: The Two Towers"/>
-  <Game id="GLOI69" title="The Lord of the Rings: The Two Towers"/>
-  <Game id="GLOJ13" title="Lord of the Rings - Futatsu no Tou"/>
-  <Game id="GLOP69" title="The Lord of the Rings: The Two Towers"/>
-  <Game id="GLOS69" title="The Lord of the Rings: The Two Towers"/>
-  <Game id="GLQE41" title="Tom Clancy's Rainbow Six: Lockdown"/>
-  <Game id="GLQP41" title="Tom Clancy's Rainbow Six: Lockdown"/>
-  <Game id="GLRD64" title="Star Wars Rogue Squadron III: Rebel Strike"/>
-  <Game id="GLRE64" title="Star Wars Rogue Squadron III: Rebel Strike"/>
-  <Game id="GLRF64" title="Star Wars Rogue Squadron III: Rebel Strike"/>
-  <Game id="GLRP64" title="Star Wars Rogue Squadron III: Rebel Strike"/>
-  <Game id="GLSD64" title="Gladius"/>
-  <Game id="GLSE64" title="Gladius"/>
-  <Game id="GLSF64" title="Gladius"/>
-  <Game id="GLSP64" title="Gladius"/>
-  <Game id="GLUE7U" title="Lotus Challenge"/>
-  <Game id="GLVD4Q" title="The Chronicles of Narnia: The Lion Witch and the Wardrobe"/>
-  <Game id="GLVE4Q" title="The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"/>
-  <Game id="GLVF4Q" title="The Chronicles of Narnia: The Lion Witch and the Wardrobe"/>
-  <Game id="GLVP4Q" title="The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"/>
-  <Game id="GLWE51" title="Legends of Wrestling"/>
-  <Game id="GLWP51" title="Legends of Wrestling"/>
-  <Game id="GLXJ29" title="Legend of Golfer"/>
-  <Game id="GLYE69" title="NBA Live 2005"/>
-  <Game id="GLYP69" title="NBA Live 2005"/>
-  <Game id="GLZD69" title="James Bond 007: From Russia With Love"/>
-  <Game id="GLZE69" title="007: From Russia With Love"/>
-  <Game id="GLZF69" title="James Bond 007: From Russia With Love"/>
-  <Game id="GLZP69" title="James Bond 007: From Russia With Love"/>
-  <Game id="GM2E8P" title="Super Monkey Ball 2"/>
-  <Game id="GM2J8P" title="Super Monkey Ball 2"/>
-  <Game id="GM2P8P" title="Super Monkey Ball 2"/>
-  <Game id="GM3E69" title="Madden NFL 2003"/>
-  <Game id="GM3P69" title="Madden NFL 2003"/>
-  <Game id="GM4E01" title="Mario Kart: Double Dash!!"/>
-  <Game id="GM4J01" title="Mario Kart: Double Dash!!"/>
-  <Game id="GM4P01" title="Mario Kart: Double Dash!!"/>
-  <Game id="GM5D7D" title="Metal Arms: Glitch in the System"/>
-  <Game id="GM5E7D" title="Metal Arms: Glitch in the System"/>
-  <Game id="GM5F7D" title="Metal Arms: Glitch in the System"/>
-  <Game id="GM5P7D" title="Metal Arms: Glitch in the System"/>
-  <Game id="GM6EE9" title="Medabots Infinity"/>
-  <Game id="GM6JE9" title="Medarot Brave"/>
-  <Game id="GM6PE9" title="Medabots Infinity"/>
-  <Game id="GM8E01" title="Metroid Prime"/>
-  <Game id="GM8J01" title="Metroid Prime"/>
-  <Game id="GM8P01" title="Metroid Prime"/>
-  <Game id="GM9E6S" title="Muppets Party Cruise"/>
-  <Game id="GMAE51" title="Mary-Kate and Ashley: Sweet 16 Licensed to Drive"/>
-  <Game id="GMAP51" title="Mary-Kate and Ashley: Sweet 16 Licensed to Drive"/>
-  <Game id="GMBE8P" title="Super Monkey Ball"/>
-  <Game id="GMBJ8P" title="Super Monkey Ball"/>
-  <Game id="GMBP8P" title="Super Monkey Ball"/>
-  <Game id="GMDE69" title="Madden NFL 2002"/>
-  <Game id="GMEE70" title="Men In Black II:  Alien Escape"/>
-  <Game id="GMEP70" title="Men In Black II:  Alien Escape"/>
-  <Game id="GMFD69" title="Medal of Honor: Frontline"/>
-  <Game id="GMFE69" title="Medal of Honor: Frontline"/>
-  <Game id="GMFF69" title="Medal of Honor: Frontline"/>
-  <Game id="GMFI69" title="Medal of Honor: Frontline"/>
-  <Game id="GMFP69" title="Medal of Honor: Frontline"/>
-  <Game id="GMFS69" title="Medal of Honor: Frontline"/>
-  <Game id="GMHE52" title="Matt Hoffman's Pro BMX 2"/>
-  <Game id="GMHP52" title="Mat Hoffman's Pro BMX 2"/>
-  <Game id="GMIE70" title="Mission Impossible: Operation Surma"/>
-  <Game id="GMIJ70" title="Mission - Impossible - Operation Surma"/>
-  <Game id="GMIP70" title="Mission Impossible: Operation Surma"/>
-  <Game id="GMJE41" title="Monster Jam: Maximum Destruction"/>
-  <Game id="GMJP41" title="Monster Jam: Maximum Destruction"/>
-  <Game id="GMKD5D" title="Mortal Kombat: Deadly Alliance"/>
-  <Game id="GMKE5D" title="Mortal Kombat: Deadly Alliance"/>
-  <Game id="GMKP5D" title="Mortal Kombat: Deadly Alliance"/>
-  <Game id="GMLEA4" title="ESPN MLS ExtraTime 2002"/>
-  <Game id="GMNE78" title="Monsters, Inc. Scream Arena"/>
-  <Game id="GMNP78" title="Monsters, Inc. Scream Arena"/>
-  <Game id="GMOP70" title="Micro Machines"/>
-  <Game id="GMPE01" title="Mario Party 4"/>
-  <Game id="GMPJ01" title="Mario Party 4"/>
-  <Game id="GMPP01" title="Mario Party 4"/>
-  <Game id="GMPW01" title="Mario Party 4"/>
-  <Game id="GMQE70" title="Monopoly Party"/>
-  <Game id="GMQP70" title="Monopoly Party"/>
-  <Game id="GMRE70" title="Big Air Freestyle"/>
-  <Game id="GMRP70" title="Big Air Freestyle"/>
-  <Game id="GMSE01" title="Super Mario Sunshine"/>
-  <Game id="GMSJ01" title="Super Mario Sunshine"/>
-  <Game id="GMSP01" title="Super Mario Sunshine"/>
-  <Game id="GMTE69" title="Disney's Party"/>
-  <Game id="GMTJ18" title="Disney no Magical Park"/>
-  <Game id="GMTP69" title="Disney's Party"/>
-  <Game id="GMUE5D" title="Dr. Muto"/>
-  <Game id="GMWD52" title="Minority Report: Everybody Runs"/>
-  <Game id="GMWE52" title="Minority Report: Everybody Runs"/>
-  <Game id="GMWF52" title="Minority Report: Everybody Runs"/>
-  <Game id="GMWP52" title="Minority Report: Everybody Runs"/>
-  <Game id="GMXE70" title="Enter The Matrix"/>
-  <Game id="GMXJB2" title="Enter The Matrix"/>
-  <Game id="GMXP70" title="Enter The Matrix"/>
-  <Game id="GMYJ8P" title="Gekitou Pro Yakyuu"/>
-  <Game id="GMZE41" title="Monster 4x4: Masters Of Metal"/>
-  <Game id="GN2E70" title="Nascar: Dirt To Daytona"/>
-  <Game id="GN3E5D" title="NHL Hitz 2003"/>
-  <Game id="GN3P5D" title="NHL Hitz 2003"/>
-  <Game id="GN4E69" title="NASCAR 2005: Chase for the Cup"/>
-  <Game id="GN5E69" title="NHL 2005"/>
-  <Game id="GN5P69" title="NHL 2005"/>
-  <Game id="GN6E69" title="NHL 06"/>
-  <Game id="GN6P69" title="NHL 06"/>
-  <Game id="GN7E69" title="NFL Street 2"/>
-  <Game id="GN7P69" title="NFL Street 2"/>
-  <Game id="GN8E69" title="NBA Live 2004"/>
-  <Game id="GN8P69" title="NBA Live 2004"/>
-  <Game id="GN9E70" title="Nickelodeon Party Blast"/>
-  <Game id="GNAE8P" title="NCAA College Football 2K3"/>
-  <Game id="GNBE01" title="NBA Courtside 2002"/>
-  <Game id="GNBJ01" title="NBA Courtside 2002"/>
-  <Game id="GNBP01" title="NBA Courtside 2002"/>
-  <Game id="GNCE69" title="Nascar Thunder 2003"/>
-  <Game id="GNDD69" title="Need for Speed: Underground"/>
-  <Game id="GNDE69" title="Need for Speed: Underground"/>
-  <Game id="GNDF69" title="Need for Speed: Underground"/>
-  <Game id="GNDJ13" title="Need for Speed - Underground"/>
-  <Game id="GNDP69" title="Need for Speed: Underground"/>
-  <Game id="GNED78" title="Finding Nemo"/>
-  <Game id="GNEE78" title="Finding Nemo"/>
-  <Game id="GNEF78" title="Finding Nemo"/>
-  <Game id="GNEP78" title="Finding Nemo"/>
-  <Game id="GNES78" title="Finding Nemo"/>
-  <Game id="GNFE5D" title="NFL Blitz 2002"/>
-  <Game id="GNGE69" title="NCAA Football 2003"/>
-  <Game id="GNHE5d" title="NHL Hitz 2002"/>
-  <Game id="GNHP5D" title="NHL Hitz 20-02"/>
-  <Game id="GNIEA4" title="Teenage Mutant Ninja Turtles 2: Battle Nexus"/>
-  <Game id="GNIPA4" title="Teenage Mutant Ninja Turtles 2: Battle Nexus"/>
-  <Game id="GNJEAF" title="I-Ninja"/>
-  <Game id="GNKE8P" title="NCAA College Basketball 2K3"/>
-  <Game id="GNLE69" title="NBA Live 2003"/>
-  <Game id="GNLP69" title="NBA Live 2003"/>
-  <Game id="GNMEAF" title="Namco Museum"/>
-  <Game id="GNNE69" title="NFL Street"/>
-  <Game id="GNNP69" title="NFL Street"/>
-  <Game id="GNOE78" title="Nicktoons Unite!"/>
-  <Game id="GNOX78" title="SpongeBob SquarePants &amp; Friends: Unite!"/>
-  <Game id="GNPP70" title="Nickelodeon Party Blast"/>
-  <Game id="GNQE69" title="Madden NFL 2005"/>
-  <Game id="GNQP69" title="Madden NFL 2005"/>
-  <Game id="GNREDA" title="Naruto Clash of Ninja"/>
-  <Game id="GNRJDA" title="Naruto: Gekitô Ninja Taisen!"/>
-  <Game id="GNSE69" title="NBA Street"/>
-  <Game id="GNSJ13" title="NBA Street"/>
-  <Game id="GNUEDA" title="Naruto Clash of Ninja 2"/>
-  <Game id="GNUJDA" title="Naruto: Gekitou Ninja Taisen! 2"/>
-  <Game id="GNUPDA" title="Naruto: Clash of Ninja - European Version"/>
-  <Game id="GNVE69" title="NHL 2004"/>
-  <Game id="GNVP69" title="NHL 2004"/>
-  <Game id="GNWE69" title="Def Jam: Fight For NY"/>
-  <Game id="GNWP69" title="Def Jam: Fight For NY"/>
-  <Game id="GNXE69" title="NCAA Football 2004"/>
-  <Game id="GNZE69" title="NBA Street Vol.2"/>
-  <Game id="GNZP69" title="NBA Street Vol.2"/>
-  <Game id="GO2D4F" title="Blood Omen 2: The Legacy of Kain Series"/>
-  <Game id="GO2E4F" title="Blood Omen 2: The Legacy of Kain Series"/>
-  <Game id="GO2F4F" title="Blood Omen 2: The Legacy of Kain Series"/>
-  <Game id="GO2P4F" title="Blood Omen 2: The Legacy of Kain Series"/>
-  <Game id="GO3E5D" title="NFL Blitz 2003"/>
-  <Game id="GO7D69" title="James Bond 007: NightFire"/>
-  <Game id="GO7E69" title="007: NightFire"/>
-  <Game id="GO7F69" title="James Bond 007: NightFire"/>
-  <Game id="GO7P69" title="James Bond 007: NightFire"/>
-  <Game id="GO7S69" title="James Bond 007: NightFire"/>
-  <Game id="GOAE52" title="Cabela's Outdoor Adventures"/>
-  <Game id="GOBE4Z" title="Bad Boys: Miami Takedown"/>
-  <Game id="GOBP7N" title="Bad Boys II"/>
-  <Game id="GOCE5D" title="RoadKill"/>
-  <Game id="GODJGA" title="Ohenro-San: Hosshin no Dojo"/>
-  <Game id="GOFE7L" title="Outlaw Golf"/>
-  <Game id="GOFP6S" title="Outlaw Golf"/>
-  <Game id="GOGJB2" title="One Piece: Grand Battle! 3"/>
-  <Game id="GOME01" title="Mario Power Tennis"/>
-  <Game id="GOMJ01" title="Mario Tennis GC"/>
-  <Game id="GOMP01" title="Mario Power Tennis"/>
-  <Game id="GOND69" title="Medal of Honor: European Assault"/>
-  <Game id="GONE69" title="Medal of Honor: European Assault"/>
-  <Game id="GONF69" title="Medal of Honor: European Assault"/>
-  <Game id="GONJ13" title="Medal of Honor: Europa Kyoushuu"/>
-  <Game id="GONP69" title="Medal of Honor: European Assault"/>
-  <Game id="GOOE01" title="Odama"/>
-  <Game id="GOOJ01" title="Odama"/>
-  <Game id="GOOP01" title="Odama"/>
-  <Game id="GOPEB2" title="Shonen Jump's One Piece: Grand Battle"/>
-  <Game id="GOPJB2" title="One Piece: Grand Battle! Rush"/>
-  <Game id="GOQE82" title="One Piece: Grand Adventure"/>
-  <Game id="GOQEAF" title="Shonen Jump's One Piece: Grand Adventure"/>
-  <Game id="GOSE41" title="Open Season"/>
-  <Game id="GOSP41" title="Open Season"/>
-  <Game id="GOSX41" title="Open Season"/>
-  <Game id="GOTJB2" title="One Piece: Treasure Battle!"/>
-  <Game id="GOUPNK" title="Cocoto Funfair"/>
-  <Game id="GOWD69" title="Need for Speed: Most Wanted"/>
-  <Game id="GOWE69" title="Need for Speed: Most Wanted"/>
-  <Game id="GOWF69" title="Need for Speed: Most Wanted"/>
-  <Game id="GOWJ13" title="Need for Speed: Most Wanted"/>
-  <Game id="GOWP69" title="Need for Speed: Most Wanted"/>
-  <Game id="GOYD69" title="GoldenEye: Rogue Agent"/>
-  <Game id="GOYE69" title="GoldenEye: Rogue Agent"/>
-  <Game id="GOYF69" title="GoldenEye: Rogue Agent"/>
-  <Game id="GOYP69" title="GoldenEye: Rogue Agent"/>
-  <Game id="GOYS69" title="GoldenEye: Rogue Agent"/>
-  <Game id="GP2EAF" title="Pac-Man World 2"/>
-  <Game id="GP2P69" title="Pac-Man World 2"/>
-  <Game id="GP3E78" title="The Polar Express"/>
-  <Game id="GP3P78" title="The Polar Express"/>
-  <Game id="GP4J18" title="Hudson Selection Vol. 3: Bonk's Adventure"/>
-  <Game id="GP5E01" title="Mario Party 5"/>
-  <Game id="GP5J01" title="Mario Party 5"/>
-  <Game id="GP5P01" title="Mario Party 5"/>
-  <Game id="GP5W01" title="Mario Party 5"/>
-  <Game id="GP6E01" title="Mario Party 6"/>
-  <Game id="GP6J01" title="Mario Party 6"/>
-  <Game id="GP6P01" title="Mario Party 6"/>
-  <Game id="GP7E01" title="Mario Party 7"/>
-  <Game id="GP7J01" title="Mario Party 7"/>
-  <Game id="GP7P01" title="Mario Party 7"/>
-  <Game id="GP8EAF" title="Pac-Man World 3"/>
-  <Game id="GP8P69" title="Pac-Man World 3"/>
-  <Game id="GP9E7F" title="Rogue Ops"/>
-  <Game id="GP9J28" title="Rogue Ops"/>
-  <Game id="GP9P7F" title="Rogue Ops"/>
-  <Game id="GPAE01" title="Pokémon Channel"/>
-  <Game id="GPAJ01" title="Pokémon Channel"/>
-  <Game id="GPAP01" title="Pokémon Channel"/>
-  <Game id="GPAU01" title="Pokémon Channel"/>
-  <Game id="GPDE51" title="Dakar 2: The World's Ultimate Rally"/>
-  <Game id="GPDP51" title="Dakar 2: The World's Ultimate Rally"/>
-  <Game id="GPEJ2Q" title="Pool Edge"/>
-  <Game id="GPHD52" title="Pitfall: The Lost Expedition"/>
-  <Game id="GPHE52" title="Pitfall: The Lost Expedition"/>
-  <Game id="GPHF52" title="Pitfall: The Lost Expedition"/>
-  <Game id="GPHP52" title="Pitfall: The Lost Expedition"/>
-  <Game id="GPIE01" title="Pikmin"/>
-  <Game id="GPIJ01" title="Pikmin"/>
-  <Game id="GPIP01" title="Pikmin"/>
-  <Game id="GPJJCM" title="Jikkyou Powerful Pro Yakyuu 10"/>
-  <Game id="GPKE41" title="Disney's PK Out of the Shadows"/>
-  <Game id="GPLD9G" title="Piglet's Big Game"/>
-  <Game id="GPLE9G" title="Piglet's Big Game"/>
-  <Game id="GPLF9G" title="Piglet's Big Game"/>
-  <Game id="GPLP9G" title="Piglet's Big Game"/>
-  <Game id="GPMEAF" title="Pac Man Fever"/>
-  <Game id="GPNE08" title="P.N.03"/>
-  <Game id="GPNJ08" title="P.N.03"/>
-  <Game id="GPNP08" title="P.N.03"/>
-  <Game id="GPOE8P" title="Phantasy Star Online Episode I &amp; II"/>
-  <Game id="GPOJ8P" title="Phantasy Star Online Episode I &amp; II"/>
-  <Game id="GPOP8P" title="Phantasy Star Online Episode I&amp;II"/>
-  <Game id="GPPJCM" title="Jikkyou Powerful Pro Yakyuu 9"/>
-  <Game id="GPQE6L" title="The Powerpuff Girls: Relish Rampage"/>
-  <Game id="GPQP6L" title="The Powerpuff Girls: Relish Rampage"/>
-  <Game id="GPRE7U" title="Pool Paradise"/>
-  <Game id="GPRP7U" title="Pool Paradise"/>
-  <Game id="GPSE8P" title="Phantasy Star Online Episode III: C.A.R.D. Revolution"/>
-  <Game id="GPSJ8P" title="Phantasy Star Online Episode III: C.A.R.D. Revolution"/>
-  <Game id="GPSP8P" title="Phantasy Star Online Episode III: C.A.R.D. Revolution"/>
-  <Game id="GPTE41" title="Prince of Persia: The Sands of Time"/>
-  <Game id="GPTP41" title="Prince of Persia: The Sands of Time"/>
-  <Game id="GPUE8P" title="Puyo Pop Fever"/>
-  <Game id="GPUP8P" title="Puyo Pop Fever"/>
-  <Game id="GPVE01" title="Pikmin 2"/>
-  <Game id="GPVJ01" title="Pikmin 2"/>
-  <Game id="GPVP01" title="Pikmin 2"/>
-  <Game id="GPWEAF" title="Spawn: Armageddon"/>
-  <Game id="GPWP69" title="Spawn: Armageddon"/>
-  <Game id="GPXE01" title="Pokémon Box: Ruby &amp; Sapphire"/>
-  <Game id="GPXJ01" title="Pokémon Box: Ruby &amp; Sapphire"/>
-  <Game id="GPXP01" title="Pokémon Box: Ruby &amp; Sapphire"/>
-  <Game id="GPYJ8P" title="Puyo Pop Fever"/>
-  <Game id="GPZJ01" title="Nintendo Puzzle Collection"/>
-  <Game id="GQ4D78" title="SpongeBob SquarePants: Creature from the Krusty Krab"/>
-  <Game id="GQ4E78" title="SpongeBob SquarePants: Creature from the Krusty Krab"/>
-  <Game id="GQ4F78" title="SpongeBob SquarePants: Creature from the Krusty Krab"/>
-  <Game id="GQ4H78" title="SpongeBob SquarePants: Creatuur van de Krokante Krab"/>
-  <Game id="GQ4P78" title="SpongeBob SquarePants: Creature from the Krusty Krab"/>
-  <Game id="GQ8E69" title="Madden NFL 08"/>
-  <Game id="GQAJA7" title="Choro Q!"/>
-  <Game id="GQBE51" title="NFL Quarterback Club 2002"/>
-  <Game id="GQCD52" title="Call of Duty 2: Big Red One"/>
-  <Game id="GQCE52" title="Call of Duty 2: Big Red One"/>
-  <Game id="GQCF52" title="Call of Duty 2: Big Red One"/>
-  <Game id="GQCI52" title="Call of Duty 2: Big Red One"/>
-  <Game id="GQCP52" title="Call of Duty 2: Big Red One"/>
-  <Game id="GQCS52" title="Call of Duty 2: Big Red One"/>
-  <Game id="GQFFFK" title="Franklin: A Birthday Surprise"/>
-  <Game id="GQLE9G" title="Dora the Explorer: Journey to the Purple Planet"/>
-  <Game id="GQLP54" title="Dora the Explorer: Journey to the Purple Planet"/>
-  <Game id="GQNE5D" title="Mortal Kombat: Deception"/>
-  <Game id="GQPE78" title="SpongeBob SquarePants: Battle for Bikini Bottom"/>
-  <Game id="GQPP78" title="SpongeBob Squarepants: Battle For Bikini Bottom"/>
-  <Game id="GQQD78" title="SpongeBob SquarePants: Lights, Camera, Pants!"/>
-  <Game id="GQQE78" title="SpongeBob SquarePants: Lights, Camera, Pants!"/>
-  <Game id="GQQF78" title="SpongeBob SquarePants: Lights, Camera, Pants!"/>
-  <Game id="GQQH78" title="SpongeBob SquarePants: Lights, Camera, Pants!"/>
-  <Game id="GQQP78" title="SpongeBob SquarePants: Lights, Camera, Pants!"/>
-  <Game id="GQRJ18" title="Hudson Selection Vol. 1: Cubic Lode Runner"/>
-  <Game id="GQSDAF" title="Tales of Symphonia"/>
-  <Game id="GQSEAF" title="Tales of Symphonia"/>
-  <Game id="GQSFAF" title="Tales of Symphonia"/>
-  <Game id="GQSIAF" title="Tales of Symphonia"/>
-  <Game id="GQSPAF" title="Tales of Symphonia"/>
-  <Game id="GQSSAF" title="Tales of Symphonia"/>
-  <Game id="GQTE4Q" title="Meet the Robinsons"/>
-  <Game id="GQWE69" title="Harry Potter: Quidditch World Cup"/>
-  <Game id="GQWJ13" title="Harry Potter World Cup"/>
-  <Game id="GQWP69" title="Harry Potter: Quidditch World Cup"/>
-  <Game id="GQWX69" title="Harry Potter: Quidditch World Cup"/>
-  <Game id="GQXE69" title="Madden NFL 2004"/>
-  <Game id="GQXP69" title="Madden NFL 2004"/>
-  <Game id="GQZJ01" title="Densetsu no Quiz Ou Ketteisen"/>
-  <Game id="GR2E52" title="Lost Kingdoms II"/>
-  <Game id="GR2JCQ" title="Rune II: Koruten no Kagi no Himitsu"/>
-  <Game id="GR2P52" title="Lost Kingdoms 2"/>
-  <Game id="GR3E5D" title="Red Card 2003"/>
-  <Game id="GR4EMZ" title="MC Groovz Dance Craze"/>
-  <Game id="GR4PMZ" title="MC Groovz Dance Craze"/>
-  <Game id="GR5J1K" title="Robocop: Aratanaru Kiki"/>
-  <Game id="GR6D78" title="Bratz: Rock Angelz"/>
-  <Game id="GR6E78" title="Bratz: Rock Angelz"/>
-  <Game id="GR6F78" title="Bratz: Rock Angelz"/>
-  <Game id="GR6P78" title="Bratz: Rock Angelz"/>
-  <Game id="GR8D69" title="Medal of Honor: Rising Sun"/>
-  <Game id="GR8E69" title="Medal of Honor: Rising Sun"/>
-  <Game id="GR8F69" title="Medal of Honor: Rising Sun"/>
-  <Game id="GR8P69" title="Medal of Honor: Rising Sun"/>
-  <Game id="GR9E6L" title="Reign of Fire"/>
-  <Game id="GR9P6L" title="Reign of Fire"/>
-  <Game id="GRAE5Z" title="Rally Championship"/>
-  <Game id="GRAP75" title="Rally Championship"/>
-  <Game id="GRBE6S" title="Robotech: Battlecry"/>
-  <Game id="GRBP6S" title="Robotech: Battlecry"/>
-  <Game id="GRDP5D" title="RedCard"/>
-  <Game id="GREE08" title="Mega Man Network Transmission"/>
-  <Game id="GREJ08" title="RockMan EXE Transmission"/>
-  <Game id="GREP08" title="Mega Man Network Transmission"/>
-  <Game id="GRFD78" title="Red Faction II"/>
-  <Game id="GRFE78" title="Red Faction II"/>
-  <Game id="GRFF78" title="Red Faction II"/>
-  <Game id="GRFP78" title="Red Faction II"/>
-  <Game id="GRHE41" title="Rayman 3: Hoodlum Havoc"/>
-  <Game id="GRHP41" title="Rayman 3: Hoodlum Havoc"/>
-  <Game id="GRJEAF" title="R: Racing Evolution"/>
-  <Game id="GRJJAF" title="R: Racing Evolution: Life in the Fast Lane"/>
-  <Game id="GRJP69" title="R: Racing"/>
-  <Game id="GRKE41" title="Rocky"/>
-  <Game id="GRKP7G" title="Rocky"/>
-  <Game id="GRLE41" title="Pro Rally"/>
-  <Game id="GRLP41" title="Pro Rally"/>
-  <Game id="GRMJDA" title="Monopoly: Mezase!! Daifugou Jinsei!!"/>
-  <Game id="GRNE52" title="Lost Kingdoms"/>
-  <Game id="GRNJCQ" title="Rune"/>
-  <Game id="GRNP52" title="Lost Kingdoms"/>
-  <Game id="GROE5Z" title="Road Trip: The Arcade Edition"/>
-  <Game id="GROP7J" title="Gadget Racers"/>
-  <Game id="GRQE41" title="City Racer"/>
-  <Game id="GRRE78" title="Rugrats: Royal Ransom"/>
-  <Game id="GRRF78" title="Rugrats: Royal Ransom"/>
-  <Game id="GRRP78" title="Rugrats: Royal Ransom"/>
-  <Game id="GRSEAF" title="SoulCalibur II"/>
-  <Game id="GRSJAF" title="SoulCalibur II"/>
-  <Game id="GRSPAF" title="SoulCalibur II"/>
-  <Game id="GRUE78" title="Power Rangers Dino Thunder"/>
-  <Game id="GRUF78" title="Power Rangers Dino Thunder"/>
-  <Game id="GRUP78" title="Power Rangers Dino Thunder"/>
-  <Game id="GRVEA4" title="Rave Master"/>
-  <Game id="GRVJA4" title="Groove Adventure Rave - Fighting Live"/>
-  <Game id="GRWJD9" title="Super Robot Taisen GC"/>
-  <Game id="GRYE41" title="Rayman Arena"/>
-  <Game id="GRZJ13" title="Medal of Honor: Rising Sun"/>
-  <Game id="GS2D78" title="Summoner: A Goddess Reborn"/>
-  <Game id="GS2E78" title="Summoner: A Goddess Reborn"/>
-  <Game id="GS2F78" title="Summoner: La Déesse Réincarnée"/>
-  <Game id="GS2P78" title="Summoner: A Goddess Reborn"/>
-  <Game id="GS3E51" title="SX Superstar"/>
-  <Game id="GS3P51" title="SX Superstar"/>
-  <Game id="GS7E5D" title="MLB SlugFest 2004"/>
-  <Game id="GS8E7D" title="Spyro: Enter the Dragonfly"/>
-  <Game id="GS8P7D" title="Spyro: Enter the Dragonfly"/>
-  <Game id="GS9E6S" title="Shrek Extra Large"/>
-  <Game id="GS9P6S" title="Shrek Extra Large"/>
-  <Game id="GSAE01" title="Star Fox: Adventures"/>
-  <Game id="GSAJ01" title="Star Fox: Adventures"/>
-  <Game id="GSAP01" title="Star Fox: Adventures"/>
-  <Game id="GSBJ8P" title="Sonic Adventure 2: Battle"/>
-  <Game id="GSCE51" title="Jeremy McGrath SuperCross World"/>
-  <Game id="GSCP51" title="Jeremy McGrath SuperCross World"/>
-  <Game id="GSDEAF" title="Smashing Drive"/>
-  <Game id="GSEJB2" title="Shaman King: Soul Fight"/>
-  <Game id="GSGE5D" title="MLB SlugFest 2003"/>
-  <Game id="GSHE5D" title="SpyHunter"/>
-  <Game id="GSHP5D" title="SpyHunter"/>
-  <Game id="GSKE7D" title="The Scorpion King: Rise of the Akkadian"/>
-  <Game id="GSKP7D" title="The Scorpion King: Rise of the Akkadian"/>
-  <Game id="GSMD52" title="Spider-Man"/>
-  <Game id="GSME52" title="Spider-Man: The Movie"/>
-  <Game id="GSMF52" title="Spider-Man"/>
-  <Game id="GSMJ08" title="Spider-Man: The Movie"/>
-  <Game id="GSMP52" title="Spider-Man"/>
-  <Game id="GSNE8P" title="Sonic Adventure 2: Battle"/>
-  <Game id="GSNP8P" title="Sonic Adventure 2: Battle"/>
-  <Game id="GSOE8P" title="Sonic Mega Collection"/>
-  <Game id="GSOJ8P" title="Sonic Mega Collection"/>
-  <Game id="GSOP8P" title="Sonic Mega Collection"/>
-  <Game id="GSPE69" title="The Simpsons: Road Rage"/>
-  <Game id="GSPP69" title="The Simpsons: Road Rage"/>
-  <Game id="GSQE78" title="SpongeBob SquarePants: Revenge of the Flying Dutchman"/>
-  <Game id="GSQP78" title="SpongeBob SquarePants: Revenge of the Flying Dutchman"/>
-  <Game id="GSRE7S" title="Smuggler's Run: Warzones"/>
-  <Game id="GSRP7S" title="Smuggler's Run: Warzones"/>
-  <Game id="GSSE8P" title="Sega Soccer Slam"/>
-  <Game id="GSSJ8P" title="Sega Soccer Slam"/>
-  <Game id="GSSP8P" title="Sega Soccer Slam"/>
-  <Game id="GSTE69" title="SSX Tricky"/>
-  <Game id="GSTJ13" title="SSX Tricky"/>
-  <Game id="GSTP69" title="SSX Tricky"/>
-  <Game id="GSUE70" title="Superman: Shadow of Apokolips"/>
-  <Game id="GSUP70" title="Superman: Shadow of Apokolips"/>
-  <Game id="GSVE78" title="MX Superfly featuring Ricky Carmichael"/>
-  <Game id="GSVP78" title="MX Superfly featuring Ricky Carmichael"/>
-  <Game id="GSWD64" title="Star Wars Rogue Squadron II: Rogue Leader"/>
-  <Game id="GSWE64" title="Star Wars Rogue Squadron II: Rogue Leader"/>
-  <Game id="GSWF64" title="Star Wars Rogue Squadron II: Rogue Leader"/>
-  <Game id="GSWI64" title="Star Wars Rogue Squadron II: Rogue Leader"/>
-  <Game id="GSWJ13" title="Star Wars Rogue Squadron II"/>
-  <Game id="GSWP64" title="Star Wars Rogue Squadron II: Rogue Leader"/>
-  <Game id="GSWS64" title="Star Wars Rogue Leader: Rogue Squadron II"/>
-  <Game id="GSXD64" title="Star Wars: The Clone Wars"/>
-  <Game id="GSXE64" title="Star Wars: The Clone Wars"/>
-  <Game id="GSXF64" title="Star Wars: The Clone Wars"/>
-  <Game id="GSXI64" title="Star Wars: The Clone Wars"/>
-  <Game id="GSXJ13" title="Star Wars: Clone Sensou"/>
-  <Game id="GSXP64" title="Star Wars: The Clone Wars"/>
-  <Game id="GSXS64" title="Star Wars: The Clone Wars"/>
-  <Game id="GSYE6S" title="Shrek: Super Party"/>
-  <Game id="GSYP6S" title="Shrek: Super Party"/>
-  <Game id="GSZP41" title="Speed Challenge: Jacques Villeneuve Racing Vision"/>
-  <Game id="GT2J18" title="Tengai Makyou 2: Manji Maru"/>
-  <Game id="GT3D52" title="Tony Hawk's Pro Skater 3"/>
-  <Game id="GT3E52" title="Tony Hawk's Pro Skater 3"/>
-  <Game id="GT3F52" title="Tony Hawk's Pro Skater 3"/>
-  <Game id="GT3J52" title="Tony Hawk's Pro Skater 3"/>
-  <Game id="GT3P52" title="Tony Hawk's Pro Skater 3"/>
-  <Game id="GT4D52" title="Tony Hawk's Pro Skater 4"/>
-  <Game id="GT4E52" title="Tony Hawk's Pro Skater 4"/>
-  <Game id="GT4F52" title="Tony Hawk's Pro Skater 4"/>
-  <Game id="GT4P52" title="Tony Hawk's Pro Skater 4"/>
-  <Game id="GT5E7N" title="Starsky &amp; Hutch"/>
-  <Game id="GT5P7N" title="Starsky &amp; Hutch"/>
-  <Game id="GT6E70" title="Terminator 3: The Redemption"/>
-  <Game id="GT6J70" title="Terminator 3: The Redemption"/>
-  <Game id="GT6P70" title="Terminator 3: The Redemption"/>
-  <Game id="GT7E41" title="Tom Clancy's Splinter Cell: Pandora Tomorrow"/>
-  <Game id="GT7P41" title="Tom Clancy's Splinter Cell: Pandora Tomorrow"/>
-  <Game id="GT7X41" title="Tom Clancy's Splinter Cell: Pandora Tomorrow"/>
-  <Game id="GT8E78" title="Big Mutha Truckers"/>
-  <Game id="GT8P7N" title="Big Mutha Truckers"/>
-  <Game id="GTAE5S" title="Top Angler: Real Bass Fishing"/>
-  <Game id="GTAP5S" title="Top Angler: Real Bass Fishing"/>
-  <Game id="GTBJC0" title="NHK Tensai Bit-Kun - Gramon Battle"/>
-  <Game id="GTCJBL" title="GT Cube"/>
-  <Game id="GTDE52" title="Tony Hawk's Underground"/>
-  <Game id="GTDP52" title="Tony Hawk's Underground"/>
-  <Game id="GTEE01" title="1080° Avalanche"/>
-  <Game id="GTEJ01" title="1080° Silver Storm"/>
-  <Game id="GTEP01" title="1080° Avalanche"/>
-  <Game id="GTFEA4" title="Teenage Mutant Ninja Turtles"/>
-  <Game id="GTFPA4" title="Teenage Mutant Ninja Turtles"/>
-  <Game id="GTGE60" title="Top Gun: Combat Zones"/>
-  <Game id="GTGJ1K" title="Top Gun - Ace of the Sky"/>
-  <Game id="GTGP60" title="Top Gun: Combat Zones"/>
-  <Game id="GTHJD9" title="Charinko Hero"/>
-  <Game id="GTIE69" title="Tiger Woods PGA Tour 2003"/>
-  <Game id="GTIP69" title="Tiger Woods PGA Tour 2003"/>
-  <Game id="GTJE5L" title="Tom &amp; Jerry in War of the Whiskers"/>
-  <Game id="GTKD51" title="Turok Evolution"/>
-  <Game id="GTKE51" title="Turok Evolution"/>
-  <Game id="GTKP51" title="Turok Evolution"/>
-  <Game id="GTLE52" title="True Crime: Streets of LA"/>
-  <Game id="GTLP52" title="True Crime: Streets of LA"/>
-  <Game id="GTLX52" title="True Crime: Streets of LA"/>
-  <Game id="GTMJDA" title="Mutsu To Nohohon"/>
-  <Game id="GTNJ18" title="Hudson Selection Vol. 4: Adventure Island"/>
-  <Game id="GTOJAF" title="Tales of Symphonia"/>
-  <Game id="GTPP6S" title="Knights Of The Temple: Infernal Crusade"/>
-  <Game id="GTQE6S" title="Tonka: Rescue Patrol"/>
-  <Game id="GTRE78" title="Tetris Worlds"/>
-  <Game id="GTRJ8N" title="Tetris Worlds"/>
-  <Game id="GTRP78" title="Tetris Worlds"/>
-  <Game id="GTSE4F" title="TimeSplitters 2"/>
-  <Game id="GTSP4F" title="TimeSplitters 2"/>
-  <Game id="GTUE8G" title="Tube Slider - The Championship of Future Formula"/>
-  <Game id="GTVE70" title="Transworld Surf: Next Wave"/>
-  <Game id="GTWE70" title="Taz Wanted"/>
-  <Game id="GTWP70" title="Taz Wanted"/>
-  <Game id="GTYE69" title="Ty the Tasmanian Tiger"/>
-  <Game id="GTYP69" title="Ty the Tasmanian Tiger"/>
-  <Game id="GTZE41" title="Tarzan Untamed"/>
-  <Game id="GTZP41" title="Tarzan Freeride"/>
-  <Game id="GU2D78" title="2 Games in 1: The Incredibles / Finding Nemo"/>
-  <Game id="GU2F78" title="2 Games in 1: The Incredibles / Finding Nemo"/>
-  <Game id="GU3D78" title="2 Games in 1: The SpongeBob SquarePants Movie / Tak 2: The Staff of Dreams"/>
-  <Game id="GU3X78" title="2 Games in 1: The SpongeBob SquarePants Movie / Tak 2: The Staff of Dreams"/>
-  <Game id="GU4Y78" title="2 Games in 1: The SpongeBob SquarePants Movie / Battle for Bikini Bottom"/>
-  <Game id="GU6E78" title="Nicktoons - Battle for Volcano Island"/>
-  <Game id="GUBE69" title="The Urbz: Sims in the City"/>
-  <Game id="GUBJ13" title="The Urbz: Sims In The City"/>
-  <Game id="GUBP69" title="The Urbz: Sims in the City"/>
-  <Game id="GUCD69" title="UEFA Champions League 2004-2005"/>
-  <Game id="GUCF69" title="UEFA Champions League 2004-2005"/>
-  <Game id="GUCP69" title="UEFA Champions League 2004-2005"/>
-  <Game id="GUFE4Z" title="Ultimate Fighting Championship Throwdown"/>
-  <Game id="GUFJ08" title="UFC2 Tapout Final Spec"/>
-  <Game id="GUFP4Z" title="UFC: Throwdown"/>
-  <Game id="GUGD69" title="Need for Speed: Underground 2"/>
-  <Game id="GUGE69" title="Need for Speed: Underground 2"/>
-  <Game id="GUGF69" title="Need for Speed: Underground 2"/>
-  <Game id="GUGP69" title="Need for Speed: Underground 2"/>
-  <Game id="GUMD52" title="Gun"/>
-  <Game id="GUME52" title="Gun"/>
-  <Game id="GUMP52" title="Gun"/>
-  <Game id="GUNE5D" title="Gauntlet: Dark Legacy"/>
-  <Game id="GUNP5D" title="Gauntlet: Dark Legacy"/>
-  <Game id="GUPE8P" title="Shadow the Hedgehog"/>
-  <Game id="GUPJ8P" title="Shadow the Hedgehog"/>
-  <Game id="GUPP8P" title="Shadow the Hedgehog"/>
-  <Game id="GUSE7F" title="Universal Studios Theme Park Adventure"/>
-  <Game id="GUSJ28" title="Universal Studios Japan Adventure"/>
-  <Game id="GUSP7F" title="Universal Studios Theme Park Adventure"/>
-  <Game id="GUTD52" title="Ultimate Spider-Man"/>
-  <Game id="GUTE52" title="Ultimate Spider-Man"/>
-  <Game id="GUTF52" title="Ultimate Spider-Man"/>
-  <Game id="GUTI52" title="Ultimate Spider-Man"/>
-  <Game id="GUTJC0" title="Ultimate Spider-Man"/>
-  <Game id="GUTP52" title="Ultimate Spider-Man"/>
-  <Game id="GUTS52" title="Ultimate Spider-Man"/>
-  <Game id="GUVE51" title="Freestyle Street Soccer"/>
-  <Game id="GUVP51" title="Urban Freestyle Soccer"/>
-  <Game id="GUZE41" title="Batman: Rise of Sin Tzu"/>
-  <Game id="GUZP41" title="Batman Rise of Sin Tzu"/>
-  <Game id="GV3J70" title="V-Rally 3"/>
-  <Game id="GV3P70" title="V-Rally 3"/>
-  <Game id="GV4E69" title="MVP Baseball 2005"/>
-  <Game id="GVCE08" title="Viewtiful Joe: Red Hot Rumble"/>
-  <Game id="GVCJ08" title="Viewtiful Joe: Battle Carnival"/>
-  <Game id="GVCP08" title="Viewtiful Joe: Red Hot Rumble"/>
-  <Game id="GVDE78" title="Bratz Forever Diamondz"/>
-  <Game id="GVDP78" title="Bratz Forever Diamondz"/>
-  <Game id="GVFJ08" title="Viewtiful Joe Revival"/>
-  <Game id="GVHE4F" title="Bionicle Heroes"/>
-  <Game id="GVJE08" title="Viewtiful Joe"/>
-  <Game id="GVJJ08" title="Viewtiful Joe"/>
-  <Game id="GVJP08" title="Viewtiful Joe"/>
-  <Game id="GVKE52" title="Cabela's Dangerous Hunts 2"/>
-  <Game id="GVLD69" title="Marvel Nemesis: Rise of the Imperfects"/>
-  <Game id="GVLE69" title="Marvel Nemesis: Rise of the Imperfects"/>
-  <Game id="GVLF69" title="Marvel Nemesis: Rise of the Imperfects"/>
-  <Game id="GVLP69" title="Marvel Nemesis: Rise of the Imperfects"/>
-  <Game id="GVMP41" title="Super Bust-A-Move All Stars"/>
-  <Game id="GVOE69" title="Bionicle"/>
-  <Game id="GVOP69" title="Bionicle"/>
-  <Game id="GVPE69" title="MVP Baseball 2004"/>
-  <Game id="GVRE7H" title="Grooverider Slot Car Thunder"/>
-  <Game id="GVS45E" title="Virtua Striker 4"/>
-  <Game id="GVSE8P" title="Virtua Striker 2002"/>
-  <Game id="GVSJ8P" title="VIRTUA STRIKER 3 ver.2002"/>
-  <Game id="GVSP8P" title="Virtua Striker 3 Ver. 2002"/>
-  <Game id="GVWJDQ" title="Gakuen Toshi Vara Noir Roses"/>
-  <Game id="GW2E78" title="WWE Day of Reckoning 2"/>
-  <Game id="GW2P78" title="WWE Day of Reckoning 2"/>
-  <Game id="GW3E78" title="WWE WrestleMania X8"/>
-  <Game id="GW3JG2" title="WWE WrestleMania X8"/>
-  <Game id="GW3P78" title="WWE Wrestlemania X8"/>
-  <Game id="GW4E69" title="Tiger Woods PGA Tour 2004"/>
-  <Game id="GW4P69" title="Tiger Woods PGA Tour 2004"/>
-  <Game id="GW5D69" title="Need for Speed: Carbon"/>
-  <Game id="GW5E69" title="Need for Speed: Carbon"/>
-  <Game id="GW5F69" title="Need for Speed: Carbon"/>
-  <Game id="GW5P69" title="Need for Speed: Carbon"/>
-  <Game id="GW6JEM" title="Winning Eleven 6 Final Evolution"/>
-  <Game id="GW7D69" title="James Bond 007 in Agent Under Fire"/>
-  <Game id="GW7E69" title="James Bond 007 in Agent Under Fire"/>
-  <Game id="GW7F69" title="James Bond 007 in Agent Under Fire"/>
-  <Game id="GW7P69" title="James Bond 007 in Agent Under Fire"/>
-  <Game id="GW8E52" title="World Series of Poker"/>
-  <Game id="GW9E78" title="WWE WrestleMania XIX"/>
-  <Game id="GW9JG2" title="WWE WrestleMania XIX"/>
-  <Game id="GW9P78" title="WWE WrestleMania XIX"/>
-  <Game id="GWAD8P" title="Spartan Total Warrior"/>
-  <Game id="GWAE8P" title="Spartan Total Warrior"/>
-  <Game id="GWAF8P" title="Spartan Total Warrior"/>
-  <Game id="GWAP8P" title="Spartan Total Warrior"/>
-  <Game id="GWBE41" title="Worms Blast"/>
-  <Game id="GWBP41" title="Worms Blast"/>
-  <Game id="GWDP6S" title="World Racing"/>
-  <Game id="GWEE51" title="18 Wheeler: American Pro Trucker"/>
-  <Game id="GWEJB0" title="18 Wheeler: American Pro Trucker"/>
-  <Game id="GWEP8P" title="18 Wheeler American Pro Trucker"/>
-  <Game id="GWGE4F" title="Swingerz Golf"/>
-  <Game id="GWGJ4F" title="Wai Wai Golf"/>
-  <Game id="GWGP4F" title="Ace Golf"/>
-  <Game id="GWHE41" title="Winnie The Pooh Rumbly Tumbly Adventures"/>
-  <Game id="GWHP41" title="Winnie the Pooh's Rumbly Tumbly Adventure"/>
-  <Game id="GWJE52" title="Tony Hawk's American Wasteland"/>
-  <Game id="GWKE41" title="Peter Jackson's King Kong: The Official Game of the Movie"/>
-  <Game id="GWKP41" title="Peter Jackson's King Kong: The Official Game of the Movie"/>
-  <Game id="GWLE6L" title="Wallace &amp; Gromit in Project Zoo"/>
-  <Game id="GWLP6L" title="Wallace &amp; Gromit: Project Zoo"/>
-  <Game id="GWLX6L" title="Wallace &amp; Gromit in Project Zoo"/>
-  <Game id="GWME51" title="Worms 3D"/>
-  <Game id="GWMP8P" title="Worms 3D"/>
-  <Game id="GWOE5G" title="Blowout"/>
-  <Game id="GWPE78" title="WWE Day of Reckoning"/>
-  <Game id="GWPJG2" title="WWE Day of Reckoning"/>
-  <Game id="GWPP78" title="WWE Day of Reckoning"/>
-  <Game id="GWQE52" title="Wreckless: The Yakuza Missions"/>
-  <Game id="GWQP52" title="Wreckless: The Yakuza Missions"/>
-  <Game id="GWRE01" title="Wave Race: Blue Storm"/>
-  <Game id="GWRJ01" title="Wave Race: Blue Storm"/>
-  <Game id="GWRP01" title="Wave Race: Blue Storm"/>
-  <Game id="GWSEA4" title="ESPN International Winter Sports 2002"/>
-  <Game id="GWSJA4" title="Hyper Sports 2002 Winter"/>
-  <Game id="GWSPA4" title="ESPN International Winter Sports"/>
-  <Game id="GWTEA4" title="WTA Tour Tennis"/>
-  <Game id="GWTJA4" title="WTA Tour Tennis"/>
-  <Game id="GWTPA4" title="Pro Tennis WTA Tour"/>
-  <Game id="GWUE7D" title="Whirl Tour"/>
-  <Game id="GWUP7D" title="Whirl Tour"/>
-  <Game id="GWVE52" title="X2: Wolverine's Revenge"/>
-  <Game id="GWVP52" title="X-Men 2: Wolverine's Revenge"/>
-  <Game id="GWVX52" title="X-Men 2: Wolverine's Revenge"/>
-  <Game id="GWWE01" title="Wario World"/>
-  <Game id="GWWJ01" title="Wario World"/>
-  <Game id="GWWP01" title="Wario World"/>
-  <Game id="GWXJ13" title="Star Wars Rogue Squadron III: Rebel Strike"/>
-  <Game id="GWYE41" title="Tom Clancy's Splinter Cell: Double Agent"/>
-  <Game id="GWYX41" title="Tom Clancy's Splinter Cell: Double Agent"/>
-  <Game id="GWZE01" title="Dance Dance Revolution: Mario Mix"/>
-  <Game id="GWZJ01" title="Dance Dance Revolution: Mario Mix"/>
-  <Game id="GWZP01" title="Dancing Stage: Mario Mix"/>
-  <Game id="GX2D52" title="X-Men Legends II: Rise of Apocalypse"/>
-  <Game id="GX2E52" title="X-Men Legends II: Rise of Apocalypse"/>
-  <Game id="GX2P52" title="X-Men Legends II: Rise of Apocalypse"/>
-  <Game id="GX2S52" title="X-Men Legends II: Rise of Apocalypse"/>
-  <Game id="GX3E41" title="XIII"/>
-  <Game id="GX3P41" title="XIII"/>
-  <Game id="GX3X41" title="XIII"/>
-  <Game id="GXAE51" title="XGRA Extreme G Racing Association"/>
-  <Game id="GXAP51" title="XGRA Extreme G Racing Association"/>
-  <Game id="GXBE69" title="SSX 3"/>
-  <Game id="GXBJ13" title="SSX 3"/>
-  <Game id="GXBP69" title="SSX 3"/>
-  <Game id="GXCE01" title="Custom Robo"/>
-  <Game id="GXCJ01" title="Custom Robo: Battle Revolution"/>
-  <Game id="GXEE8P" title="Sonic Riders"/>
-  <Game id="GXEJ8P" title="Sonic Riders"/>
-  <Game id="GXEP8P" title="Sonic Riders"/>
-  <Game id="GXFD69" title="FIFA Football 2004"/>
-  <Game id="GXFE69" title="FIFA Soccer 2004"/>
-  <Game id="GXFF69" title="FIFA Football 2004"/>
-  <Game id="GXFI69" title="FIFA Football 2004"/>
-  <Game id="GXFP69" title="FIFA Football 2004"/>
-  <Game id="GXFS69" title="FIFA Football 2004"/>
-  <Game id="GXGE08" title="Mega Man X Collection"/>
-  <Game id="GXLE52" title="X-Men Legends"/>
-  <Game id="GXLP52" title="X-Men Legends"/>
-  <Game id="GXLX52" title="X-Men Legends"/>
-  <Game id="GXME52" title="X-Men: Next Dimension"/>
-  <Game id="GXMP52" title="X-Men: Next Dimension"/>
-  <Game id="GXNE5D" title="Rampage Total Destruction"/>
-  <Game id="GXOE69" title="SSX on Tour"/>
-  <Game id="GXOJ13" title="SSX On Tour with Mario"/>
-  <Game id="GXOP69" title="SSX On Tour"/>
-  <Game id="GXOX69" title="SSX On Tour"/>
-  <Game id="GXPE78" title="Sphinx and the Cursed Mummy"/>
-  <Game id="GXPP78" title="Sphinx and the Cursed Mummy"/>
-  <Game id="GXQF41" title="Taxi 3: Le Jeu"/>
-  <Game id="GXRE08" title="Mega Man X: Command Mission"/>
-  <Game id="GXRJ08" title="Rockman X: Command Mission"/>
-  <Game id="GXRP08" title="Mega Man X: Command Mission"/>
-  <Game id="GXSE8P" title="Sonic Adventure DX: Director's Cut"/>
-  <Game id="GXSP8P" title="Sonic Adventure DX: Director's Cut"/>
-  <Game id="GXUE41" title="Surf's Up"/>
-  <Game id="GXXE01" title="Pokémon XD: Gale of Darkness"/>
-  <Game id="GXXJ01" title="Pokémon XD: Yami no Kaze Dark Lugia"/>
-  <Game id="GXXP01" title="Pokémon XD: Gale of Darkness"/>
-  <Game id="GY2E01" title="Donkey Konga 2"/>
-  <Game id="GY2J01" title="Donkey Konga 2"/>
-  <Game id="GY2P01" title="Donkey Konga 2"/>
-  <Game id="GY3J01" title="Donkey Konga 3"/>
-  <Game id="GYAD78" title="Barnyard"/>
-  <Game id="GYAE78" title="Barnyard"/>
-  <Game id="GYAP78" title="Barnyard"/>
-  <Game id="GYAX78" title="Barnyard"/>
-  <Game id="GYBE01" title="Donkey Kong: Jungle Beat"/>
-  <Game id="GYBJ01" title="Donkey Kong Jungle Beat"/>
-  <Game id="GYBP01" title="Donkey Kong: Jungle Beat"/>
-  <Game id="GYFEA4" title="Yu-Gi-Oh! The Falsebound Kingdom"/>
-  <Game id="GYFJA4" title="Yu-Gi-Oh! The Falsebound Kingdom"/>
-  <Game id="GYFPA4" title="Yu-Gi-Oh! The Falsebound Kingdom"/>
-  <Game id="GYKEB2" title="Zatch Bell! Mamodo Battles"/>
-  <Game id="GYKJB2" title="Konjiki no Gashbell!! Yuujou Tag Battle 2"/>
-  <Game id="GYMJA4" title="Jikkyou Powerful Major League"/>
-  <Game id="GYQE01" title="Mario Superstar Baseball"/>
-  <Game id="GYQJ01" title="Super Mario Stadium Miracle Baseball"/>
-  <Game id="GYQP01" title="Mario Superstar Baseball"/>
-  <Game id="GYRE41" title="TMNT"/>
-  <Game id="GYRP41" title="TMNT"/>
-  <Game id="GYTE69" title="Ty the Tasmanian Tiger 2: Bush Rescue"/>
-  <Game id="GYTP69" title="Ty the Tasmanian Tiger 2: Bush Rescue"/>
-  <Game id="GYWDE9" title="Harvest Moon: A Wonderful Life"/>
-  <Game id="GYWEE9" title="Harvest Moon: A Wonderful Life"/>
-  <Game id="GYWJ99" title="Bokujou Monogatari: Wonderful Life"/>
-  <Game id="GYWPE9" title="Harvest Moon: A Wonderful Life"/>
-  <Game id="GZ2E01" title="The Legend of Zelda: Twilight Princess"/>
-  <Game id="GZ2J01" title="Zelda no Densetsu: Twilight Princess"/>
-  <Game id="GZ2P01" title="The Legend of Zelda: Twilight Princess"/>
-  <Game id="GZ3E70" title="Dragon Ball Z: Budokai 2"/>
-  <Game id="GZ3PB2" title="Dragon Ball Z: Budokai 2"/>
-  <Game id="GZBJB2" title="Dragon Ball Z"/>
-  <Game id="GZCE51" title="ZooCube"/>
-  <Game id="GZCJB0" title="ZooCube"/>
-  <Game id="GZCP51" title="Zoocube"/>
-  <Game id="GZDE70" title="Godzilla: Destroy all Monsters Melee"/>
-  <Game id="GZDJ70" title="Godzilla: Kaijuu Dairantou"/>
-  <Game id="GZDP70" title="Godzilla: Destroy all Monsters Melee"/>
-  <Game id="GZEE70" title="Dragon Ball Z: Sagas"/>
-  <Game id="GZFJBP" title="Gekituisenki - Zero Fighter"/>
-  <Game id="GZHJDA" title="Zoids Full Metal Crash"/>
-  <Game id="GZLE01" title="The Legend of Zelda: The Wind Waker"/>
-  <Game id="GZLJ01" title="Zelda no Densetsu: Kaze no Takuto"/>
-  <Game id="GZLP01" title="The Legend of Zelda: The Wind Waker"/>
-  <Game id="GZMP7D" title="Butt-Ugly Martians Zoom or Doom"/>
-  <Game id="GZOJDA" title="Zoids vs."/>
-  <Game id="GZPE70" title="Zapper - One Wicked Cricket!"/>
-  <Game id="GZPP70" title="Zapper: One Wicked Cricket!"/>
-  <Game id="GZQE7D" title="Robots"/>
-  <Game id="GZQJ7D" title="Robots"/>
-  <Game id="GZQP7D" title="Robots"/>
-  <Game id="GZSE70" title="Zoids Battle Legends"/>
-  <Game id="GZSJDA" title="Zoids VS. II"/>
-  <Game id="GZVJDA" title="Zoids vs. III"/>
-  <Game id="GZWE01" title="WarioWare, Inc.: Mega Party Game$!"/>
-  <Game id="GZWJ01" title="Atsumare!! Made in Wario"/>
-  <Game id="GZWP01" title="WarioWare, Inc.: Mega Party Game$!"/>
-  <Game id="P2ME01" title="Metroid Prime 2: Echoes (Bonus Disc)"/>
-  <Game id="P4BJ08" title="Biohazard 4 (Demo)"/>
-  <Game id="PC6E01" title="Pokémon Colosseum Bonus Disc"/>
-  <Game id="PCKJ01" title="Pokémon Colosseum: Kakuchou Disc (Bonus Disc)"/>
-  <Game id="PCSJ01" title="Pokémon Colosseum Bonus Disc"/>
-  <Game id="PD5JB2" title="Dragon Drive: D-Masters Shot (Anime Disc)"/>
-  <Game id="PGPJB2" title="SD Gundam Trial"/>
-  <Game id="PGSJ01" title="Metal Gear Solid - The Twin Snakes - Special Disc"/>
-  <Game id="PHEJ91" title="Homeland Test Disc"/>
-  <Game id="PKBJ01" title="The Tower of Druaga"/>
-  <Game id="PM4E01" title="Mario Kart: Double Dash!! Bonus Disc"/>
-  <Game id="PNRJ01" title="Naruto Collection (Demo)"/>
-  <Game id="PRJE01" title="Pac-Man vs."/>
-  <Game id="PRJJ01" title="Pac-Man vs."/>
-  <Game id="PRJP01" title="Pac-Man vs."/>
-  <Game id="PZLE01" title="The Legend of Zelda: Collector's Edition"/>
-  <Game id="PZLJ01" title="The Legend of Zelda: Collector's Edition"/>
-  <Game id="PZLP01" title="The Legend of Zelda: Collector's Edition"/>
-  <Game id="UGPE01" title="Game Boy Player"/>
-  <Game id="UGPJ01" title="Game Boy Player"/>
-  <Game id="UGPP01" title="Game Boy Player"/>
+  <Game id="301E01" en="GameCube Service Disc"/>
+  <Game id="D23J01" en="Game Taikai Yuushou Kinen: Tokusei SmaBro DX Movie Disc"/>
+  <Game id="D24J01" en="SmaBro DX Event-you Disc"/>
+  <Game id="D28J01" en="Interactive Multi-Game Demo Disk - April 2002"/>
+  <Game id="D29J01" en="Gekkan Nintendo Tentou Demo 2002.5.1"/>
+  <Game id="D32J01" en="Gekkan Nintendo Tentou Demo 2002.6.1"/>
+  <Game id="D33J01" en="Gekkan Nintendo Tentou Demo 2002.7.1"/>
+  <Game id="D34J01" en="Gekkan Nintendo Tentou Demo 2002.7.10"/>
+  <Game id="D38J01" en="Gekkan Nintendo Tentou Demo 2002.9.1"/>
+  <Game id="D39J01" en="Gekkan Nintendo Tentou Demo 2002.10.1"/>
+  <Game id="D42J01" en="Gekkan Nintendo Tentou Demo 2002.11.1"/>
+  <Game id="D43E01" en="The Legend of Zelda: Ocarina of Time / Master Quest"/>
+  <Game id="D43J01" en="Zelda no Densetsu: Toki no Ocarina GC / Ura Zelda"/>
+  <Game id="D43P01" en="The Legend of Zelda: Ocarina of Time / Master Quest"/>
+  <Game id="D43U01" en="The Legend of Zelda: Ocarina of Time (Bonus Disc)"/>
+  <Game id="D43W01" en="The Legend of Zelda: Ocarina of Time / Master Quest"/>
+  <Game id="D44J01" en="Gekkan Nintendo Tentou Demo 2002.12.1"/>
+  <Game id="D46J01" en="Gekkan Nintendo Tentou Demo 2003.1.1"/>
+  <Game id="D47J01" en="Gekkan Nintendo Tentou Demo 2003.2.1"/>
+  <Game id="D48J01" en="Gekkan Nintendo Tentou Demo 2003.3.1"/>
+  <Game id="D49J01" en="Gekkan Nintendo Tentou Demo 2003.4.1"/>
+  <Game id="D4BE08" en="Resident Evil 4: Preview Disc"/>
+  <Game id="D4BP01" en="Resident Evil 4: Bonus Disc"/>
+  <Game id="D4BU01" en="Resident Evil 4: Bonus Disc"/>
+  <Game id="D52J01" en="Gekkan Nintendo Tentou Demo 2003.5.1"/>
+  <Game id="D53J01" en="Monthly Nintendo Shop Demo - May 2003"/>
+  <Game id="D54J01" en="Gekkan Nintendo Tentou Demo 2003.6.1"/>
+  <Game id="D55J01" en="Interactive Disc Catalog Summer 2003"/>
+  <Game id="D56E01" en="Interactive Multi-Game Demo Disc - Version 35"/>
+  <Game id="D56J01" en="Pokémon Channel (Bonus Disc)"/>
+  <Game id="D57E01" en="Interactive Multi-Game Demo Disc - Version 34"/>
+  <Game id="D58E01" en="Interactive Multi-Game Demo Disc - Version 33"/>
+  <Game id="D59E01" en="Interactive Multi-Game Demo Disc - Version 32"/>
+  <Game id="D59J01" en="Gekkan Nintendo Tentou Demo 2003.7.1"/>
+  <Game id="D62E01" en="Interactive Multi-Game Demo Disc - Version 31"/>
+  <Game id="D62J01" en="Gekkan Nintendo Tentou Demo 2003.8.1"/>
+  <Game id="D63E01" en="Interactive Multi-Game Demo Disc - Version 30"/>
+  <Game id="D64E01" en="Interactive Multi-Game Demo Disc - Version 29"/>
+  <Game id="D64J01" en="Gekkan Nintendo Tentou Demo 2003.10.1"/>
+  <Game id="D65E01" en="Interactive Multi-Game Demo Disc - Version 28"/>
+  <Game id="D65J01" en="Gekkan Nintendo Tentou Demo 2003.11.1"/>
+  <Game id="D66E01" en="Interactive Multi-Game Demo Disc - Version 27"/>
+  <Game id="D66JAF" en="Baten Kaitos: Eternal Wings and the Lost Ocean - Special Experience Disc"/>
+  <Game id="D67E01" en="Interactive Multi-Game Demo Disc - Version 26"/>
+  <Game id="D67J01" en="Gekkan Nintendo Tentou Demo 2003.12.1"/>
+  <Game id="D68E01" en="Interactive Multi-Game Demo Disc - Version 25"/>
+  <Game id="D68J01" en="Gekkan Nintendo Tentou Demo 2004.1.1"/>
+  <Game id="D69E01" en="Interactive Multi-Game Demo Disc - Version 24"/>
+  <Game id="D72E01" en="Interactive Multi-Game Demo Disc - Version 23"/>
+  <Game id="D73E01" en="Interactive Multi-Game Demo Disc - Version 22"/>
+  <Game id="D73J01" en="Gekkan Nintendo Tentou Demo 2004.2.1"/>
+  <Game id="D74E01" en="Interactive Multi-Game Demo Disc - Version 21"/>
+  <Game id="D75E01" en="Interactive Multi-Game Demo Disc - Version 20"/>
+  <Game id="D75J01" en="Gekkan Nintendo Tentou Demo 2004.3.1"/>
+  <Game id="D76E01" en="Interactive Multi-Game Demo Disc - Version 19"/>
+  <Game id="D77E01" en="Interactive Multi-Game Demo Disc - Version 18"/>
+  <Game id="D77J01" en="Gekkan Nintendo Tentou Demo 2004.4.1"/>
+  <Game id="D77P01" en="Interactive Multi-Game Demo Disc - April 2006"/>
+  <Game id="D78E01" en="Interactive Multi-Game Demo Disc - Version 17"/>
+  <Game id="D78J01" en="Gekkan Nintendo Tentou Demo 2004.5.1"/>
+  <Game id="D78P01" en="Interactive Multi-Game Demo Disc - October 2005"/>
+  <Game id="D79E01" en="Interactive Multi-Game Demo Disc - Version 16"/>
+  <Game id="D79J01" en="Gekkan Nintendo Tentou Demo 2004.6.1"/>
+  <Game id="D79P01" en="Interactive Multi-Game Demo Disc - May 2005"/>
+  <Game id="D82E01" en="Interactive Multi-Game Demo Disc - Version 15"/>
+  <Game id="D82J01" en="Gekkan Nintendo Tentou Demo 2004.7.1"/>
+  <Game id="D82P01" en="Interactive Multi-Game Demo Disc - April 2005"/>
+  <Game id="D83E01" en="Interactive Multi-Game Demo Disc - Version 14"/>
+  <Game id="D83P01" en="Interactive Multi-Game Demo Disc - February 2005"/>
+  <Game id="D84E01" en="Interactive Multi-Game Demo Disc - Version 13"/>
+  <Game id="D84J01" en="Gekkan Nintendo Tentou Demo 2004.8.1"/>
+  <Game id="D84P01" en="Interactive Multi-Game Demo Disc - November 2004"/>
+  <Game id="D85E01" en="Interactive Multi-Game Demo Disc - Version 12"/>
+  <Game id="D85J01" en="Gekkan Nintendo Tentou Demo 2004.9.1"/>
+  <Game id="D85P01" en="Interactive Multi-Game Demo Disc - July 2004"/>
+  <Game id="D86E01" en="Interactive Multi-Game Demo Disc - Version 11"/>
+  <Game id="D86J01" en="Gekkan Nintendo Tentou Demo 2004.10.1"/>
+  <Game id="D86P01" en="Interactive Multi-Game Demo Disc - May 2004"/>
+  <Game id="D87E01" en="GameCube Preview Disc"/>
+  <Game id="D87J01" en="Gekkan Nintendo Tentou Demo 2004.11.1"/>
+  <Game id="D87P01" en="Interactive Multi-Game Demo Disc - March 2004"/>
+  <Game id="D88E01" en="Interactive Multi-Game Demo Disc - Version 10"/>
+  <Game id="D88J01" en="Gekkan Nintendo Tentou Demo 2004.12.1"/>
+  <Game id="D88P01" en="Interactive Multi-Game Demo Disc - November 2003"/>
+  <Game id="D89E01" en="Interactive Multi-Game Demo Disc - Version 9"/>
+  <Game id="D89J01" en="Club Nintendo Original e-Catalog 2004"/>
+  <Game id="D89P01" en="Interactive Multi-Game Demo Disc - September 2003"/>
+  <Game id="D92E01" en="Interactive Multi-Game Demo Disc - Version 8"/>
+  <Game id="D92J01" en="Gekkan Nintendo Tentou Demo 2004-2005 Nenmatsunenshi-gou"/>
+  <Game id="D92P01" en="Interactive Multi-Game Demo Disc - June 2003"/>
+  <Game id="D93E01" en="Interactive Multi-Game Demo Disc - Version 7"/>
+  <Game id="D93J01" en="Gekkan Nintendo Tentou Demo 2005.1.1"/>
+  <Game id="D93P01" en="Interactive Multi-Game Demo Disc - April 2003"/>
+  <Game id="D94J01" en="Gekkan Nintendo Tentou Demo 2005.2.1"/>
+  <Game id="D94P01" en="Interactive Multi-Game Demo Disc - February 2003"/>
+  <Game id="D95P01" en="Interactive Multi-Game Demo Disc - December 2002"/>
+  <Game id="D97J01" en="Gekkan Nintendo Tentou Demo 2005.5.1"/>
+  <Game id="DALJ01" en="Dairantou Smash Brothers DX (Demo)"/>
+  <Game id="DBIJ08" en="Biohazard - Movie Demo Disc"/>
+  <Game id="DBJJ08" en="Biohazard: Special Edition (Demo)"/>
+  <Game id="DBZJ08" en="Biohazard Zero: Trial Edition"/>
+  <Game id="DCEP41" en="Tom Clancy's Splinter Cell (Demo)"/>
+  <Game id="DEZP8P" en="Billy Hatcher and the Giant Egg (Demo)"/>
+  <Game id="DGAJB2" en="Kidou Senshi Gundam - Senshitachi no Kiseki Special Disc"/>
+  <Game id="DLSE64" en="Star Wars: Rogue Squadron III: Rebel Strike: Limited Edition Bonus Disc (Demo)"/>
+  <Game id="DLSP64" en="Star Wars: Rogue Squadron III: Rebel Strike: Limited Edition Bonus Disc (Demo)"/>
+  <Game id="DM2J8P" en="Super Monkey Ball 2 (Demo)"/>
+  <Game id="DNUEDA" en="Naruto Clash of Ninja 2 (Demo)"/>
+  <Game id="DPIJ01" en="Pikmin (Demo)"/>
+  <Game id="DPNP08" en="P.N.03 (Promo)"/>
+  <Game id="DPOJ8P" en="Phantasy Star Online Episode I &amp; II Trial Edition (Demo)"/>
+  <Game id="DPSJ8P" en="Phantasy Star Online Episode III: C.A.R.D. Revolution (Demo)"/>
+  <Game id="DR2JCQ" en="Rune II: Koruten no Kagi no Himitsu (Demo)"/>
+  <Game id="DRSEAF" en="Soulcalibur II (Demo)"/>
+  <Game id="DSWJ13" en="Star Wars: Rogue Squadron II (Demo)"/>
+  <Game id="DTLX01" en="Action Replay"/>
+  <Game id="DVJP08" en="Viewtiful Joe (Promotional demo)"/>
+  <Game id="E23J01" en="Gekkan Nintendo Tentou Demo 2005.9.1"/>
+  <Game id="E24J01" en="Gekkan Nintendo Tentou Demo 2005.10.1"/>
+  <Game id="E25J01" en="Gekkan Nintendo Tentou Demo 2005.11.1"/>
+  <Game id="E27J01" en="Gekkan Nintendo Tentou Demo 2006.1.1"/>
+  <Game id="E32J01" en="Gekkan Nintendo Tentou Demo 2006.4.1"/>
+  <Game id="E34J01" en="Gekkan Nintendo Tentou Demo 2006.6.1"/>
+  <Game id="E35J01" en="Gekkan Nintendo Tentou Demo 2006.7.1"/>
+  <Game id="E36J01" en="Gekkan Nintendo Tentou Demo 2006.8.1"/>
+  <Game id="E37J01" en="Gekkan Nintendo Tentou Demo 2006.9.1"/>
+  <Game id="G2BE5G" en="Black &amp; Bruised"/>
+  <Game id="G2BP7D" en="Black &amp; Bruised"/>
+  <Game id="G2CD52" en="True Crime: New York City"/>
+  <Game id="G2CE52" en="True Crime: New York City"/>
+  <Game id="G2CP52" en="True Crime: New York City"/>
+  <Game id="G2CX52" en="True Crime: New York City"/>
+  <Game id="G2DJB2" en="Digimon Battle Chronicle"/>
+  <Game id="G2FD78" en="Tak 2: The Staff of Dreams"/>
+  <Game id="G2FE78" en="Tak 2: The Staff of Dreams"/>
+  <Game id="G2FF78" en="Tak 2: The Staff of Dreams"/>
+  <Game id="G2FP78" en="Tak 2: The Staff of Dreams"/>
+  <Game id="G2GJB2" en="Mobile Suit Gundam: Gundam vs. Z Gundam"/>
+  <Game id="G2KE8P" en="NHL 2K3"/>
+  <Game id="G2KP8P" en="NHL 2K3"/>
+  <Game id="G2ME01" en="Metroid Prime 2: Echoes"/>
+  <Game id="G2MJ01" en="Metroid Prime 2: Dark Echoes"/>
+  <Game id="G2MP01" en="Metroid Prime 2: Echoes"/>
+  <Game id="G2NJ13" en="Need for Speed - Underground 2"/>
+  <Game id="G2OE41" en="Prince of Persia: Warrior Within"/>
+  <Game id="G2OP41" en="Prince of Persia: Warrior Within"/>
+  <Game id="G2PE6U" en="Spirits &amp; Spells"/>
+  <Game id="G2RE52" en="Shrek SuperSlam"/>
+  <Game id="G2SJGE" en="Shikigami no Shiro II"/>
+  <Game id="G2TE52" en="Tony Hawk's Underground 2"/>
+  <Game id="G2TP52" en="Tony Hawk's Underground 2"/>
+  <Game id="G2VE08" en="Viewtiful Joe 2"/>
+  <Game id="G2VJ08" en="Viewtiful Joe 2: Blackfilm no Nazo"/>
+  <Game id="G2VP08" en="Viewtiful Joe 2"/>
+  <Game id="G2XE8P" en="Sonic Gems Collection"/>
+  <Game id="G2XJ8P" en="Sonic Gems Collection"/>
+  <Game id="G2XP8P" en="Sonic Gems Collection"/>
+  <Game id="G3AD69" en="The Lord of the Rings: The Third Age"/>
+  <Game id="G3AE69" en="The Lord of the Rings: The Third Age"/>
+  <Game id="G3AF69" en="The Lord of the Rings: The Third Age"/>
+  <Game id="G3AJ13" en="Lord of the Rings - Nakatsu Kuni Daisanki"/>
+  <Game id="G3AP69" en="The Lord of the Rings: The Third Age"/>
+  <Game id="G3AS69" en="The Lord of the Rings: The Third Age"/>
+  <Game id="G3BE9G" en="Serious Sam: Next Encounter"/>
+  <Game id="G3BP9G" en="Serious Sam: Next Encounter"/>
+  <Game id="G3DE6L" en="Carmen Sandiego: The Secret of the Stolen Drums"/>
+  <Game id="G3DP6L" en="Carmen Sandiego: The Secret of the Stolen Drums"/>
+  <Game id="G3DX6L" en="Carmen Sandiego: The Secret of the Stolen Drums"/>
+  <Game id="G3EE51" en="XGIII: Extreme G Racing"/>
+  <Game id="G3EJB0" en="XGIII: Extreme G Racing"/>
+  <Game id="G3EP51" en="XGIII: Extreme G Racing"/>
+  <Game id="G3FD69" en="TimeSplitters: Future Perfect"/>
+  <Game id="G3FE69" en="TimeSplitters: Future Perfect"/>
+  <Game id="G3FF69" en="TimeSplitters: Future Perfect"/>
+  <Game id="G3FP69" en="TimeSplitters: Future Perfect"/>
+  <Game id="G3FS69" en="TimeSplitters: Future Perfect"/>
+  <Game id="G3JEAF" en="Curious George"/>
+  <Game id="G3LE8P" en="Super Monkey Ball Adventure"/>
+  <Game id="G3LP8P" en="Super Monkey Ball Adventure"/>
+  <Game id="G3ME41" en="Tom Clancy's The Sum of All Fears"/>
+  <Game id="G3MP41" en="The Sum of All Fears"/>
+  <Game id="G3NJDA" en="Naruto: Gekitô Ninja Taisen! 3"/>
+  <Game id="G3QEA4" en="Teenage Mutant Ninja Turtles 3: Mutant Nightmare"/>
+  <Game id="G3RD52" en="Shrek 2"/>
+  <Game id="G3RE52" en="Shrek 2"/>
+  <Game id="G3RF52" en="Shrek 2"/>
+  <Game id="G3RM52" en="Shrek 2"/>
+  <Game id="G3RP52" en="Shrek 2"/>
+  <Game id="G3SE41" en="Bust-A-Move 3000"/>
+  <Game id="G3SJC0" en="Super Puzzle Bobble All Stars"/>
+  <Game id="G3SWC0" en="Super Puzzle Bobble All Stars"/>
+  <Game id="G3TJ8P" en="Derby Tsuku 3: Derby Uma O Tsukurou!"/>
+  <Game id="G3VE69" en="NBA Street V3"/>
+  <Game id="G3VJ13" en="NBA Street V3 - Mario de Dunk"/>
+  <Game id="G3VP69" en="NBA Street V3"/>
+  <Game id="G3XE52" en="X-Men: The Official Game"/>
+  <Game id="G3XP52" en="X-Men: The Official Game"/>
+  <Game id="G3YP52" en="Shrek Super Slam"/>
+  <Game id="G3YX52" en="Shrek Super Slam"/>
+  <Game id="G3YY52" en="Shrek Super Slam"/>
+  <Game id="G4AEE9" en="Harvest Moon: Magical Melody"/>
+  <Game id="G4AJ99" en="Bokujou Monogatari - Shiawase no Uta"/>
+  <Game id="G4BD08" en="Resident Evil 4"/>
+  <Game id="G4BE08" en="Resident Evil 4"/>
+  <Game id="G4BJ08" en="Biohazard 4"/>
+  <Game id="G4BP08" en="Resident Evil 4"/>
+  <Game id="G4CE54" en="Charlie and the Chocolate Factory"/>
+  <Game id="G4CP54" en="Charlie and the Chocolate Factory"/>
+  <Game id="G4FD69" en="FIFA 07"/>
+  <Game id="G4FE69" en="FIFA Soccer 07"/>
+  <Game id="G4FF69" en="FIFA 07"/>
+  <Game id="G4FP69" en="FIFA 07"/>
+  <Game id="G4GEE9" en="Harvest Moon: Another Wonderful Life"/>
+  <Game id="G4GJ99" en="Bokujou Monogatari - Wonderful Life for Girls"/>
+  <Game id="G4IE52" en="Shrek Smash n' Crash Racing"/>
+  <Game id="G4IP52" en="Shrek Smash n' Crash Racing"/>
+  <Game id="G4ME69" en="The Sims Bustin' Out"/>
+  <Game id="G4MP69" en="The Sims: Bustin' Out"/>
+  <Game id="G4NJDA" en="Naruto: Gekitô Ninja Taisen! 4"/>
+  <Game id="G4OE69" en="The Sims 2: Pets"/>
+  <Game id="G4OP69" en="The Sims 2: Pets"/>
+  <Game id="G4PJ13" en="The Sims"/>
+  <Game id="G4QE01" en="Super Mario Strikers"/>
+  <Game id="G4QJ01" en="Super Mario Strikers"/>
+  <Game id="G4QP01" en="Mario Smash Football"/>
+  <Game id="G4SE01" en="The Legend of Zelda: Four Swords Adventures"/>
+  <Game id="G4SJ01" en="The Legend of Zelda: Four Swords +"/>
+  <Game id="G4SP01" en="The Legend of Zelda: Four Swords Adventures"/>
+  <Game id="G4WJ99" en="Bokujou Monogatari - Shiawase no Uta for World"/>
+  <Game id="G4ZE69" en="The Sims 2"/>
+  <Game id="G4ZP69" en="The Sims 2"/>
+  <Game id="G5BE4Z" en="Strike Force Bowling"/>
+  <Game id="G5DE78" en="Scooby-Doo! - Unmasked"/>
+  <Game id="G5DP78" en="Scooby-Doo! - Unmasked"/>
+  <Game id="G5NEAF" en="Namco Museum 50th Anniversary"/>
+  <Game id="G5NP69" en="Namco Museum 50th Anniversary"/>
+  <Game id="G5SE7D" en="Spyro: A Hero's Tail"/>
+  <Game id="G5SP7D" en="Spyro: A Hero's Tail"/>
+  <Game id="G5TE69" en="Tiger Woods PGA Tour 2005"/>
+  <Game id="G5TP69" en="Tiger Woods PGA Tour 2005"/>
+  <Game id="G62E54" en="Major League Baseball 2K6"/>
+  <Game id="G63E41" en="Tom Clancy's Rainbow Six 3"/>
+  <Game id="G63P41" en="Tom Clancy's Rainbow Six 3"/>
+  <Game id="G6FD69" en="2006 FIFA World Cup"/>
+  <Game id="G6FE69" en="2006 FIFA World Cup"/>
+  <Game id="G6FF69" en="2006 FIFA World Cup"/>
+  <Game id="G6FP69" en="2006 FIFA World Cup"/>
+  <Game id="G6ME69" en="Madden NFL 06"/>
+  <Game id="G6MP69" en="Madden NFL 06"/>
+  <Game id="G6NE69" en="NBA Live 06"/>
+  <Game id="G6NP69" en="NBA Live 06"/>
+  <Game id="G6QE08" en="Mega Man Anniversary Collection"/>
+  <Game id="G6SE7D" en="The Legend of Spyro: A New Beginning"/>
+  <Game id="G6SP7D" en="The Legend of Spyro: A New Beginning"/>
+  <Game id="G6TE5G" en="Teen Titans"/>
+  <Game id="G6TP78" en="Teen Titans"/>
+  <Game id="G6WE69" en="Tiger Woods PGA Tour 06"/>
+  <Game id="G6WP69" en="Tiger Woods PGA Tour 06"/>
+  <Game id="G7FE69" en="FIFA Soccer 07"/>
+  <Game id="G7ME69" en="Madden NFL 07"/>
+  <Game id="G89EAF" en="Pac-Man World Rally"/>
+  <Game id="G8FE8P" en="Virtua Quest"/>
+  <Game id="G8FJ8P" en="Virtua Fighter Cyber Generation"/>
+  <Game id="G8ME01" en="Paper Mario: The Thousand-Year Door"/>
+  <Game id="G8MJ01" en="Paper Mario RPG"/>
+  <Game id="G8MK01" en="Paper Mario RPG"/>
+  <Game id="G8MP01" en="Paper Mario: The Thousand-Year Door"/>
+  <Game id="G8OJ18" en="Bobobo-bo Bo-bobo Dassutsu! Hajike Royale"/>
+  <Game id="G8SJAF" en="Battle Stadium D.O.N"/>
+  <Game id="G8WE01" en="Battalion Wars"/>
+  <Game id="G8WJ01" en="Totsugeki!! Famicom Wars"/>
+  <Game id="G8WP01" en="Battalion Wars"/>
+  <Game id="G94E01" en="Interactive Multi-Game Demo Disc - August 2002"/>
+  <Game id="G95E01" en="Interactive Multi-Game Demo Disc - July 2002"/>
+  <Game id="G96E01" en="Interactive Multi-Game Demo Disc - June 2002"/>
+  <Game id="G96P01" en="Interactive Multi-Game Demo Disc - November 2002"/>
+  <Game id="G97E01" en="Interactive Multi-Game Demo Disc - March 2002"/>
+  <Game id="G97P01" en="Interactive Multi Game Demo Disc - September 2002"/>
+  <Game id="G97U01" en="Interactive Multi-Game Demo Disc - September 2002"/>
+  <Game id="G98E01" en="Interactive Multi-Game Demo Disc - January 2002"/>
+  <Game id="G98P01" en="Interactive Multi-Game Demo Disc - May 2002"/>
+  <Game id="G99E01" en="Interactive Multi-Game Demo Disc - October 2001"/>
+  <Game id="G99P01" en="Interactive Multi-Game Demo Disc - March 2002"/>
+  <Game id="G9BEE9" en="Mark Davis Pro Bass Challenge"/>
+  <Game id="G9KJCM" en="Jikkyou Powerful Pro Yakyuu 9 - Ketteiban"/>
+  <Game id="G9RD7D" en="Crash Tag Team Racing"/>
+  <Game id="G9RE7D" en="Crash Tag Team Racing"/>
+  <Game id="G9RF7D" en="Crash Tag Team Racing"/>
+  <Game id="G9RH7D" en="Crash Tag Team Racing"/>
+  <Game id="G9RJ7D" en="Crash Bandicoot Gacchanko World"/>
+  <Game id="G9RP7D" en="Crash Tag Team Racing"/>
+  <Game id="G9SE8P" en="Sonic Heroes"/>
+  <Game id="G9SJ8P" en="Sonic Heroes"/>
+  <Game id="G9SP8P" en="Sonic Heroes"/>
+  <Game id="G9TD52" en="Shark Tale"/>
+  <Game id="G9TE52" en="Shark Tale"/>
+  <Game id="G9TF52" en="Shark Tale"/>
+  <Game id="G9TI52" en="Shark Tale"/>
+  <Game id="G9TJC0" en="Shark Tale"/>
+  <Game id="G9TP52" en="Shark Tale"/>
+  <Game id="GA2E51" en="All-Star Baseball 2002"/>
+  <Game id="GA3E51" en="All-Star Baseball 2003"/>
+  <Game id="GA3J51" en="All-Star Baseball 2003"/>
+  <Game id="GA4E51" en="All-Star Baseball 2004"/>
+  <Game id="GA7E70" en="Backyard Sports Baseball 2007"/>
+  <Game id="GAAJ08" en="Disney's Mickey &amp; Minnie Trick &amp; Chase"/>
+  <Game id="GABEAF" en="Zatch Bell! Mamodo Fury"/>
+  <Game id="GABJB2" en="Konjiki no Gashbell!! Go! Go! Mamono Fight!!"/>
+  <Game id="GACE5H" en="Army Men: Air Combat The Elite Missions"/>
+  <Game id="GAEJ01" en="Doubutu no Mori e+"/>
+  <Game id="GAFE01" en="Animal Crossing"/>
+  <Game id="GAFJ01" en="Animal Forest +"/>
+  <Game id="GAFP01" en="Animal Crossing"/>
+  <Game id="GAFU01" en="Animal Crossing"/>
+  <Game id="GAGP70" en="Asterix &amp; Obelix XXL"/>
+  <Game id="GAHEGG" en="Alien Hominid"/>
+  <Game id="GAKE5D" en="Midway Arcade Treasures"/>
+  <Game id="GALE01" en="Super Smash Bros. Melee"/>
+  <Game id="GALJ01" en="Dairantou Smash Brothers DX"/>
+  <Game id="GALP01" en="Super Smash Bros. Melee"/>
+  <Game id="GAME5H" en="Army Men Sarge's War"/>
+  <Game id="GANE7U" en="Animaniacs: The Great Edgar Hunt"/>
+  <Game id="GANP7U" en="Animaniacs: The Great Edgar Hunt"/>
+  <Game id="GAPE52" en="American Chopper 2 - Full Throttle"/>
+  <Game id="GAQE6S" en="Aquaman: Battle of Atlantis"/>
+  <Game id="GARE5H" en="Army Men: RTS"/>
+  <Game id="GASJ8P" en="Sonic Adventure DX"/>
+  <Game id="GATE51" en="ATV Quad Power Racing 2"/>
+  <Game id="GATP51" en="ATV Quad Power Racing 2"/>
+  <Game id="GAUE08" en="Auto Modellista"/>
+  <Game id="GAUJ08" en="Auto Modellista: U.S.-tuned"/>
+  <Game id="GAVE78" en="Avatar The Last Airbender"/>
+  <Game id="GAVY78" en="Avatar: The Legend of Aang"/>
+  <Game id="GAXE5D" en="The Ant Bully"/>
+  <Game id="GAYE5D" en="Midway Arcade Treasures 2"/>
+  <Game id="GAZD69" en="Harry Potter and the Prisoner of Azkaban"/>
+  <Game id="GAZE69" en="Harry Potter and the Prisoner of Azkaban"/>
+  <Game id="GAZF69" en="Harry Potter and the Prisoner of Azkaban"/>
+  <Game id="GAZH69" en="Harry Potter and the Prisoner of Azkaban"/>
+  <Game id="GAZI69" en="Harry Potter and the Prisoner of Azkaban"/>
+  <Game id="GAZJ13" en="Harry Potter to Azkaban no Shuujin"/>
+  <Game id="GAZM69" en="Harry Potter and the Prisoner of Azkaban"/>
+  <Game id="GAZP69" en="Harry Potter and the Prisoner of Azkaban"/>
+  <Game id="GAZS69" en="Harry Potter and the Prisoner of Azkaban"/>
+  <Game id="GB2J18" en="Bomberman Land 2"/>
+  <Game id="GB3E51" en="BMX XXX"/>
+  <Game id="GB3P51" en="BMX XXX"/>
+  <Game id="GB4E51" en="Burnout 2: Point of Impact"/>
+  <Game id="GB4P51" en="Burnout 2: Point of Impact"/>
+  <Game id="GBAE8P" en="NBA 2K2"/>
+  <Game id="GBDE5G" en="BloodRayne"/>
+  <Game id="GBDF7D" en="BloodRayne"/>
+  <Game id="GBDP7D" en="BloodRayne"/>
+  <Game id="GBDS7D" en="BloodRayne"/>
+  <Game id="GBFE70" en="Backyard Football"/>
+  <Game id="GBGE5G" en="Bomberman Generation"/>
+  <Game id="GBGJ18" en="Bomberman Generation"/>
+  <Game id="GBGP7D" en="Bomberman Generation"/>
+  <Game id="GBHDC8" en="Mystic Heroes"/>
+  <Game id="GBHEC8" en="Mystic Heroes"/>
+  <Game id="GBHFC8" en="Mystic Heroes"/>
+  <Game id="GBHJC8" en="Battle Houshin"/>
+  <Game id="GBHPC8" en="Mystic Heroes"/>
+  <Game id="GBIE08" en="Resident Evil"/>
+  <Game id="GBIJ08" en="Biohazard"/>
+  <Game id="GBIP08" en="Resident Evil"/>
+  <Game id="GBKE70" en="Backyard Baseball"/>
+  <Game id="GBLE52" en="Bloody Roar: Primal Fury"/>
+  <Game id="GBLP52" en="Bloody Roar: Primal Fury"/>
+  <Game id="GBME7F" en="Batman: Dark Tomorrow"/>
+  <Game id="GBMJ28" en="Batman: Dark Tomorrow"/>
+  <Game id="GBMP7F" en="Batman: Dark Tomorrow"/>
+  <Game id="GBNJC0" en="Warrior Blade: Rastan vs. Barbarian"/>
+  <Game id="GBOE51" en="Burnout"/>
+  <Game id="GBOP51" en="Burnout"/>
+  <Game id="GBPJCM" en="The Baseball 2003 - Battle Ball Park Sengen Perfect Play Pro Yakyuu"/>
+  <Game id="GBQE78" en="Rocket Power: Beach Bandits"/>
+  <Game id="GBQP78" en="Rocket Power: Beach Bandits"/>
+  <Game id="GBRJ18" en="Bloody Roar Extreme"/>
+  <Game id="GBSE8P" en="Beach Spikers: Virtua Beach Volleyball"/>
+  <Game id="GBSJ8P" en="Beach Spikers: Virtua Beach Volleyball"/>
+  <Game id="GBSP8P" en="Beach Spikers: Virtua Beach Volleyball"/>
+  <Game id="GBTE70" en="Beyblade VForce - Super Tournament Battle"/>
+  <Game id="GBTJA7" en="Bakuten Shoot Beyblade 2002: Nettou! Magne Tag Battle"/>
+  <Game id="GBTP70" en="Beyblade VForce - Super Tournament Battle"/>
+  <Game id="GBVE41" en="Batman: Vengeance"/>
+  <Game id="GBVP41" en="Batman Vengeance"/>
+  <Game id="GBWD64" en="Star Wars: Bounty Hunter"/>
+  <Game id="GBWE64" en="Star Wars: Bounty Hunter"/>
+  <Game id="GBWF64" en="Star Wars: Bounty Hunter"/>
+  <Game id="GBWI64" en="Star Wars: Bounty Hunter"/>
+  <Game id="GBWP64" en="Star Wars Bounty Hunter"/>
+  <Game id="GBWS64" en="Star Wars: Bounty Hunter"/>
+  <Game id="GBXE51" en="Dave Mirra Freestyle BMX 2"/>
+  <Game id="GBXP51" en="Dave Mirra Freestyle BMX 2"/>
+  <Game id="GBYE0A" en="Super Bubble Pop"/>
+  <Game id="GBZE08" en="Resident Evil Zero"/>
+  <Game id="GBZJ08" en="Biohazard 0"/>
+  <Game id="GBZP08" en="Resident Evil Zero"/>
+  <Game id="GC2E9G" en="Conflict: Desert Storm II: Back to Baghdad"/>
+  <Game id="GC2P75" en="Conflict: Desert Storm II: Back to Baghdad"/>
+  <Game id="GC3D78" en="Scooby-Doo! Mystery Mayhem"/>
+  <Game id="GC3E78" en="Scooby-Doo!: Mystery Mayhem"/>
+  <Game id="GC3F78" en="Scooby-Doo! Mystery Mayhem"/>
+  <Game id="GC3P78" en="Scooby-Doo!: Mystery Mayhem"/>
+  <Game id="GC4JBN" en="Shinseiki GPX Cyber Formula Road To The EVOLUTION"/>
+  <Game id="GC5PNK" en="Cocoto: Kart Racer"/>
+  <Game id="GC6E01" en="Pokémon Colosseum"/>
+  <Game id="GC6J01" en="Pokémon Colosseum"/>
+  <Game id="GC6P01" en="Pokémon Colosseum"/>
+  <Game id="GC7PNK" en="Cocoto Platform Jumper"/>
+  <Game id="GC8JA4" en="Crash Bandicoot: Bakusou! Nitro Kart"/>
+  <Game id="GC9P6S" en="Conan"/>
+  <Game id="GCAE5H" en="Cubix: Robots for Everyone Showdown"/>
+  <Game id="GCBE7D" en="Crash Bandicoot: The Wrath of Cortex"/>
+  <Game id="GCBJA4" en="Crash Bandicoot 4: Sakuretsu! Majin Power"/>
+  <Game id="GCBP7D" en="Crash Bandicoot: The Wrath of Cortex"/>
+  <Game id="GCCE01" en="Final Fantasy Crystal Chronicles"/>
+  <Game id="GCCJ01" en="Final Fantasy Crystal Chronicles"/>
+  <Game id="GCCJGC" en="Final Fantasy Crystal Chronicles"/>
+  <Game id="GCCP01" en="Final Fantasy Crystal Chronicles"/>
+  <Game id="GCDE08" en="Resident Evil Code: Veronica X"/>
+  <Game id="GCDJ08" en="Biohazard Code: Veronica Complete"/>
+  <Game id="GCDP08" en="Resident Evil Code: Veronica X"/>
+  <Game id="GCEE41" en="Tom Clancy's Splinter Cell"/>
+  <Game id="GCEP41" en="Tom Clancy's Splinter Cell"/>
+  <Game id="GCFE9G" en="Conflict: Desert Storm"/>
+  <Game id="GCFP75" en="Conflict: Desert Storm"/>
+  <Game id="GCGE41" en="Charlie's Angels"/>
+  <Game id="GCGP41" en="Charlie's Angels"/>
+  <Game id="GCHE78" en="WWE Crush Hour"/>
+  <Game id="GCHP78" en="WWE Crush Hour"/>
+  <Game id="GCIE69" en="The Sims"/>
+  <Game id="GCIP69" en="The Sims"/>
+  <Game id="GCJE41" en="Tom Clancy's Splinter Cell: Chaos Theory"/>
+  <Game id="GCJP41" en="Tom Clancy's Splinter Cell: Chaos Theory"/>
+  <Game id="GCLE69" en="Cel Damage"/>
+  <Game id="GCLP69" en="Cel Damage"/>
+  <Game id="GCMJA4" en="Muscle Champion ~Battle of Muscle Island~"/>
+  <Game id="GCNE7D" en="Crash Nitro Kart"/>
+  <Game id="GCNP7D" en="Crash Nitro Kart"/>
+  <Game id="GCOD52" en="Call of Duty: Finest Hour"/>
+  <Game id="GCOE52" en="Call of Duty: Finest Hour"/>
+  <Game id="GCOF52" en="Call of Duty: Finest Hour"/>
+  <Game id="GCOP52" en="Call of Duty: Finest Hour"/>
+  <Game id="GCPE6S" en="Casper: Spirit Dimensions"/>
+  <Game id="GCPP6S" en="Casper: Spirit Dimensions"/>
+  <Game id="GCQD7D" en="Buffy The Vampire Slayer Chaos Bleeds"/>
+  <Game id="GCQE7D" en="Buffy the Vampire Slayer: Chaos Bleeds"/>
+  <Game id="GCQF7D" en="Buffy The Vampire Slayer Chaos Bleeds"/>
+  <Game id="GCQP7D" en="Buffy The Vampire Slayer Chaos Bleeds"/>
+  <Game id="GCSEAF" en="Street Racing Syndicate"/>
+  <Game id="GCSPAF" en="Street Racing Syndicate"/>
+  <Game id="GCTE51" en="Crazy Taxi"/>
+  <Game id="GCTJ8P" en="Crazy Taxi"/>
+  <Game id="GCTP51" en="Crazy Taxi"/>
+  <Game id="GCUE69" en="NCAA Football 2005"/>
+  <Game id="GCVEEB" en="Cubivore: Survival of the Fittest"/>
+  <Game id="GCWJBL" en="Mahou no Pumpkin - An to Greg no Daibouken"/>
+  <Game id="GCWP6X" en="Castleween"/>
+  <Game id="GCZE69" en="Catwoman"/>
+  <Game id="GCZP69" en="Catwoman"/>
+  <Game id="GD4E6S" en="Dinotopia - The Sunstone Odyssey"/>
+  <Game id="GD5JB2" en="Dragon Drive: D-Masters Shot"/>
+  <Game id="GD6EB2" en="Digimon Rumble Arena 2"/>
+  <Game id="GD6P70" en="Digimon Rumble Arena 2"/>
+  <Game id="GD7E70" en="Dragon Ball Z - Budokai"/>
+  <Game id="GD7PB2" en="Dragon Ball Z: Budokai"/>
+  <Game id="GD9E69" en="Drome Racers"/>
+  <Game id="GD9P69" en="Drome Racers"/>
+  <Game id="GDAJE5" en="Doraemon Minna De Asobou!"/>
+  <Game id="GDBJ01" en="Doubutsu Bancho"/>
+  <Game id="GDCE51" en="Speed Kings"/>
+  <Game id="GDCP51" en="Speed Kings"/>
+  <Game id="GDDE41" en="Disney's Donald Duck: Goin' Quackers"/>
+  <Game id="GDDP41" en="Disney's Donald Duck: Qu@ck Att@ck"/>
+  <Game id="GDED71" en="Baldur's Gate Dark Alliance"/>
+  <Game id="GDEE71" en="Baldur's Gate: Dark Alliance"/>
+  <Game id="GDEF71" en="Baldur's Gate: Dark Alliance"/>
+  <Game id="GDEP71" en="Baldur's Gate Dark Alliance"/>
+  <Game id="GDFE5D" en="Defender"/>
+  <Game id="GDFP5D" en="Defender: For All Mankind"/>
+  <Game id="GDGE7H" en="Dragon's Lair 3D: Return to the Lair"/>
+  <Game id="GDGP78" en="Dragon's Lair 3D Special Edition"/>
+  <Game id="GDIE7D" en="Die Hard: Vendetta"/>
+  <Game id="GDIP7D" en="Die Hard: Vendetta"/>
+  <Game id="GDIX7D" en="Die Hard: Vendetta"/>
+  <Game id="GDIY7D" en="Die Hard: Vendetta"/>
+  <Game id="GDJEB2" en="Digimon World 4"/>
+  <Game id="GDJJB2" en="Digimon World X"/>
+  <Game id="GDKEA4" en="Disney Sports: Soccer"/>
+  <Game id="GDKJA4" en="Disney Sports: Soccer"/>
+  <Game id="GDKPA4" en="Disney Sports: Football"/>
+  <Game id="GDLEA4" en="Disney Sports: Basketball"/>
+  <Game id="GDLJA4" en="Disney Sports: Basketball"/>
+  <Game id="GDLPA4" en="Disney Sports: Basketball"/>
+  <Game id="GDME01" en="Disney's Magical Mirror Starring Mickey Mouse"/>
+  <Game id="GDMJ01" en="Disney's Mickey Mouse no Fushigi na Kagami"/>
+  <Game id="GDMP01" en="Disney's Magical Mirror Starring Mickey Mouse"/>
+  <Game id="GDNJE8" en="Dokapon DX"/>
+  <Game id="GDOP41" en="Disney's Donald Duck: PK"/>
+  <Game id="GDPJAF" en="Mr. Driller: Drill Land"/>
+  <Game id="GDQE7L" en="Darkened Skye"/>
+  <Game id="GDQP6S" en="Darkened Skye"/>
+  <Game id="GDREAF" en="Dead to Rights"/>
+  <Game id="GDRP69" en="Dead to Rights"/>
+  <Game id="GDSE78" en="Dark Summit"/>
+  <Game id="GDSP78" en="Dark Summit"/>
+  <Game id="GDTE69" en="Def Jam Vendetta"/>
+  <Game id="GDTP69" en="Def Jam Vendetta"/>
+  <Game id="GDUJA7" en="Duel Masters: Nettou! Battle Arena"/>
+  <Game id="GDVE6L" en="Driven"/>
+  <Game id="GDVP6L" en="Driven"/>
+  <Game id="GDWEA4" en="Disney Sports Football"/>
+  <Game id="GDWJA4" en="Disney Sports - American Football"/>
+  <Game id="GDXEA4" en="Disney Sports Skateboarding"/>
+  <Game id="GDXJA4" en="Disney Sports Skateboarding"/>
+  <Game id="GDXPA4" en="Disney Sports Skateboarding"/>
+  <Game id="GE3E5D" en="Midway Arcade Treasures 3"/>
+  <Game id="GE4E7D" en="4x4 Evo 2"/>
+  <Game id="GE5EA4" en="TMNT: Mutant Melee"/>
+  <Game id="GE6JA4" en="Eisei Meijin VI"/>
+  <Game id="GE9E5D" en="Ed, Edd n Eddy: The Mis-Edventures"/>
+  <Game id="GEAE8P" en="Skies of Arcadia Legends"/>
+  <Game id="GEAJ8P" en="Eternal Arcadia Legends"/>
+  <Game id="GEAP8P" en="Skies of Arcadia Legends"/>
+  <Game id="GEBEA4" en="Evolution Snowboarding"/>
+  <Game id="GEBPA4" en="Evolution Snowboarding"/>
+  <Game id="GEDE01" en="Eternal Darkness: Sanity's Requiem"/>
+  <Game id="GEDJ01" en="Eternal Darkness: Manekareta 13-nin"/>
+  <Game id="GEDP01" en="Eternal Darkness: Sanity's Requiem"/>
+  <Game id="GEDW01" en="Eternal Darkness: Sanity's Requiem"/>
+  <Game id="GEGJ8P" en="Billy Hatcher and the Giant Egg"/>
+  <Game id="GEJJCM" en="Jikkyou Powerful Pro Yakyuu 11 Chou Ketteiban"/>
+  <Game id="GEME7F" en="Egg Mania: Eggstreme Madness"/>
+  <Game id="GEMJ28" en="Tsukande! Mawashite! Dossun Puzzle EggMania"/>
+  <Game id="GEMP7F" en="Eggo Mania"/>
+  <Game id="GEND69" en="James Bond 007: Everything Or Nothing"/>
+  <Game id="GENE69" en="007: Everything or Nothing"/>
+  <Game id="GENF69" en="James Bond 007: Everything or Nothing"/>
+  <Game id="GENJ13" en="007 - Everything or Nothing"/>
+  <Game id="GENP69" en="James Bond 007: Everything Or Nothing"/>
+  <Game id="GENS69" en="James Bond 007: Everything or Nothing"/>
+  <Game id="GEOE08" en="Capcom vs. SNK 2 EO"/>
+  <Game id="GEOJ08" en="Capcom vs. SNK 2 EO: Millionaire Fighting 2001"/>
+  <Game id="GEOP08" en="Capcom vs. SNK 2 EO: Millionaire Fighting 2001"/>
+  <Game id="GESEA4" en="Evolution Skateboarding"/>
+  <Game id="GESJA4" en="Evolution Skateboarding"/>
+  <Game id="GESPA4" en="Evolution Skateboarding"/>
+  <Game id="GEVJ0M" en="Shinki Sekai Evolutia"/>
+  <Game id="GEWE41" en="Evolution Worlds"/>
+  <Game id="GEWP41" en="Evolution Worlds"/>
+  <Game id="GEXE52" en="Disney's Extreme Skate Adventure"/>
+  <Game id="GEXP52" en="Disney Extreme Skate Adventure"/>
+  <Game id="GEXX52" en="Disney's Extreme Skate Adventure"/>
+  <Game id="GEXY52" en="Disney Extreme Skate Adventure"/>
+  <Game id="GEYE69" en="Fight Night Round 2"/>
+  <Game id="GEYJ13" en="Fight Night Round 2"/>
+  <Game id="GEYP69" en="Fight Night Round 2"/>
+  <Game id="GEZE8P" en="Billy Hatcher and the Giant Egg"/>
+  <Game id="GEZP8P" en="Billy Hatcher and the Giant Egg"/>
+  <Game id="GF2E69" en="F1 2002"/>
+  <Game id="GF2P69" en="F1 2002"/>
+  <Game id="GF3E8P" en="NFL 2K3"/>
+  <Game id="GF3P8P" en="NFL 2K3"/>
+  <Game id="GF4D52" en="Fantastic 4"/>
+  <Game id="GF4E52" en="Fantastic 4"/>
+  <Game id="GF4F52" en="Fantastic 4"/>
+  <Game id="GF4H52" en="Fantastic 4"/>
+  <Game id="GF4I52" en="Fantastic 4"/>
+  <Game id="GF4P52" en="Fantastic 4"/>
+  <Game id="GF4S52" en="Fantastic 4"/>
+  <Game id="GF5D69" en="FIFA Football 2005"/>
+  <Game id="GF5E69" en="FIFA Soccer 2005"/>
+  <Game id="GF5F69" en="FIFA Football 2005"/>
+  <Game id="GF5H69" en="FIFA Football 2005"/>
+  <Game id="GF5I69" en="FIFA Football 2005"/>
+  <Game id="GF5P69" en="FIFA Football 2005"/>
+  <Game id="GF5S69" en="FIFA Football 2005"/>
+  <Game id="GF6D69" en="FIFA 06"/>
+  <Game id="GF6E69" en="FIFA Soccer 06"/>
+  <Game id="GF6F69" en="FIFA 06"/>
+  <Game id="GF6H69" en="FIFA 06"/>
+  <Game id="GF6I69" en="FIFA 06"/>
+  <Game id="GF6P69" en="FIFA 06"/>
+  <Game id="GF6S69" en="FIFA 06"/>
+  <Game id="GF7E01" en="Star Fox: Assault"/>
+  <Game id="GF7J01" en="Star Fox: Assault"/>
+  <Game id="GF7P01" en="Star Fox: Assault"/>
+  <Game id="GF8E69" en="FIFA Street"/>
+  <Game id="GF8P69" en="FIFA Street"/>
+  <Game id="GFAD69" en="FIFA Football 2003"/>
+  <Game id="GFAE69" en="FIFA Soccer 2003"/>
+  <Game id="GFAF69" en="FIFA Football 2003"/>
+  <Game id="GFAI69" en="FIFA Football 2003"/>
+  <Game id="GFAJ13" en="FIFA 2003"/>
+  <Game id="GFAP69" en="FIFA Football 2003"/>
+  <Game id="GFAS69" en="FIFA Football 2003"/>
+  <Game id="GFBE5D" en="FireBlade"/>
+  <Game id="GFBP5D" en="Fireblade"/>
+  <Game id="GFCP69" en="F1 Career Challenge"/>
+  <Game id="GFDD69" en="Freedom Fighters"/>
+  <Game id="GFDE69" en="Freedom Fighters"/>
+  <Game id="GFDF69" en="Freedom Fighters"/>
+  <Game id="GFDP69" en="Freedom Fighters"/>
+  <Game id="GFEE01" en="Fire Emblem: Path of Radiance"/>
+  <Game id="GFEJ01" en="Fire Emblem: Souen no Kiseki"/>
+  <Game id="GFEP01" en="Fire Emblem: Path of Radiance"/>
+  <Game id="GFFE5D" en="Freaky Flyers"/>
+  <Game id="GFGEA4" en="Frogger Beyond"/>
+  <Game id="GFGJA4" en="Frogger"/>
+  <Game id="GFGPA4" en="Frogger Beyond"/>
+  <Game id="GFHP6V" en="Neighbours from Hell"/>
+  <Game id="GFIE69" en="2002 FIFA World Cup"/>
+  <Game id="GFIJ13" en="2002 FIFA World Cup"/>
+  <Game id="GFJE69" en="FIFA Soccer 06"/>
+  <Game id="GFKE69" en="Freekstyle"/>
+  <Game id="GFKP69" en="Freekstyle"/>
+  <Game id="GFMJAF" en="Family Stadium 2003"/>
+  <Game id="GFNJG2" en="Finding Nemo"/>
+  <Game id="GFOE78" en="The Fairly OddParents - Shadow Showdown"/>
+  <Game id="GFPEA4" en="Frogger: Ancient Shadow"/>
+  <Game id="GFQEA4" en="Frogger's Adventures: The Rescue"/>
+  <Game id="GFSD69" en="2002 FIFA World Cup"/>
+  <Game id="GFSE69" en="FIFA Soccer 2002"/>
+  <Game id="GFSF69" en="2002 FIFA World Cup"/>
+  <Game id="GFSJ13" en="FIFA Soccer 2002"/>
+  <Game id="GFSP69" en="2002 FIFA World Cup"/>
+  <Game id="GFSX69" en="2002 FIFA World Cup"/>
+  <Game id="GFTE01" en="Mario Golf: Toadstool Tour"/>
+  <Game id="GFTJ01" en="Mario Golf: Family Tour"/>
+  <Game id="GFTP01" en="Mario Golf: Toadstool Tour"/>
+  <Game id="GFUE4Z" en="Future Tactics: The Uprising"/>
+  <Game id="GFUP6V" en="Future Tactics: The Uprising"/>
+  <Game id="GFVE5D" en="NFL Blitz Pro"/>
+  <Game id="GFWE78" en="The Fairly OddParents: Breakin' Da Rules"/>
+  <Game id="GFXE5D" en="Freestyle Metal X"/>
+  <Game id="GFYE69" en="FIFA Street 2"/>
+  <Game id="GFYP69" en="FIFA Street 2"/>
+  <Game id="GFZE01" en="F-Zero GX"/>
+  <Game id="GFZJ01" en="F-Zero GX"/>
+  <Game id="GFZP01" en="F-Zero GX"/>
+  <Game id="GG2E4Z" en="Trigger Man"/>
+  <Game id="GG4E08" en="Gotcha Force"/>
+  <Game id="GG4J08" en="Gotcha Force"/>
+  <Game id="GG4P08" en="Gotcha Force"/>
+  <Game id="GG5E52" en="Cabela's Big Game Hunter 2005"/>
+  <Game id="GGAJB2" en="Mobile Suit Gundam: The Ace Pilot"/>
+  <Game id="GGCE0A" en="Goblin Commander: Unleash The Horde"/>
+  <Game id="GGCP0A" en="Goblin Commander: Unleash the Horde"/>
+  <Game id="GGEE41" en="Beyond Good &amp; Evil"/>
+  <Game id="GGEP41" en="Beyond Good &amp; Evil"/>
+  <Game id="GGEX41" en="Beyond Good &amp; Evil"/>
+  <Game id="GGEY41" en="Beyond Good &amp; Evil"/>
+  <Game id="GGFJ01" en="GiFTPiA"/>
+  <Game id="GGIJ13" en="GoldenEye - Dark Agent"/>
+  <Game id="GGKJB2" en="Konjiki no Gashbell!! Yuujou Tag Battle - Full Power"/>
+  <Game id="GGNE5D" en="The Grim Adventures of Billy and Mandy"/>
+  <Game id="GGPJAF" en="SD Gundam Gashapon Wars"/>
+  <Game id="GGPJB2" en="SD Gundam Gashapon Wars"/>
+  <Game id="GGRD41" en="Tom Clancy's Ghost Recon"/>
+  <Game id="GGRE41" en="Tom Clancy's Ghost Recon"/>
+  <Game id="GGRP41" en="Tom Clancy's Ghost Recon"/>
+  <Game id="GGSEA4" en="Metal Gear Solid: The Twin Snakes"/>
+  <Game id="GGSJA4" en="Metal Gear Solid: The Twin Snakes"/>
+  <Game id="GGSPA4" en="Metal Gear Solid: The Twin Snakes"/>
+  <Game id="GGTE01" en="Chibi-Robo!"/>
+  <Game id="GGTJ01" en="Chibi-Robo!"/>
+  <Game id="GGTP01" en="Chibi-Robo!"/>
+  <Game id="GGVD78" en="SpongeBob SquarePants: The Movie"/>
+  <Game id="GGVE78" en="SpongeBob SquarePants: The Movie"/>
+  <Game id="GGVP78" en="SpongeBob SquarePants: The Movie"/>
+  <Game id="GGVX78" en="SpongeBob SquarePants: The Movie"/>
+  <Game id="GGYE41" en="Tom Clancy's Ghost Recon 2"/>
+  <Game id="GGYP41" en="Tom Clancy's Ghost Recon 2"/>
+  <Game id="GGZE52" en="Madagascar"/>
+  <Game id="GGZH52" en="Madagascar"/>
+  <Game id="GGZI52" en="Madagascar"/>
+  <Game id="GGZJB2" en="Madagascar"/>
+  <Game id="GGZP52" en="Madagascar"/>
+  <Game id="GGZS52" en="Madagascar"/>
+  <Game id="GGZX52" en="Madagascar"/>
+  <Game id="GH2E69" en="Need for Speed: Hot Pursuit 2"/>
+  <Game id="GH2P69" en="Need for Speed: Hot Pursuit 2"/>
+  <Game id="GH3E69" en="NHL 2003"/>
+  <Game id="GH3P69" en="NHL 2003"/>
+  <Game id="GH4D69" en="Harry Potter and the Goblet of Fire"/>
+  <Game id="GH4E69" en="Harry Potter and the Goblet of Fire"/>
+  <Game id="GH4F69" en="Harry Potter and the Goblet of Fire"/>
+  <Game id="GH4H69" en="Harry Potter and the Goblet of Fire"/>
+  <Game id="GH4I69" en="Harry Potter and the Goblet of Fire"/>
+  <Game id="GH4J13" en="Harry Potter to Honoo no Goblet"/>
+  <Game id="GH4M69" en="Harry Potter and the Goblet of Fire"/>
+  <Game id="GH4P69" en="Harry Potter and the Goblet of Fire"/>
+  <Game id="GH4S69" en="Harry Potter and the Goblet of Fire"/>
+  <Game id="GH5D52" en="Over The Hedge"/>
+  <Game id="GH5E52" en="Over The Hedge"/>
+  <Game id="GH5F52" en="Over The Hedge"/>
+  <Game id="GH5P52" en="Over The Hedge"/>
+  <Game id="GH6EAF" en="Hello Kitty: Roller Rescue"/>
+  <Game id="GH6P7N" en="Hello Kitty: Roller Rescue"/>
+  <Game id="GH7E5D" en="Happy Feet"/>
+  <Game id="GH9P52" en="Tony Hawk's American Wasteland"/>
+  <Game id="GHAE08" en="Resident Evil 2"/>
+  <Game id="GHAJ08" en="Biohazard 2"/>
+  <Game id="GHAP08" en="Resident Evil 2"/>
+  <Game id="GHBE7D" en="The Hobbit"/>
+  <Game id="GHBP7D" en="The Hobbit"/>
+  <Game id="GHCD4Q" en="Chicken Little"/>
+  <Game id="GHCE4Q" en="Chicken Little"/>
+  <Game id="GHCF4Q" en="Chicken Little"/>
+  <Game id="GHCJG9" en="Chicken Little"/>
+  <Game id="GHCP4Q" en="Chicken Little"/>
+  <Game id="GHEJ91" en="Homeland"/>
+  <Game id="GHFE4Z" en="Pinball Hall of Fame: The Gottlieb Collection"/>
+  <Game id="GHGEEB" en="Go! Go! Hypergrind"/>
+  <Game id="GHKD7D" en="Hulk"/>
+  <Game id="GHKE7D" en="Hulk"/>
+  <Game id="GHKF7D" en="Hulk"/>
+  <Game id="GHKP7D" en="Hulk"/>
+  <Game id="GHKS7D" en="Hulk"/>
+  <Game id="GHLE69" en="Harry Potter and the Sorcerer's Stone"/>
+  <Game id="GHLJ13" en="Harry Potter to Kenja no Ishi"/>
+  <Game id="GHLP69" en="Harry Potter and the Philosopher's Stone"/>
+  <Game id="GHLX69" en="Harry Potter and the Philosopher's Stone"/>
+  <Game id="GHLY69" en="Harry Potter and the Sorcerer's Stone"/>
+  <Game id="GHLZ69" en="Harry Potter and the Sorcerer's Stone"/>
+  <Game id="GHMD4F" en="Hitman 2: Silent Assassin"/>
+  <Game id="GHME4F" en="Hitman 2: Silent Assassin"/>
+  <Game id="GHMF4F" en="Hitman 2: Silent Assassin"/>
+  <Game id="GHMP4F" en="Hitman 2: Silent Assassin"/>
+  <Game id="GHNE71" en="Hunter: The Reckoning"/>
+  <Game id="GHNX71" en="Hunter: The Reckoning"/>
+  <Game id="GHPE52" en="Street Hoops"/>
+  <Game id="GHQE7D" en="The Simpsons: Hit &amp; Run"/>
+  <Game id="GHQP7D" en="The Simpsons: Hit &amp; Run"/>
+  <Game id="GHRE78" en="Hot Wheels: World Race"/>
+  <Game id="GHRP78" en="Hot Wheels: World Race"/>
+  <Game id="GHSE69" en="Harry Potter and the Chamber of Secrets"/>
+  <Game id="GHSJ13" en="Harry Potter to Himitsu no Heya"/>
+  <Game id="GHSP69" en="Harry Potter and the Chamber of Secrets"/>
+  <Game id="GHSX69" en="Harry Potter and the Chamber of Secrets"/>
+  <Game id="GHSY69" en="Harry Potter and the Chamber of Secrets"/>
+  <Game id="GHTJA4" en="Hikaru No Go 3"/>
+  <Game id="GHUE7D" en="The Incredible Hulk: Ultimate Destruction"/>
+  <Game id="GHUF7D" en="The Incredible Hulk Ultimate Destruction"/>
+  <Game id="GHUP7D" en="The Incredible Hulk Ultimate Destruction"/>
+  <Game id="GHVE08" en="Disney's Hide &amp; Sneak"/>
+  <Game id="GHVP08" en="Disney's Hide &amp; Sneak"/>
+  <Game id="GHWE78" en="Hot Wheels: Velocity X"/>
+  <Game id="GHWP78" en="Hot Wheels: Velocity X"/>
+  <Game id="GHYE6S" en="The Haunted Mansion"/>
+  <Game id="GHZE5D" en="NHL Hitz Pro"/>
+  <Game id="GI2J18" en="Momotarou Dentetsu 12"/>
+  <Game id="GIAE7D" en="Ice Age 2: The Meltdown"/>
+  <Game id="GIAP7D" en="Ice Age 2: The Meltdown"/>
+  <Game id="GIBE4F" en="The Italian Job"/>
+  <Game id="GIBP4F" en="The Italian Job"/>
+  <Game id="GICD78" en="The Incredibles"/>
+  <Game id="GICE78" en="The Incredibles"/>
+  <Game id="GICF78" en="The Incredibles"/>
+  <Game id="GICH78" en="The Incredibles"/>
+  <Game id="GICJG9" en="Mr. Inkurediburu"/>
+  <Game id="GICP78" en="The Incredibles"/>
+  <Game id="GIFJDQ" en="Generation of Chaos Exceed"/>
+  <Game id="GIGJ8P" en="Bleach GC: Tasogare Ni Mamieru Shinigami"/>
+  <Game id="GIHD78" en="Scooby-Doo!  Night of 100 Frights"/>
+  <Game id="GIHE78" en="Scooby-Doo!  Night of 100 Frights"/>
+  <Game id="GIHF78" en="Scooby-Doo! Night of 100 Frights"/>
+  <Game id="GIHP78" en="Scooby-Doo!  Night of 100 Frights"/>
+  <Game id="GIIJ18" en="Momotarou Dentetsu 11"/>
+  <Game id="GIJEFP" en="Space Raiders"/>
+  <Game id="GIJJC0" en="Space Raiders"/>
+  <Game id="GIJKC0" en="Space Raiders"/>
+  <Game id="GIKE70" en="Ikaruga"/>
+  <Game id="GIKJ70" en="Ikaruga"/>
+  <Game id="GIKP70" en="Ikaruga"/>
+  <Game id="GILE51" en="Aggressive Inline"/>
+  <Game id="GILP51" en="Aggressive Inline"/>
+  <Game id="GINE69" en="Batman Begins"/>
+  <Game id="GINX69" en="Batman Begins"/>
+  <Game id="GIOJCM" en="Jikkyou Powerful Pro Yakyuu 10 Chou Ketteiban - 2003 Memorial"/>
+  <Game id="GIPEAF" en="Shonen Jump's One Piece: Pirates Carnival"/>
+  <Game id="GIPJB2" en="Shonen Jump's One Piece: Pirates Carnival"/>
+  <Game id="GIQE78" en="The Incredibles: Rise of the Underminer"/>
+  <Game id="GIQJ8P" en="The Incredibles: Rise of the Underminer"/>
+  <Game id="GIQX78" en="The Incredibles: Rise of the Underminer"/>
+  <Game id="GIQY78" en="The Incredibles: Rise of the Underminer"/>
+  <Game id="GISE36" en="Second Sight"/>
+  <Game id="GISP36" en="Second Sight"/>
+  <Game id="GITE01" en="Geist"/>
+  <Game id="GITP01" en="Geist"/>
+  <Game id="GIVE4Z" en="Intellivision Lives"/>
+  <Game id="GIZE52" en="Ty the Tasmanian Tiger 3: Night of the Quinkan"/>
+  <Game id="GJ2JCM" en="Jikkyou World Soccer 2002"/>
+  <Game id="GJ2PA4" en="International Superstar Soccer 2"/>
+  <Game id="GJ3PA4" en="International Superstar Soccer 3"/>
+  <Game id="GJBE18" en="Bomberman Jetters"/>
+  <Game id="GJBE5G" en="Bomberman Jetters"/>
+  <Game id="GJBJ18" en="Bomberman Jetters"/>
+  <Game id="GJCE8P" en="Samurai Jack: The Shadow of Aku"/>
+  <Game id="GJCP8P" en="Samurai Jack: The Shadow of Aku"/>
+  <Game id="GJDE5S" en="Judge Dredd: Dredd vs. Death"/>
+  <Game id="GJDX7D" en="Judge Dredd: Dredd vs. Death"/>
+  <Game id="GJDY7D" en="Judge Dredd: Dredd vs. Death"/>
+  <Game id="GJFE78" en="Jimmy Neutron Jet Fusion"/>
+  <Game id="GJFP78" en="Jimmy Neutron Jet Fusion"/>
+  <Game id="GJKD52" en="Star Wars Jedi Knight II: Jedi Outcast"/>
+  <Game id="GJKE52" en="Star Wars Jedi Knight II: Jedi Outcast"/>
+  <Game id="GJKF52" en="Star Wars Jedi Knight II: Jedi Outcast"/>
+  <Game id="GJKP52" en="Star Wars Jedi Knight II: Jedi Outcast"/>
+  <Game id="GJND78" en="Jimmy Neutron: Boy Genius"/>
+  <Game id="GJNE78" en="Jimmy Neutron Boy Genius"/>
+  <Game id="GJNP78" en="Jimmy Neutron Boy Genius"/>
+  <Game id="GJPJCM" en="Jikkyou Powerful Pro Yakyuu 11"/>
+  <Game id="GJSJ18" en="Hudson Selection Vol. 2: Star Soldier"/>
+  <Game id="GJUD78" en="Tak and the Power of Juju"/>
+  <Game id="GJUE78" en="Tak and the Power of Juju"/>
+  <Game id="GJUF78" en="Tak and the Power of Juju"/>
+  <Game id="GJUP78" en="Tak and the Power of Juju"/>
+  <Game id="GJWE78" en="Tak: The Great Juju Challenge"/>
+  <Game id="GJWP78" en="Tak: The Great Juju Challenge"/>
+  <Game id="GJXE51" en="Vexx"/>
+  <Game id="GJXP51" en="Vexx"/>
+  <Game id="GJYE78" en="Jimmy Neutron: Attack of the Twonkies"/>
+  <Game id="GJYP78" en="Jimmy Neutron Boy Genius: Attack of the Twonkies"/>
+  <Game id="GJZE52" en="SeaWorld Adventure Parks: Shamu's Deep Sea Adventures"/>
+  <Game id="GJZP52" en="SeaWorld Adventure Parks: Shamu's Deep Sea Adventures"/>
+  <Game id="GK2D52" en="Spider-Man 2"/>
+  <Game id="GK2E52" en="Spider-Man 2"/>
+  <Game id="GK2F52" en="Spider-Man 2"/>
+  <Game id="GK2I52" en="Spider-Man 2"/>
+  <Game id="GK2P52" en="Spider-Man 2"/>
+  <Game id="GK3E8P" en="NBA 2K3"/>
+  <Game id="GK3P8P" en="NBA 2K3"/>
+  <Game id="GK4E01" en="Baten Kaitos Origins"/>
+  <Game id="GK4J01" en="Baten Kaitos II: Hajimari no Tsubasa to Kamigami no Shishi"/>
+  <Game id="GK5E78" en="Monster House"/>
+  <Game id="GK5P78" en="Monster House"/>
+  <Game id="GK5X78" en="Monster House"/>
+  <Game id="GK6JA4" en="Croket Banking no Kikiwosukue"/>
+  <Game id="GK7E08" en="Killer7"/>
+  <Game id="GK7J08" en="Killer7"/>
+  <Game id="GK7P08" en="Killer 7"/>
+  <Game id="GK9EA4" en="Karaoke Revolution Party"/>
+  <Game id="GKAE8P" en="Amazing Island"/>
+  <Game id="GKAJ8P" en="Kaijuu no Shima: Amazing Island"/>
+  <Game id="GKBEAF" en="Baten Kaitos Eternal Wings and the Lost Ocean"/>
+  <Game id="GKBJAF" en="Baten Kaitos: Owaranai Tsubasa to Ushinawareta Umi"/>
+  <Game id="GKBPAF" en="Baten Kaitos: Eternal Wings and the Lost Ocean"/>
+  <Game id="GKDJ01" en="Kyojin no Doshin"/>
+  <Game id="GKDP01" en="Doshin the Giant"/>
+  <Game id="GKEJA4" en="Jikkyou Powerful Pro Yakyuu 12 Ketteiban"/>
+  <Game id="GKFEGG" en="Chaos Field"/>
+  <Game id="GKFJ8P" en="Chaos Field Expanded"/>
+  <Game id="GKFJMS" en="Chaos Field Expanded"/>
+  <Game id="GKGE01" en="Donkey Konga"/>
+  <Game id="GKGJ01" en="Donkey Konga"/>
+  <Game id="GKGP01" en="Donkey Konga"/>
+  <Game id="GKHEA4" en="King Arthur"/>
+  <Game id="GKHPA4" en="King Arthur"/>
+  <Game id="GKJD78" en="Cars"/>
+  <Game id="GKJE78" en="Cars"/>
+  <Game id="GKJF78" en="Cars"/>
+  <Game id="GKJH78" en="Cars"/>
+  <Game id="GKJJ78" en="Cars"/>
+  <Game id="GKJP78" en="Cars"/>
+  <Game id="GKJS78" en="Cars"/>
+  <Game id="GKKE69" en="Knockout Kings 2003"/>
+  <Game id="GKKP69" en="Knockout Kings 2003"/>
+  <Game id="GKLD69" en="The Lord of the Rings: The Return of the King"/>
+  <Game id="GKLE69" en="The Lord of the Rings: The Return of the King"/>
+  <Game id="GKLF69" en="The Lord of the Rings: The Return of the King"/>
+  <Game id="GKLI69" en="The Lord of the Rings: The Return of the King"/>
+  <Game id="GKLJ13" en="The Lord of the Rings: The Return of the King"/>
+  <Game id="GKLP69" en="The Lord of the Rings: The Return of the King"/>
+  <Game id="GKLS69" en="The Lord of the Rings: The Return of the King"/>
+  <Game id="GKME41" en="Prince of Persia: The Two Thrones"/>
+  <Game id="GKMP41" en="Prince of Persia: The Two Thrones"/>
+  <Game id="GKNEB2" en="Ultimate Muscle: Legends vs. New Generation"/>
+  <Game id="GKNJB2" en="Kinnikuman Nisei: Shinsedai Choujin vs Densetsu Choujin"/>
+  <Game id="GKOE70" en="Kao The Kangaroo Round 2"/>
+  <Game id="GKOP6V" en="Kao The Kangaroo Round 2"/>
+  <Game id="GKPJA4" en="Jikkyou Powerful Pro Yakyuu 12"/>
+  <Game id="GKQJ01" en="Kururin Squash!"/>
+  <Game id="GKREB2" en="Ribbit King"/>
+  <Game id="GKRJB2" en="Kero Kero King DX"/>
+  <Game id="GKRPB2" en="Ribbit King"/>
+  <Game id="GKSE52" en="Kelly Slater's Pro Surfer"/>
+  <Game id="GKSP52" en="Kelly Slater's Pro Surfer"/>
+  <Game id="GKSX52" en="Kelly Slater's Pro Surfer"/>
+  <Game id="GKTJA4" en="Captain Tsubasa: Ougon Sedai no Chousen"/>
+  <Game id="GKUE9G" en="Scaler"/>
+  <Game id="GKWJ18" en="DreamMix TV World Fighters"/>
+  <Game id="GKXJE7" en="Kiwame Mahjong DX2"/>
+  <Game id="GKYE01" en="Kirby Air Ride"/>
+  <Game id="GKYJ01" en="Kirby's Airride"/>
+  <Game id="GKYP01" en="Kirby Air Ride"/>
+  <Game id="GKZD54" en="Codename: Kids Next Door - Operation: V.I.D.E.O.G.A.M.E."/>
+  <Game id="GKZE9G" en="Codename Kids Next Door - Operation V.I.D.E.O.G.A.M.E"/>
+  <Game id="GKZP54" en="Codename Kids Next Door - Operation V.I.D.E.O.G.A.M.E"/>
+  <Game id="GL2E51" en="Legends of Wrestling II"/>
+  <Game id="GL2P51" en="Legends of Wrestling II"/>
+  <Game id="GL3JE8" en="Lupin The Third - Umi Ni Kieta Hihou"/>
+  <Game id="GL5E4F" en="LEGO Star Wars: The Video Game"/>
+  <Game id="GL5P4F" en="LEGO Star Wars: The Video Game"/>
+  <Game id="GL5X4F" en="LEGO Star Wars: The Video Game"/>
+  <Game id="GL7E64" en="LEGO Star Wars II: The Original Trilogy"/>
+  <Game id="GL7P64" en="LEGO Star Wars II: The Original Trilogy"/>
+  <Game id="GL8D4F" en="Lara Croft Tomb Raider: Legend"/>
+  <Game id="GL8E4F" en="Lara Croft Tomb Raider: Legend"/>
+  <Game id="GL8F4F" en="Lara Croft Tomb Raider: Legend"/>
+  <Game id="GL8P4F" en="Lara Croft Tomb Raider: Legend"/>
+  <Game id="GLBE8P" en="Home Run King"/>
+  <Game id="GLCD52" en="Lemony Snickets A Series Of Unfortunate Events"/>
+  <Game id="GLCE52" en="Lemony Snickets A Series Of Unfortunate Events"/>
+  <Game id="GLCF52" en="Lemony Snickets A Series Of Unfortunate Events"/>
+  <Game id="GLCP52" en="Lemony Snickets A Series Of Unfortunate Events"/>
+  <Game id="GLCS52" en="Lemony Snickets A Series Of Unfortunate Events"/>
+  <Game id="GLEE08" en="Resident Evil 3: Nemesis"/>
+  <Game id="GLEJ08" en="BioHazard 3: Last Escape"/>
+  <Game id="GLEP08" en="Resident Evil 3: Nemesis"/>
+  <Game id="GLGP41" en="Largo Winch: Empire Under Threat"/>
+  <Game id="GLHEG9" en="Flushed Away"/>
+  <Game id="GLHPG9" en="Flushed Away"/>
+  <Game id="GLIJA7" en="Special Jinsei Game"/>
+  <Game id="GLJJMS" en="Radirgy Generic"/>
+  <Game id="GLLE78" en="Ratatouille"/>
+  <Game id="GLLF78" en="Ratatouille"/>
+  <Game id="GLME01" en="Luigi's Mansion"/>
+  <Game id="GLMJ01" en="Luigi's Mansion"/>
+  <Game id="GLMP01" en="Luigi's Mansion"/>
+  <Game id="GLNE69" en="Looney Tunes: Back in Action"/>
+  <Game id="GLNP69" en="Looney Tunes: Back in Action"/>
+  <Game id="GLOD69" en="The Lord of the Rings: The Two Towers"/>
+  <Game id="GLOE69" en="The Lord of the Rings: The Two Towers"/>
+  <Game id="GLOF69" en="The Lord of the Rings: The Two Towers"/>
+  <Game id="GLOI69" en="The Lord of the Rings: The Two Towers"/>
+  <Game id="GLOJ13" en="Lord of the Rings - Futatsu no Tou"/>
+  <Game id="GLOP69" en="The Lord of the Rings: The Two Towers"/>
+  <Game id="GLOS69" en="The Lord of the Rings: The Two Towers"/>
+  <Game id="GLQE41" en="Tom Clancy's Rainbow Six: Lockdown"/>
+  <Game id="GLQP41" en="Tom Clancy's Rainbow Six: Lockdown"/>
+  <Game id="GLRD64" en="Star Wars Rogue Squadron III: Rebel Strike"/>
+  <Game id="GLRE64" en="Star Wars Rogue Squadron III: Rebel Strike"/>
+  <Game id="GLRF64" en="Star Wars Rogue Squadron III: Rebel Strike"/>
+  <Game id="GLRP64" en="Star Wars Rogue Squadron III: Rebel Strike"/>
+  <Game id="GLSD64" en="Gladius"/>
+  <Game id="GLSE64" en="Gladius"/>
+  <Game id="GLSF64" en="Gladius"/>
+  <Game id="GLSP64" en="Gladius"/>
+  <Game id="GLUE7U" en="Lotus Challenge"/>
+  <Game id="GLVD4Q" en="The Chronicles of Narnia: The Lion Witch and the Wardrobe"/>
+  <Game id="GLVE4Q" en="The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"/>
+  <Game id="GLVF4Q" en="The Chronicles of Narnia: The Lion Witch and the Wardrobe"/>
+  <Game id="GLVP4Q" en="The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"/>
+  <Game id="GLWE51" en="Legends of Wrestling"/>
+  <Game id="GLWP51" en="Legends of Wrestling"/>
+  <Game id="GLXJ29" en="Legend of Golfer"/>
+  <Game id="GLYE69" en="NBA Live 2005"/>
+  <Game id="GLYP69" en="NBA Live 2005"/>
+  <Game id="GLZD69" en="James Bond 007: From Russia With Love"/>
+  <Game id="GLZE69" en="007: From Russia With Love"/>
+  <Game id="GLZF69" en="James Bond 007: From Russia With Love"/>
+  <Game id="GLZP69" en="James Bond 007: From Russia With Love"/>
+  <Game id="GM2E8P" en="Super Monkey Ball 2"/>
+  <Game id="GM2J8P" en="Super Monkey Ball 2"/>
+  <Game id="GM2P8P" en="Super Monkey Ball 2"/>
+  <Game id="GM3E69" en="Madden NFL 2003"/>
+  <Game id="GM3P69" en="Madden NFL 2003"/>
+  <Game id="GM4E01" en="Mario Kart: Double Dash!!"/>
+  <Game id="GM4J01" en="Mario Kart: Double Dash!!"/>
+  <Game id="GM4P01" en="Mario Kart: Double Dash!!"/>
+  <Game id="GM5D7D" en="Metal Arms: Glitch in the System"/>
+  <Game id="GM5E7D" en="Metal Arms: Glitch in the System"/>
+  <Game id="GM5F7D" en="Metal Arms: Glitch in the System"/>
+  <Game id="GM5P7D" en="Metal Arms: Glitch in the System"/>
+  <Game id="GM6EE9" en="Medabots Infinity"/>
+  <Game id="GM6JE9" en="Medarot Brave"/>
+  <Game id="GM6PE9" en="Medabots Infinity"/>
+  <Game id="GM8E01" en="Metroid Prime"/>
+  <Game id="GM8J01" en="Metroid Prime"/>
+  <Game id="GM8P01" en="Metroid Prime"/>
+  <Game id="GM9E6S" en="Muppets Party Cruise"/>
+  <Game id="GMAE51" en="Mary-Kate and Ashley: Sweet 16 Licensed to Drive"/>
+  <Game id="GMAP51" en="Mary-Kate and Ashley: Sweet 16 Licensed to Drive"/>
+  <Game id="GMBE8P" en="Super Monkey Ball"/>
+  <Game id="GMBJ8P" en="Super Monkey Ball"/>
+  <Game id="GMBP8P" en="Super Monkey Ball"/>
+  <Game id="GMDE69" en="Madden NFL 2002"/>
+  <Game id="GMEE70" en="Men In Black II:  Alien Escape"/>
+  <Game id="GMEP70" en="Men In Black II:  Alien Escape"/>
+  <Game id="GMFD69" en="Medal of Honor: Frontline"/>
+  <Game id="GMFE69" en="Medal of Honor: Frontline"/>
+  <Game id="GMFF69" en="Medal of Honor: Frontline"/>
+  <Game id="GMFI69" en="Medal of Honor: Frontline"/>
+  <Game id="GMFP69" en="Medal of Honor: Frontline"/>
+  <Game id="GMFS69" en="Medal of Honor: Frontline"/>
+  <Game id="GMHE52" en="Matt Hoffman's Pro BMX 2"/>
+  <Game id="GMHP52" en="Mat Hoffman's Pro BMX 2"/>
+  <Game id="GMIE70" en="Mission Impossible: Operation Surma"/>
+  <Game id="GMIJ70" en="Mission - Impossible - Operation Surma"/>
+  <Game id="GMIP70" en="Mission Impossible: Operation Surma"/>
+  <Game id="GMJE41" en="Monster Jam: Maximum Destruction"/>
+  <Game id="GMJP41" en="Monster Jam: Maximum Destruction"/>
+  <Game id="GMKD5D" en="Mortal Kombat: Deadly Alliance"/>
+  <Game id="GMKE5D" en="Mortal Kombat: Deadly Alliance"/>
+  <Game id="GMKP5D" en="Mortal Kombat: Deadly Alliance"/>
+  <Game id="GMLEA4" en="ESPN MLS ExtraTime 2002"/>
+  <Game id="GMNE78" en="Monsters, Inc. Scream Arena"/>
+  <Game id="GMNP78" en="Monsters, Inc. Scream Arena"/>
+  <Game id="GMOP70" en="Micro Machines"/>
+  <Game id="GMPE01" en="Mario Party 4"/>
+  <Game id="GMPJ01" en="Mario Party 4"/>
+  <Game id="GMPP01" en="Mario Party 4"/>
+  <Game id="GMPW01" en="Mario Party 4"/>
+  <Game id="GMQE70" en="Monopoly Party"/>
+  <Game id="GMQP70" en="Monopoly Party"/>
+  <Game id="GMRE70" en="Big Air Freestyle"/>
+  <Game id="GMRP70" en="Big Air Freestyle"/>
+  <Game id="GMSE01" en="Super Mario Sunshine"/>
+  <Game id="GMSJ01" en="Super Mario Sunshine"/>
+  <Game id="GMSP01" en="Super Mario Sunshine"/>
+  <Game id="GMTE69" en="Disney's Party"/>
+  <Game id="GMTJ18" en="Disney no Magical Park"/>
+  <Game id="GMTP69" en="Disney's Party"/>
+  <Game id="GMUE5D" en="Dr. Muto"/>
+  <Game id="GMWD52" en="Minority Report: Everybody Runs"/>
+  <Game id="GMWE52" en="Minority Report: Everybody Runs"/>
+  <Game id="GMWF52" en="Minority Report: Everybody Runs"/>
+  <Game id="GMWP52" en="Minority Report: Everybody Runs"/>
+  <Game id="GMXE70" en="Enter The Matrix"/>
+  <Game id="GMXJB2" en="Enter The Matrix"/>
+  <Game id="GMXP70" en="Enter The Matrix"/>
+  <Game id="GMYJ8P" en="Gekitou Pro Yakyuu"/>
+  <Game id="GMZE41" en="Monster 4x4: Masters Of Metal"/>
+  <Game id="GN2E70" en="Nascar: Dirt To Daytona"/>
+  <Game id="GN3E5D" en="NHL Hitz 2003"/>
+  <Game id="GN3P5D" en="NHL Hitz 2003"/>
+  <Game id="GN4E69" en="NASCAR 2005: Chase for the Cup"/>
+  <Game id="GN5E69" en="NHL 2005"/>
+  <Game id="GN5P69" en="NHL 2005"/>
+  <Game id="GN6E69" en="NHL 06"/>
+  <Game id="GN6P69" en="NHL 06"/>
+  <Game id="GN7E69" en="NFL Street 2"/>
+  <Game id="GN7P69" en="NFL Street 2"/>
+  <Game id="GN8E69" en="NBA Live 2004"/>
+  <Game id="GN8P69" en="NBA Live 2004"/>
+  <Game id="GN9E70" en="Nickelodeon Party Blast"/>
+  <Game id="GNAE8P" en="NCAA College Football 2K3"/>
+  <Game id="GNBE01" en="NBA Courtside 2002"/>
+  <Game id="GNBJ01" en="NBA Courtside 2002"/>
+  <Game id="GNBP01" en="NBA Courtside 2002"/>
+  <Game id="GNCE69" en="Nascar Thunder 2003"/>
+  <Game id="GNDD69" en="Need for Speed: Underground"/>
+  <Game id="GNDE69" en="Need for Speed: Underground"/>
+  <Game id="GNDF69" en="Need for Speed: Underground"/>
+  <Game id="GNDJ13" en="Need for Speed - Underground"/>
+  <Game id="GNDP69" en="Need for Speed: Underground"/>
+  <Game id="GNED78" en="Finding Nemo"/>
+  <Game id="GNEE78" en="Finding Nemo"/>
+  <Game id="GNEF78" en="Finding Nemo"/>
+  <Game id="GNEP78" en="Finding Nemo"/>
+  <Game id="GNES78" en="Finding Nemo"/>
+  <Game id="GNFE5D" en="NFL Blitz 2002"/>
+  <Game id="GNGE69" en="NCAA Football 2003"/>
+  <Game id="GNHE5d" en="NHL Hitz 2002"/>
+  <Game id="GNHP5D" en="NHL Hitz 20-02"/>
+  <Game id="GNIEA4" en="Teenage Mutant Ninja Turtles 2: Battle Nexus"/>
+  <Game id="GNIPA4" en="Teenage Mutant Ninja Turtles 2: Battle Nexus"/>
+  <Game id="GNJEAF" en="I-Ninja"/>
+  <Game id="GNKE8P" en="NCAA College Basketball 2K3"/>
+  <Game id="GNLE69" en="NBA Live 2003"/>
+  <Game id="GNLP69" en="NBA Live 2003"/>
+  <Game id="GNMEAF" en="Namco Museum"/>
+  <Game id="GNNE69" en="NFL Street"/>
+  <Game id="GNNP69" en="NFL Street"/>
+  <Game id="GNOE78" en="Nicktoons Unite!"/>
+  <Game id="GNOX78" en="SpongeBob SquarePants &amp; Friends: Unite!"/>
+  <Game id="GNPP70" en="Nickelodeon Party Blast"/>
+  <Game id="GNQE69" en="Madden NFL 2005"/>
+  <Game id="GNQP69" en="Madden NFL 2005"/>
+  <Game id="GNREDA" en="Naruto Clash of Ninja"/>
+  <Game id="GNRJDA" en="Naruto: Gekitô Ninja Taisen!"/>
+  <Game id="GNSE69" en="NBA Street"/>
+  <Game id="GNSJ13" en="NBA Street"/>
+  <Game id="GNUEDA" en="Naruto Clash of Ninja 2"/>
+  <Game id="GNUJDA" en="Naruto: Gekitou Ninja Taisen! 2"/>
+  <Game id="GNUPDA" en="Naruto: Clash of Ninja - European Version"/>
+  <Game id="GNVE69" en="NHL 2004"/>
+  <Game id="GNVP69" en="NHL 2004"/>
+  <Game id="GNWE69" en="Def Jam: Fight For NY"/>
+  <Game id="GNWP69" en="Def Jam: Fight For NY"/>
+  <Game id="GNXE69" en="NCAA Football 2004"/>
+  <Game id="GNZE69" en="NBA Street Vol.2"/>
+  <Game id="GNZP69" en="NBA Street Vol.2"/>
+  <Game id="GO2D4F" en="Blood Omen 2: The Legacy of Kain Series"/>
+  <Game id="GO2E4F" en="Blood Omen 2: The Legacy of Kain Series"/>
+  <Game id="GO2F4F" en="Blood Omen 2: The Legacy of Kain Series"/>
+  <Game id="GO2P4F" en="Blood Omen 2: The Legacy of Kain Series"/>
+  <Game id="GO3E5D" en="NFL Blitz 2003"/>
+  <Game id="GO7D69" en="James Bond 007: NightFire"/>
+  <Game id="GO7E69" en="007: NightFire"/>
+  <Game id="GO7F69" en="James Bond 007: NightFire"/>
+  <Game id="GO7P69" en="James Bond 007: NightFire"/>
+  <Game id="GO7S69" en="James Bond 007: NightFire"/>
+  <Game id="GOAE52" en="Cabela's Outdoor Adventures"/>
+  <Game id="GOBE4Z" en="Bad Boys: Miami Takedown"/>
+  <Game id="GOBP7N" en="Bad Boys II"/>
+  <Game id="GOCE5D" en="RoadKill"/>
+  <Game id="GODJGA" en="Ohenro-San: Hosshin no Dojo"/>
+  <Game id="GOFE7L" en="Outlaw Golf"/>
+  <Game id="GOFP6S" en="Outlaw Golf"/>
+  <Game id="GOGJB2" en="One Piece: Grand Battle! 3"/>
+  <Game id="GOME01" en="Mario Power Tennis"/>
+  <Game id="GOMJ01" en="Mario Tennis GC"/>
+  <Game id="GOMP01" en="Mario Power Tennis"/>
+  <Game id="GOND69" en="Medal of Honor: European Assault"/>
+  <Game id="GONE69" en="Medal of Honor: European Assault"/>
+  <Game id="GONF69" en="Medal of Honor: European Assault"/>
+  <Game id="GONJ13" en="Medal of Honor: Europa Kyoushuu"/>
+  <Game id="GONP69" en="Medal of Honor: European Assault"/>
+  <Game id="GOOE01" en="Odama"/>
+  <Game id="GOOJ01" en="Odama"/>
+  <Game id="GOOP01" en="Odama"/>
+  <Game id="GOPEB2" en="Shonen Jump's One Piece: Grand Battle"/>
+  <Game id="GOPJB2" en="One Piece: Grand Battle! Rush"/>
+  <Game id="GOQE82" en="One Piece: Grand Adventure"/>
+  <Game id="GOQEAF" en="Shonen Jump's One Piece: Grand Adventure"/>
+  <Game id="GOSE41" en="Open Season"/>
+  <Game id="GOSP41" en="Open Season"/>
+  <Game id="GOSX41" en="Open Season"/>
+  <Game id="GOTJB2" en="One Piece: Treasure Battle!"/>
+  <Game id="GOUPNK" en="Cocoto Funfair"/>
+  <Game id="GOWD69" en="Need for Speed: Most Wanted"/>
+  <Game id="GOWE69" en="Need for Speed: Most Wanted"/>
+  <Game id="GOWF69" en="Need for Speed: Most Wanted"/>
+  <Game id="GOWJ13" en="Need for Speed: Most Wanted"/>
+  <Game id="GOWP69" en="Need for Speed: Most Wanted"/>
+  <Game id="GOYD69" en="GoldenEye: Rogue Agent"/>
+  <Game id="GOYE69" en="GoldenEye: Rogue Agent"/>
+  <Game id="GOYF69" en="GoldenEye: Rogue Agent"/>
+  <Game id="GOYP69" en="GoldenEye: Rogue Agent"/>
+  <Game id="GOYS69" en="GoldenEye: Rogue Agent"/>
+  <Game id="GP2EAF" en="Pac-Man World 2"/>
+  <Game id="GP2P69" en="Pac-Man World 2"/>
+  <Game id="GP3E78" en="The Polar Express"/>
+  <Game id="GP3P78" en="The Polar Express"/>
+  <Game id="GP4J18" en="Hudson Selection Vol. 3: Bonk's Adventure"/>
+  <Game id="GP5E01" en="Mario Party 5"/>
+  <Game id="GP5J01" en="Mario Party 5"/>
+  <Game id="GP5P01" en="Mario Party 5"/>
+  <Game id="GP5W01" en="Mario Party 5"/>
+  <Game id="GP6E01" en="Mario Party 6"/>
+  <Game id="GP6J01" en="Mario Party 6"/>
+  <Game id="GP6P01" en="Mario Party 6"/>
+  <Game id="GP7E01" en="Mario Party 7"/>
+  <Game id="GP7J01" en="Mario Party 7"/>
+  <Game id="GP7P01" en="Mario Party 7"/>
+  <Game id="GP8EAF" en="Pac-Man World 3"/>
+  <Game id="GP8P69" en="Pac-Man World 3"/>
+  <Game id="GP9E7F" en="Rogue Ops"/>
+  <Game id="GP9J28" en="Rogue Ops"/>
+  <Game id="GP9P7F" en="Rogue Ops"/>
+  <Game id="GPAE01" en="Pokémon Channel"/>
+  <Game id="GPAJ01" en="Pokémon Channel"/>
+  <Game id="GPAP01" en="Pokémon Channel"/>
+  <Game id="GPAU01" en="Pokémon Channel"/>
+  <Game id="GPDE51" en="Dakar 2: The World's Ultimate Rally"/>
+  <Game id="GPDP51" en="Dakar 2: The World's Ultimate Rally"/>
+  <Game id="GPEJ2Q" en="Pool Edge"/>
+  <Game id="GPHD52" en="Pitfall: The Lost Expedition"/>
+  <Game id="GPHE52" en="Pitfall: The Lost Expedition"/>
+  <Game id="GPHF52" en="Pitfall: The Lost Expedition"/>
+  <Game id="GPHP52" en="Pitfall: The Lost Expedition"/>
+  <Game id="GPIE01" en="Pikmin"/>
+  <Game id="GPIJ01" en="Pikmin"/>
+  <Game id="GPIP01" en="Pikmin"/>
+  <Game id="GPJJCM" en="Jikkyou Powerful Pro Yakyuu 10"/>
+  <Game id="GPKE41" en="Disney's PK Out of the Shadows"/>
+  <Game id="GPLD9G" en="Piglet's Big Game"/>
+  <Game id="GPLE9G" en="Piglet's Big Game"/>
+  <Game id="GPLF9G" en="Piglet's Big Game"/>
+  <Game id="GPLP9G" en="Piglet's Big Game"/>
+  <Game id="GPMEAF" en="Pac Man Fever"/>
+  <Game id="GPNE08" en="P.N.03"/>
+  <Game id="GPNJ08" en="P.N.03"/>
+  <Game id="GPNP08" en="P.N.03"/>
+  <Game id="GPOE8P" en="Phantasy Star Online Episode I &amp; II"/>
+  <Game id="GPOJ8P" en="Phantasy Star Online Episode I &amp; II"/>
+  <Game id="GPOP8P" en="Phantasy Star Online Episode I&amp;II"/>
+  <Game id="GPPJCM" en="Jikkyou Powerful Pro Yakyuu 9"/>
+  <Game id="GPQE6L" en="The Powerpuff Girls: Relish Rampage"/>
+  <Game id="GPQP6L" en="The Powerpuff Girls: Relish Rampage"/>
+  <Game id="GPRE7U" en="Pool Paradise"/>
+  <Game id="GPRP7U" en="Pool Paradise"/>
+  <Game id="GPSE8P" en="Phantasy Star Online Episode III: C.A.R.D. Revolution"/>
+  <Game id="GPSJ8P" en="Phantasy Star Online Episode III: C.A.R.D. Revolution"/>
+  <Game id="GPSP8P" en="Phantasy Star Online Episode III: C.A.R.D. Revolution"/>
+  <Game id="GPTE41" en="Prince of Persia: The Sands of Time"/>
+  <Game id="GPTP41" en="Prince of Persia: The Sands of Time"/>
+  <Game id="GPUE8P" en="Puyo Pop Fever"/>
+  <Game id="GPUP8P" en="Puyo Pop Fever"/>
+  <Game id="GPVE01" en="Pikmin 2"/>
+  <Game id="GPVJ01" en="Pikmin 2"/>
+  <Game id="GPVP01" en="Pikmin 2"/>
+  <Game id="GPWEAF" en="Spawn: Armageddon"/>
+  <Game id="GPWP69" en="Spawn: Armageddon"/>
+  <Game id="GPXE01" en="Pokémon Box: Ruby &amp; Sapphire"/>
+  <Game id="GPXJ01" en="Pokémon Box: Ruby &amp; Sapphire"/>
+  <Game id="GPXP01" en="Pokémon Box: Ruby &amp; Sapphire"/>
+  <Game id="GPYJ8P" en="Puyo Pop Fever"/>
+  <Game id="GPZJ01" en="Nintendo Puzzle Collection"/>
+  <Game id="GQ4D78" en="SpongeBob SquarePants: Creature from the Krusty Krab"/>
+  <Game id="GQ4E78" en="SpongeBob SquarePants: Creature from the Krusty Krab"/>
+  <Game id="GQ4F78" en="SpongeBob SquarePants: Creature from the Krusty Krab"/>
+  <Game id="GQ4H78" en="SpongeBob SquarePants: Creatuur van de Krokante Krab"/>
+  <Game id="GQ4P78" en="SpongeBob SquarePants: Creature from the Krusty Krab"/>
+  <Game id="GQ8E69" en="Madden NFL 08"/>
+  <Game id="GQAJA7" en="Choro Q!"/>
+  <Game id="GQBE51" en="NFL Quarterback Club 2002"/>
+  <Game id="GQCD52" en="Call of Duty 2: Big Red One"/>
+  <Game id="GQCE52" en="Call of Duty 2: Big Red One"/>
+  <Game id="GQCF52" en="Call of Duty 2: Big Red One"/>
+  <Game id="GQCI52" en="Call of Duty 2: Big Red One"/>
+  <Game id="GQCP52" en="Call of Duty 2: Big Red One"/>
+  <Game id="GQCS52" en="Call of Duty 2: Big Red One"/>
+  <Game id="GQFFFK" en="Franklin: A Birthday Surprise"/>
+  <Game id="GQLE9G" en="Dora the Explorer: Journey to the Purple Planet"/>
+  <Game id="GQLP54" en="Dora the Explorer: Journey to the Purple Planet"/>
+  <Game id="GQNE5D" en="Mortal Kombat: Deception"/>
+  <Game id="GQPE78" en="SpongeBob SquarePants: Battle for Bikini Bottom"/>
+  <Game id="GQPP78" en="SpongeBob Squarepants: Battle For Bikini Bottom"/>
+  <Game id="GQQD78" en="SpongeBob SquarePants: Lights, Camera, Pants!"/>
+  <Game id="GQQE78" en="SpongeBob SquarePants: Lights, Camera, Pants!"/>
+  <Game id="GQQF78" en="SpongeBob SquarePants: Lights, Camera, Pants!"/>
+  <Game id="GQQH78" en="SpongeBob SquarePants: Lights, Camera, Pants!"/>
+  <Game id="GQQP78" en="SpongeBob SquarePants: Lights, Camera, Pants!"/>
+  <Game id="GQRJ18" en="Hudson Selection Vol. 1: Cubic Lode Runner"/>
+  <Game id="GQSDAF" en="Tales of Symphonia"/>
+  <Game id="GQSEAF" en="Tales of Symphonia"/>
+  <Game id="GQSFAF" en="Tales of Symphonia"/>
+  <Game id="GQSIAF" en="Tales of Symphonia"/>
+  <Game id="GQSPAF" en="Tales of Symphonia"/>
+  <Game id="GQSSAF" en="Tales of Symphonia"/>
+  <Game id="GQTE4Q" en="Meet the Robinsons"/>
+  <Game id="GQWE69" en="Harry Potter: Quidditch World Cup"/>
+  <Game id="GQWJ13" en="Harry Potter World Cup"/>
+  <Game id="GQWP69" en="Harry Potter: Quidditch World Cup"/>
+  <Game id="GQWX69" en="Harry Potter: Quidditch World Cup"/>
+  <Game id="GQXE69" en="Madden NFL 2004"/>
+  <Game id="GQXP69" en="Madden NFL 2004"/>
+  <Game id="GQZJ01" en="Densetsu no Quiz Ou Ketteisen"/>
+  <Game id="GR2E52" en="Lost Kingdoms II"/>
+  <Game id="GR2JCQ" en="Rune II: Koruten no Kagi no Himitsu"/>
+  <Game id="GR2P52" en="Lost Kingdoms 2"/>
+  <Game id="GR3E5D" en="Red Card 2003"/>
+  <Game id="GR4EMZ" en="MC Groovz Dance Craze"/>
+  <Game id="GR4PMZ" en="MC Groovz Dance Craze"/>
+  <Game id="GR5J1K" en="Robocop: Aratanaru Kiki"/>
+  <Game id="GR6D78" en="Bratz: Rock Angelz"/>
+  <Game id="GR6E78" en="Bratz: Rock Angelz"/>
+  <Game id="GR6F78" en="Bratz: Rock Angelz"/>
+  <Game id="GR6P78" en="Bratz: Rock Angelz"/>
+  <Game id="GR8D69" en="Medal of Honor: Rising Sun"/>
+  <Game id="GR8E69" en="Medal of Honor: Rising Sun"/>
+  <Game id="GR8F69" en="Medal of Honor: Rising Sun"/>
+  <Game id="GR8P69" en="Medal of Honor: Rising Sun"/>
+  <Game id="GR9E6L" en="Reign of Fire"/>
+  <Game id="GR9P6L" en="Reign of Fire"/>
+  <Game id="GRAE5Z" en="Rally Championship"/>
+  <Game id="GRAP75" en="Rally Championship"/>
+  <Game id="GRBE6S" en="Robotech: Battlecry"/>
+  <Game id="GRBP6S" en="Robotech: Battlecry"/>
+  <Game id="GRDP5D" en="RedCard"/>
+  <Game id="GREE08" en="Mega Man Network Transmission"/>
+  <Game id="GREJ08" en="RockMan EXE Transmission"/>
+  <Game id="GREP08" en="Mega Man Network Transmission"/>
+  <Game id="GRFD78" en="Red Faction II"/>
+  <Game id="GRFE78" en="Red Faction II"/>
+  <Game id="GRFF78" en="Red Faction II"/>
+  <Game id="GRFP78" en="Red Faction II"/>
+  <Game id="GRHE41" en="Rayman 3: Hoodlum Havoc"/>
+  <Game id="GRHP41" en="Rayman 3: Hoodlum Havoc"/>
+  <Game id="GRJEAF" en="R: Racing Evolution"/>
+  <Game id="GRJJAF" en="R: Racing Evolution: Life in the Fast Lane"/>
+  <Game id="GRJP69" en="R: Racing"/>
+  <Game id="GRKE41" en="Rocky"/>
+  <Game id="GRKP7G" en="Rocky"/>
+  <Game id="GRLE41" en="Pro Rally"/>
+  <Game id="GRLP41" en="Pro Rally"/>
+  <Game id="GRMJDA" en="Monopoly: Mezase!! Daifugou Jinsei!!"/>
+  <Game id="GRNE52" en="Lost Kingdoms"/>
+  <Game id="GRNJCQ" en="Rune"/>
+  <Game id="GRNP52" en="Lost Kingdoms"/>
+  <Game id="GROE5Z" en="Road Trip: The Arcade Edition"/>
+  <Game id="GROP7J" en="Gadget Racers"/>
+  <Game id="GRQE41" en="City Racer"/>
+  <Game id="GRRE78" en="Rugrats: Royal Ransom"/>
+  <Game id="GRRF78" en="Rugrats: Royal Ransom"/>
+  <Game id="GRRP78" en="Rugrats: Royal Ransom"/>
+  <Game id="GRSEAF" en="SoulCalibur II"/>
+  <Game id="GRSJAF" en="SoulCalibur II"/>
+  <Game id="GRSPAF" en="SoulCalibur II"/>
+  <Game id="GRUE78" en="Power Rangers Dino Thunder"/>
+  <Game id="GRUF78" en="Power Rangers Dino Thunder"/>
+  <Game id="GRUP78" en="Power Rangers Dino Thunder"/>
+  <Game id="GRVEA4" en="Rave Master"/>
+  <Game id="GRVJA4" en="Groove Adventure Rave - Fighting Live"/>
+  <Game id="GRWJD9" en="Super Robot Taisen GC"/>
+  <Game id="GRYE41" en="Rayman Arena"/>
+  <Game id="GRZJ13" en="Medal of Honor: Rising Sun"/>
+  <Game id="GS2D78" en="Summoner: A Goddess Reborn"/>
+  <Game id="GS2E78" en="Summoner: A Goddess Reborn"/>
+  <Game id="GS2F78" en="Summoner: La Déesse Réincarnée"/>
+  <Game id="GS2P78" en="Summoner: A Goddess Reborn"/>
+  <Game id="GS3E51" en="SX Superstar"/>
+  <Game id="GS3P51" en="SX Superstar"/>
+  <Game id="GS7E5D" en="MLB SlugFest 2004"/>
+  <Game id="GS8E7D" en="Spyro: Enter the Dragonfly"/>
+  <Game id="GS8P7D" en="Spyro: Enter the Dragonfly"/>
+  <Game id="GS9E6S" en="Shrek Extra Large"/>
+  <Game id="GS9P6S" en="Shrek Extra Large"/>
+  <Game id="GSAE01" en="Star Fox: Adventures"/>
+  <Game id="GSAJ01" en="Star Fox: Adventures"/>
+  <Game id="GSAP01" en="Star Fox: Adventures"/>
+  <Game id="GSBJ8P" en="Sonic Adventure 2: Battle"/>
+  <Game id="GSCE51" en="Jeremy McGrath SuperCross World"/>
+  <Game id="GSCP51" en="Jeremy McGrath SuperCross World"/>
+  <Game id="GSDEAF" en="Smashing Drive"/>
+  <Game id="GSEJB2" en="Shaman King: Soul Fight"/>
+  <Game id="GSGE5D" en="MLB SlugFest 2003"/>
+  <Game id="GSHE5D" en="SpyHunter"/>
+  <Game id="GSHP5D" en="SpyHunter"/>
+  <Game id="GSKE7D" en="The Scorpion King: Rise of the Akkadian"/>
+  <Game id="GSKP7D" en="The Scorpion King: Rise of the Akkadian"/>
+  <Game id="GSMD52" en="Spider-Man"/>
+  <Game id="GSME52" en="Spider-Man: The Movie"/>
+  <Game id="GSMF52" en="Spider-Man"/>
+  <Game id="GSMJ08" en="Spider-Man: The Movie"/>
+  <Game id="GSMP52" en="Spider-Man"/>
+  <Game id="GSNE8P" en="Sonic Adventure 2: Battle"/>
+  <Game id="GSNP8P" en="Sonic Adventure 2: Battle"/>
+  <Game id="GSOE8P" en="Sonic Mega Collection"/>
+  <Game id="GSOJ8P" en="Sonic Mega Collection"/>
+  <Game id="GSOP8P" en="Sonic Mega Collection"/>
+  <Game id="GSPE69" en="The Simpsons: Road Rage"/>
+  <Game id="GSPP69" en="The Simpsons: Road Rage"/>
+  <Game id="GSQE78" en="SpongeBob SquarePants: Revenge of the Flying Dutchman"/>
+  <Game id="GSQP78" en="SpongeBob SquarePants: Revenge of the Flying Dutchman"/>
+  <Game id="GSRE7S" en="Smuggler's Run: Warzones"/>
+  <Game id="GSRP7S" en="Smuggler's Run: Warzones"/>
+  <Game id="GSSE8P" en="Sega Soccer Slam"/>
+  <Game id="GSSJ8P" en="Sega Soccer Slam"/>
+  <Game id="GSSP8P" en="Sega Soccer Slam"/>
+  <Game id="GSTE69" en="SSX Tricky"/>
+  <Game id="GSTJ13" en="SSX Tricky"/>
+  <Game id="GSTP69" en="SSX Tricky"/>
+  <Game id="GSUE70" en="Superman: Shadow of Apokolips"/>
+  <Game id="GSUP70" en="Superman: Shadow of Apokolips"/>
+  <Game id="GSVE78" en="MX Superfly featuring Ricky Carmichael"/>
+  <Game id="GSVP78" en="MX Superfly featuring Ricky Carmichael"/>
+  <Game id="GSWD64" en="Star Wars Rogue Squadron II: Rogue Leader"/>
+  <Game id="GSWE64" en="Star Wars Rogue Squadron II: Rogue Leader"/>
+  <Game id="GSWF64" en="Star Wars Rogue Squadron II: Rogue Leader"/>
+  <Game id="GSWI64" en="Star Wars Rogue Squadron II: Rogue Leader"/>
+  <Game id="GSWJ13" en="Star Wars Rogue Squadron II"/>
+  <Game id="GSWP64" en="Star Wars Rogue Squadron II: Rogue Leader"/>
+  <Game id="GSWS64" en="Star Wars Rogue Leader: Rogue Squadron II"/>
+  <Game id="GSXD64" en="Star Wars: The Clone Wars"/>
+  <Game id="GSXE64" en="Star Wars: The Clone Wars"/>
+  <Game id="GSXF64" en="Star Wars: The Clone Wars"/>
+  <Game id="GSXI64" en="Star Wars: The Clone Wars"/>
+  <Game id="GSXJ13" en="Star Wars: Clone Sensou"/>
+  <Game id="GSXP64" en="Star Wars: The Clone Wars"/>
+  <Game id="GSXS64" en="Star Wars: The Clone Wars"/>
+  <Game id="GSYE6S" en="Shrek: Super Party"/>
+  <Game id="GSYP6S" en="Shrek: Super Party"/>
+  <Game id="GSZP41" en="Speed Challenge: Jacques Villeneuve Racing Vision"/>
+  <Game id="GT2J18" en="Tengai Makyou 2: Manji Maru"/>
+  <Game id="GT3D52" en="Tony Hawk's Pro Skater 3"/>
+  <Game id="GT3E52" en="Tony Hawk's Pro Skater 3"/>
+  <Game id="GT3F52" en="Tony Hawk's Pro Skater 3"/>
+  <Game id="GT3J52" en="Tony Hawk's Pro Skater 3"/>
+  <Game id="GT3P52" en="Tony Hawk's Pro Skater 3"/>
+  <Game id="GT4D52" en="Tony Hawk's Pro Skater 4"/>
+  <Game id="GT4E52" en="Tony Hawk's Pro Skater 4"/>
+  <Game id="GT4F52" en="Tony Hawk's Pro Skater 4"/>
+  <Game id="GT4P52" en="Tony Hawk's Pro Skater 4"/>
+  <Game id="GT5E7N" en="Starsky &amp; Hutch"/>
+  <Game id="GT5P7N" en="Starsky &amp; Hutch"/>
+  <Game id="GT6E70" en="Terminator 3: The Redemption"/>
+  <Game id="GT6J70" en="Terminator 3: The Redemption"/>
+  <Game id="GT6P70" en="Terminator 3: The Redemption"/>
+  <Game id="GT7E41" en="Tom Clancy's Splinter Cell: Pandora Tomorrow"/>
+  <Game id="GT7P41" en="Tom Clancy's Splinter Cell: Pandora Tomorrow"/>
+  <Game id="GT7X41" en="Tom Clancy's Splinter Cell: Pandora Tomorrow"/>
+  <Game id="GT8E78" en="Big Mutha Truckers"/>
+  <Game id="GT8P7N" en="Big Mutha Truckers"/>
+  <Game id="GTAE5S" en="Top Angler: Real Bass Fishing"/>
+  <Game id="GTAP5S" en="Top Angler: Real Bass Fishing"/>
+  <Game id="GTBJC0" en="NHK Tensai Bit-Kun - Gramon Battle"/>
+  <Game id="GTCJBL" en="GT Cube"/>
+  <Game id="GTDE52" en="Tony Hawk's Underground"/>
+  <Game id="GTDP52" en="Tony Hawk's Underground"/>
+  <Game id="GTEE01" en="1080° Avalanche"/>
+  <Game id="GTEJ01" en="1080° Silver Storm"/>
+  <Game id="GTEP01" en="1080° Avalanche"/>
+  <Game id="GTFEA4" en="Teenage Mutant Ninja Turtles"/>
+  <Game id="GTFPA4" en="Teenage Mutant Ninja Turtles"/>
+  <Game id="GTGE60" en="Top Gun: Combat Zones"/>
+  <Game id="GTGJ1K" en="Top Gun - Ace of the Sky"/>
+  <Game id="GTGP60" en="Top Gun: Combat Zones"/>
+  <Game id="GTHJD9" en="Charinko Hero"/>
+  <Game id="GTIE69" en="Tiger Woods PGA Tour 2003"/>
+  <Game id="GTIP69" en="Tiger Woods PGA Tour 2003"/>
+  <Game id="GTJE5L" en="Tom &amp; Jerry in War of the Whiskers"/>
+  <Game id="GTKD51" en="Turok Evolution"/>
+  <Game id="GTKE51" en="Turok Evolution"/>
+  <Game id="GTKP51" en="Turok Evolution"/>
+  <Game id="GTLE52" en="True Crime: Streets of LA"/>
+  <Game id="GTLP52" en="True Crime: Streets of LA"/>
+  <Game id="GTLX52" en="True Crime: Streets of LA"/>
+  <Game id="GTMJDA" en="Mutsu To Nohohon"/>
+  <Game id="GTNJ18" en="Hudson Selection Vol. 4: Adventure Island"/>
+  <Game id="GTOJAF" en="Tales of Symphonia"/>
+  <Game id="GTPP6S" en="Knights Of The Temple: Infernal Crusade"/>
+  <Game id="GTQE6S" en="Tonka: Rescue Patrol"/>
+  <Game id="GTRE78" en="Tetris Worlds"/>
+  <Game id="GTRJ8N" en="Tetris Worlds"/>
+  <Game id="GTRP78" en="Tetris Worlds"/>
+  <Game id="GTSE4F" en="TimeSplitters 2"/>
+  <Game id="GTSP4F" en="TimeSplitters 2"/>
+  <Game id="GTUE8G" en="Tube Slider - The Championship of Future Formula"/>
+  <Game id="GTVE70" en="Transworld Surf: Next Wave"/>
+  <Game id="GTWE70" en="Taz Wanted"/>
+  <Game id="GTWP70" en="Taz Wanted"/>
+  <Game id="GTYE69" en="Ty the Tasmanian Tiger"/>
+  <Game id="GTYP69" en="Ty the Tasmanian Tiger"/>
+  <Game id="GTZE41" en="Tarzan Untamed"/>
+  <Game id="GTZP41" en="Tarzan Freeride"/>
+  <Game id="GU2D78" en="2 Games in 1: The Incredibles / Finding Nemo"/>
+  <Game id="GU2F78" en="2 Games in 1: The Incredibles / Finding Nemo"/>
+  <Game id="GU3D78" en="2 Games in 1: The SpongeBob SquarePants Movie / Tak 2: The Staff of Dreams"/>
+  <Game id="GU3X78" en="2 Games in 1: The SpongeBob SquarePants Movie / Tak 2: The Staff of Dreams"/>
+  <Game id="GU4Y78" en="2 Games in 1: The SpongeBob SquarePants Movie / Battle for Bikini Bottom"/>
+  <Game id="GU6E78" en="Nicktoons - Battle for Volcano Island"/>
+  <Game id="GUBE69" en="The Urbz: Sims in the City"/>
+  <Game id="GUBJ13" en="The Urbz: Sims In The City"/>
+  <Game id="GUBP69" en="The Urbz: Sims in the City"/>
+  <Game id="GUCD69" en="UEFA Champions League 2004-2005"/>
+  <Game id="GUCF69" en="UEFA Champions League 2004-2005"/>
+  <Game id="GUCP69" en="UEFA Champions League 2004-2005"/>
+  <Game id="GUFE4Z" en="Ultimate Fighting Championship Throwdown"/>
+  <Game id="GUFJ08" en="UFC2 Tapout Final Spec"/>
+  <Game id="GUFP4Z" en="UFC: Throwdown"/>
+  <Game id="GUGD69" en="Need for Speed: Underground 2"/>
+  <Game id="GUGE69" en="Need for Speed: Underground 2"/>
+  <Game id="GUGF69" en="Need for Speed: Underground 2"/>
+  <Game id="GUGP69" en="Need for Speed: Underground 2"/>
+  <Game id="GUMD52" en="Gun"/>
+  <Game id="GUME52" en="Gun"/>
+  <Game id="GUMP52" en="Gun"/>
+  <Game id="GUNE5D" en="Gauntlet: Dark Legacy"/>
+  <Game id="GUNP5D" en="Gauntlet: Dark Legacy"/>
+  <Game id="GUPE8P" en="Shadow the Hedgehog"/>
+  <Game id="GUPJ8P" en="Shadow the Hedgehog"/>
+  <Game id="GUPP8P" en="Shadow the Hedgehog"/>
+  <Game id="GUSE7F" en="Universal Studios Theme Park Adventure"/>
+  <Game id="GUSJ28" en="Universal Studios Japan Adventure"/>
+  <Game id="GUSP7F" en="Universal Studios Theme Park Adventure"/>
+  <Game id="GUTD52" en="Ultimate Spider-Man"/>
+  <Game id="GUTE52" en="Ultimate Spider-Man"/>
+  <Game id="GUTF52" en="Ultimate Spider-Man"/>
+  <Game id="GUTI52" en="Ultimate Spider-Man"/>
+  <Game id="GUTJC0" en="Ultimate Spider-Man"/>
+  <Game id="GUTP52" en="Ultimate Spider-Man"/>
+  <Game id="GUTS52" en="Ultimate Spider-Man"/>
+  <Game id="GUVE51" en="Freestyle Street Soccer"/>
+  <Game id="GUVP51" en="Urban Freestyle Soccer"/>
+  <Game id="GUZE41" en="Batman: Rise of Sin Tzu"/>
+  <Game id="GUZP41" en="Batman Rise of Sin Tzu"/>
+  <Game id="GV3J70" en="V-Rally 3"/>
+  <Game id="GV3P70" en="V-Rally 3"/>
+  <Game id="GV4E69" en="MVP Baseball 2005"/>
+  <Game id="GVCE08" en="Viewtiful Joe: Red Hot Rumble"/>
+  <Game id="GVCJ08" en="Viewtiful Joe: Battle Carnival"/>
+  <Game id="GVCP08" en="Viewtiful Joe: Red Hot Rumble"/>
+  <Game id="GVDE78" en="Bratz Forever Diamondz"/>
+  <Game id="GVDP78" en="Bratz Forever Diamondz"/>
+  <Game id="GVFJ08" en="Viewtiful Joe Revival"/>
+  <Game id="GVHE4F" en="Bionicle Heroes"/>
+  <Game id="GVJE08" en="Viewtiful Joe"/>
+  <Game id="GVJJ08" en="Viewtiful Joe"/>
+  <Game id="GVJP08" en="Viewtiful Joe"/>
+  <Game id="GVKE52" en="Cabela's Dangerous Hunts 2"/>
+  <Game id="GVLD69" en="Marvel Nemesis: Rise of the Imperfects"/>
+  <Game id="GVLE69" en="Marvel Nemesis: Rise of the Imperfects"/>
+  <Game id="GVLF69" en="Marvel Nemesis: Rise of the Imperfects"/>
+  <Game id="GVLP69" en="Marvel Nemesis: Rise of the Imperfects"/>
+  <Game id="GVMP41" en="Super Bust-A-Move All Stars"/>
+  <Game id="GVOE69" en="Bionicle"/>
+  <Game id="GVOP69" en="Bionicle"/>
+  <Game id="GVPE69" en="MVP Baseball 2004"/>
+  <Game id="GVRE7H" en="Grooverider Slot Car Thunder"/>
+  <Game id="GVS45E" en="Virtua Striker 4"/>
+  <Game id="GVSE8P" en="Virtua Striker 2002"/>
+  <Game id="GVSJ8P" en="VIRTUA STRIKER 3 ver.2002"/>
+  <Game id="GVSP8P" en="Virtua Striker 3 Ver. 2002"/>
+  <Game id="GVWJDQ" en="Gakuen Toshi Vara Noir Roses"/>
+  <Game id="GW2E78" en="WWE Day of Reckoning 2"/>
+  <Game id="GW2P78" en="WWE Day of Reckoning 2"/>
+  <Game id="GW3E78" en="WWE WrestleMania X8"/>
+  <Game id="GW3JG2" en="WWE WrestleMania X8"/>
+  <Game id="GW3P78" en="WWE Wrestlemania X8"/>
+  <Game id="GW4E69" en="Tiger Woods PGA Tour 2004"/>
+  <Game id="GW4P69" en="Tiger Woods PGA Tour 2004"/>
+  <Game id="GW5D69" en="Need for Speed: Carbon"/>
+  <Game id="GW5E69" en="Need for Speed: Carbon"/>
+  <Game id="GW5F69" en="Need for Speed: Carbon"/>
+  <Game id="GW5P69" en="Need for Speed: Carbon"/>
+  <Game id="GW6JEM" en="Winning Eleven 6 Final Evolution"/>
+  <Game id="GW7D69" en="James Bond 007 in Agent Under Fire"/>
+  <Game id="GW7E69" en="James Bond 007 in Agent Under Fire"/>
+  <Game id="GW7F69" en="James Bond 007 in Agent Under Fire"/>
+  <Game id="GW7P69" en="James Bond 007 in Agent Under Fire"/>
+  <Game id="GW8E52" en="World Series of Poker"/>
+  <Game id="GW9E78" en="WWE WrestleMania XIX"/>
+  <Game id="GW9JG2" en="WWE WrestleMania XIX"/>
+  <Game id="GW9P78" en="WWE WrestleMania XIX"/>
+  <Game id="GWAD8P" en="Spartan Total Warrior"/>
+  <Game id="GWAE8P" en="Spartan Total Warrior"/>
+  <Game id="GWAF8P" en="Spartan Total Warrior"/>
+  <Game id="GWAP8P" en="Spartan Total Warrior"/>
+  <Game id="GWBE41" en="Worms Blast"/>
+  <Game id="GWBP41" en="Worms Blast"/>
+  <Game id="GWDP6S" en="World Racing"/>
+  <Game id="GWEE51" en="18 Wheeler: American Pro Trucker"/>
+  <Game id="GWEJB0" en="18 Wheeler: American Pro Trucker"/>
+  <Game id="GWEP8P" en="18 Wheeler American Pro Trucker"/>
+  <Game id="GWGE4F" en="Swingerz Golf"/>
+  <Game id="GWGJ4F" en="Wai Wai Golf"/>
+  <Game id="GWGP4F" en="Ace Golf"/>
+  <Game id="GWHE41" en="Winnie The Pooh Rumbly Tumbly Adventures"/>
+  <Game id="GWHP41" en="Winnie the Pooh's Rumbly Tumbly Adventure"/>
+  <Game id="GWJE52" en="Tony Hawk's American Wasteland"/>
+  <Game id="GWKE41" en="Peter Jackson's King Kong: The Official Game of the Movie"/>
+  <Game id="GWKP41" en="Peter Jackson's King Kong: The Official Game of the Movie"/>
+  <Game id="GWLE6L" en="Wallace &amp; Gromit in Project Zoo"/>
+  <Game id="GWLP6L" en="Wallace &amp; Gromit: Project Zoo"/>
+  <Game id="GWLX6L" en="Wallace &amp; Gromit in Project Zoo"/>
+  <Game id="GWME51" en="Worms 3D"/>
+  <Game id="GWMP8P" en="Worms 3D"/>
+  <Game id="GWOE5G" en="Blowout"/>
+  <Game id="GWPE78" en="WWE Day of Reckoning"/>
+  <Game id="GWPJG2" en="WWE Day of Reckoning"/>
+  <Game id="GWPP78" en="WWE Day of Reckoning"/>
+  <Game id="GWQE52" en="Wreckless: The Yakuza Missions"/>
+  <Game id="GWQP52" en="Wreckless: The Yakuza Missions"/>
+  <Game id="GWRE01" en="Wave Race: Blue Storm"/>
+  <Game id="GWRJ01" en="Wave Race: Blue Storm"/>
+  <Game id="GWRP01" en="Wave Race: Blue Storm"/>
+  <Game id="GWSEA4" en="ESPN International Winter Sports 2002"/>
+  <Game id="GWSJA4" en="Hyper Sports 2002 Winter"/>
+  <Game id="GWSPA4" en="ESPN International Winter Sports"/>
+  <Game id="GWTEA4" en="WTA Tour Tennis"/>
+  <Game id="GWTJA4" en="WTA Tour Tennis"/>
+  <Game id="GWTPA4" en="Pro Tennis WTA Tour"/>
+  <Game id="GWUE7D" en="Whirl Tour"/>
+  <Game id="GWUP7D" en="Whirl Tour"/>
+  <Game id="GWVE52" en="X2: Wolverine's Revenge"/>
+  <Game id="GWVP52" en="X-Men 2: Wolverine's Revenge"/>
+  <Game id="GWVX52" en="X-Men 2: Wolverine's Revenge"/>
+  <Game id="GWWE01" en="Wario World"/>
+  <Game id="GWWJ01" en="Wario World"/>
+  <Game id="GWWP01" en="Wario World"/>
+  <Game id="GWXJ13" en="Star Wars Rogue Squadron III: Rebel Strike"/>
+  <Game id="GWYE41" en="Tom Clancy's Splinter Cell: Double Agent"/>
+  <Game id="GWYX41" en="Tom Clancy's Splinter Cell: Double Agent"/>
+  <Game id="GWZE01" en="Dance Dance Revolution: Mario Mix"/>
+  <Game id="GWZJ01" en="Dance Dance Revolution: Mario Mix"/>
+  <Game id="GWZP01" en="Dancing Stage: Mario Mix"/>
+  <Game id="GX2D52" en="X-Men Legends II: Rise of Apocalypse"/>
+  <Game id="GX2E52" en="X-Men Legends II: Rise of Apocalypse"/>
+  <Game id="GX2P52" en="X-Men Legends II: Rise of Apocalypse"/>
+  <Game id="GX2S52" en="X-Men Legends II: Rise of Apocalypse"/>
+  <Game id="GX3E41" en="XIII"/>
+  <Game id="GX3P41" en="XIII"/>
+  <Game id="GX3X41" en="XIII"/>
+  <Game id="GXAE51" en="XGRA Extreme G Racing Association"/>
+  <Game id="GXAP51" en="XGRA Extreme G Racing Association"/>
+  <Game id="GXBE69" en="SSX 3"/>
+  <Game id="GXBJ13" en="SSX 3"/>
+  <Game id="GXBP69" en="SSX 3"/>
+  <Game id="GXCE01" en="Custom Robo"/>
+  <Game id="GXCJ01" en="Custom Robo: Battle Revolution"/>
+  <Game id="GXEE8P" en="Sonic Riders"/>
+  <Game id="GXEJ8P" en="Sonic Riders"/>
+  <Game id="GXEP8P" en="Sonic Riders"/>
+  <Game id="GXFD69" en="FIFA Football 2004"/>
+  <Game id="GXFE69" en="FIFA Soccer 2004"/>
+  <Game id="GXFF69" en="FIFA Football 2004"/>
+  <Game id="GXFI69" en="FIFA Football 2004"/>
+  <Game id="GXFP69" en="FIFA Football 2004"/>
+  <Game id="GXFS69" en="FIFA Football 2004"/>
+  <Game id="GXGE08" en="Mega Man X Collection"/>
+  <Game id="GXLE52" en="X-Men Legends"/>
+  <Game id="GXLP52" en="X-Men Legends"/>
+  <Game id="GXLX52" en="X-Men Legends"/>
+  <Game id="GXME52" en="X-Men: Next Dimension"/>
+  <Game id="GXMP52" en="X-Men: Next Dimension"/>
+  <Game id="GXNE5D" en="Rampage Total Destruction"/>
+  <Game id="GXOE69" en="SSX on Tour"/>
+  <Game id="GXOJ13" en="SSX On Tour with Mario"/>
+  <Game id="GXOP69" en="SSX On Tour"/>
+  <Game id="GXOX69" en="SSX On Tour"/>
+  <Game id="GXPE78" en="Sphinx and the Cursed Mummy"/>
+  <Game id="GXPP78" en="Sphinx and the Cursed Mummy"/>
+  <Game id="GXQF41" en="Taxi 3: Le Jeu"/>
+  <Game id="GXRE08" en="Mega Man X: Command Mission"/>
+  <Game id="GXRJ08" en="Rockman X: Command Mission"/>
+  <Game id="GXRP08" en="Mega Man X: Command Mission"/>
+  <Game id="GXSE8P" en="Sonic Adventure DX: Director's Cut"/>
+  <Game id="GXSP8P" en="Sonic Adventure DX: Director's Cut"/>
+  <Game id="GXUE41" en="Surf's Up"/>
+  <Game id="GXXE01" en="Pokémon XD: Gale of Darkness"/>
+  <Game id="GXXJ01" en="Pokémon XD: Yami no Kaze Dark Lugia"/>
+  <Game id="GXXP01" en="Pokémon XD: Gale of Darkness"/>
+  <Game id="GY2E01" en="Donkey Konga 2"/>
+  <Game id="GY2J01" en="Donkey Konga 2"/>
+  <Game id="GY2P01" en="Donkey Konga 2"/>
+  <Game id="GY3J01" en="Donkey Konga 3"/>
+  <Game id="GYAD78" en="Barnyard"/>
+  <Game id="GYAE78" en="Barnyard"/>
+  <Game id="GYAP78" en="Barnyard"/>
+  <Game id="GYAX78" en="Barnyard"/>
+  <Game id="GYBE01" en="Donkey Kong: Jungle Beat"/>
+  <Game id="GYBJ01" en="Donkey Kong Jungle Beat"/>
+  <Game id="GYBP01" en="Donkey Kong: Jungle Beat"/>
+  <Game id="GYFEA4" en="Yu-Gi-Oh! The Falsebound Kingdom"/>
+  <Game id="GYFJA4" en="Yu-Gi-Oh! The Falsebound Kingdom"/>
+  <Game id="GYFPA4" en="Yu-Gi-Oh! The Falsebound Kingdom"/>
+  <Game id="GYKEB2" en="Zatch Bell! Mamodo Battles"/>
+  <Game id="GYKJB2" en="Konjiki no Gashbell!! Yuujou Tag Battle 2"/>
+  <Game id="GYMJA4" en="Jikkyou Powerful Major League"/>
+  <Game id="GYQE01" en="Mario Superstar Baseball"/>
+  <Game id="GYQJ01" en="Super Mario Stadium Miracle Baseball"/>
+  <Game id="GYQP01" en="Mario Superstar Baseball"/>
+  <Game id="GYRE41" en="TMNT"/>
+  <Game id="GYRP41" en="TMNT"/>
+  <Game id="GYTE69" en="Ty the Tasmanian Tiger 2: Bush Rescue"/>
+  <Game id="GYTP69" en="Ty the Tasmanian Tiger 2: Bush Rescue"/>
+  <Game id="GYWDE9" en="Harvest Moon: A Wonderful Life"/>
+  <Game id="GYWEE9" en="Harvest Moon: A Wonderful Life"/>
+  <Game id="GYWJ99" en="Bokujou Monogatari: Wonderful Life"/>
+  <Game id="GYWPE9" en="Harvest Moon: A Wonderful Life"/>
+  <Game id="GZ2E01" en="The Legend of Zelda: Twilight Princess"/>
+  <Game id="GZ2J01" en="Zelda no Densetsu: Twilight Princess"/>
+  <Game id="GZ2P01" en="The Legend of Zelda: Twilight Princess"/>
+  <Game id="GZ3E70" en="Dragon Ball Z: Budokai 2"/>
+  <Game id="GZ3PB2" en="Dragon Ball Z: Budokai 2"/>
+  <Game id="GZBJB2" en="Dragon Ball Z"/>
+  <Game id="GZCE51" en="ZooCube"/>
+  <Game id="GZCJB0" en="ZooCube"/>
+  <Game id="GZCP51" en="Zoocube"/>
+  <Game id="GZDE70" en="Godzilla: Destroy all Monsters Melee"/>
+  <Game id="GZDJ70" en="Godzilla: Kaijuu Dairantou"/>
+  <Game id="GZDP70" en="Godzilla: Destroy all Monsters Melee"/>
+  <Game id="GZEE70" en="Dragon Ball Z: Sagas"/>
+  <Game id="GZFJBP" en="Gekituisenki - Zero Fighter"/>
+  <Game id="GZHJDA" en="Zoids Full Metal Crash"/>
+  <Game id="GZLE01" en="The Legend of Zelda: The Wind Waker"/>
+  <Game id="GZLJ01" en="Zelda no Densetsu: Kaze no Takuto"/>
+  <Game id="GZLP01" en="The Legend of Zelda: The Wind Waker"/>
+  <Game id="GZMP7D" en="Butt-Ugly Martians Zoom or Doom"/>
+  <Game id="GZOJDA" en="Zoids vs."/>
+  <Game id="GZPE70" en="Zapper - One Wicked Cricket!"/>
+  <Game id="GZPP70" en="Zapper: One Wicked Cricket!"/>
+  <Game id="GZQE7D" en="Robots"/>
+  <Game id="GZQJ7D" en="Robots"/>
+  <Game id="GZQP7D" en="Robots"/>
+  <Game id="GZSE70" en="Zoids Battle Legends"/>
+  <Game id="GZSJDA" en="Zoids VS. II"/>
+  <Game id="GZVJDA" en="Zoids vs. III"/>
+  <Game id="GZWE01" en="WarioWare, Inc.: Mega Party Game$!"/>
+  <Game id="GZWJ01" en="Atsumare!! Made in Wario"/>
+  <Game id="GZWP01" en="WarioWare, Inc.: Mega Party Game$!"/>
+  <Game id="P2ME01" en="Metroid Prime 2: Echoes (Bonus Disc)"/>
+  <Game id="P4BJ08" en="Biohazard 4 (Demo)"/>
+  <Game id="PC6E01" en="Pokémon Colosseum Bonus Disc"/>
+  <Game id="PCKJ01" en="Pokémon Colosseum: Kakuchou Disc (Bonus Disc)"/>
+  <Game id="PCSJ01" en="Pokémon Colosseum Bonus Disc"/>
+  <Game id="PD5JB2" en="Dragon Drive: D-Masters Shot (Anime Disc)"/>
+  <Game id="PGPJB2" en="SD Gundam Trial"/>
+  <Game id="PGSJ01" en="Metal Gear Solid - The Twin Snakes - Special Disc"/>
+  <Game id="PHEJ91" en="Homeland Test Disc"/>
+  <Game id="PKBJ01" en="The Tower of Druaga"/>
+  <Game id="PM4E01" en="Mario Kart: Double Dash!! Bonus Disc"/>
+  <Game id="PNRJ01" en="Naruto Collection (Demo)"/>
+  <Game id="PRJE01" en="Pac-Man vs."/>
+  <Game id="PRJJ01" en="Pac-Man vs."/>
+  <Game id="PRJP01" en="Pac-Man vs."/>
+  <Game id="PZLE01" en="The Legend of Zelda: Collector's Edition"/>
+  <Game id="PZLJ01" en="The Legend of Zelda: Collector's Edition"/>
+  <Game id="PZLP01" en="The Legend of Zelda: Collector's Edition"/>
+  <Game id="UGPE01" en="Game Boy Player"/>
+  <Game id="UGPJ01" en="Game Boy Player"/>
+  <Game id="UGPP01" en="Game Boy Player"/>
 </Game-List>
