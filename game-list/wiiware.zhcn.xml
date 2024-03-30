@@ -1,0 +1,3448 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Game-List>
+  <Game id="DC8A" title="Line Attack Heroes"/>
+  <Game id="HDMD" title="Dr. Mario &amp; Bazillenjagd (Beta)"/>
+  <Game id="HDME" title="Dr. Mario Online Rx (Beta)"/>
+  <Game id="HDMF" title="Dr. Mario &amp; Bactericide (Beta)"/>
+  <Game id="HDMI" title="Dr. Mario &amp; Sterminavirus (Beta)"/>
+  <Game id="HDMJ" title="Dr. Mario &amp; Saikin Bokumetsu (Beta)"/>
+  <Game id="HDMP" title="Dr. Mario &amp; Germ Buster (Beta)"/>
+  <Game id="HDMS" title="Dr. Mario &amp; Bactericida (Beta)"/>
+  <Game id="W22E" title="Planet Fish"/>
+  <Game id="W24E" title="2 Fast 4 Gnomz"/>
+  <Game id="W24P" title="2 Fast 4 Gnomz"/>
+  <Game id="W2AE" title="Big Bass Arcade"/>
+  <Game id="W2CE" title="Brain Challenge"/>
+  <Game id="W2CJ" title="Brain Challenge"/>
+  <Game id="W2CP" title="Brain Challenge"/>
+  <Game id="W2FP" title="Physio Fun - Balance Training"/>
+  <Game id="W2GD" title="Phoenix Wright Ace Attorney : Justice for All (Deutsche Version)"/>
+  <Game id="W2GE" title="Phoenix Wright - Ace Attorney Justice for All"/>
+  <Game id="W2GF" title="Phoenix Wright: Ace Attorney Justice for All"/>
+  <Game id="W2GI" title="Phoenix Wright: Ace Attorney Justice for All"/>
+  <Game id="W2GJ" title="Gyakuten Saiban 2"/>
+  <Game id="W2GP" title="Phoenix Wright: Ace Attorney Justice for All"/>
+  <Game id="W2GS" title="Phoenix Wright: Ace Attorney Justice for All"/>
+  <Game id="W2IE" title="Fishie Fishie"/>
+  <Game id="W2IP" title="Fishie Fishie"/>
+  <Game id="W2JE" title="Just JAM"/>
+  <Game id="W2KE" title="Let's Catch"/>
+  <Game id="W2KJ" title="Let's Catch"/>
+  <Game id="W2KP" title="Let's Catch"/>
+  <Game id="W2LE" title="Bloons"/>
+  <Game id="W2LP" title="Bloons"/>
+  <Game id="W2ME" title="Blaster Master - Overdrive"/>
+  <Game id="W2MP" title="Blaster Master - Overdrive"/>
+  <Game id="W2OE" title="My Aquarium 2"/>
+  <Game id="W2OJ" title="Blue Oasis - Michinaru Shingai"/>
+  <Game id="W2OP" title="My Aquarium 2"/>
+  <Game id="W2PP" title="Physio Fun - Pelvic Floor Training"/>
+  <Game id="W2TE" title="魔鬼训练-教官是魔鬼(美)"/>
+  <Game id="W2TJ" title="Onitore - Kyoukan wa Onigunsou"/>
+  <Game id="W2TP" title="魔鬼训练-教官是魔鬼(欧)"/>
+  <Game id="W2YE" title="Fireplacing"/>
+  <Game id="W2YP" title="My Fireplace"/>
+  <Game id="W34J" title="Simple Series Vol. 4 - The Misshitsu kara no Dasshutsu"/>
+  <Game id="W3AE" title="Carmen Sandiego Adventures in Math - The Big Ben Burglary"/>
+  <Game id="W3BE" title="Soccer Bashi"/>
+  <Game id="W3BP" title="Soccer Bashi"/>
+  <Game id="W3DJ" title="3 Degrees Celcius"/>
+  <Game id="W3FE" title="3D Pixel Racing"/>
+  <Game id="W3FP" title="3D Pixel Racing"/>
+  <Game id="W3GD" title="Phoenix Wright: Ace Attorney Trials and Tribulations"/>
+  <Game id="W3GE" title="Phoenix Wright - Ace Attorney Trials and Tribulations"/>
+  <Game id="W3GF" title="Phoenix Wright: Ace Attorney Trials and Tribulations"/>
+  <Game id="W3GI" title="Phoenix Wright: Ace Attorney Trials and Tribulations"/>
+  <Game id="W3GJ" title="Gyakuten Saiban 3"/>
+  <Game id="W3GP" title="Phoenix Wright: Ace Attorney Trials and Tribulations"/>
+  <Game id="W3GS" title="Phoenix Wright: Ace Attorney Trials and Tribulations"/>
+  <Game id="W3JE" title="Triple Jumping Sports"/>
+  <Game id="W3KE" title="ThruSpace"/>
+  <Game id="W3KJ" title="Surinuke Anatousu"/>
+  <Game id="W3KP" title="ThruSpace - High Velocity 3D Puzzle"/>
+  <Game id="W3LE" title="Carmen Sandiego Adventures in Math - The Lady Liberty Larceny"/>
+  <Game id="W3ME" title="The Three Musketeers - One For All"/>
+  <Game id="W3MP" title="The Three Musketeers - One For All"/>
+  <Game id="W3PE" title="Triple Throwing Sports"/>
+  <Game id="W3RE" title="Triple Running Sports"/>
+  <Game id="W3SE" title="Triple Shot Sports"/>
+  <Game id="W3TE" title="Pearl Harbor - Episode 1 - Red Sun Rising"/>
+  <Game id="W42J" title="F-O-R-T-U-N-E - Hoshi no Furi Sosogu Oka"/>
+  <Game id="W44E" title="Stop Stress - A Day of Fury"/>
+  <Game id="W44P" title="Stop Stress - A Day of Fury"/>
+  <Game id="W48E" title="ShadowPlay"/>
+  <Game id="W4AE" title="Arcade Sports"/>
+  <Game id="W4AP" title="Arcade Sports"/>
+  <Game id="W4KE" title="Deer Captor"/>
+  <Game id="W4KJ" title="Shika Gari"/>
+  <Game id="W4OJ" title="Shikakui Atama wo Maru Kusuru - Mainichi Minna no Challenge Hen"/>
+  <Game id="W4TE" title="Spaceball Revolution"/>
+  <Game id="W4TP" title="Spaceball Revolution"/>
+  <Game id="W54E" title="5 Spots Party"/>
+  <Game id="W54P" title="5 Spots Party"/>
+  <Game id="W5AE" title="5 Arcade Gems"/>
+  <Game id="W5AP" title="5 Arcade Gems"/>
+  <Game id="W5IE" title="5-in-1 Solitaire"/>
+  <Game id="W6BE" title="Eco Shooter - Plant 530"/>
+  <Game id="W6BJ" title="530 Eco Shooter"/>
+  <Game id="W6BP" title="Eco Shooter - Plant 530"/>
+  <Game id="W72P" title="Successfully Learning German - Year 3"/>
+  <Game id="W73P" title="Successfully Learning German - Year 4"/>
+  <Game id="W74P" title="Successfully Learning German - Year 5"/>
+  <Game id="W7IP" title="Successfully Learning German - Year 2"/>
+  <Game id="W82J" title="Jintori Action! Taikoukenchi - Karakuri Shiro no Nazo"/>
+  <Game id="W8BP" title="Babel Rising"/>
+  <Game id="W8CE" title="Bit. Trip Core"/>
+  <Game id="W8CJ" title="Bit. Trip Core - Rhythm Seijin no Gyakushou"/>
+  <Game id="W8CP" title="Bit. Trip Core"/>
+  <Game id="W8DJ" title="Moebius Drive"/>
+  <Game id="W8IJ" title="81diver Wii"/>
+  <Game id="W8LE" title="Balloon Pop Festival"/>
+  <Game id="W8PJ" title="Ouchide Mugen Puti Puti"/>
+  <Game id="W8WE" title="Happy Holidays - Halloween"/>
+  <Game id="W8WP" title="Happy Holidays - Halloween"/>
+  <Game id="W8XE" title="Battle Poker"/>
+  <Game id="W9BE" title="Big Town Shoot Out"/>
+  <Game id="W9BP" title="Big Town Shoot Out"/>
+  <Game id="W9IE" title="危险空域(美)"/>
+  <Game id="W9IJ" title="Kiken Kuuiki"/>
+  <Game id="W9LE" title="Christmas Clix"/>
+  <Game id="W9RE" title="Happy Holidays - Christmas"/>
+  <Game id="W9RP" title="Happy Holidays - Christmas"/>
+  <Game id="W9UE" title="Cruise Party"/>
+  <Game id="W9UP" title="Cruise Party"/>
+  <Game id="WA2E" title="大家的旋转泡泡(美)"/>
+  <Game id="WA2J" title="大家的旋转泡泡(日)"/>
+  <Game id="WA2P" title="大家的旋转泡泡(欧)"/>
+  <Game id="WA4E" title="WarioWare D.I.Y. Showcase"/>
+  <Game id="WA4J" title="WarioWare - D.I.Y. Showcase"/>
+  <Game id="WA4P" title="WarioWare D.I.Y. Showcase"/>
+  <Game id="WA5E" title="Carmen Sandiego Adventures in Math - The Island of Diamonds"/>
+  <Game id="WA7E" title="Toribash"/>
+  <Game id="WA7P" title="Toribash - Violence Perfected"/>
+  <Game id="WA8E" title="Art Style - ROTOZOA"/>
+  <Game id="WA8J" title="Art Style Series - PENTA TENTACLES"/>
+  <Game id="WA8P" title="Art Style - PENTA TENTACLES"/>
+  <Game id="WAAE" title="Aya and the Cubes of Light"/>
+  <Game id="WAAP" title="Aya and the Cubes of Light"/>
+  <Game id="WABE" title="Art of Balance"/>
+  <Game id="WABP" title="Art of Balance"/>
+  <Game id="WACE" title="Arcade Essentials"/>
+  <Game id="WACP" title="Arcade Essentials"/>
+  <Game id="WAEE" title="Around the World"/>
+  <Game id="WAEP" title="Around the World"/>
+  <Game id="WAFE" title="Airport Mania - First Flight"/>
+  <Game id="WAFP" title="Airport Mania - First Flight"/>
+  <Game id="WAGE" title="Pinocchio's Puzzle"/>
+  <Game id="WAHE" title="Trenches Generals"/>
+  <Game id="WAHP" title="Trenches Generals"/>
+  <Game id="WAIE" title="101-in-1 Explosive Megamix"/>
+  <Game id="WAIP" title="101-in-1 Explosive Megamix"/>
+  <Game id="WAJE" title="MotoHeroz"/>
+  <Game id="WAJP" title="MotoHeroz"/>
+  <Game id="WAKE" title="Carmen Sandiego Adventures in Math - The Case of the Crumbling Cathedral"/>
+  <Game id="WALE" title="Art Style - light trax"/>
+  <Game id="WALJ" title="Art Style Series - Lightstream"/>
+  <Game id="WALP" title="Art Style - light trax"/>
+  <Game id="WAME" title="Carmen Sandiego Adventures in Math - The Great Gateway Grab"/>
+  <Game id="WANE" title="Ant Nation"/>
+  <Game id="WANP" title="Ant Nation"/>
+  <Game id="WAOE" title="The Very Hungry Caterpillar's ABCs"/>
+  <Game id="WAOJ" title="Harapeko Aomushi no ABC"/>
+  <Game id="WAOP" title="The Very Hungry Caterpillar's ABCs"/>
+  <Game id="WAQJ" title="Yakuman Wii - Ide Yosuke no Kenkou Mahjong"/>
+  <Game id="WARJ" title="Tsuushin Taikyoku - Igo Dojo 2700-Mon"/>
+  <Game id="WASJ" title="Tsuushin Taikyoku - Hayazashi Shogi Sandan"/>
+  <Game id="WATE" title="Astro Bugz Revenge"/>
+  <Game id="WAUJ" title="Tsuushin Taikyoku - World Chess"/>
+  <Game id="WAYE" title="And Yet It Moves"/>
+  <Game id="WAYP" title="And Yet It Moves"/>
+  <Game id="WAZE" title="The Amazing Brain Train!"/>
+  <Game id="WB2E" title="Strong Bad's Cool Game for Attractive People - Episode 4 - Dangeresque 3 - The Criminal Projective"/>
+  <Game id="WB2P" title="Strong Bad's Cool Game for Attractive People - Episode 4 - Dangeresque 3 - The Criminal Projective"/>
+  <Game id="WB3E" title="Strong Bad's Cool Game for Attractive People - Episode 5 - 8-Bit Is Enough"/>
+  <Game id="WB3P" title="Strong Bad's Cool Game for Attractive People - Episode 5 - 8-Bit Is Enough"/>
+  <Game id="WB4E" title="荒野大镖客(美)"/>
+  <Game id="WB4J" title="Wild West Guns"/>
+  <Game id="WB4P" title="荒野大镖客(欧)"/>
+  <Game id="WB5E" title="豪华打砖块(美)"/>
+  <Game id="WB5J" title="Block Breaker Deluxe"/>
+  <Game id="WB5P" title="豪华打砖块(欧)"/>
+  <Game id="WB6E" title="电视节目之王(美)"/>
+  <Game id="WB6J" title="TV Show King"/>
+  <Game id="WB6P" title="电视节目之王(欧)"/>
+  <Game id="WB7E" title="午夜桌球赛(美)"/>
+  <Game id="WB7J" title="Hamaru Billiards"/>
+  <Game id="WB7P" title="午夜桌球赛(欧)"/>
+  <Game id="WB8E" title="午夜保龄球(美)"/>
+  <Game id="WB8J" title="Hamaru Bowling"/>
+  <Game id="WB8P" title="午夜保龄球(欧)"/>
+  <Game id="WBAJ" title="Bakutan"/>
+  <Game id="WBBE" title="Snowboard Riot"/>
+  <Game id="WBBJ" title="Board Warriors"/>
+  <Game id="WBBP" title="Snowboard Riot"/>
+  <Game id="WBDE" title="Brain Drain"/>
+  <Game id="WBDP" title="Brain Drain"/>
+  <Game id="WBEE" title="乒乓投掷 兄弟聚会(美)"/>
+  <Game id="WBEP" title="乒乓投掷 兄弟聚会(欧)"/>
+  <Game id="WBFE" title="Bit. Trip Fate"/>
+  <Game id="WBFP" title="Bit. Trip Fate"/>
+  <Game id="WBGP" title="Bang Attack - Project Bang"/>
+  <Game id="WBHE" title="Blood Beach"/>
+  <Game id="WBHP" title="Blood Beach"/>
+  <Game id="WBIE" title="Boingz"/>
+  <Game id="WBJE" title="Harvest Moon - My Little Shop"/>
+  <Game id="WBJJ" title="Bokujou Monogatari Series - Makiba no Omise"/>
+  <Game id="WBKE" title="Arkanoid Plus!"/>
+  <Game id="WBKJ" title="Arkanoid Plus!"/>
+  <Game id="WBKP" title="Arkanoid Plus!"/>
+  <Game id="WBLE" title="Bubble Bobble Plus!"/>
+  <Game id="WBLJ" title="Bubble Bobble Wii"/>
+  <Game id="WBLP" title="Bubble Bobble Plus!"/>
+  <Game id="WBME" title="大家的口袋妖怪牧场(美)"/>
+  <Game id="WBMJ" title="Minna no Pokémon Bokujou - Platina Taiouban"/>
+  <Game id="WBMP" title="大家的口袋妖怪牧场(欧)"/>
+  <Game id="WBNE" title="Bonsai Barber"/>
+  <Game id="WBNJ" title="Bonsai Barber"/>
+  <Game id="WBNP" title="Bonsai Barber"/>
+  <Game id="WBOE" title="Gravitronix"/>
+  <Game id="WBPE" title="Plaettchen Twist 'n' Paint"/>
+  <Game id="WBPP" title="Plaettchen Twist 'n' Paint"/>
+  <Game id="WBQE" title="Star Soldier R"/>
+  <Game id="WBQJ" title="Star Soldier R"/>
+  <Game id="WBQP" title="星际战士R(欧)"/>
+  <Game id="WBRP" title="海盗 梦想的钥匙(欧)"/>
+  <Game id="WBSE" title="梦幻泡沫(美)"/>
+  <Game id="WBSJ" title="Pop"/>
+  <Game id="WBSP" title="梦幻泡沫(欧)"/>
+  <Game id="WBVE" title="轮胎赛车(美)"/>
+  <Game id="WBVP" title="轮胎赛车(欧)"/>
+  <Game id="WBWE" title="动物危机(美)"/>
+  <Game id="WBWJ" title="Saku Saku Animal Panic"/>
+  <Game id="WBWP" title="动物危机(欧)"/>
+  <Game id="WBXE" title="Strong Bad's Cool Game for Attractive People - Episode 1 - Homestar Ruiner"/>
+  <Game id="WBXP" title="Strong Bad's Cool Game for Attractive People - Episode 1 - Homestar Ruiner"/>
+  <Game id="WBYE" title="Strong Bad's Cool Game for Attractive People - Episode 2 - Strong Badia the Free"/>
+  <Game id="WBYP" title="Strong Bad's Cool Game for Attractive People - Episode 2 - Strong Badia the Free"/>
+  <Game id="WBZE" title="Strong Bad's Cool Game for Attractive People - Episode 3 - Baddest of the Bands"/>
+  <Game id="WBZP" title="Strong Bad's Cool Game for Attractive People - Episode 3 - Baddest of the Bands"/>
+  <Game id="WC2E" title="水晶防线R2(美)"/>
+  <Game id="WC2J" title="Crystal Defenders R2"/>
+  <Game id="WC2P" title="水晶防线R2(欧)"/>
+  <Game id="WC6E" title="Chronos Twins DX"/>
+  <Game id="WC6P" title="Chronos Twins DX"/>
+  <Game id="WC8J" title="Line Attack Heroes"/>
+  <Game id="WCHE" title="Chess Challenge!"/>
+  <Game id="WCHP" title="Chess Challenge!"/>
+  <Game id="WCIE" title="水晶防线R1(美)"/>
+  <Game id="WCIJ" title="Crystal Defenders R1"/>
+  <Game id="WCIP" title="水晶防线R1(欧)"/>
+  <Game id="WCJE" title="Cocoto Platform Jumper"/>
+  <Game id="WCJP" title="Cocoto Platform Jumper"/>
+  <Game id="WCKE" title="Chick Chick BOOM"/>
+  <Game id="WCKJ" title="Chicken Battle! Chick Chick BOOM"/>
+  <Game id="WCKP" title="Chick Chick BOOM"/>
+  <Game id="WCLE" title="Doc Clock - The Toasted Sandwich of Time"/>
+  <Game id="WCNJ" title="Tokyo City Nights"/>
+  <Game id="WCOE" title="Cocoto Fishing Master"/>
+  <Game id="WCOP" title="小魔怪钓鱼(欧)"/>
+  <Game id="WCPE" title="Copter Crisis"/>
+  <Game id="WCPP" title="Copter Crisis"/>
+  <Game id="WCRE" title="Carnival King"/>
+  <Game id="WCSE" title="Pool Revolution - Cue Sports"/>
+  <Game id="WCSJ" title="Cue Sports - Wi-Fi Taisen Billiards"/>
+  <Game id="WCSP" title="Cue Sports - Snooker vs. Billiards"/>
+  <Game id="WCUE" title="3-2-1, Rattle Battle!"/>
+  <Game id="WCUJ" title="Atsui 12 Game - Furi Furi Party!"/>
+  <Game id="WCUP" title="3-2-1, Rattle Battle!"/>
+  <Game id="WCVE" title="洞窟物语(美)"/>
+  <Game id="WCVP" title="Cave Story"/>
+  <Game id="WCZE" title="ColorZ"/>
+  <Game id="WCZJ" title="ColorZ"/>
+  <Game id="WCZP" title="ColorZ"/>
+  <Game id="WD2J" title="Simple Series Vol. 2 - The Number Puzzle neo"/>
+  <Game id="WD9E" title="恶魔城 重生(美)"/>
+  <Game id="WD9J" title="恶魔城传说：重生(日)"/>
+  <Game id="WD9P" title="恶魔城传说：重生(欧)"/>
+  <Game id="WDAJ" title="Darts Wii"/>
+  <Game id="WDBE" title="Derby Dogs"/>
+  <Game id="WDBJ" title="Derby Dog"/>
+  <Game id="WDDE" title="Diner Dash"/>
+  <Game id="WDDJ" title="Diner Dash"/>
+  <Game id="WDDP" title="Diner Dash"/>
+  <Game id="WDEE" title="Magic Destiny - Astrological Games"/>
+  <Game id="WDEP" title="Magic Destiny - Astrological Games"/>
+  <Game id="WDFE" title="守卫城堡(美)"/>
+  <Game id="WDFP" title="守卫城堡(欧)"/>
+  <Game id="WDHE" title="Art Style - ROTOHEX"/>
+  <Game id="WDHJ" title="Art Style Series - DIALHEX"/>
+  <Game id="WDHP" title="Art Style - ROTOHEX"/>
+  <Game id="WDIJ" title="Simple Series Vol. 1 - The Block Kuzushi neo"/>
+  <Game id="WDKE" title="Dart Rage"/>
+  <Game id="WDME" title="马里奥医生&amp;细菌扑灭(美)"/>
+  <Game id="WDMJ" title="马里奥医生&amp;细菌扑灭(日)"/>
+  <Game id="WDMP" title="马里奥医生&amp;细菌扑灭(欧)"/>
+  <Game id="WDNJ" title="Discipline - Teikoku no Tanjyou"/>
+  <Game id="WDOE" title="Driift Mania"/>
+  <Game id="WDOP" title="Driift Mania"/>
+  <Game id="WDPE" title="Dr. Mario Online Rx - Friend Battle"/>
+  <Game id="WDPJ" title="Dr. Mario &amp; Saikin Bokumetsu - Furendo Taisen"/>
+  <Game id="WDPP" title="Dr. Mario &amp; Germ Buster - Friend Battle"/>
+  <Game id="WDRE" title="钻地小子世界(美)"/>
+  <Game id="WDRJ" title="Mr. Driller World"/>
+  <Game id="WDRP" title="钻地小子世界(欧)"/>
+  <Game id="WDSE" title="Dragon Master Spell Caster"/>
+  <Game id="WDSP" title="Dragon Master Spell Caster"/>
+  <Game id="WDVE" title="Voodoo Dice"/>
+  <Game id="WDVP" title="Voodoo Dice"/>
+  <Game id="WDXE" title="Diatomic"/>
+  <Game id="WE6E" title="My Dolphin"/>
+  <Game id="WE6J" title="Sea Farm - Iruka to Watashi no Showtime"/>
+  <Game id="WE9E" title="Alien Crush Returns"/>
+  <Game id="WE9J" title="Alien Crush Returns"/>
+  <Game id="WE9P" title="Alien Crush Returns"/>
+  <Game id="WEDE" title="Eduardo the Samurai Toaster"/>
+  <Game id="WEME" title="Aha! I Got It! - Escape Game"/>
+  <Game id="WEMJ" title="1 Nuke! Dasshutsu Game - My Home Hen"/>
+  <Game id="WEMP" title="Aha! I Got It! - Escape Game"/>
+  <Game id="WENE" title="TNT Racers"/>
+  <Game id="WENP" title="TNT Racers"/>
+  <Game id="WEQE" title="Equilibrio"/>
+  <Game id="WEQJ" title="Katamuki Spirits"/>
+  <Game id="WEQP" title="Equilibrio"/>
+  <Game id="WERE" title="我的水族馆(美)"/>
+  <Game id="WERJ" title="Blue Oasis - Sakana no Iyashi Kuuken"/>
+  <Game id="WERP" title="我的水族馆(欧)"/>
+  <Game id="WETE" title="PictureBook Games - Pop-Up Pursuit"/>
+  <Game id="WETJ" title="Asoberu Ehon Tobida Sugoroku!"/>
+  <Game id="WETP" title="PictureBook Games - A Pop-Up Adventure"/>
+  <Game id="WEVE" title="Viral Survival"/>
+  <Game id="WEVJ" title="Peakvox Escape Virus"/>
+  <Game id="WEVP" title="Viral Survival"/>
+  <Game id="WF2E" title="最终幻想水晶编年史 光暗公主与世界征服之塔(美)"/>
+  <Game id="WF2J" title="Final Fantasy Crystal Chronicles - The Tower of the Chaos Princess"/>
+  <Game id="WF2P" title="最终幻想水晶编年史 光暗公主与世界征服之塔(欧)"/>
+  <Game id="WF3E" title="Family Games - Pen and Paper Edition"/>
+  <Game id="WF4E" title="最终幻想4后传 月之归还(美)"/>
+  <Game id="WF4J" title="Final Fantasy IV - The After Years - Tsuki no Kikan"/>
+  <Game id="WF4P" title="最终幻想4后传 月之归还(欧)"/>
+  <Game id="WF5E" title="Family Card Games"/>
+  <Game id="WF5J" title="Okiraku Daifugou Wii - Honkaku Wi-Fi Net Taisen"/>
+  <Game id="WF5P" title="Family Card Games"/>
+  <Game id="WF6E" title="Frobot"/>
+  <Game id="WFAE" title="Fast Draw Showdown"/>
+  <Game id="WFAP" title="Fast Draw Showdown"/>
+  <Game id="WFBE" title="Sandy Beach"/>
+  <Game id="WFBJ" title="Beach de Oshiro wo Tsukuccha Wow!"/>
+  <Game id="WFBP" title="Sandy Beach"/>
+  <Game id="WFCE" title="最终幻想水晶编年史 小小国王与约定之国(美)"/>
+  <Game id="WFCJ" title="Final Fantasy Crystal Chronicles - My Life as a King"/>
+  <Game id="WFCP" title="最终幻想水晶编年史 小小国王与约定之国(欧)"/>
+  <Game id="WFDE" title="Save the Furries"/>
+  <Game id="WFDP" title="Save the Furries"/>
+  <Game id="WFEE" title="Fenimore Fillmore - The Westerner"/>
+  <Game id="WFFE" title="有趣！有趣！迷你高尔夫(美)"/>
+  <Game id="WFFJ" title="Fun! Fun! Minigolf"/>
+  <Game id="WFFP" title="有趣！有趣！迷你高尔夫(欧)"/>
+  <Game id="WFGE" title="Frogger Returns"/>
+  <Game id="WFGJ" title="Frogger Returns"/>
+  <Game id="WFHE" title="Flight Control"/>
+  <Game id="WFHP" title="Flight Control"/>
+  <Game id="WFIE" title="Reel Fishing Challenge"/>
+  <Game id="WFIJ" title="Fish Eyes Challenge"/>
+  <Game id="WFIP" title="Reel Fishing Challenge"/>
+  <Game id="WFKE" title="Family Go-Kart Racing"/>
+  <Game id="WFKJ" title="Okiraku Kart Wii"/>
+  <Game id="WFLE" title="Fluidity"/>
+  <Game id="WFLP" title="Hydroventure"/>
+  <Game id="WFME" title="Family &amp; Friends Party"/>
+  <Game id="WFMP" title="Family &amp; Friends Party"/>
+  <Game id="WFNE" title="Fish Tank"/>
+  <Game id="WFNP" title="Fish Tank"/>
+  <Game id="WFPJ" title="Hirameki Card Battle - Mekuruka"/>
+  <Game id="WFQE" title="Frogger - Hyper Arcade Edition"/>
+  <Game id="WFQP" title="Frogger - Hyper Arcade Edition"/>
+  <Game id="WFRP" title="Frogger Returns"/>
+  <Game id="WFSJ" title="Minna no Theatre Wii"/>
+  <Game id="WFTE" title="Fish'em All"/>
+  <Game id="WFTP" title="Fish'em All"/>
+  <Game id="WFUE" title="Furry Legends"/>
+  <Game id="WFUP" title="Furry Legends"/>
+  <Game id="WFVE" title="Soccer Up!"/>
+  <Game id="WFVP" title="Football Up!"/>
+  <Game id="WFWE" title="Flowerworks"/>
+  <Game id="WFWP" title="Flowerworks - Follie's Adventure"/>
+  <Game id="WFXE" title="Cozy Fire"/>
+  <Game id="WFXP" title="Cosy Fire"/>
+  <Game id="WFYE" title="Family Games Pen &amp; Paper Edition"/>
+  <Game id="WFYP" title="Family Games - Pen &amp; Paper Edition"/>
+  <Game id="WG2J" title="Sugarbunnies Wii - Youkoso Bunnies Field-e"/>
+  <Game id="WG4E" title="GhostSlayer"/>
+  <Game id="WGAE" title="Ghost Mania"/>
+  <Game id="WGAP" title="Ghost Mania"/>
+  <Game id="WGDE" title="Gradius ReBirth"/>
+  <Game id="WGDJ" title="Gradius ReBirth"/>
+  <Game id="WGDP" title="沙罗曼蛇 重生(欧)"/>
+  <Game id="WGFP" title="Girlfriends Forever - Magic Skate"/>
+  <Game id="WGGE" title="Gabrielle's Ghostly Groove - Monster Mix"/>
+  <Game id="WGGJ" title="Ushimitsu Monstruo - Fushigina Oshiro no Dance Party"/>
+  <Game id="WGGP" title="Gabrielle's Ghostly Groove - Monster Mix"/>
+  <Game id="WGLE" title="Gene Labs"/>
+  <Game id="WGMJ" title="Game Sound Station"/>
+  <Game id="WGOE" title="粘粘世界(美)"/>
+  <Game id="WGOJ" title="Goo no Wakusei"/>
+  <Game id="WGOP" title="粘粘世界(欧)"/>
+  <Game id="WGPE" title="AquaSpace"/>
+  <Game id="WGPJ" title="Aqua Living - Terebi de Nagameru Sakanatachi"/>
+  <Game id="WGPP" title="Zenquaria - Virtual Aquarium"/>
+  <Game id="WGSD" title="Phoenix Wright: Ace Attorney"/>
+  <Game id="WGSE" title="Phoenix Wright - Ace Attorney"/>
+  <Game id="WGSF" title="Phoenix Wright: Ace Attorney"/>
+  <Game id="WGSI" title="Phoenix Wright: Ace Attorney"/>
+  <Game id="WGSJ" title="Gyakuten Saiban - Yomigaeru Gyakuten"/>
+  <Game id="WGSP" title="Phoenix Wright: Ace Attorney"/>
+  <Game id="WGSS" title="Phoenix Wright: Ace Attorney"/>
+  <Game id="WGTJ" title="Sekai no Omoshiro Party Game"/>
+  <Game id="WGUJ" title="Aero Guitar"/>
+  <Game id="WGVE" title="律动方块(美)"/>
+  <Game id="WGYE" title="螺旋射击(美)"/>
+  <Game id="WH3E" title="Home Sweet Home"/>
+  <Game id="WH3P" title="Home Sweet Home"/>
+  <Game id="WHBE" title="Hubert the Teddy Bear - Winter Games"/>
+  <Game id="WHEE" title="Heracles Chariot Racing"/>
+  <Game id="WHEP" title="Heracles Chariot Racing"/>
+  <Game id="WHFE" title="Heavy Fire - Special Operations"/>
+  <Game id="WHFP" title="Heavy Fire - Special Operations"/>
+  <Game id="WHHJ" title="Let's Zenryoku Hitchhike!!!!!!!!!"/>
+  <Game id="WHOE" title="Hockey Allstar Shootout"/>
+  <Game id="WHPE" title="Sexy Poker"/>
+  <Game id="WHPP" title="Sexy Poker"/>
+  <Game id="WHPU" title="Sexy Poker"/>
+  <Game id="WHRE" title="Heron - Steam Machine"/>
+  <Game id="WHRP" title="Heron - Steam Machine"/>
+  <Game id="WHUE" title="Ghost Mansion Party"/>
+  <Game id="WHUJ" title="Ghost Mansion Party"/>
+  <Game id="WHUP" title="Ghost Mansion Party"/>
+  <Game id="WHVE" title="High Voltage Hot Rod Show"/>
+  <Game id="WHWE" title="HoopWorld"/>
+  <Game id="WHWP" title="HoopWorld"/>
+  <Game id="WHXE" title="螺旋 舞动全身(美)"/>
+  <Game id="WHXP" title="螺旋 舞动全身(欧)"/>
+  <Game id="WHYE" title="Heavy Fire - Black Arms"/>
+  <Game id="WHZE" title="Horizon Riders"/>
+  <Game id="WHZP" title="Horizon Riders"/>
+  <Game id="WIBE" title="Bittos Plus"/>
+  <Game id="WICE" title="NyxQuest - Kindred Spirits"/>
+  <Game id="WICJ" title="NyxQuest"/>
+  <Game id="WICP" title="NyxQuest - Kindred Spirits"/>
+  <Game id="WIDE" title="Dracula - Undead Awakening"/>
+  <Game id="WIDP" title="Dracula - Undead Awakening"/>
+  <Game id="WIEE" title="Tales of Monkey Island - Chapter 3 - Lair of the Leviathan"/>
+  <Game id="WIEP" title="Tales of Monkey Island - Chapter 3 - Lair of the Leviathan"/>
+  <Game id="WIGE" title="Incoming!"/>
+  <Game id="WIHE" title="Play with Birds"/>
+  <Game id="WIKJ" title="Ivy the Kiwi - Mini"/>
+  <Game id="WILE" title="Tales of Monkey Island - Chapter 1 - Launch of the Screaming Narwhal"/>
+  <Game id="WILP" title="Tales of Monkey Island - Chapter 1 - Launch of the Screaming Narwhal"/>
+  <Game id="WINE" title="The Incredible Maze"/>
+  <Game id="WINJ" title="Chokkan! Balance Labyrinth"/>
+  <Game id="WINP" title="The Incredible Maze"/>
+  <Game id="WIRE" title="Tales of Monkey Island - Chapter 5 - Rise of the Pirate God"/>
+  <Game id="WIRP" title="Tales of Monkey Island - Chapter 5 - Rise of the Pirate God"/>
+  <Game id="WISE" title="Tales of Monkey Island - Chapter 2 - The Siege of Spinner Cay"/>
+  <Game id="WISP" title="Tales of Monkey Island - Chapter 2 - The Siege of Spinner Cay"/>
+  <Game id="WITE" title="Aha! I Found It! - Hidden Object Game"/>
+  <Game id="WITJ" title="Aa! Mitsuketa! Item Sagashi Game"/>
+  <Game id="WITP" title="Aha! I Found It! - Hidden Object Game"/>
+  <Game id="WIUE" title="Inkub"/>
+  <Game id="WIVE" title="Space Invaders Get Even"/>
+  <Game id="WIVJ" title="Space Invaders Get Even"/>
+  <Game id="WIVP" title="太空侵略者的复仇之战(欧)"/>
+  <Game id="WIYE" title="Tales of Monkey Island - Chapter 4 - The Trial and Execution of Guybrush Threepwood"/>
+  <Game id="WIYP" title="Tales of Monkey Island - Chapter 4 - The Trial and Execution of Guybrush Threepwood"/>
+  <Game id="WJ2J" title="Jinsei Game - Happy Step"/>
+  <Game id="WJAE" title="Jam City Rollergirls"/>
+  <Game id="WJAP" title="Jam City Rollergirls"/>
+  <Game id="WJCE" title="JellyCar 2"/>
+  <Game id="WJEE" title="Jett Rocket"/>
+  <Game id="WJEP" title="Jett Rocket"/>
+  <Game id="WJFE" title="Gnomz"/>
+  <Game id="WJFP" title="Gnomz"/>
+  <Game id="WJGJ" title="Jinsei Game"/>
+  <Game id="WJKE" title="Jewel Keepers - Easter Island"/>
+  <Game id="WJKP" title="Jewel Keepers - Easter Island"/>
+  <Game id="WJPJ" title="Janken Party Paradise"/>
+  <Game id="WJSE" title="Jungle Speed"/>
+  <Game id="WJSP" title="Jungle Speed"/>
+  <Game id="WJWE" title="Bejeweled 2"/>
+  <Game id="WJWP" title="Bejeweled 2"/>
+  <Game id="WK2J" title="Kappa-kun to Asobou - Kappa-kun no Ota no Shimikai"/>
+  <Game id="WK3J" title="Kappa-kun to Asobou - Kappa-kun to 3 Bikino Koneko"/>
+  <Game id="WK9J" title="Minna de Asobou - Koinu de Kururin"/>
+  <Game id="WKBE" title="You, Me, and the Cubes"/>
+  <Game id="WKBJ" title="Kimi to Boku to Rittai"/>
+  <Game id="WKBP" title="You, Me, and the Cubes"/>
+  <Game id="WKCE" title="Kyotokei"/>
+  <Game id="WKCP" title="Kyotokei"/>
+  <Game id="WKDE" title="海盗 梦想的钥匙(美)"/>
+  <Game id="WKEJ" title="Raku Raku Kinen Appli Wii - Kinenka no Isha ga Oshieru Nanoka de Yamaru Hoho"/>
+  <Game id="WKFE" title="Kung Fu Funk - Everybody is Kung Fu Fighting!"/>
+  <Game id="WKFP" title="Kung Fu Funk - Everybody is Kung Fu Fighting!"/>
+  <Game id="WKHE" title="Big Kahuna Party"/>
+  <Game id="WKIE" title="The Mystery of Whiterock Castle"/>
+  <Game id="WKIP" title="The Mystery of Whiterock Castle"/>
+  <Game id="WKJE" title="Karaoke Joysound"/>
+  <Game id="WKKE" title="Party Fun Pirate"/>
+  <Game id="WKKJ" title="Kurohige Kiki Ippatsu Wii"/>
+  <Game id="WKKP" title="Pop-up Pirate!"/>
+  <Game id="WKNJ" title="Kanken - Minna de Wai Wai Kanji Nou"/>
+  <Game id="WKPJ" title="Kappa-kun to Asobou - Kappa-kun to Mori no Nakamatachi"/>
+  <Game id="WKQJ" title="Kentei TV! Wii - Minna de Gotouchi Quiz Battle!"/>
+  <Game id="WKRP" title="Karate Phants - Gloves of Glory"/>
+  <Game id="WKTE" title="魂斗罗 重生(美)"/>
+  <Game id="WKTJ" title="Contra ReBirth"/>
+  <Game id="WKTP" title="魂斗罗 重生(欧)"/>
+  <Game id="WKUJ" title="Downtown Nekketsu Dodgeball"/>
+  <Game id="WKWE" title="Adventure on Lost Island - Hidden Object Game"/>
+  <Game id="WKWJ" title="Item Sagashi - Yousei to Fushigi no Shima"/>
+  <Game id="WKWP" title="Adventure on Lost Island - Hidden Object Game"/>
+  <Game id="WL2E" title="Target Toss Pro - Lawn Darts"/>
+  <Game id="WL5E" title="HB Arcade Disc Golf"/>
+  <Game id="WL9E" title="Let's Create! - Pottery"/>
+  <Game id="WLCE" title="Bingo Party Deluxe"/>
+  <Game id="WLCJ" title="Wai Wai Bingo Deluxe"/>
+  <Game id="WLCP" title="Bingo Party Deluxe"/>
+  <Game id="WLDJ" title="Bokumo Sekai wo Sukuitai"/>
+  <Game id="WLEE" title="Learning with The PooYoos - Episode 1"/>
+  <Game id="WLEJ" title="PooYoo to Asobou - Episode 1"/>
+  <Game id="WLEP" title="Learning with The PooYoos - Episode 1"/>
+  <Game id="WLGE" title="HB Arcade Cards"/>
+  <Game id="WLIE" title="Liight"/>
+  <Game id="WLJJ" title="Bokumo Sekai wo Sukuitai - Battle Tournament"/>
+  <Game id="WLKJ" title="Licca-chan Oshare House"/>
+  <Game id="WLLE" title="Little Tournament Over Yonder"/>
+  <Game id="WLLP" title="Little Tournament Over Yonder"/>
+  <Game id="WLME" title="La-Mulana"/>
+  <Game id="WLMJ" title="La-Mulana"/>
+  <Game id="WLMP" title="La-Mulana"/>
+  <Game id="WLNE" title="Learning with The PooYoos - Episode 2"/>
+  <Game id="WLNP" title="Learning with The PooYoos - Episode 2"/>
+  <Game id="WLOE" title="迷失之风 冬季铃音(美)"/>
+  <Game id="WLOJ" title="LostWinds - Winter of the Melodias"/>
+  <Game id="WLOP" title="迷失之风 冬季铃音(欧)"/>
+  <Game id="WLPE" title="Lonpos"/>
+  <Game id="WLPJ" title="Lonpos"/>
+  <Game id="WLPP" title="Lonpos"/>
+  <Game id="WLTE" title="LIT"/>
+  <Game id="WLTJ" title="School of Darkness"/>
+  <Game id="WLTP" title="LIT"/>
+  <Game id="WLWE" title="迷失之风(美)"/>
+  <Game id="WLWJ" title="LostWinds"/>
+  <Game id="WLWP" title="迷失之风(欧)"/>
+  <Game id="WLXJ" title="Phalanx"/>
+  <Game id="WLZE" title="Lilt Line"/>
+  <Game id="WLZP" title="Lilt Line"/>
+  <Game id="WM2E" title="My Little Baby"/>
+  <Game id="WM2P" title="My Little Baby"/>
+  <Game id="WM3E" title="Manic Monkey Mayhem"/>
+  <Game id="WM3P" title="Manic Monkey Mayhem"/>
+  <Game id="WM4E" title="Mix Superstar"/>
+  <Game id="WM4P" title="Mix Superstar"/>
+  <Game id="WM5E" title="MDK2"/>
+  <Game id="WM7E" title="ANIMA - Ark of Sinners"/>
+  <Game id="WM7P" title="ANIMA - Ark of Sinners"/>
+  <Game id="WM8E" title="Bomberman Blast"/>
+  <Game id="WM8J" title="Wi-Fi 8 Hito Battle Bomberman"/>
+  <Game id="WM8P" title="炸弹人爆破(欧)"/>
+  <Game id="WM9E" title="Happy Hammerin'"/>
+  <Game id="WM9J" title="Tataite! Mogupon"/>
+  <Game id="WM9P" title="Happy Hammerin'"/>
+  <Game id="WMAE" title="Magnetis"/>
+  <Game id="WMAP" title="Magnetis"/>
+  <Game id="WMBE" title="Maboshi's Arcade"/>
+  <Game id="WMBJ" title="Katachi no Game - Maru Bou Shikaku"/>
+  <Game id="WMBP" title="MaBoShi - The Three Shape Arcade"/>
+  <Game id="WMCE" title="A Monsteca Corral - Monsters vs. Robots"/>
+  <Game id="WMCP" title="A Monsteca Corral - Monsters vs. Robots"/>
+  <Game id="WMDE" title="疯狂的石头(美)"/>
+  <Game id="WMGE" title="Mart Racer"/>
+  <Game id="WMHE" title="Mouse House"/>
+  <Game id="WMJE" title="Dive - The Medes Islands Secret"/>
+  <Game id="WMJP" title="Dive - The Medes Islands Secret"/>
+  <Game id="WMKE" title="Lead the Meerkats"/>
+  <Game id="WMKP" title="Lead the Meerkats"/>
+  <Game id="WMLE" title="大胃王联盟(美)"/>
+  <Game id="WMLJ" title="Major League Eating - The Game"/>
+  <Game id="WMME" title="Muscle March"/>
+  <Game id="WMMJ" title="Muscle Koushinkyoku"/>
+  <Game id="WMMP" title="Muscle March"/>
+  <Game id="WMOE" title="Moki Moki"/>
+  <Game id="WMOJ" title="Anata ga Mawashite Sukuu Puzzle - Mochi Mochi Q"/>
+  <Game id="WMOP" title="Moki Moki"/>
+  <Game id="WMPJ" title="Kotoba no Puzzle - Mojipittan Wii"/>
+  <Game id="WMRE" title="Monochrome Racing"/>
+  <Game id="WMRP" title="Monochrome Racing"/>
+  <Game id="WMSE" title="Enjoy your Massage!"/>
+  <Game id="WMSP" title="Enjoy Your Massage!"/>
+  <Game id="WMWP" title="Miffy's World"/>
+  <Game id="WMWX" title="Miffy's World"/>
+  <Game id="WMXE" title="Max &amp; the Magic Marker"/>
+  <Game id="WMXJ" title="Rakugaki Hero"/>
+  <Game id="WMXP" title="Max &amp; the Magic Marker"/>
+  <Game id="WMZP" title="Mahjong"/>
+  <Game id="WN9E" title="Military Madness - Nectaris"/>
+  <Game id="WN9J" title="Nectaris"/>
+  <Game id="WN9P" title="Military Madness - Nectaris"/>
+  <Game id="WNAP" title="Back to Nature"/>
+  <Game id="WNEE" title="Penguins &amp; Friends - Hey! That's My Fish!"/>
+  <Game id="WNEP" title="Penguins &amp; Friends - Hey! That's My Fish!"/>
+  <Game id="WNGE" title="Bang Attack"/>
+  <Game id="WNKE" title="Niki - Rock 'n' Ball"/>
+  <Game id="WNKP" title="Niki - Rock 'n' Ball"/>
+  <Game id="WNPJ" title="Sugu Suro Duo - New Pulsar R&amp;V"/>
+  <Game id="WNSE" title="Newton vs The Horde"/>
+  <Game id="WNSP" title="Newton vs The Horde"/>
+  <Game id="WNVE" title="Neves Plus"/>
+  <Game id="WNVJ" title="Hamekomi Lucky Puzzle Wii"/>
+  <Game id="WNVP" title="Neves Plus - Pantheon of Tangrams"/>
+  <Game id="WNWJ" title="Hamekomi Lucky Puzzle Wii Returns"/>
+  <Game id="WO6E" title="Family Pirate Party"/>
+  <Game id="WO6J" title="Okiraku Sugoroku Wii"/>
+  <Game id="WO6P" title="Family Pirate Party"/>
+  <Game id="WOAE" title="Family Glide Hockey"/>
+  <Game id="WOAJ" title="Okiraku Air Hockey Wii"/>
+  <Game id="WOAP" title="Family Glide Hockey"/>
+  <Game id="WOBE" title="Art Style - ORBIENT"/>
+  <Game id="WOBJ" title="Art Style Series - ORBITAL"/>
+  <Game id="WOBP" title="万有引力(欧)"/>
+  <Game id="WODJ" title="叫我王(日)"/>
+  <Game id="WOEJ" title="Oekaki Logic"/>
+  <Game id="WOFE" title="Overflow"/>
+  <Game id="WOGE" title="Family Mini Golf"/>
+  <Game id="WOGJ" title="Okiraku Putter Golf Wii"/>
+  <Game id="WOGP" title="Family Mini Golf"/>
+  <Game id="WOKJ" title="Karaoke Joysound Wii"/>
+  <Game id="WOLJ" title="Othello"/>
+  <Game id="WOMJ" title="Sekai no Omoshiro Party Game 2"/>
+  <Game id="WOPE" title="Word Searcher Deluxe"/>
+  <Game id="WOSE" title="Family Slot Car Racing"/>
+  <Game id="WOSJ" title="Okiraku Slot Car Racing Wii"/>
+  <Game id="WOSP" title="Family Slot Car Racing"/>
+  <Game id="WOTE" title="Overturn"/>
+  <Game id="WOTJ" title="Overturn"/>
+  <Game id="WOTP" title="Overturn"/>
+  <Game id="WOXJ" title="Osu! Exercise Doujou"/>
+  <Game id="WOYE" title="Bit Boy!!"/>
+  <Game id="WOYJ" title="Bit Man!!"/>
+  <Game id="WOYP" title="Bit Boy!!"/>
+  <Game id="WOZJ" title="Kodomo Kyouiku Terebi Wii - Aiue Oumuzu"/>
+  <Game id="WP2E" title="Potpourrii"/>
+  <Game id="WP2P" title="Potpourrii"/>
+  <Game id="WP3P" title="Pearl Harbor - Episode 1 - Red Sun Rising"/>
+  <Game id="WP4E" title="Learning with The PooYoos - Episode 3"/>
+  <Game id="WP4P" title="Learning with The PooYoos - Episode 3"/>
+  <Game id="WP5J" title="Pokosuka Racing"/>
+  <Game id="WP6J" title="Boku wa Plarail Untenshi - Shinkansen &amp; Joukikikansha Hen"/>
+  <Game id="WP7E" title="My Planetarium"/>
+  <Game id="WP7J" title="Planetarium"/>
+  <Game id="WP7P" title="My Starry Night"/>
+  <Game id="WP9J" title="Pokers Wii"/>
+  <Game id="WPAJ" title="Pokémon Fushigi no Dungeon - Ikuzo! Arashi no Boukendan"/>
+  <Game id="WPBE" title="Pub Darts"/>
+  <Game id="WPBP" title="Pub Darts"/>
+  <Game id="WPCE" title="Doc Louis's Punch-Out!!"/>
+  <Game id="WPDJ" title="Chindouchuu!! Paul no Daibouken"/>
+  <Game id="WPFJ" title="Pokémon Fushigi no Dungeon - Susume! Honou no Boukendan"/>
+  <Game id="WPGE" title="Snowpack Park"/>
+  <Game id="WPGJ" title="Penguin Seikatsu"/>
+  <Game id="WPHJ" title="Pokémon Fushigi no Dungeon - Mezase! Hikari no Boukendan"/>
+  <Game id="WPIE" title="Pit Crew Panic!"/>
+  <Game id="WPIJ" title="Pit Crew Panic!"/>
+  <Game id="WPIP" title="手忙脚乱 美女维修队(欧)"/>
+  <Game id="WPJE" title="Pucca's Kisses Game"/>
+  <Game id="WPJP" title="Pucca's Kisses Game"/>
+  <Game id="WPKE" title="Texas Hold'em Poker"/>
+  <Game id="WPKP" title="Texas Hold'em Poker"/>
+  <Game id="WPLE" title="Planet Pachinko"/>
+  <Game id="WPNJ" title="Ponjan Wii"/>
+  <Game id="WPOJ" title="Popple to Mahou no Crayon"/>
+  <Game id="WPPE" title="家庭乒乓球(美)"/>
+  <Game id="WPPJ" title="Okiraku Ping Pong Wii"/>
+  <Game id="WPPP" title="家庭乒乓球(欧)"/>
+  <Game id="WPQE" title="邻海空袭(美)"/>
+  <Game id="WPQP" title="邻海空袭(欧)"/>
+  <Game id="WPRE" title="Art Style - CUBELLO"/>
+  <Game id="WPRJ" title="Art Style Series - CUBELEO"/>
+  <Game id="WPRP" title="艺术风格立方体(欧)"/>
+  <Game id="WPSE" title="Pokémon Rumble"/>
+  <Game id="WPSJ" title="Ransen! Pokémon Scramble"/>
+  <Game id="WPSP" title="Pokémon Rumble"/>
+  <Game id="WPTJ" title="Fantasic Cube"/>
+  <Game id="WPUE" title="泡泡龙加强版(美)"/>
+  <Game id="WPUJ" title="Puzzle Bobble Wii"/>
+  <Game id="WPUP" title="泡泡龙加强版(欧)"/>
+  <Game id="WPVE" title="The Tales of Bearsworth Manor - Chaotic Conflicts"/>
+  <Game id="WPVJ" title="Kumanage Battle Hen Kina no Kiraina Aoi Houseki"/>
+  <Game id="WPVP" title="The Tales of Bearsworth Manor - Chaotic Conflicts"/>
+  <Game id="WPWE" title="Pong Toss Pro - Frat Party Games"/>
+  <Game id="WPXJ" title="Minna de Tobikome! Penguin Diving - Hooper Looper"/>
+  <Game id="WPYE" title="Pallurikio"/>
+  <Game id="WPYP" title="Pallurikio"/>
+  <Game id="WPZE" title="Bruiser and Scratch"/>
+  <Game id="WQ4J" title="Kentoushi - Furi Furi Boxing"/>
+  <Game id="WR2E" title="Rabbids Lab"/>
+  <Game id="WR2P" title="Rabbids Lab"/>
+  <Game id="WR4P" title="Rush Rush Rally Racing"/>
+  <Game id="WR5E" title="Retro City Rampage"/>
+  <Game id="WR5P" title="Retro City Rampage"/>
+  <Game id="WR9E" title="洛克人9(美)"/>
+  <Game id="WR9J" title="洛克人9(日)"/>
+  <Game id="WR9P" title="洛克人9(欧)"/>
+  <Game id="WRBE" title="Robocalypse - Beaver Defense"/>
+  <Game id="WRBP" title="Robocalypse - Beaver Defense"/>
+  <Game id="WRDE" title="Word Searcher"/>
+  <Game id="WRDP" title="Word Searcher"/>
+  <Game id="WREE" title="Racers' Islands - Crazy Arenas"/>
+  <Game id="WREP" title="Racers' Islands - Crazy Arenas"/>
+  <Game id="WRFE" title="Reel Fishing Challenge II"/>
+  <Game id="WRFP" title="Reel Fishing Challenge II"/>
+  <Game id="WRGE" title="Rage of the Gladiator"/>
+  <Game id="WRGP" title="Rage of the Gladiator"/>
+  <Game id="WRIE" title="彩虹岛大冒险(美)"/>
+  <Game id="WRIJ" title="Rainbow Islands - Towering Adventure!"/>
+  <Game id="WRIP" title="彩虹岛大冒险(欧)"/>
+  <Game id="WRJE" title="Racers' Islands - Crazy Racers"/>
+  <Game id="WRJP" title="急速岛屿 疯狂车手(欧)"/>
+  <Game id="WRLE" title="FAST - Racing League"/>
+  <Game id="WRLP" title="FAST - Racing League"/>
+  <Game id="WRNJ" title="Bit. Trip Runner - Rhythm Seijin no Gekisou"/>
+  <Game id="WRPE" title="Burn the Rope"/>
+  <Game id="WRQE" title="Deer Drive Legends"/>
+  <Game id="WRQP" title="Deer Drive Legends"/>
+  <Game id="WRRE" title="Robin Hood - The Return of Richard"/>
+  <Game id="WRRP" title="Robin Hood - The Return of Richard"/>
+  <Game id="WRSE" title="Step Up!"/>
+  <Game id="WRTE" title="Robox"/>
+  <Game id="WRUE" title="Bit. Trip Runner"/>
+  <Game id="WRUP" title="Bit. Trip Runner"/>
+  <Game id="WRXE" title="洛克人10(美)"/>
+  <Game id="WRXJ" title="洛克人10(日)"/>
+  <Game id="WRXP" title="洛克人10(欧)"/>
+  <Game id="WRYE" title="Robox"/>
+  <Game id="WRYP" title="Robox"/>
+  <Game id="WS2J" title="Saikyou Ginsei Igo"/>
+  <Game id="WS3E" title="Silver Star Chess"/>
+  <Game id="WS3J" title="Saikyou Ginsei Chess"/>
+  <Game id="WS4J" title="Saikyou Ginsei Mahjong"/>
+  <Game id="WS5J" title="Saikyou Ginsei Gomoku Narabe"/>
+  <Game id="WS6E" title="Silver Star Reversi"/>
+  <Game id="WS6J" title="Saikyou Ginsei Reversi"/>
+  <Game id="WS7E" title="Fantasy Slots - Adventure Slots and Games"/>
+  <Game id="WS8J" title="Minna de Taisen Puzzle - Shanghai Wii"/>
+  <Game id="WS9E" title="Sudoku Challenge!"/>
+  <Game id="WS9P" title="Sudoku Challenge!"/>
+  <Game id="WSAE" title="Onslaught"/>
+  <Game id="WSAJ" title="Madsecta"/>
+  <Game id="WSAP" title="Onslaught"/>
+  <Game id="WSBJ" title="Sorcery Blade"/>
+  <Game id="WSCJ" title="Out of Galaxy - Gin no Koushika"/>
+  <Game id="WSEJ" title="Princess Ai Monogatari"/>
+  <Game id="WSGE" title="Pop 'Em, Drop 'Em SameGame"/>
+  <Game id="WSGJ" title="Same Game Wii"/>
+  <Game id="WSGP" title="Pop Them, Drop Them SameGame"/>
+  <Game id="WSHE" title="Stonekeep - Bones of the Ancestors"/>
+  <Game id="WSIJ" title="Saikyou Ginsei Shogi"/>
+  <Game id="WSJE" title="Spot the Differences!"/>
+  <Game id="WSJP" title="Spot the Differences!"/>
+  <Game id="WSLE" title="暗行者(美)"/>
+  <Game id="WSLJ" title="Shadow Walker - Kage no Shounen to Hikari no Yousei"/>
+  <Game id="WSME" title="Eat! Fat! FIGHT!"/>
+  <Game id="WSMJ" title="Tsuppari Oozumou Wii Heya"/>
+  <Game id="WSMP" title="Eat! Fat! FIGHT!"/>
+  <Game id="WSNE" title="Sonic the Hedgehog 4 - Episode I"/>
+  <Game id="WSNJ" title="Sonic the Hedgehog 4 - Episode I"/>
+  <Game id="WSNP" title="Sonic the Hedgehog 4 Episode I"/>
+  <Game id="WSRE" title="Space Trek"/>
+  <Game id="WSSP" title="Solitaire"/>
+  <Game id="WSTJ" title="Tenshi no Solitaire"/>
+  <Game id="WSUE" title="Shootanto - Evolutionary Mayhem"/>
+  <Game id="WSUJ" title="Shootanto - Kako Hen"/>
+  <Game id="WSUP" title="Shootanto - Evolutionary Mayhem"/>
+  <Game id="WSWE" title="Swords &amp; Soldiers"/>
+  <Game id="WSWP" title="剑与勇士(欧)"/>
+  <Game id="WSXE" title="Stunt Cars"/>
+  <Game id="WSXP" title="Stunt Cars"/>
+  <Game id="WSYE" title="Snail Mail"/>
+  <Game id="WSZE" title="Sneezies"/>
+  <Game id="WSZP" title="Sneezies"/>
+  <Game id="WT2E" title="Target Toss Pro - Bags"/>
+  <Game id="WT3E" title="Tomena Sanner"/>
+  <Game id="WT3J" title="Tomena Sanner Wii"/>
+  <Game id="WT3P" title="Tomena Sanner"/>
+  <Game id="WT8J" title="Hajiite! Block Rush"/>
+  <Game id="WTBJ" title="Fantastic Tambourine"/>
+  <Game id="WTDJ" title="Tomy Car Drive Shutsudou! Kinkyuu Sharyou Hen"/>
+  <Game id="WTEE" title="Tales of Elastic Boy - Mission 1"/>
+  <Game id="WTEP" title="Tales of Elastic Boy - Mission 1"/>
+  <Game id="WTFE" title="Bit. Trip Flux"/>
+  <Game id="WTFP" title="Bit. Trip Flux"/>
+  <Game id="WTHJ" title="Kaku! Ugoku! Tsukamaeru! Sensei Wii"/>
+  <Game id="WTIE" title="TikiTowers"/>
+  <Game id="WTKE" title="TV Show King 2"/>
+  <Game id="WTKP" title="电视节目之王2(欧)"/>
+  <Game id="WTME" title="高桥名人冒险岛 启程(美)"/>
+  <Game id="WTMJ" title="Takahashi Meijin no Bouken Jima Wii"/>
+  <Game id="WTMP" title="高桥名人冒险岛 启程(欧)"/>
+  <Game id="WTNE" title="Family Tennis"/>
+  <Game id="WTNJ" title="Okiraku Tennis Wii"/>
+  <Game id="WTPE" title="俄罗斯方块派对(美)"/>
+  <Game id="WTPJ" title="Tetris Party"/>
+  <Game id="WTPP" title="俄罗斯方块派对(欧)"/>
+  <Game id="WTRE" title="Bit. Trip Beat"/>
+  <Game id="WTRJ" title="Bit. Trip Beat"/>
+  <Game id="WTRP" title="Bit. Trip Beat"/>
+  <Game id="WTTE" title="小鸡快跑(美)"/>
+  <Game id="WTTP" title="小鸡快跑(欧)"/>
+  <Game id="WTUE" title="Tumblebugs 2"/>
+  <Game id="WTWP" title="Fenimore Fillmore - The Westerner"/>
+  <Game id="WTXE" title="Texas Hold'em Tournament"/>
+  <Game id="WTXP" title="Texas Hold'em Tournament"/>
+  <Game id="WU2P" title="Successfully Learning Mathematics - Year 3"/>
+  <Game id="WU3P" title="Successfully Learning Mathematics - Year 4"/>
+  <Game id="WU4P" title="Successfully Learning Mathematics - Year 5"/>
+  <Game id="WUBE" title="Ubongo"/>
+  <Game id="WUBP" title="Ubongo"/>
+  <Game id="WUFE" title="Drop Zone - Under Fire"/>
+  <Game id="WUHE" title="Grill-Off with Ultra Hand!"/>
+  <Game id="WUHJ" title="Wii de Ultra Hand"/>
+  <Game id="WUIP" title="Successfully Learning Mathematics - Year 2"/>
+  <Game id="WUKJ" title="Unou Kids - Okigaru Unou Training"/>
+  <Game id="WUNE" title="UNO"/>
+  <Game id="WUNJ" title="UNO"/>
+  <Game id="WUNP" title="UNO"/>
+  <Game id="WURE" title="Urbanix"/>
+  <Game id="WURP" title="Urbanix"/>
+  <Game id="WVBE" title="Bit. Trip Void"/>
+  <Game id="WVBJ" title="Bit. Trip Void - Rhythm Seijin no Danmaku"/>
+  <Game id="WVBP" title="Bit. Trip Void"/>
+  <Game id="WVCE" title="V.I.P 赌场:21点(美)"/>
+  <Game id="WVDJ" title="Kodomo Kyouiku Terebi Wii - Aiue Ouchan"/>
+  <Game id="WVFE" title="Bobby Carrot Forever"/>
+  <Game id="WVFP" title="Bobby Carrot Forever"/>
+  <Game id="WVIE" title="天境奏琴(美)"/>
+  <Game id="WVIP" title="天境奏琴(美"/>
+  <Game id="WVKE" title="Water Warfare"/>
+  <Game id="WVKJ" title="Bang Bang Kids"/>
+  <Game id="WVKP" title="Water Warfare"/>
+  <Game id="WVOE" title="Rock N' Roll Climber"/>
+  <Game id="WVOJ" title="Rock N' Roll Climber"/>
+  <Game id="WVOP" title="Rock N' Roll Climber"/>
+  <Game id="WVQE" title="Vampire Crystals"/>
+  <Game id="WVQP" title="Vampire Crystals"/>
+  <Game id="WVSE" title="Gods vs. Humans"/>
+  <Game id="WVSP" title="Gods vs. Humans"/>
+  <Game id="WVUP" title="Mister Bumblebee Racing Champion"/>
+  <Game id="WW2P" title="Where's Wally - Fantastic Journey 2"/>
+  <Game id="WW3P" title="Where's Wally - Fantastic Journey 3"/>
+  <Game id="WWAE" title="WarMen Tactics"/>
+  <Game id="WWIP" title="Where's Wally - Fantastic Journey 1"/>
+  <Game id="WWLP" title="The Will of Dr. Frankenstein"/>
+  <Game id="WWRE" title="越野摩托 世界拉力赛(美)"/>
+  <Game id="WWRJ" title="Excitebike - World Race"/>
+  <Game id="WWRP" title="越野摩托 世界拉力赛(欧)"/>
+  <Game id="WWTE" title="BurgerTime World Tour"/>
+  <Game id="WWTP" title="BurgerTime World Tour"/>
+  <Game id="WWXE" title="Paper Wars - Cannon Fodder"/>
+  <Game id="WWXP" title="Paper Wars - Cannon Fodder"/>
+  <Game id="WX2P" title="Successfully Learning English Year 3"/>
+  <Game id="WX3P" title="Successfully Learning English Year 4"/>
+  <Game id="WX4P" title="Successfully Learning English Year 5"/>
+  <Game id="WXBE" title="Ben 10 Alien Force - The Rise of Hex"/>
+  <Game id="WXBP" title="Ben 10 Alien Force - The Rise of Hex"/>
+  <Game id="WXIP" title="Successfully Learning English Year 2"/>
+  <Game id="WXME" title="Xmas Puzzle"/>
+  <Game id="WXPE" title="Paint Splash"/>
+  <Game id="WXPP" title="Paint Splash"/>
+  <Game id="WXRE" title="Reel Fishing - Ocean Challenge"/>
+  <Game id="WXRP" title="Reel Fishing Ocean Challenge"/>
+  <Game id="WYIE" title="escapeVektor - Chapter 1"/>
+  <Game id="WYIP" title="escapeVektor - Chapter 1"/>
+  <Game id="WYKJ" title="Yomi Kiku Asobi Wii"/>
+  <Game id="WYME" title="Yummy Yummy Cooking Jam"/>
+  <Game id="WYMP" title="Yummy Yummy Cooking Jam"/>
+  <Game id="WYSE" title="Yard Sale Hidden Treasures - Sunnyville"/>
+  <Game id="WYSP" title="Yard Sale Hidden Treasures - Sunnyville"/>
+  <Game id="WZAE" title="Zombii Attack"/>
+  <Game id="WZBP" title="Cricket Challenge"/>
+  <Game id="WZGE" title="Zoo Disc Golf"/>
+  <Game id="WZHE" title="My Zoo"/>
+  <Game id="WZHJ" title="Animal Life - Doubutsu Fureai Seikatsu"/>
+  <Game id="WZHP" title="My Zoo"/>
+  <Game id="WZIE" title="Rubik's Puzzle Galaxy - RUSH"/>
+  <Game id="WZIP" title="Rubik's Puzzle Galaxy - RUSH"/>
+  <Game id="WZJJ" title="简单系列第5辑 柔道(日)"/>
+  <Game id="WZMJ" title="Simple Series Vol. 3 - The Mahjong"/>
+  <Game id="WZPE" title="Zombie Panic in Wonderland"/>
+  <Game id="WZPJ" title="Zombie in Wonderland"/>
+  <Game id="WZPP" title="Zombie Panic in Wonderland"/>
+  <Game id="WZZE" title="The Tales of Bearsworth Manor - Puzzling Pages"/>
+  <Game id="WZZJ" title="Kumanage Puzzle Hen - Pina no Sukina Akai Candy"/>
+  <Game id="WZZP" title="The Tales of Bearsworth Manor - Puzzling Pages"/>
+  <Game id="XH2E" title="Cave Story (Demo)"/>
+  <Game id="XH2P" title="Cave Story (Demo)"/>
+  <Game id="XH3E" title="Frobot (Demo)"/>
+  <Game id="XH4E" title="Max and the Magic Marker (Demo)"/>
+  <Game id="XH4P" title="Max &amp; the Magic Marker (Demo)"/>
+  <Game id="XH5E" title="Ayim And Yet It Moves (Demo)"/>
+  <Game id="XH5P" title="And Yet It Moves (Demo)"/>
+  <Game id="XH6E" title="Robox (Demo)"/>
+  <Game id="XH6P" title="Robox (Demo)"/>
+  <Game id="XH7E" title="Lit (Demo)"/>
+  <Game id="XH7P" title="Lit (Demo)"/>
+  <Game id="XH8E" title="Lead the Meerkats (Demo)"/>
+  <Game id="XH8P" title="Lead the Meerkats (Demo)"/>
+  <Game id="XH9P" title="ColorZ (Demo)"/>
+  <Game id="XHAE" title="Pokémon Rumble (Demo)"/>
+  <Game id="XHAP" title="Pokémon Rumble (Demo)"/>
+  <Game id="XHCE" title="Final Fantasy Crystal Chronicles: My Life as a Darklord (Demo)"/>
+  <Game id="XHCJ" title="Final Fantasy Crystal Chronicles - The Tower of the Chaos Princess"/>
+  <Game id="XHCP" title="Final Fantasy Crystal Chronicles: My Life as a Darklord (Demo)"/>
+  <Game id="XHDE" title="NyxQuest: Kindred Spirits (Demo)"/>
+  <Game id="XHDP" title="NyxQuest: Kindred Spirits (Demo)"/>
+  <Game id="XHEE" title="BIT.TRIP BEAT (Demo)"/>
+  <Game id="XHEJ" title="Bit. Trip Beat"/>
+  <Game id="XHEP" title="BIT.TRIP BEAT (Demo)"/>
+  <Game id="XHFE" title="World of Goo (Demo)"/>
+  <Game id="XHFJ" title="Goo no Wakusei"/>
+  <Game id="XHFP" title="World of Goo (Demo)"/>
+  <Game id="XHHJ" title="Pokémon Fushigi no Dungeon - Mezase! Hikari no Boukendan (Demo)"/>
+  <Game id="XHIE" title="Fluidity (Demo)"/>
+  <Game id="XHIP" title="Hydroventure (Demo)"/>
+  <Game id="XHJE" title="Thruspace (Demo)"/>
+  <Game id="XHJJ" title="Surinuke Anatousu"/>
+  <Game id="XHJP" title="Thruspace (Demo)"/>
+  <Game id="XHKE" title="Dive: The Medes Islands Secret (Demo)"/>
+  <Game id="XHKP" title="Dive: The Medes Islands Secret (Demo)"/>
+  <Game id="XHLE" title="Jett Rocket (Demo)"/>
+  <Game id="XHLP" title="Jett Rocket (Demo)"/>
+  <Game id="XHME" title="Art of Balance (Demo)"/>
+  <Game id="XHMP" title="Art of Balance (Demo)"/>
+  <Game id="XHNP" title="Chronos Twins DX (Demo)"/>
+  <Game id="XHOP" title="Art of Balance (Demo)"/>
+  <Game id="XHQE" title="Zombie Panic (Demo)"/>
+  <Game id="XHQP" title="Zombie Panic (Demo)"/>
+  <Game id="XHRE" title="Furry Legends (Demo)"/>
+  <Game id="XHRP" title="Furry Legends (Demo)"/>
+  <Game id="XHVE" title="BIT.TRIP CORE (Demo)"/>
+  <Game id="XHVP" title="BIT.TRIP CORE (Demo)"/>
+  <Game id="XHWE" title="BIT.TRIP VOID (Demo)"/>
+  <Game id="XHWP" title="BIT.TRIP VOID (Demo)"/>
+  <Game id="XHXE" title="BIT.TRIP RUNNER (Demo)"/>
+  <Game id="XHXP" title="BIT.TRIP RUNNER (Demo)"/>
+  <Game id="XHYE" title="BIT.TRIP FATE (Demo)"/>
+  <Game id="XHYP" title="BIT.TRIP FATE (Demo)"/>
+  <Game id="XHZE" title="Chronos Twins DX (Demo)"/>
+  <Game id="XHZP" title="Chronos Twins DX (Demo)"/>
+  <Game id="XI2E" title="Kyotokei (Demo)"/>
+  <Game id="XI2P" title="Kyotokei (Demo)"/>
+  <Game id="XI7E" title="Liight (Demo)"/>
+  <Game id="XI8E" title="Jam City (Demo)"/>
+  <Game id="XI8P" title="Jam City (Demo)"/>
+  <Game id="XIAE" title="Lilt Line (Demo)"/>
+  <Game id="XIAP" title="Lilt Line (Demo)"/>
+  <Game id="XIBE" title="Fish em All (Demo)"/>
+  <Game id="XIBP" title="Fish em All (Demo)"/>
+  <Game id="XICE" title="Gods vs Humans (Demo)"/>
+  <Game id="XICP" title="Gods vs Humans (Demo)"/>
+  <Game id="XIDE" title="Racers Islands Crazy Racers (Demo)"/>
+  <Game id="XIDP" title="Racers Islands Crazy Racers (Demo)"/>
+  <Game id="XIEE" title="chick chick BOOM (Demo)"/>
+  <Game id="XIEJ" title="Chick Chick BOOM"/>
+  <Game id="XIEP" title="chick chick BOOM (Demo)"/>
+  <Game id="XIGE" title="Urbanix (Demo)"/>
+  <Game id="XIGP" title="Urbanix (Demo)"/>
+  <Game id="XIHE" title="Gladiator (Demo)"/>
+  <Game id="XIHP" title="Gladiator (Demo)"/>
+  <Game id="XIJE" title="Fast Racing League (Demo)"/>
+  <Game id="XIJP" title="Fast Racing League (Demo)"/>
+  <Game id="XIKE" title="Monsteca Corral (Demo)"/>
+  <Game id="XIKP" title="Monsteca Corral (Demo)"/>
+  <Game id="XIMP" title="HoopWorld: BasketBrawl (Demo)"/>
+  <Game id="XINE" title="Learning with the Pooyoos Episode 1 (Demo)"/>
+  <Game id="XINP" title="Learning with the Pooyoos Episode 1 (Demo)"/>
+  <Game id="XIOE" title="Learning with the Pooyoos Episode 2 (Demo)"/>
+  <Game id="XIOP" title="Learning with the Pooyoos Episode 2 (Demo)"/>
+  <Game id="XIPE" title="Learning with the Pooyoos Episode 3 (Demo)"/>
+  <Game id="XIPP" title="Learning with the Pooyoos Episode 3 (Demo)"/>
+  <Game id="XIQE" title="Dart Rage (Demo)"/>
+  <Game id="XIRE" title="Pong Toss Pro (Demo)"/>
+  <Game id="XISE" title="BIT.TRIP FLUX (Demo)"/>
+  <Game id="XISP" title="BIT.TRIP FLUX (Demo)"/>
+  <Game id="XITE" title="Fast Draw (Demo)"/>
+  <Game id="XITP" title="Fast Draw (Demo)"/>
+  <Game id="XIUE" title="Soccer Bashi (Demo)"/>
+  <Game id="XIUP" title="Soccer Bashi (Demo)"/>
+  <Game id="XIVE" title="Mix Superstar (Demo)"/>
+  <Game id="XIVP" title="Mix Superstar (Demo)"/>
+  <Game id="XIWE" title="Horizon Riders (Demo)"/>
+  <Game id="XIZE" title="3D Pixel Racing"/>
+  <Game id="XIZP" title="3D Pixel Racing (Demo)"/>
+  <Game id="XJDE" title="MotoHeroz (Demo)"/>
+  <Game id="XJDP" title="MotoHeroz (Demo)"/>
+  <Game id="XJEE" title="Aya and the Cubes of Light (Demo)"/>
+  <Game id="XJEP" title="Aya and the Cubes of Light (Demo)"/>
+  <Game id="XJFP" title="ANIMA Ark of Sinners (Demo)"/>
+  <Game id="XJGE" title="Gnomz (Demo)"/>
+  <Game id="XJGP" title="Gnomz (Demo)"/>
+  <Game id="XJHE" title="Paint Splash (Demo)"/>
+  <Game id="XJHP" title="Paint Splash (Demo)"/>
+  <Game id="XJIE" title="2 Fast 4 Gnomz"/>
+  <Game id="XJIP" title="2 Fast 4 Gnomz (Demo)"/>
+  <Game id="XJJE" title="Vampire Crystals (Demo)"/>
+  <Game id="XJJP" title="Vampire Crystals (Demo)"/>
+  <Game id="XJSE" title="Karaoke Joysound (Demo)"/>
+  <Game id="XJSP" title="Karaoke Joysound Wii (Demo)"/>
+  <Game id="FA2J" title="Exerion"/>
+  <Game id="FA3J" title="Formation Z"/>
+  <Game id="FA4J" title="Devil World"/>
+  <Game id="FA4P" title="Devil World"/>
+  <Game id="FA5J" title="Fire Emblem - Ankoku Ryuu to Hikari no Tsurugi"/>
+  <Game id="FA6E" title="Donkey Kong Jr. Math"/>
+  <Game id="FA6J" title="Donkey Kong Jr. no Sansou Asobi"/>
+  <Game id="FA6P" title="Donkey Kong Jr. Math"/>
+  <Game id="FA7E" title="Yoshi"/>
+  <Game id="FA7J" title="Yoshi no Tamago"/>
+  <Game id="FA7P" title="Mario &amp; Yoshi"/>
+  <Game id="FA7T" title="Yoshi"/>
+  <Game id="FA8E" title="Kirby's Adventure"/>
+  <Game id="FA8F" title="Kirby's Adventure"/>
+  <Game id="FA8J" title="Hoshi no Kirby - Yume no Izumi no Monogatari"/>
+  <Game id="FA8P" title="Kirby's Adventure"/>
+  <Game id="FA8T" title="Kirby's Adventure"/>
+  <Game id="FA9E" title="Zelda II - The Adventure of Link"/>
+  <Game id="FA9J" title="Zelda no Densetsu 2 - Link no Bouken"/>
+  <Game id="FA9P" title="Zelda II - The Adventure of Link"/>
+  <Game id="FAAE" title="Donkey Kong"/>
+  <Game id="FAAJ" title="Donkey Kong"/>
+  <Game id="FAAP" title="Donkey Kong"/>
+  <Game id="FAAT" title="Donkey Kong"/>
+  <Game id="FABE" title="Donkey Kong Jr."/>
+  <Game id="FABJ" title="Donkey Kong Jr."/>
+  <Game id="FABP" title="Donkey Kong Jr."/>
+  <Game id="FACE" title="Pinball"/>
+  <Game id="FACJ" title="Pinball"/>
+  <Game id="FACP" title="Pinball"/>
+  <Game id="FADJ" title="Gomoku Narabe Renju"/>
+  <Game id="FAFE" title="Mario Bros."/>
+  <Game id="FAFJ" title="Mario Bros."/>
+  <Game id="FAFP" title="马里奥兄弟(欧)"/>
+  <Game id="FAFQ" title="Mario Bros."/>
+  <Game id="FAGE" title="Super Mario Bros."/>
+  <Game id="FAGJ" title="Super Mario Bros."/>
+  <Game id="FAGP" title="超级马里奥兄弟(欧)"/>
+  <Game id="FAGQ" title="Super Mario Bros."/>
+  <Game id="FAHE" title="Tennis"/>
+  <Game id="FAHJ" title="Tennis"/>
+  <Game id="FAHP" title="Tennis"/>
+  <Game id="FAIE" title="Soccer"/>
+  <Game id="FAIJ" title="Soccer"/>
+  <Game id="FAIP" title="Soccer"/>
+  <Game id="FAJE" title="Ice Hockey"/>
+  <Game id="FAJJ" title="Ice Hockey"/>
+  <Game id="FAJP" title="Ice Hockey"/>
+  <Game id="FAKE" title="塞尔达传说(美)"/>
+  <Game id="FAKJ" title="Zelda no Densetsu"/>
+  <Game id="FAKP" title="塞尔达传说(欧)"/>
+  <Game id="FAKT" title="The Legend of Zelda"/>
+  <Game id="FALE" title="Baseball"/>
+  <Game id="FALJ" title="Baseball"/>
+  <Game id="FALP" title="Baseball"/>
+  <Game id="FAME" title="Wario's Woods"/>
+  <Game id="FAMJ" title="Wario no Mori"/>
+  <Game id="FAMP" title="Wario's Woods"/>
+  <Game id="FANE" title="Urban Champion"/>
+  <Game id="FANJ" title="Urban Champion"/>
+  <Game id="FANP" title="Urban Champion"/>
+  <Game id="FANT" title="Urban Champion"/>
+  <Game id="FAOE" title="Solomon's Key"/>
+  <Game id="FAOJ" title="Solomon no Kagi"/>
+  <Game id="FAOP" title="Solomon's Key"/>
+  <Game id="FAPE" title="NES Open Tournament Golf"/>
+  <Game id="FAPJ" title="Mario Open Golf"/>
+  <Game id="FAPP" title="NES Open Tournament Golf"/>
+  <Game id="FAPT" title="NES Open Tournament Golf"/>
+  <Game id="FAQJ" title="Ninja JaJaMaru-kun"/>
+  <Game id="FAQL" title="Ninja JaJaMaru-kun"/>
+  <Game id="FAQN" title="Ninja JaJaMaru-kun"/>
+  <Game id="FARE" title="Gradius"/>
+  <Game id="FARJ" title="Gradius"/>
+  <Game id="FARP" title="Gradius"/>
+  <Game id="FASE" title="Xevious"/>
+  <Game id="FASJ" title="Xevious"/>
+  <Game id="FASP" title="Xevious"/>
+  <Game id="FAST" title="Xevious"/>
+  <Game id="FATE" title="The Legend of Kage"/>
+  <Game id="FATJ" title="Kage no Densetsu"/>
+  <Game id="FAVE" title="Tecmo Bowl"/>
+  <Game id="FAVJ" title="Tecmo Bowl"/>
+  <Game id="FAWE" title="Elevator Action"/>
+  <Game id="FAWJ" title="Elevator Action"/>
+  <Game id="FAXE" title="Pac-Man"/>
+  <Game id="FAXJ" title="Pac-Man"/>
+  <Game id="FAXP" title="Pac-Man"/>
+  <Game id="FAXT" title="Pac-Man"/>
+  <Game id="FAYJ" title="Ikki"/>
+  <Game id="FAZJ" title="Field Combat"/>
+  <Game id="FAZQ" title="Downtown Nekketsu Koushinkyoku: Soreyuke Daiundoukai"/>
+  <Game id="FB2J" title="Super Mario Bros. 2"/>
+  <Game id="FB2L" title="Super Mario Bros. - The Lost Levels"/>
+  <Game id="FB2N" title="Super Mario Bros. - The Lost Levels"/>
+  <Game id="FB3J" title="Valkyrie no Bouken - Toki no Kagi Densetsu"/>
+  <Game id="FB4E" title="Lunar Pool"/>
+  <Game id="FB4J" title="Lunar Ball"/>
+  <Game id="FB4P" title="Lunar Pool"/>
+  <Game id="FB5E" title="Zanac"/>
+  <Game id="FB5J" title="Zanac"/>
+  <Game id="FB6J" title="Front Line"/>
+  <Game id="FB7J" title="Nuts &amp; Milk"/>
+  <Game id="FB8J" title="Challenger"/>
+  <Game id="FB9J" title="Pooyan"/>
+  <Game id="FBAJ" title="Smash Ping Pong"/>
+  <Game id="FBAL" title="Smash Table Tennis"/>
+  <Game id="FBBE" title="Mach Rider"/>
+  <Game id="FBBJ" title="Mach Rider"/>
+  <Game id="FBBP" title="Mach Rider"/>
+  <Game id="FBCE" title="Excitebike"/>
+  <Game id="FBCJ" title="Excitebike"/>
+  <Game id="FBCP" title="Excitebike"/>
+  <Game id="FBDE" title="Kid Icarus"/>
+  <Game id="FBDJ" title="Hikari Shinwa - Palthena no Kagami"/>
+  <Game id="FBDP" title="Kid Icarus"/>
+  <Game id="FBDT" title="Kid Icarus"/>
+  <Game id="FBEE" title="Ice Climber"/>
+  <Game id="FBEJ" title="Ice Climber"/>
+  <Game id="FBEP" title="Ice Climber"/>
+  <Game id="FBHE" title="Castlevania"/>
+  <Game id="FBHJ" title="Akumajou Dracula"/>
+  <Game id="FBHP" title="Castlevania"/>
+  <Game id="FBIE" title="Punch-Out!!"/>
+  <Game id="FBIJ" title="Punch-Out!!"/>
+  <Game id="FBIP" title="Punch-Out!!"/>
+  <Game id="FBJE" title="Mighty Bomb Jack"/>
+  <Game id="FBJJ" title="Mighty Bomb Jack"/>
+  <Game id="FBJP" title="Mighty Bomb Jack"/>
+  <Game id="FBKE" title="Teenage Mutant Ninja Turtles"/>
+  <Game id="FBKJ" title="Gekikame Ninja Den"/>
+  <Game id="FBKP" title="Teenage Mutant Ninja Turtles"/>
+  <Game id="FBLE" title="Lode Runner"/>
+  <Game id="FBLJ" title="Lode Runner"/>
+  <Game id="FBLM" title="Lode Runner"/>
+  <Game id="FBNE" title="Ninja Gaiden"/>
+  <Game id="FBNJ" title="Ninja Ryukenden"/>
+  <Game id="FBNM" title="Ninja Gaiden"/>
+  <Game id="FBOJ" title="Gradius II - Gofer no Yabou"/>
+  <Game id="FBQJ" title="Druaga no Tou"/>
+  <Game id="FBRE" title="Galaga"/>
+  <Game id="FBRJ" title="Galaga"/>
+  <Game id="FBRP" title="Galaga"/>
+  <Game id="FBRT" title="Galaga"/>
+  <Game id="FBSE" title="Milon's Secret Castle"/>
+  <Game id="FBSJ" title="Meikyuu Kumikyoku - Milon no Daibouken"/>
+  <Game id="FBSM" title="Milon's Secret Castle"/>
+  <Game id="FBUE" title="Adventures of Lolo"/>
+  <Game id="FBUJ" title="Adventures of Lolo"/>
+  <Game id="FBUP" title="Adventures of Lolo"/>
+  <Game id="FBUT" title="Adventures of Lolo"/>
+  <Game id="FBVJ" title="Tsuppari Oozumou"/>
+  <Game id="FBWJ" title="Joy Mech Fight"/>
+  <Game id="FBWQ" title="Joy Mech Fight"/>
+  <Game id="FBXJ" title="Famicom Wars"/>
+  <Game id="FBYE" title="Super Mario Bros. 2"/>
+  <Game id="FBYJ" title="Super Mario USA"/>
+  <Game id="FBYP" title="超级马里奥兄弟2(欧)"/>
+  <Game id="FBYQ" title="Super Mario USA"/>
+  <Game id="FBZE" title="Metroid"/>
+  <Game id="FBZJ" title="Metroid"/>
+  <Game id="FBZP" title="Metroid"/>
+  <Game id="FC2J" title="Hanjuku Hero"/>
+  <Game id="FC3E" title="Bubble Bobble"/>
+  <Game id="FC3J" title="Bubble Bobble"/>
+  <Game id="FC3P" title="Bubble Bobble"/>
+  <Game id="FC3T" title="Bubble Bobble"/>
+  <Game id="FC4J" title="Chack'n Pop"/>
+  <Game id="FC5J" title="Ganbare Goemon! Karakuri Douchuu"/>
+  <Game id="FC6E" title="StarTropics"/>
+  <Game id="FC6J" title="Startropics"/>
+  <Game id="FC6P" title="StarTropics"/>
+  <Game id="FC7E" title="NES Play Action Football"/>
+  <Game id="FC7J" title="NES Play Action Football"/>
+  <Game id="FC8E" title="Castlevania II - Simon's Quest"/>
+  <Game id="FC8J" title="Dracula II - Noroi no Fuuin"/>
+  <Game id="FC8P" title="Castlevania II - Simon's Quest"/>
+  <Game id="FC9J" title="Metal Slader Glory"/>
+  <Game id="FCAE" title="Star Soldier"/>
+  <Game id="FCAJ" title="Star Soldier"/>
+  <Game id="FCEJ" title="Esper Dream"/>
+  <Game id="FCFJ" title="Yie Ar Kung-Fu"/>
+  <Game id="FCGJ" title="TwinBee"/>
+  <Game id="FCHJ" title="Flappy"/>
+  <Game id="FCIJ" title="Volguard II"/>
+  <Game id="FCJJ" title="SD Gundam World - Gachapon Senshi 2 Capsule Senki"/>
+  <Game id="FCNJ" title="Kekkyoku Nankyoku Daibouken"/>
+  <Game id="FCNQ" title="Antarctic Adventure"/>
+  <Game id="FCOJ" title="Battle City"/>
+  <Game id="FCPE" title="Balloon Fight"/>
+  <Game id="FCPJ" title="Balloon Fight"/>
+  <Game id="FCPP" title="Balloon Fight"/>
+  <Game id="FCQE" title="Ninja Gaiden II - The Dark Sword of Chaos"/>
+  <Game id="FCQJ" title="Ninja Gaiden II"/>
+  <Game id="FCRE" title="Adventure Island"/>
+  <Game id="FCRJ" title="Takahashi Meijin no Bouken Jima"/>
+  <Game id="FCRP" title="Adventure Island"/>
+  <Game id="FCRT" title="Adventure Island"/>
+  <Game id="FCSE" title="Super C"/>
+  <Game id="FCSJ" title="Super Contra"/>
+  <Game id="FCSP" title="Probotector II - Return of the Evil Forces"/>
+  <Game id="FCTE" title="Mega Man"/>
+  <Game id="FCTJ" title="Rockman"/>
+  <Game id="FCTP" title="洛克人(欧)"/>
+  <Game id="FCUE" title="Volleyball"/>
+  <Game id="FCUJ" title="Volleyball"/>
+  <Game id="FCUP" title="Volleyball"/>
+  <Game id="FCVE" title="Wrecking Crew"/>
+  <Game id="FCVJ" title="Wrecking Crew"/>
+  <Game id="FCVP" title="Wrecking Crew"/>
+  <Game id="FCWE" title="Super Mario Bros. 3"/>
+  <Game id="FCWJ" title="Super Mario Bros. 3"/>
+  <Game id="FCWP" title="超级马里奥兄弟3(欧)"/>
+  <Game id="FCWQ" title="Super Mario Bros. 3"/>
+  <Game id="FCYE" title="Yoshi's Cookie"/>
+  <Game id="FCYJ" title="Yoshi no Cookie"/>
+  <Game id="FCYP" title="Yoshi's Cookie"/>
+  <Game id="FCYT" title="Yoshi's Cookie"/>
+  <Game id="FCZE" title="King's Knight"/>
+  <Game id="FCZJ" title="King's Knight"/>
+  <Game id="FD2E" title="Double Dragon"/>
+  <Game id="FD2J" title="Double Dragon"/>
+  <Game id="FD2P" title="Double Dragon"/>
+  <Game id="FD3J" title="Nekketsu Koukou Dodgeball Bu - Soccer Hen"/>
+  <Game id="FD3Q" title="Nekketsu Koukou Dodgeball-bu - Soccer Hen"/>
+  <Game id="FD6E" title="Adventures of Lolo 2"/>
+  <Game id="FD6P" title="Adventures of Lolo 2"/>
+  <Game id="FD7E" title="Mega Man 3"/>
+  <Game id="FD7J" title="Rockman 3 - Dr. Wily no Saigo!"/>
+  <Game id="FD7P" title="洛克人3(欧)"/>
+  <Game id="FDAE" title="Spelunker"/>
+  <Game id="FDAJ" title="Spelunker"/>
+  <Game id="FDAM" title="Spelunker"/>
+  <Game id="FDBJ" title="Famicom Mukashibanashi - Shin Onigashima Zenkouhen"/>
+  <Game id="FDCJ" title="Star Luster"/>
+  <Game id="FDEJ" title="Mappy"/>
+  <Game id="FDFE" title="Bases Loaded"/>
+  <Game id="FDFJ" title="Moero!! Pro Yakyuu"/>
+  <Game id="FDGE" title="Ghosts 'n Goblins"/>
+  <Game id="FDGJ" title="Makaimura"/>
+  <Game id="FDGP" title="Ghosts 'n Goblins"/>
+  <Game id="FDIJ" title="Bokosuka Wars"/>
+  <Game id="FDLE" title="Ninja Gaiden III - The Ancient Ship of Doom"/>
+  <Game id="FDLJ" title="Ninja Gaiden III"/>
+  <Game id="FDNE" title="Mega Man 2"/>
+  <Game id="FDNJ" title="Rockman 2 - Dr. Wily no Nazo"/>
+  <Game id="FDNP" title="洛克人2(欧)"/>
+  <Game id="FDOE" title="Operation Wolf"/>
+  <Game id="FDOJ" title="Operation Wolf"/>
+  <Game id="FDOP" title="Operation Wolf"/>
+  <Game id="FDPE" title="Blades of Steel"/>
+  <Game id="FDPP" title="Blades of Steel"/>
+  <Game id="FDQE" title="Double Dribble"/>
+  <Game id="FDQP" title="Double Dribble"/>
+  <Game id="FDRP" title="Skate or Die!"/>
+  <Game id="FDSJ" title="Famicom Tantei Club - Kieta Koukeisha"/>
+  <Game id="FDTE" title="Renegade"/>
+  <Game id="FDTJ" title="Nekketsu Kouha Kunio-kun"/>
+  <Game id="FDUE" title="Super Dodge Ball"/>
+  <Game id="FDUJ" title="Nekketsu Koukou Dodgeball Bu"/>
+  <Game id="FDVE" title="River City Ransom"/>
+  <Game id="FDVJ" title="Downtown Nekketsu Monogatari"/>
+  <Game id="FDVP" title="Street Gangs"/>
+  <Game id="FDVQ" title="Downtown Nekketsu Monogatari"/>
+  <Game id="FDWJ" title="Downtown Special Kunio-kun no Jidaigeki dayo Zennin Shuugou"/>
+  <Game id="FDXJ" title="Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo"/>
+  <Game id="FDYJ" title="Fire Emblem Gaiden"/>
+  <Game id="FDZJ" title="Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai"/>
+  <Game id="FDZQ" title="Downtown - Nekketsu Koushinkyoku"/>
+  <Game id="FE5J" title="Kanshaku Tamanage Kantarou no Toukaidou Gojuusan-tsugi"/>
+  <Game id="FE6J" title="Ninja-kun Majyou no Bouken"/>
+  <Game id="FE7J" title="Ninja-kun Ashura no Shou"/>
+  <Game id="FE8J" title="Takeshi no Chousenjou"/>
+  <Game id="FE9J" title="Ike Ike! Nekketsu Hockey Bu - Subette Koronde Dairantou"/>
+  <Game id="FECE" title="Sky Kid"/>
+  <Game id="FECJ" title="Sky Kid"/>
+  <Game id="FEDJ" title="Dig Dug"/>
+  <Game id="FEDL" title="Dig Dug"/>
+  <Game id="FEDN" title="Dig Dug"/>
+  <Game id="FEEJ" title="Tantei Jinguuji Saburo - Shinjuku Chuuou Kouen Satsujin Jiken"/>
+  <Game id="FEFJ" title="Tantei Jinguuji Saburou 2 - Yokohamakou Renzoku Satsujin Jiken"/>
+  <Game id="FEGJ" title="Tantei Jinguuji Saburo - Kikenna Futari - Zenkouhen"/>
+  <Game id="FEHJ" title="Tantei Jinguuji Saburo - Toki no Sugiyuku Mama ni..."/>
+  <Game id="FEIE" title="City Connection"/>
+  <Game id="FEIJ" title="City Connection"/>
+  <Game id="FEIP" title="City Connection"/>
+  <Game id="FEJJ" title="Nazo no Murasamejou"/>
+  <Game id="FELJ" title="Transformers - Convoy no Nazo"/>
+  <Game id="FEMJ" title="Bio Miracle Bokutte Upa"/>
+  <Game id="FEML" title="Bio Miracle Bokutte Upa"/>
+  <Game id="FEMN" title="Bio Miracle Bokutte Upa"/>
+  <Game id="FENE" title="Life Force"/>
+  <Game id="FENJ" title="Salamander"/>
+  <Game id="FEOJ" title="Zoids - Mokushiroku"/>
+  <Game id="FEPJ" title="Getsu Fuuma Den"/>
+  <Game id="FEQE" title="Castlevania III - Dracula's Curse"/>
+  <Game id="FEQJ" title="Akumajou Densetsu"/>
+  <Game id="FEQP" title="Castlevania III - Dracula's Curse"/>
+  <Game id="FERE" title="Zoda's Revenge - StarTropics II"/>
+  <Game id="FERJ" title="Zoda's Revenge"/>
+  <Game id="FERM" title="Zoda's Revenge - StarTropics II"/>
+  <Game id="FERP" title="Zoda’s Revenge: StarTropics II"/>
+  <Game id="FESE" title="Clu Clu Land"/>
+  <Game id="FESJ" title="Clu Clu Land - Welcome to New Clu Clu Land"/>
+  <Game id="FESP" title="Clu Clu Land"/>
+  <Game id="FEUE" title="Donkey Kong 3"/>
+  <Game id="FEUJ" title="Donkey Kong 3"/>
+  <Game id="FEUP" title="Donkey Kong 3"/>
+  <Game id="FEVJ" title="Atlantis no Nazo"/>
+  <Game id="FEWJ" title="Dragon Buster"/>
+  <Game id="FEXJ" title="Wagan Land"/>
+  <Game id="FF2J" title="Sugoro Quest - Dice no Senshi Tachi"/>
+  <Game id="FF4E" title="BurgerTime"/>
+  <Game id="FF4J" title="BurgerTime"/>
+  <Game id="FF5E" title="Double Dragon II - The Revenge"/>
+  <Game id="FF5J" title="Double Dragon II - The Revenge"/>
+  <Game id="FF5P" title="Double Dragon II - The Revenge"/>
+  <Game id="FF6J" title="Ganbare Goemon 2"/>
+  <Game id="FF7J" title="Ganbare Goemon Gaiden Kieta Ogon Kiseru"/>
+  <Game id="FFAE" title="Final Fantasy"/>
+  <Game id="FFAJ" title="Final Fantasy"/>
+  <Game id="FFAM" title="Final Fantasy"/>
+  <Game id="FFBJ" title="Final Fantasy II"/>
+  <Game id="FFDE" title="Crash 'n the Boys - Street Challenge"/>
+  <Game id="FFDJ" title="Bikkuri Nekketsu Shin Kiroku! Harukanaru Kin Medal"/>
+  <Game id="FFEE" title="A Boy and His Blob - Trouble on Blobolonia"/>
+  <Game id="FFEP" title="A Boy and His Blob - Trouble on Blobolonia"/>
+  <Game id="FFFJ" title="Final Fantasy III"/>
+  <Game id="FFGJ" title="SD Gundam World - Gachapon Senshi - Scramble Wars"/>
+  <Game id="FFJJ" title="Metal Max"/>
+  <Game id="FFKJ" title="Championship Lode Runner"/>
+  <Game id="FFLE" title="Princess Tomato in the Salad Kingdom"/>
+  <Game id="FFLJ" title="Salada no Kuni no Tomato Hime"/>
+  <Game id="FFME" title="Blaster Master"/>
+  <Game id="FFMJ" title="Chou Wakusei Senki - Metafight"/>
+  <Game id="FFMP" title="Blaster Master"/>
+  <Game id="FFNE" title="Mega Man 4"/>
+  <Game id="FFNJ" title="Rockman 4 - Arata Naru Yabou!!"/>
+  <Game id="FFNP" title="洛克人4(欧)"/>
+  <Game id="FFOJ" title="Moero! TwinBee - Cinnamon Hakushi wo Sukue!"/>
+  <Game id="FFPB" title="Ufouria - The Saga"/>
+  <Game id="FFPJ" title="Hebereke"/>
+  <Game id="FFPP" title="Ufouria - The Saga"/>
+  <Game id="FFQE" title="Shadow of the Ninja"/>
+  <Game id="FFQM" title="Shadow of the Ninja"/>
+  <Game id="FFRE" title="Faxanadu"/>
+  <Game id="FFRJ" title="Faxanadu"/>
+  <Game id="FFRP" title="沙纳多(欧)"/>
+  <Game id="FFTJ" title="Binary Land"/>
+  <Game id="FFUE" title="Adventure Island 2"/>
+  <Game id="FFUJ" title="Takahashi Meijin no Boken Jima II"/>
+  <Game id="FFUP" title="Adventure Island II"/>
+  <Game id="FFVE" title="S.C.A.T."/>
+  <Game id="FFVM" title="S.C.A.T."/>
+  <Game id="FFVP" title="S.C.A.T.: Special Cybernetic Attack Team"/>
+  <Game id="FFWP" title="Donkey Kong - Original Edition"/>
+  <Game id="FFXJ" title="25th Super Mario Bros."/>
+  <Game id="FFXP" title="Super Mario Bros."/>
+  <Game id="FFYE" title="Mega Man 5"/>
+  <Game id="FFYJ" title="Rockman 5 - Blues no Wana!"/>
+  <Game id="FFYP" title="Mega Man 5"/>
+  <Game id="FFZJ" title="Seicross"/>
+  <Game id="FFZY" title="魂斗罗(Y)"/>
+  <Game id="FJOR" title="Kung Fu"/>
+  <Game id="FMCA" title="The Goonies"/>
+  <Game id="JA2J" title="Shin Megami Tensei"/>
+  <Game id="JA3J" title="Kamaitachi no Yoru"/>
+  <Game id="JA4E" title="超魔界村(美)"/>
+  <Game id="JA4J" title="Chou Makaimura"/>
+  <Game id="JA4P" title="超魔界村(欧)"/>
+  <Game id="JA5J" title="Heracles no Eikou III - Kamigami no Chinmoku"/>
+  <Game id="JA6E" title="Zombies Ate My Neighbors"/>
+  <Game id="JA6J" title="Zombies Ate My Neighbors"/>
+  <Game id="JA6P" title="Zombies"/>
+  <Game id="JA7D" title="阿雷沙(德)"/>
+  <Game id="JA7E" title="阿雷沙(美)"/>
+  <Game id="JA7F" title="阿雷沙(法)"/>
+  <Game id="JA7J" title="ActRaiser"/>
+  <Game id="JA7P" title="阿雷沙(欧)"/>
+  <Game id="JA8E" title="快打旋风(美)"/>
+  <Game id="JA8J" title="Final Fight"/>
+  <Game id="JA8P" title="快打旋风(欧)"/>
+  <Game id="JAAE" title="超级马里奥世界(美)"/>
+  <Game id="JAAJ" title="Super Mario World"/>
+  <Game id="JAAP" title="超级马里奥世界(欧)"/>
+  <Game id="JAAQ" title="Super Mario World"/>
+  <Game id="JAAT" title="Super Mario World"/>
+  <Game id="JABJ" title="Mario no Super Picross"/>
+  <Game id="JABL" title="Mario's Super Picross"/>
+  <Game id="JACE" title="F-Zero(美)"/>
+  <Game id="JACJ" title="F-Zero"/>
+  <Game id="JACP" title="F-Zero(欧)"/>
+  <Game id="JACT" title="F-Zero"/>
+  <Game id="JADD" title="The Legend of Zelda - A Link to the Past"/>
+  <Game id="JADE" title="The Legend of Zelda - A Link to the Past"/>
+  <Game id="JADF" title="The Legend of Zelda - A Link to the Past"/>
+  <Game id="JADJ" title="Zelda no Densetsu - Kamigami no Triforce"/>
+  <Game id="JADP" title="The Legend of Zelda - A Link to the Past"/>
+  <Game id="JADT" title="The Legend of Zelda - A Link to the Past"/>
+  <Game id="JAEE" title="Donkey Kong Country"/>
+  <Game id="JAEJ" title="Super Donkey Kong"/>
+  <Game id="JAEP" title="Donkey Kong Country"/>
+  <Game id="JAET" title="Donkey Kong Country"/>
+  <Game id="JAFD" title="Sim City"/>
+  <Game id="JAFE" title="Sim City"/>
+  <Game id="JAFF" title="Sim City"/>
+  <Game id="JAFJ" title="Sim City"/>
+  <Game id="JAFP" title="Sim City"/>
+  <Game id="JAGJ" title="Fire Emblem - Monshou no Nazo"/>
+  <Game id="JAHE" title="R-Type III - The Third Lightning"/>
+  <Game id="JAHJ" title="R-Type III - The Third Lightning"/>
+  <Game id="JAHP" title="R-Type III - The Third Lightning"/>
+  <Game id="JAHQ" title="R-Type III - The Third Lightning"/>
+  <Game id="JAIE" title="Super Castlevania IV"/>
+  <Game id="JAIJ" title="Akumajou Dracula"/>
+  <Game id="JAIP" title="Super Castlevania IV"/>
+  <Game id="JAJE" title="Street Fighter II - The World Warrior"/>
+  <Game id="JAJJ" title="Street Fighter II - The World Warrior"/>
+  <Game id="JAJP" title="Street Fighter II - The World Warrior"/>
+  <Game id="JALE" title="Contra III - The Alien Wars"/>
+  <Game id="JALJ" title="Contra Spirits"/>
+  <Game id="JALP" title="Super Probotector - Alien Rebels"/>
+  <Game id="JALT" title="Contra III: The Alien Wars"/>
+  <Game id="JAME" title="宇宙巡航机3(美)"/>
+  <Game id="JAMJ" title="Gradius III"/>
+  <Game id="JAMM" title="宇宙巡航机3(欧)"/>
+  <Game id="JAMT" title="Gradius 3"/>
+  <Game id="JAPJ" title="Fire Emblem - Seisen no Keifu"/>
+  <Game id="JAUJ" title="Famicom Bunko - Hajimari no Mori"/>
+  <Game id="JAVE" title="Super Metroid"/>
+  <Game id="JAVJ" title="Super Metroid"/>
+  <Game id="JAVP" title="超级银河战士(欧)"/>
+  <Game id="JAVT" title="Super Metroid"/>
+  <Game id="JAWE" title="Romance of the Three Kingdoms IV - Wall of Fire"/>
+  <Game id="JAWJ" title="Sangokushi IV"/>
+  <Game id="JAZD" title="The Legend of Mystical Ninja"/>
+  <Game id="JAZE" title="The Legend of Mystical Ninja"/>
+  <Game id="JAZJ" title="Ganbare Goemon - Yukihime Kyuushutsu Emaki"/>
+  <Game id="JAZP" title="The Legend of Mystical Ninja"/>
+  <Game id="JB3D" title="Harvest Moon"/>
+  <Game id="JB3E" title="Harvest Moon"/>
+  <Game id="JB3J" title="Harvest Moon"/>
+  <Game id="JB3P" title="Harvest Moon"/>
+  <Game id="JB5J" title="Super Gussun Oyoyo"/>
+  <Game id="JB6J" title="Treasure Hunter G"/>
+  <Game id="JB7J" title="Front Mission Series - Gun Hazard"/>
+  <Game id="JB9J" title="Gakkou de atta Kowai Hanashi"/>
+  <Game id="JBAE" title="Metal Marines"/>
+  <Game id="JBAJ" title="Militia"/>
+  <Game id="JBBE" title="Super Street Fighter II - The New Challengers"/>
+  <Game id="JBBJ" title="Super Street Fighter II - The New Challengers"/>
+  <Game id="JBBP" title="Super Street Fighter II - The New Challengers"/>
+  <Game id="JBCE" title="Kirby's Dream Course"/>
+  <Game id="JBCJ" title="Kirby Bowl"/>
+  <Game id="JBCP" title="Kirby's Dream Course"/>
+  <Game id="JBCT" title="Kirby's Dream Course"/>
+  <Game id="JBDD" title="Donkey Kong Country 2 - Diddy's Kong Quest"/>
+  <Game id="JBDE" title="Donkey Kong Country 2 - Diddy's Kong Quest"/>
+  <Game id="JBDJ" title="Super Donkey Kong 2 - Dixie &amp; Diddy"/>
+  <Game id="JBDP" title="Donkey Kong Country 2 - Diddy's Kong Quest"/>
+  <Game id="JBDT" title="Donkey Kong Country 2 - Diddy's Kong Quest"/>
+  <Game id="JBEJ" title="Magical Drop"/>
+  <Game id="JBFJ" title="Otogirisou"/>
+  <Game id="JBGJ" title="Fushigi no Dungeon 2 - Furai no Shiren"/>
+  <Game id="JBHJ" title="Heracles no Eikou IV - Kamigami kara no Okurimono"/>
+  <Game id="JBIE" title="Street Fighter II' Turbo - Hyper Fighting"/>
+  <Game id="JBIJ" title="Street Fighter II' Turbo - Hyper Fighting"/>
+  <Game id="JBIP" title="Street Fighter II' Turbo - Hyper Fighting"/>
+  <Game id="JBKE" title="Breath of Fire II"/>
+  <Game id="JBKJ" title="Breath of Fire II - Shimei no Ko"/>
+  <Game id="JBKP" title="Breath of Fire II"/>
+  <Game id="JBLE" title="小精灵的攻击(美)"/>
+  <Game id="JBLJ" title="Cosmo Gang the Puzzle"/>
+  <Game id="JBLP" title="小精灵的攻击(欧)"/>
+  <Game id="JBNE" title="Darius Twin"/>
+  <Game id="JBNJ" title="Darius Twin"/>
+  <Game id="JBOJ" title="Panel de Pon"/>
+  <Game id="JBOQ" title="Panel de Pon"/>
+  <Game id="JBPE" title="Donkey Kong Country 3 - Dixie Kong's Double Trouble!"/>
+  <Game id="JBPJ" title="Super Donkey Kong 3 - Nazo no Krems Shima"/>
+  <Game id="JBPP" title="Donkey Kong Country 3 - Dixie Kong's Double Trouble!"/>
+  <Game id="JBQE" title="Kirby's Avalanche"/>
+  <Game id="JBQJ" title="Kirby's Avalanche"/>
+  <Game id="JBQP" title="Kirby's Ghost Trap"/>
+  <Game id="JBRE" title="Vegas Stakes"/>
+  <Game id="JBRJ" title="Vegas Stakes"/>
+  <Game id="JBRP" title="Vegas Stakes"/>
+  <Game id="JBSE" title="Axelay"/>
+  <Game id="JBSJ" title="Axelay"/>
+  <Game id="JBSP" title="Axelay"/>
+  <Game id="JBTE" title="Super Turrican"/>
+  <Game id="JBTJ" title="Super Turrican"/>
+  <Game id="JBTP" title="Super Turrican"/>
+  <Game id="JBUE" title="Super Turrican 2"/>
+  <Game id="JBUJ" title="Super Turrican Two"/>
+  <Game id="JBVJ" title="Langrisser, Der"/>
+  <Game id="JBWE" title="机动装甲(美)"/>
+  <Game id="JBWJ" title="Jusou Kihei Valken"/>
+  <Game id="JBWP" title="机动装甲(欧)"/>
+  <Game id="JBWT" title="Cybernator"/>
+  <Game id="JBYE" title="超级异形战机(美)"/>
+  <Game id="JBYJ" title="Super R-Type"/>
+  <Game id="JBYP" title="超级异形战机(欧)"/>
+  <Game id="JBYT" title="Super R-Type"/>
+  <Game id="JC2J" title="Taikou Risshiden"/>
+  <Game id="JC3J" title="Bahamut Lagoon"/>
+  <Game id="JC4E" title="印第安纳琼斯大冒险(美)"/>
+  <Game id="JC4J" title="Indiana Jones Great Adventure"/>
+  <Game id="JC4P" title="印第安纳琼斯大冒险(欧)"/>
+  <Game id="JC5J" title="Romancing SaGa"/>
+  <Game id="JC6J" title="Romancing SaGa 2"/>
+  <Game id="JC7E" title="The Combatribes"/>
+  <Game id="JC7J" title="The Combatribes"/>
+  <Game id="JC8E" title="最终幻想2(美)"/>
+  <Game id="JC8J" title="Final Fantasy IV"/>
+  <Game id="JC8M" title="最终幻想2(M)"/>
+  <Game id="JC8P" title="最终幻想2(欧)"/>
+  <Game id="JC9J" title="Final Fantasy V"/>
+  <Game id="JCAJ" title="DoReMi Fantasy - Milon no DokiDoki Daibouken"/>
+  <Game id="JCAL" title="DoReMi Fantasy - Milon's DokiDoki Adventure"/>
+  <Game id="JCAN" title="DoReMi Fantasy - Milon's DokiDoki Adventure"/>
+  <Game id="JCBE" title="超级玛利奥RPG(美)"/>
+  <Game id="JCBJ" title="Super Mario RPG"/>
+  <Game id="JCBM" title="超级玛利奥RPG(欧)"/>
+  <Game id="JCCE" title="Kirby Super Star"/>
+  <Game id="JCCJ" title="Hoshi no Kirby Super Deluxe"/>
+  <Game id="JCCP" title="Kirby's Fun Pak"/>
+  <Game id="JCDE" title="Kirby's Dream Land 3"/>
+  <Game id="JCDJ" title="Hoshi no Kirby 3"/>
+  <Game id="JCDM" title="Kirby's Dream Land 3"/>
+  <Game id="JCEJ" title="Fire Emblem - Thracia 776"/>
+  <Game id="JCGJ" title="Ganbare Goemon 2 - Kiteretsu Shogun Magginesu"/>
+  <Game id="JCHJ" title="Ganbare Goemon 3 - Shishijuurokube no Karakuri Manji Gatame"/>
+  <Game id="JCIJ" title="Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo"/>
+  <Game id="JCJE" title="Super Punch-Out!!"/>
+  <Game id="JCJJ" title="Super Punch-Out!!"/>
+  <Game id="JCJP" title="Super Punch-Out!!"/>
+  <Game id="JCKE" title="太空侵略者(美)"/>
+  <Game id="JCKJ" title="Space Invaders - The Original Game"/>
+  <Game id="JCKP" title="太空侵略者(欧)"/>
+  <Game id="JCLD" title="Secret of Mana"/>
+  <Game id="JCLE" title="Secret of Mana"/>
+  <Game id="JCLF" title="Secret of Mana"/>
+  <Game id="JCLJ" title="Seiken Densetsu 2"/>
+  <Game id="JCLP" title="Secret of Mana"/>
+  <Game id="JCMJ" title="Super Wagan Land"/>
+  <Game id="JCNE" title="Prince of Persia"/>
+  <Game id="JCNJ" title="Prince of Persia"/>
+  <Game id="JCNP" title="Prince of Persia"/>
+  <Game id="JCTE" title="Ogre Battle - The March of the Black Queen"/>
+  <Game id="JCTJ" title="Densetsu no Ogre Battle"/>
+  <Game id="JCTM" title="Ogre Battle - The March of the Black Queen"/>
+  <Game id="JCUJ" title="Tactics Ogre"/>
+  <Game id="JCVE" title="Pilotwings"/>
+  <Game id="JCVJ" title="Pilotwings"/>
+  <Game id="JCVP" title="飞行俱乐部(欧)"/>
+  <Game id="JCWE" title="超级马里奥赛车(美)"/>
+  <Game id="JCWJ" title="Super Mario Kart"/>
+  <Game id="JCWP" title="超级马里奥赛车(欧)"/>
+  <Game id="JCXE" title="Nobunaga's Ambition"/>
+  <Game id="JCXJ" title="Super Nobunaga no Yabou - Zengoku Han"/>
+  <Game id="JCYE" title="Uncharted Waters - New Horizons"/>
+  <Game id="JCYJ" title="Daikoukai Jidai II"/>
+  <Game id="JCZE" title="Genghis Khan II - Clan of the Gray Wolf"/>
+  <Game id="JCZJ" title="Super Aoki Oukami to Shiroki Mejika - Genchou Hishi"/>
+  <Game id="JD2J" title="Bishoujo Janshi Suchie-Pai"/>
+  <Game id="JD3E" title="Super E.D.F. - Earth Defense Force"/>
+  <Game id="JD3J" title="Super E.D.F."/>
+  <Game id="JD3P" title="地球防卫队(欧)"/>
+  <Game id="JD4E" title="Rival Turf!"/>
+  <Game id="JD4J" title="Rushing Beat"/>
+  <Game id="JD4P" title="Rival Turf!"/>
+  <Game id="JD5E" title="Brawl Brothers"/>
+  <Game id="JD5J" title="Rushing Beat Ran - Fukusei Toshi"/>
+  <Game id="JD5P" title="Brawl Brothers"/>
+  <Game id="JD6E" title="The Ignition Factor"/>
+  <Game id="JD6J" title="Fire Fighting"/>
+  <Game id="JD6M" title="The Ignition Factor"/>
+  <Game id="JD7E" title="Super Adventure Island"/>
+  <Game id="JD7J" title="Takahashi Meijin no Daibouken Jima"/>
+  <Game id="JD7P" title="Super Adventure Island"/>
+  <Game id="JD8E" title="Adventure Island II"/>
+  <Game id="JD8J" title="Takahashi Meijin no Daibouken Jima II"/>
+  <Game id="JD8P" title="Super Adventure Island II"/>
+  <Game id="JD9E" title="Super Bonk"/>
+  <Game id="JD9J" title="Super Genjin"/>
+  <Game id="JD9M" title="Super Bonk"/>
+  <Game id="JDAE" title="Final Fantasy III"/>
+  <Game id="JDAJ" title="Final Fantasy VI"/>
+  <Game id="JDAM" title="Final Fantasy III"/>
+  <Game id="JDAP" title="Final Fantasy III"/>
+  <Game id="JDBE" title="Super Bomberman 3"/>
+  <Game id="JDCE" title="Street Fighter Alpha 2"/>
+  <Game id="JDCJ" title="Street Fighter Two Alpha"/>
+  <Game id="JDCP" title="Street Fighter Alpha 2"/>
+  <Game id="JDDE" title="Final Fight 2"/>
+  <Game id="JDDJ" title="Final Fight Two"/>
+  <Game id="JDDP" title="Final Fight 2"/>
+  <Game id="JDEE" title="Final Fight 3"/>
+  <Game id="JDEJ" title="Final Fight Tough"/>
+  <Game id="JDEP" title="Final Fight 3"/>
+  <Game id="JDFJ" title="Sutte Hakkun"/>
+  <Game id="JDHJ" title="Super Famicom Wars"/>
+  <Game id="JDIE" title="Super Star Wars"/>
+  <Game id="JDIJ" title="Super Star Wars"/>
+  <Game id="JDIP" title="Super Star Wars"/>
+  <Game id="JDJE" title="星际大战5 帝国大反击(美)"/>
+  <Game id="JDJJ" title="Super Star Wars The Empire Strikes Back"/>
+  <Game id="JDJP" title="星际大战5 帝国大反击(欧)"/>
+  <Game id="JDKJ" title="Metal Max 2"/>
+  <Game id="JDLE" title="Super Star Wars - Return of the Jedi"/>
+  <Game id="JDLJ" title="Super Star Wars Return Of The Jedi"/>
+  <Game id="JDLP" title="Super Star Wars - Return of the Jedi"/>
+  <Game id="JDMJ" title="Kirby no Kirakira Kizzu"/>
+  <Game id="JDNE" title="Ghoul Patrol"/>
+  <Game id="JDNJ" title="Ghoul Patrol"/>
+  <Game id="JDNP" title="Ghoul Patrol"/>
+  <Game id="JDOJ" title="Heisei Shin Onigashima Zenpen"/>
+  <Game id="JDPJ" title="Heisei Shin Onigashima Kouhen"/>
+  <Game id="JDQJ" title="Romancing SaGa 3"/>
+  <Game id="JDRJ" title="Clock Tower"/>
+  <Game id="JDSJ" title="Shin Megami Tensei II"/>
+  <Game id="JDTJ" title="Shin Megami Tensei If..."/>
+  <Game id="JDUJ" title="Albert Odyssey"/>
+  <Game id="JDVE" title="荒野双枪(美)"/>
+  <Game id="JDVJ" title="Wild Guns"/>
+  <Game id="JDVP" title="荒野双枪(欧)"/>
+  <Game id="JDWE" title="Aero the Acro-Bat"/>
+  <Game id="JDWJ" title="Aero The Acrobat"/>
+  <Game id="JDWP" title="Aero the Acro-Bat"/>
+  <Game id="JDXE" title="Aero the Acrobat 2"/>
+  <Game id="JDXJ" title="Aero The Acrobat Two"/>
+  <Game id="JDXP" title="飞天蝙蝠2(欧)"/>
+  <Game id="JDYJ" title="Rudora no Hihou"/>
+  <Game id="JDZD" title="Mystic Quest Legend"/>
+  <Game id="JDZE" title="Final Fantasy Mystic Quest"/>
+  <Game id="JDZF" title="Final Fantasy Mystic Quest"/>
+  <Game id="JDZJ" title="Final Fantasy USA - Mystic Quest"/>
+  <Game id="JDZP" title="Mystic Quest Legend"/>
+  <Game id="JEAE" title="Natsume Championship Wrestling"/>
+  <Game id="JEAJ" title="Natsume Championship Wrestling"/>
+  <Game id="JEAM" title="Natsume Championship Wrestling"/>
+  <Game id="JEAP" title="Natsume Championship Wrestling"/>
+  <Game id="JEBE" title="Mega Man X"/>
+  <Game id="JEBJ" title="Rockman X"/>
+  <Game id="JEBP" title="Mega Man X"/>
+  <Game id="JECE" title="Chrono Trigger"/>
+  <Game id="JECJ" title="Chrono Trigger"/>
+  <Game id="JECM" title="Chrono Trigger"/>
+  <Game id="JECP" title="Chrono Trigger"/>
+  <Game id="JEDJ" title="Kunio-kun no Dodgeball da yo Zenin Shugou!"/>
+  <Game id="JEEJ" title="Majin Tensei"/>
+  <Game id="JEFJ" title="Majin Tensei II - Spiral Nemesis"/>
+  <Game id="JEGJ" title="Gouketsuji Ichizoku"/>
+  <Game id="JEHE" title="Mega Man X2"/>
+  <Game id="JEHJ" title="Rockman X2"/>
+  <Game id="JEHP" title="Mega Man X2"/>
+  <Game id="JEIJ" title="Metal Max Returns"/>
+  <Game id="JEJJ" title="Tsukikomori"/>
+  <Game id="JEKJ" title="Kyuuyaku Megami Tensei"/>
+  <Game id="NA3E" title="Bomberman Hero"/>
+  <Game id="NA3J" title="Bomberman Hero - Millian-Oujo wo Sukue!"/>
+  <Game id="NA3P" title="Bomberman Hero"/>
+  <Game id="NAAE" title="超级马里奥64(美)"/>
+  <Game id="NAAJ" title="Super Mario 64"/>
+  <Game id="NAAP" title="超级马里奥64(欧)"/>
+  <Game id="NABE" title="马里奥赛车64(美)"/>
+  <Game id="NABJ" title="Mario Kart 64"/>
+  <Game id="NABP" title="马里奥赛车64(欧)"/>
+  <Game id="NABT" title="Mario Kart 64"/>
+  <Game id="NACE" title="The Legend of Zelda: Ocarina of Time"/>
+  <Game id="NACJ" title="Zelda no Densetsu - Toki no Okarina"/>
+  <Game id="NACP" title="The Legend of Zelda - Ocarina of Time"/>
+  <Game id="NADE" title="Star Fox 64"/>
+  <Game id="NADJ" title="Star Fox 64"/>
+  <Game id="NADP" title="Lylat Wars"/>
+  <Game id="NADT" title="Star Fox 64"/>
+  <Game id="NAEE" title="纸片马里奥(美)"/>
+  <Game id="NAEJ" title="Mario Story"/>
+  <Game id="NAEP" title="纸片马里奥(欧)"/>
+  <Game id="NAFE" title="F-Zero X"/>
+  <Game id="NAFJ" title="F-Zero X"/>
+  <Game id="NAFP" title="F-Zero X"/>
+  <Game id="NAGJ" title="Aerogauge"/>
+  <Game id="NAHE" title="Yoshi's Story"/>
+  <Game id="NAHJ" title="Yoshi's Story"/>
+  <Game id="NAHP" title="Yoshi's Story"/>
+  <Game id="NAIE" title="水上摩托64(美)"/>
+  <Game id="NAIJ" title="Wave Race 64"/>
+  <Game id="NAIP" title="水上摩托64(欧)"/>
+  <Game id="NAJ8" title="The Legend of Zelda: Ocarina of Time (spanish translation)"/>
+  <Game id="NAJJ" title="Tsumi to Batsu - Hoshi no Keishousha"/>
+  <Game id="NAJL" title="罪与罚(L)"/>
+  <Game id="NAJN" title="罪与罚(N)"/>
+  <Game id="NAKD" title="Pokémon Snap"/>
+  <Game id="NAKE" title="Pokémon Snap"/>
+  <Game id="NAKF" title="Pokémon Snap"/>
+  <Game id="NAKI" title="Pokémon Snap"/>
+  <Game id="NAKJ" title="Pokémon Snap"/>
+  <Game id="NAKP" title="Pokémon Snap"/>
+  <Game id="NAKS" title="Pokemon Snap"/>
+  <Game id="NALE" title="Super Smash Bros."/>
+  <Game id="NALJ" title="Nintendo All-Star! Dairantou Smash Brothers"/>
+  <Game id="NALP" title="Super Smash Bros."/>
+  <Game id="NAME" title="Kirby 64 - The Crystal Shards"/>
+  <Game id="NAMJ" title="Hoshi no Kirby 64"/>
+  <Game id="NAMP" title="Kirby 64 - The Crystal Shards"/>
+  <Game id="NAMT" title="Kirby 64 - The Crystal Shards"/>
+  <Game id="NAND" title="Poke╠ümon Puzzle League"/>
+  <Game id="NANE" title="Pokémon Puzzle League"/>
+  <Game id="NANF" title="Pokémon Puzzle League"/>
+  <Game id="NANJ" title="Pokémon Puzzle League"/>
+  <Game id="NANP" title="Pokémon Puzzle League"/>
+  <Game id="NAOE" title="1080 Snowboarding"/>
+  <Game id="NAOJ" title="1080 Snowboarding"/>
+  <Game id="NAOP" title="1080 Snowboarding"/>
+  <Game id="NAOT" title="1080 Snowboarding"/>
+  <Game id="NAPJ" title="Custom Robo V2"/>
+  <Game id="NARE" title="The Legend of Zelda - Majora's Mask"/>
+  <Game id="NARJ" title="Zelda no Densetsu - Mujura no Kamen"/>
+  <Game id="NARP" title="The Legend of Zelda - Majora's Mask"/>
+  <Game id="NASE" title="特级飞车(美)"/>
+  <Game id="NASJ" title="Cruis'n USA"/>
+  <Game id="NASP" title="特级飞车(欧)"/>
+  <Game id="NATE" title="马里奥网球(美)"/>
+  <Game id="NATJ" title="Mario Tennis 64"/>
+  <Game id="NATP" title="马里奥网球(欧)"/>
+  <Game id="NAUE" title="马里奥高尔夫(美)"/>
+  <Game id="NAUJ" title="Mario Golf 64"/>
+  <Game id="NAUP" title="马里奥高尔夫(欧)"/>
+  <Game id="NAYE" title="Ogre Battle 64 - Person of Lordly Caliber"/>
+  <Game id="NAYJ" title="Ogre Battle 64 - Person of Lordly Caliber"/>
+  <Game id="NAYM" title="Ogre Battle 64: Person of Lordly Caliber"/>
+  <Game id="NAZE" title="Mario Party 2"/>
+  <Game id="NAZJ" title="Mario Party 2"/>
+  <Game id="NAZP" title="Mario Party 2"/>
+  <Game id="NEEA" title="The Legend of Zelda: Ocarina of Time Master Quest"/>
+  <Game id="NMRE" title="SM64 Randomizer"/>
+  <Game id="NTLC" title="Super Mario 64 Multiplayer"/>
+  <Game id="LAAJ" title="Hokuto no Ken"/>
+  <Game id="LABE" title="Fantasy Zone"/>
+  <Game id="LABJ" title="Fantasy Zone"/>
+  <Game id="LABP" title="Fantasy Zone"/>
+  <Game id="LACE" title="Wonder Boy"/>
+  <Game id="LACJ" title="Super Wonder Boy"/>
+  <Game id="LACP" title="Wonder Boy"/>
+  <Game id="LADE" title="Phantasy Star"/>
+  <Game id="LADJ" title="Phantasy Star"/>
+  <Game id="LADP" title="Phantasy Star"/>
+  <Game id="LAEE" title="Alex Kidd in Miracle World"/>
+  <Game id="LAEJ" title="Alex Kidd no Miracle World"/>
+  <Game id="LAEP" title="Alex Kidd in Miracle World"/>
+  <Game id="LAFJ" title="Ashura"/>
+  <Game id="LAFN" title="Secret Command"/>
+  <Game id="LAFP" title="Secret Command"/>
+  <Game id="LAGE" title="Sonic The Hedgehog"/>
+  <Game id="LAGJ" title="Sonic The Hedgehog"/>
+  <Game id="LAGP" title="Sonic The Hedgehog"/>
+  <Game id="LAHE" title="Space Harrier"/>
+  <Game id="LAHJ" title="Space Harrier"/>
+  <Game id="LAHP" title="Space Harrier"/>
+  <Game id="LAIE" title="Enduro Racer"/>
+  <Game id="LAIJ" title="Enduro Racer"/>
+  <Game id="LAIP" title="Enduro Racer"/>
+  <Game id="LAJE" title="Sonic The Hedgehog 2"/>
+  <Game id="LAJJ" title="Sonic The Hedgehog 2"/>
+  <Game id="LAJP" title="Sonic The Hedgehog 2"/>
+  <Game id="LAKE" title="Wonder Boy in Monster Land"/>
+  <Game id="LAKJ" title="Super Wonder Boy - Monster World"/>
+  <Game id="LAKP" title="Wonder Boy in Monster Land"/>
+  <Game id="LALE" title="Fantasy Zone II - The Tears of Opa-Opa"/>
+  <Game id="LALJ" title="Fantasy Zone II - Opa-Opa no Namida"/>
+  <Game id="LALP" title="Fantasy Zone II - The Tears of Opa-Opa"/>
+  <Game id="LAME" title="Sonic Chaos"/>
+  <Game id="LAMJ" title="Sonic Chaos"/>
+  <Game id="LAMP" title="Sonic Chaos"/>
+  <Game id="LANE" title="Alex Kidd - The Lost Stars"/>
+  <Game id="LANJ" title="Alex Kidd - The Lost Stars"/>
+  <Game id="LANP" title="Alex Kidd - The Lost Stars"/>
+  <Game id="LAOE" title="R-Type"/>
+  <Game id="LAOJ" title="R-Type"/>
+  <Game id="LAOP" title="R-Type"/>
+  <Game id="LAPE" title="Wonder Boy III - The Dragon's Trap"/>
+  <Game id="LAPP" title="Wonder Boy III - The Dragon's Trap"/>
+  <Game id="LAQE" title="Alex Kidd in Shinobi World"/>
+  <Game id="LAQP" title="Alex Kidd in Shinobi World"/>
+  <Game id="MA2J" title="Dyna Brothers"/>
+  <Game id="MA3E" title="Puyo Puyo 2"/>
+  <Game id="MA3J" title="Puyo Puyo 2"/>
+  <Game id="MA3L" title="Puyo Puyo 2"/>
+  <Game id="MA4J" title="Bahamut Senki"/>
+  <Game id="MA5J" title="Rent A Hero"/>
+  <Game id="MA6E" title="Streets of Rage 2"/>
+  <Game id="MA6J" title="Bare Knuckle II - Shitou he no Chinkon Uta"/>
+  <Game id="MA6P" title="Streets of Rage 2"/>
+  <Game id="MA7E" title="Shining in the Darkness"/>
+  <Game id="MA7J" title="Shining Darkness"/>
+  <Game id="MA7P" title="Shining in the Darkness"/>
+  <Game id="MA8E" title="Ecco - The Tides of Time"/>
+  <Game id="MA8J" title="Ecco the Dolphin 2"/>
+  <Game id="MA8P" title="Ecco - The Tides of Time"/>
+  <Game id="MA9J" title="The Hybrid Front"/>
+  <Game id="MAAE" title="Altered Beast"/>
+  <Game id="MAAJ" title="Juuouki - Altered Beast"/>
+  <Game id="MAAP" title="Altered Beast"/>
+  <Game id="MABE" title="Columns"/>
+  <Game id="MABJ" title="Columns"/>
+  <Game id="MABP" title="Columns"/>
+  <Game id="MACE" title="Dr. Robotnik's Mean Bean Machine"/>
+  <Game id="MACJ" title="Puyo Puyo"/>
+  <Game id="MACP" title="Dr. Robotnik's Mean Bean Machine"/>
+  <Game id="MADE" title="Ecco the Dolphin"/>
+  <Game id="MADJ" title="Ecco the Dolphin"/>
+  <Game id="MADP" title="Ecco the Dolphin"/>
+  <Game id="MAEE" title="Golden Axe"/>
+  <Game id="MAEJ" title="The Golden Axe"/>
+  <Game id="MAEP" title="Golden Axe"/>
+  <Game id="MAFE" title="Gunstar Heroes"/>
+  <Game id="MAFJ" title="Gunstar Heroes"/>
+  <Game id="MAFP" title="Gunstar Heroes"/>
+  <Game id="MAGE" title="Ristar"/>
+  <Game id="MAGJ" title="Ristar"/>
+  <Game id="MAGP" title="Ristar"/>
+  <Game id="MAHE" title="Sonic The Hedgehog"/>
+  <Game id="MAHJ" title="Sonic The Hedgehog"/>
+  <Game id="MAHP" title="Sonic The Hedgehog"/>
+  <Game id="MAIE" title="Space Harrier II"/>
+  <Game id="MAIJ" title="Space Harrier II"/>
+  <Game id="MAIP" title="Space Harrier II"/>
+  <Game id="MAJE" title="ToeJam &amp; Earl"/>
+  <Game id="MAJJ" title="ToeJam &amp; Earl"/>
+  <Game id="MAJP" title="ToeJam &amp; Earl"/>
+  <Game id="MAKE" title="Shadow Dancer - The Secret of Shinobi"/>
+  <Game id="MAKJ" title="Shadow Dancer"/>
+  <Game id="MAKP" title="Shadow Dancer - The Secret of Shinobi"/>
+  <Game id="MALE" title="Bonanza Bros"/>
+  <Game id="MALJ" title="Bonanza Bros"/>
+  <Game id="MALP" title="Bonanza Bros"/>
+  <Game id="MAME" title="Sword of Vermilion"/>
+  <Game id="MAMJ" title="Sword of Vermillion"/>
+  <Game id="MAMP" title="Sword of Vermilion"/>
+  <Game id="MANE" title="Gain Ground"/>
+  <Game id="MANJ" title="Gain Ground"/>
+  <Game id="MANP" title="Gain Ground"/>
+  <Game id="MAOE" title="Biohazard Battle"/>
+  <Game id="MAOJ" title="Crying - Aseimei Sensou"/>
+  <Game id="MAOP" title="Biohazard Battle"/>
+  <Game id="MAPE" title="Comix Zone"/>
+  <Game id="MAPJ" title="Comix Zone"/>
+  <Game id="MAPP" title="Comix Zone"/>
+  <Game id="MAQE" title="Streets of Rage"/>
+  <Game id="MAQJ" title="Bare Knuckle - Ikari no Tekken"/>
+  <Game id="MAQP" title="Streets of Rage"/>
+  <Game id="MARE" title="Beyond Oasis"/>
+  <Game id="MARJ" title="The Story of Thor - Hikari o Tsugu Mono"/>
+  <Game id="MARP" title="The Story of Thor"/>
+  <Game id="MASE" title="Vectorman"/>
+  <Game id="MASJ" title="Vectorman"/>
+  <Game id="MASP" title="Vectorman"/>
+  <Game id="MATE" title="Sonic Spinball"/>
+  <Game id="MATJ" title="Sonic Spinball"/>
+  <Game id="MATP" title="Sonic Spinball"/>
+  <Game id="MAUJ" title="Puzzle Action - Tanto-R"/>
+  <Game id="MAVE" title="Wonder Boy in Monster World"/>
+  <Game id="MAVJ" title="Wonder Boy V - Monster World III"/>
+  <Game id="MAVP" title="Wonder Boy in Monster World"/>
+  <Game id="MAWE" title="Virtua Fighter 2"/>
+  <Game id="MAWJ" title="Virtua Fighter 2"/>
+  <Game id="MAWP" title="Virtua Fighter 2"/>
+  <Game id="MAXE" title="Alex Kidd in the Enchanted Castle"/>
+  <Game id="MAXJ" title="Alex Kidd - Tenkuu Majou"/>
+  <Game id="MAXP" title="Alex Kidd in the Enchanted Castle"/>
+  <Game id="MAYE" title="Alien Storm"/>
+  <Game id="MAYJ" title="Alien Storm"/>
+  <Game id="MAYP" title="Alien Storm"/>
+  <Game id="MAZE" title="ToeJam &amp; Earl in Panic on Funkotron"/>
+  <Game id="MAZP" title="ToeJam &amp; Earl in Panic on Funkotron"/>
+  <Game id="MB2J" title="Langrisser"/>
+  <Game id="MB3E" title="Monster World IV"/>
+  <Game id="MB3J" title="Monster World IV"/>
+  <Game id="MB3L" title="Monster World IV"/>
+  <Game id="MB4J" title="Party Quiz Mega Q"/>
+  <Game id="MB5J" title="Langrisser II"/>
+  <Game id="MB6E" title="Shining Force II - Ancient Sealing"/>
+  <Game id="MB6J" title="Shining Force II - Inishie no Fuuin"/>
+  <Game id="MB6P" title="Shining Force II"/>
+  <Game id="MB7E" title="Mega Turrican"/>
+  <Game id="MB7P" title="Mega Turrican"/>
+  <Game id="MB8E" title="Phantasy Star II"/>
+  <Game id="MB8J" title="Phantasy Star II - Kaerazaru Toki no Owari ni"/>
+  <Game id="MB8P" title="Phantasy Star II"/>
+  <Game id="MB9J" title="Pepen ga Pengo"/>
+  <Game id="MBAJ" title="Pulseman"/>
+  <Game id="MBAL" title="Pulseman"/>
+  <Game id="MBAN" title="Pulseman"/>
+  <Game id="MBBE" title="Sonic The Hedgehog 2"/>
+  <Game id="MBBJ" title="Sonic The Hedgehog 2"/>
+  <Game id="MBBP" title="Sonic The Hedgehog 2"/>
+  <Game id="MBCE" title="Kid Chameleon"/>
+  <Game id="MBCJ" title="Chameleon Kid"/>
+  <Game id="MBCP" title="Kid Chameleon"/>
+  <Game id="MBDE" title="Golden Axe II"/>
+  <Game id="MBDJ" title="The Golden Axe II"/>
+  <Game id="MBDP" title="Golden Axe II"/>
+  <Game id="MBEE" title="Shining Force"/>
+  <Game id="MBEJ" title="Shining Force - Kamigami no Isan"/>
+  <Game id="MBEP" title="Shining Force"/>
+  <Game id="MBFE" title="Shinobi III - Return of the Ninja Master"/>
+  <Game id="MBFJ" title="The Super Shinobi II"/>
+  <Game id="MBFP" title="Shinobi III - Return of the Ninja Master"/>
+  <Game id="MBGE" title="Dynamite Headdy"/>
+  <Game id="MBGJ" title="Dynamite Headdy"/>
+  <Game id="MBGP" title="Dynamite Headdy"/>
+  <Game id="MBHJ" title="Puzzle &amp; Action - Ichidant-R"/>
+  <Game id="MBIE" title="Landstalker - The Treasures of King Nole"/>
+  <Game id="MBIJ" title="LandStalker - Koutei no Zaihou"/>
+  <Game id="MBIP" title="Landstalker - The Treasures of King Nole"/>
+  <Game id="MBJE" title="Ghouls 'n Ghosts"/>
+  <Game id="MBJJ" title="Dai Makaimura"/>
+  <Game id="MBJP" title="Ghouls 'n Ghosts"/>
+  <Game id="MBKJ" title="Crack Down"/>
+  <Game id="MBKP" title="Crack Down"/>
+  <Game id="MBLJ" title="ESWAT - Cyber Police"/>
+  <Game id="MBLP" title="ESWAT - City Under Siege"/>
+  <Game id="MBME" title="Sonic The Hedgehog 3"/>
+  <Game id="MBMJ" title="Sonic The Hedgehog 3"/>
+  <Game id="MBMP" title="Sonic The Hedgehog 3"/>
+  <Game id="MBNJ" title="Chelnov"/>
+  <Game id="MBOE" title="Golden Axe III"/>
+  <Game id="MBOJ" title="The Golden Axe III"/>
+  <Game id="MBOP" title="Golden Axe III"/>
+  <Game id="MBPE" title="Super Thunder Blade"/>
+  <Game id="MBPJ" title="Super Thunder Blade"/>
+  <Game id="MBPP" title="Super Thunder Blade"/>
+  <Game id="MBQE" title="Streets of Rage 3"/>
+  <Game id="MBQJ" title="Bare Knuckle III - Tekken Seiten"/>
+  <Game id="MBQP" title="Streets of Rage 3"/>
+  <Game id="MBRE" title="Rolling Thunder 2"/>
+  <Game id="MBRJ" title="Rolling Thunder 2"/>
+  <Game id="MBRP" title="Rolling Thunder 2"/>
+  <Game id="MBSJ" title="Dyna Brothers 2 Special"/>
+  <Game id="MBTE" title="Alien Soldier"/>
+  <Game id="MBTJ" title="Alien Soldier"/>
+  <Game id="MBTP" title="Alien Soldier"/>
+  <Game id="MBUE" title="Sonic 3D Blast"/>
+  <Game id="MBUJ" title="Sonic 3D Blast"/>
+  <Game id="MBUP" title="Sonic 3D - Flickies' Island"/>
+  <Game id="MBVJ" title="Juso Kihei Leynos"/>
+  <Game id="MBWE" title="Columns III - Revenge of Columns"/>
+  <Game id="MBWJ" title="Columns III - Taiketsu! Columns World"/>
+  <Game id="MBWM" title="Columns III - Revenge of Columns"/>
+  <Game id="MBXE" title="Ecco Jr."/>
+  <Game id="MBXJ" title="Ecco Jr."/>
+  <Game id="MBXM" title="Ecco Jr."/>
+  <Game id="MBYE" title="Light Crusader"/>
+  <Game id="MBYJ" title="Light Crusader"/>
+  <Game id="MBYP" title="Light Crusader"/>
+  <Game id="MBZE" title="Eternal Champions"/>
+  <Game id="MBZJ" title="Eternal Champions"/>
+  <Game id="MBZP" title="Eternal Champions"/>
+  <Game id="MC2E" title="Earthworm Jim 2"/>
+  <Game id="MC2J" title="Earthworm Jim 2"/>
+  <Game id="MC2P" title="Earthworm Jim 2"/>
+  <Game id="MC3E" title="Super Street Fighter II - The New Challengers"/>
+  <Game id="MC3J" title="Super Street Fighter II - The New Challengers"/>
+  <Game id="MC3P" title="Super Street Fighter II - The New Challengers"/>
+  <Game id="MC4E" title="Strider"/>
+  <Game id="MC4J" title="Strider Hiryu"/>
+  <Game id="MC4P" title="Strider"/>
+  <Game id="MCAJ" title="Gley Lancer"/>
+  <Game id="MCAL" title="Gley Lancer"/>
+  <Game id="MCAN" title="Gley Lancer"/>
+  <Game id="MCBE" title="Powerball"/>
+  <Game id="MCBJ" title="Wrestleball"/>
+  <Game id="MCCE" title="Phantasy Star III - Generations of Doom"/>
+  <Game id="MCCJ" title="Toki no Keishousha - Phantasy Star III"/>
+  <Game id="MCCP" title="Phantasy Star III - Generations of Doom"/>
+  <Game id="MCDE" title="Sonic &amp; Knuckles"/>
+  <Game id="MCDJ" title="Sonic &amp; Knuckles"/>
+  <Game id="MCDP" title="Sonic &amp; Knuckles"/>
+  <Game id="MCEJ" title="Super Fantasy Zone"/>
+  <Game id="MCEN" title="Super Fantasy Zone"/>
+  <Game id="MCEP" title="Super Fantasy Zone"/>
+  <Game id="MCFJ" title="Phelios"/>
+  <Game id="MCGE" title="Forgotten Worlds"/>
+  <Game id="MCGJ" title="Forgotten Worlds"/>
+  <Game id="MCGP" title="Forgotten Worlds"/>
+  <Game id="MCHE" title="M.U.S.H.A."/>
+  <Game id="MCHJ" title="M.U.S.H.A."/>
+  <Game id="MCHM" title="M.U.S.H.A."/>
+  <Game id="MCIJ" title="Gynoug"/>
+  <Game id="MCJE" title="Splatterhouse 2"/>
+  <Game id="MCJJ" title="Splatterhouse"/>
+  <Game id="MCJP" title="Splatterhouse 2"/>
+  <Game id="MCKE" title="Phantasy Star IV"/>
+  <Game id="MCKJ" title="Phantasy Star - Sennenki no Owari"/>
+  <Game id="MCKP" title="Phantasy Star IV"/>
+  <Game id="MCLE" title="Street Fighter II - Special Champion Edition"/>
+  <Game id="MCLJ" title="Street Fighter II Dash Plus - Champion Edition"/>
+  <Game id="MCLP" title="Street Fighter II - Special Champion Edition"/>
+  <Game id="MCMJ" title="Lord Monarch - Tokoton Sentou Densetsu"/>
+  <Game id="MCNJ" title="Hokuto no Ken - Shin Seikimatsu Kyuseishu Densetsu"/>
+  <Game id="MCOJ" title="Sorcerian"/>
+  <Game id="MCPE" title="Earthworm Jim"/>
+  <Game id="MCPJ" title="Earthworm Jim"/>
+  <Game id="MCPP" title="Earthworm Jim"/>
+  <Game id="MCQE" title="Boogerman - A Pick and Flick Adventure"/>
+  <Game id="MCQP" title="Boogerman"/>
+  <Game id="MCRE" title="Mercs - Wolf of the Battlefield"/>
+  <Game id="MCRJ" title="Senjou no Ōkami II"/>
+  <Game id="MCRP" title="Wolf of the Battlefield - MERCS"/>
+  <Game id="MCSJ" title="Wonder Boy III - Monster Lair"/>
+  <Game id="MCSN" title="Wonder Boy III - Monster Lair"/>
+  <Game id="MCSP" title="Wonder Boy III - Monster Lair"/>
+  <Game id="MCTE" title="Clay Fighter"/>
+  <Game id="MCTP" title="Clay Fighter"/>
+  <Game id="MCUJ" title="Dragon Slayer - Eiyu Densetsu"/>
+  <Game id="MCVE" title="Pitfall - The Mayan Adventure"/>
+  <Game id="MCVJ" title="Pitfall - The Mayan Adventure"/>
+  <Game id="MCVP" title="Pitfall - The Mayan Adventure"/>
+  <Game id="MCWE" title="Galaxy Force II"/>
+  <Game id="MCWJ" title="Galaxy Force II"/>
+  <Game id="MCWP" title="Galaxy Force II"/>
+  <Game id="MCXJ" title="Dragon Slayer: The Legend of Heroes"/>
+  <Game id="MCYE" title="The Revenge of Shinobi"/>
+  <Game id="MCYJ" title="The Super Shinobi"/>
+  <Game id="MCYP" title="The Revenge of Shinobi"/>
+  <Game id="MCZE" title="Shanghai II - Dragon's Eye"/>
+  <Game id="MCZP" title="Shanghai II - Dragon's Eye"/>
+  <Game id="PA2J" title="Yokai Douchuuki"/>
+  <Game id="PA3J" title="Salamander"/>
+  <Game id="PA4J" title="Parasol Stars"/>
+  <Game id="PA6E" title="Bloody Wolf"/>
+  <Game id="PA6J" title="Narazumono Sentou Butai - Bloody Wolf"/>
+  <Game id="PA6P" title="Bloody Wolf"/>
+  <Game id="PA7E" title="Alien Crush"/>
+  <Game id="PA7J" title="Alien Crush"/>
+  <Game id="PA7P" title="Alien Crush"/>
+  <Game id="PA8E" title="Ordyne"/>
+  <Game id="PA8J" title="Ordyne"/>
+  <Game id="PA9E" title="Splatterhouse"/>
+  <Game id="PA9J" title="Splatterhouse"/>
+  <Game id="PA9P" title="Splatterhouse"/>
+  <Game id="PAAE" title="Bomberman '93"/>
+  <Game id="PAAP" title="Bomberman '93"/>
+  <Game id="PABE" title="Bonk's Adventure"/>
+  <Game id="PABJ" title="PC Genjin - Pithecanthropus Computerus"/>
+  <Game id="PABP" title="Bonk's Adventure"/>
+  <Game id="PACE" title="Dungeon Explorer"/>
+  <Game id="PACJ" title="Dungeon Explorer"/>
+  <Game id="PACP" title="Dungeon Explorer"/>
+  <Game id="PADE" title="R-Type"/>
+  <Game id="PADJ" title="R-Type"/>
+  <Game id="PADP" title="R-Type"/>
+  <Game id="PAEE" title="Super Star Soldier"/>
+  <Game id="PAEJ" title="Super Star Soldier"/>
+  <Game id="PAEP" title="Super Star Soldier"/>
+  <Game id="PAFE" title="Victory Run"/>
+  <Game id="PAFJ" title="Victory Run - Eikou no 13,000KM"/>
+  <Game id="PAFP" title="Victory Run"/>
+  <Game id="PAGJ" title="Bomberman '94"/>
+  <Game id="PAGL" title="Bomberman '94"/>
+  <Game id="PAGN" title="Bomberman '94"/>
+  <Game id="PAHE" title="Battle Lode Runner"/>
+  <Game id="PAHJ" title="Battle Lode Runner"/>
+  <Game id="PAHP" title="Battle Lode Runner"/>
+  <Game id="PAIE" title="New Adventure Island"/>
+  <Game id="PAIJ" title="Takahashi Meijin no Shin Bouken Jima"/>
+  <Game id="PAIP" title="New Adventure Island"/>
+  <Game id="PAJJ" title="Jaseiken Necromancer"/>
+  <Game id="PAKE" title="Dragon's Curse"/>
+  <Game id="PAKJ" title="Adventure Island"/>
+  <Game id="PAKP" title="Dragon's Curse"/>
+  <Game id="PALE" title="Soldier Blade"/>
+  <Game id="PALJ" title="Soldier Blade"/>
+  <Game id="PALP" title="Soldier Blade"/>
+  <Game id="PAME" title="Neutopia"/>
+  <Game id="PAMJ" title="Neutopia - Frey no Shou"/>
+  <Game id="PAMP" title="Neutopia"/>
+  <Game id="PANE" title="Military Madness"/>
+  <Game id="PANJ" title="Nectaris"/>
+  <Game id="PANP" title="Military Madness"/>
+  <Game id="PAOJ" title="Final Soldier"/>
+  <Game id="PAOL" title="Final Soldier"/>
+  <Game id="PAON" title="Final Soldier"/>
+  <Game id="PAPJ" title="R-Type II"/>
+  <Game id="PAQJ" title="Gradius"/>
+  <Game id="PARJ" title="Detana!! TwinBee"/>
+  <Game id="PARL" title="Detana!! TwinBee"/>
+  <Game id="PARN" title="Detana!! TwinBee"/>
+  <Game id="PASJ" title="Cadash"/>
+  <Game id="PATJ" title="KiKi KaiKai"/>
+  <Game id="PAUJ" title="Kaizou Choujin Shubibinman"/>
+  <Game id="PAVE" title="Vigilante"/>
+  <Game id="PAVJ" title="Vigilante"/>
+  <Game id="PAVP" title="Vigilante"/>
+  <Game id="PAWE" title="Galaga '90"/>
+  <Game id="PAWJ" title="Galaga '88"/>
+  <Game id="PAWP" title="Galaga '90"/>
+  <Game id="PAYJ" title="Valkyrie no Densetsu"/>
+  <Game id="PAZJ" title="Genpei Toumaden"/>
+  <Game id="PB2E" title="Neutopia II"/>
+  <Game id="PB2J" title="Neutopia II"/>
+  <Game id="PB2P" title="Neutopia II"/>
+  <Game id="PB3E" title="Devil's Crush"/>
+  <Game id="PB3J" title="Devil Crash"/>
+  <Game id="PB3P" title="Devil's Crush"/>
+  <Game id="PB5J" title="Ninja Ryukenden"/>
+  <Game id="PB6E" title="Cratermaze"/>
+  <Game id="PB6P" title="Cratermaze"/>
+  <Game id="PB7J" title="Sengoku Mahjong"/>
+  <Game id="PB8E" title="Blazing Lazers"/>
+  <Game id="PB8J" title="Blazing Lazers"/>
+  <Game id="PB8P" title="Blazing Lazers"/>
+  <Game id="PB9E" title="World Sports Competition"/>
+  <Game id="PB9J" title="Power Sports"/>
+  <Game id="PB9P" title="World Sports Competition"/>
+  <Game id="PBAE" title="Dragon Spirit"/>
+  <Game id="PBAJ" title="Dragon Spirit"/>
+  <Game id="PBAP" title="Dragon Spirit"/>
+  <Game id="PBCJ" title="Wonder-Momo"/>
+  <Game id="PBDE" title="Double Dungeons"/>
+  <Game id="PBDJ" title="Double Dungeons"/>
+  <Game id="PBDP" title="Double Dungeons"/>
+  <Game id="PBEE" title="Moto Roader"/>
+  <Game id="PBEJ" title="Moto Roader"/>
+  <Game id="PBEP" title="Moto Roader"/>
+  <Game id="PBFJ" title="Fire ProWrestling - Combination Tag"/>
+  <Game id="PBHE" title="Bonk's Revenge"/>
+  <Game id="PBHJ" title="PC Denjin 2"/>
+  <Game id="PBHP" title="Bonk's Revenge"/>
+  <Game id="PBIE" title="Bonk 3 - Bonk's Big Adventure"/>
+  <Game id="PBIJ" title="PC Denjin 3"/>
+  <Game id="PBIP" title="Bonk 3 - Bonk's Big Adventure"/>
+  <Game id="PBJE" title="Samurai Ghost"/>
+  <Game id="PBJJ" title="Genpei Toumaden - Kan no Ni"/>
+  <Game id="PBJP" title="Samurai Ghost"/>
+  <Game id="PBME" title="Legend of Hero Tonma"/>
+  <Game id="PBMJ" title="Legend of Hero Tonma"/>
+  <Game id="PBMP" title="Legend of Hero Tonma"/>
+  <Game id="PBNE" title="Ninja Spirit"/>
+  <Game id="PBNJ" title="Saigo no Nindou - Ninja Spirit"/>
+  <Game id="PBNP" title="Ninja Spirit"/>
+  <Game id="PBSE" title="Chew-Man-Fu"/>
+  <Game id="PBSJ" title="Be Ball"/>
+  <Game id="PBSP" title="Chew-Man-Fu"/>
+  <Game id="PBTE" title="China Warrior"/>
+  <Game id="PBTJ" title="The Kung Fu"/>
+  <Game id="PBTP" title="China Warrior"/>
+  <Game id="PBUE" title="Bravoman"/>
+  <Game id="PBUJ" title="Chouzetsurinjin Bravoman"/>
+  <Game id="PBVJ" title="Benkei Gaiden"/>
+  <Game id="PBWE" title="Air Zonk"/>
+  <Game id="PBWJ" title="PC Denjin - Punkic Cyborgs"/>
+  <Game id="PBWP" title="Air Zonk"/>
+  <Game id="PBXE" title="Shockman"/>
+  <Game id="PBXJ" title="Kaizou Choujin Shubibinman 2 - Aratanaru Teki"/>
+  <Game id="PBXP" title="Shockman"/>
+  <Game id="PBYJ" title="Out Live"/>
+  <Game id="PBZE" title="J.J. &amp; Jeff"/>
+  <Game id="PBZP" title="J.J. &amp; Jeff"/>
+  <Game id="PC2E" title="Chase H.Q."/>
+  <Game id="PC2J" title="Chase H.Q."/>
+  <Game id="PC2P" title="Chase H.Q."/>
+  <Game id="PC3J" title="Darius Plus"/>
+  <Game id="PC4J" title="Space Invaders - Fukkatsu no Hi"/>
+  <Game id="PC5J" title="Dragon Saber"/>
+  <Game id="PC6J" title="Final Blaster"/>
+  <Game id="PC7J" title="Mizubaku Daibouken"/>
+  <Game id="PC8J" title="The Ninjawarriors"/>
+  <Game id="PC9J" title="The NewZealand Story"/>
+  <Game id="PCAE" title="Silent Debuggers"/>
+  <Game id="PCAJ" title="Silent Debuggers"/>
+  <Game id="PCAP" title="Silent Debuggers"/>
+  <Game id="PCBE" title="Dead Moon"/>
+  <Game id="PCBJ" title="Dead Moon - Getsu Sekai no Akumu"/>
+  <Game id="PCBP" title="Dead Moon"/>
+  <Game id="PCCJ" title="Makai Hakkenden Shada"/>
+  <Game id="PCDJ" title="Appare! Gateball"/>
+  <Game id="PCEE" title="Power Golf"/>
+  <Game id="PCEJ" title="Power Golf"/>
+  <Game id="PCEP" title="Power Golf"/>
+  <Game id="PCHE" title="Drop Off"/>
+  <Game id="PCHJ" title="Drop Rock Hora Hora"/>
+  <Game id="PCHP" title="Drop Off"/>
+  <Game id="PCJJ" title="Override"/>
+  <Game id="PCKJ" title="Gai Flame"/>
+  <Game id="PCMJ" title="Mr. Heli no Daibouken"/>
+  <Game id="PCNJ" title="Winning Shot"/>
+  <Game id="PCOE" title="Psychosis"/>
+  <Game id="PCOJ" title="Paranoia"/>
+  <Game id="PCOP" title="Psychosis"/>
+  <Game id="PCPJ" title="Power Eleven"/>
+  <Game id="PCQJ" title="Psycho Chaser"/>
+  <Game id="PCRJ" title="Break In"/>
+  <Game id="PCRL" title="Break In"/>
+  <Game id="PCRN" title="Break In"/>
+  <Game id="PCSJ" title="Digital Champ"/>
+  <Game id="PCSL" title="Digital Champ Battle Boxing"/>
+  <Game id="PCSN" title="Digital Champ Battle Boxing"/>
+  <Game id="PCTJ" title="Power Tennis"/>
+  <Game id="PCUJ" title="Fire ProWrestling 2nd Bout"/>
+  <Game id="PCVE" title="World Class Baseball"/>
+  <Game id="PCVP" title="World Class Baseball"/>
+  <Game id="PCWJ" title="Image Fight"/>
+  <Game id="PCXJ" title="Power League IV"/>
+  <Game id="PCYJ" title="Wallaby!! Usagi no Kuni no Kangaroo Race"/>
+  <Game id="PDAJ" title="Nekketsu Koukou Dodgeball Bu - PC Bangaihen"/>
+  <Game id="PDCJ" title="Dai Makaimura"/>
+  <Game id="PDDJ" title="Volfied"/>
+  <Game id="PDEJ" title="S.C.I. - Special Criminal Investigation"/>
+  <Game id="PDFJ" title="Jigoku Meguri"/>
+  <Game id="PDGJ" title="Fire ProWrestling 3 - Legend Bout"/>
+  <Game id="PDHJ" title="Rastan Saga II"/>
+  <Game id="PDIJ" title="Champion Wrestler"/>
+  <Game id="PDJJ" title="Street Fighter II Dash - Champion Edition"/>
+  <Game id="PDJL" title="Street Fighter II - Champion Edition"/>
+  <Game id="PDJN" title="Street Fighter II - Champion Edition"/>
+  <Game id="QA2J" title="Nekketsu Koukou Dodgeball Bu - CD Soccer Hen"/>
+  <Game id="QA3E" title="SimEarth - The Living Planet"/>
+  <Game id="QA3J" title="SimEarth"/>
+  <Game id="QA3P" title="SimEarth - The Living Planet"/>
+  <Game id="QA4J" title="Super Darius 2"/>
+  <Game id="QA5J" title="Space Invaders - The Original Game"/>
+  <Game id="QA6J" title="Super Darius"/>
+  <Game id="QA7J" title="Kaze no Densetsu Xanadu"/>
+  <Game id="QA8J" title="Spriggan Mark 2"/>
+  <Game id="QA9J" title="Kaze no Densetsu Xanadu II"/>
+  <Game id="QAAE" title="Super Air Zonk - Rockabilly-Paradise"/>
+  <Game id="QAAJ" title="CD Denjin - Rockabilly Tengoku"/>
+  <Game id="QAAP" title="Super Air Zonk - Rockabilly-Paradise"/>
+  <Game id="QABE" title="Ys - Book I &amp; II"/>
+  <Game id="QABJ" title="Ys - Book I &amp; II"/>
+  <Game id="QABP" title="Ys - Book I &amp; II"/>
+  <Game id="QACJ" title="Cho Aniki"/>
+  <Game id="QACL" title="Cho Aniki"/>
+  <Game id="QACN" title="Cho Aniki"/>
+  <Game id="QADJ" title="Gradius II - Gofer no Yabou"/>
+  <Game id="QADL" title="Gradius II - Gofer no Yabou"/>
+  <Game id="QADN" title="Gradius II - Gofer no Yabou"/>
+  <Game id="QAEJ" title="The Path of the Warrior - Art of Fighting 3"/>
+  <Game id="QAFE" title="The Dynastic Hero"/>
+  <Game id="QAFJ" title="Chou Eiyuu Densetsu - Dynastic Hero"/>
+  <Game id="QAFP" title="The Dynastic Hero"/>
+  <Game id="QAGE" title="Gate of Thunder"/>
+  <Game id="QAGJ" title="Gate of Thunder"/>
+  <Game id="QAGP" title="Gate of Thunder"/>
+  <Game id="QAHJ" title="Kawa no Nushi Tsuni Shizenha"/>
+  <Game id="QAJJ" title="Image Fight II"/>
+  <Game id="QAKJ" title="Ai Cho Aniki"/>
+  <Game id="QALJ" title="The Atlas - Renaissance Voyager"/>
+  <Game id="QANJ" title="Neo Nectaris"/>
+  <Game id="QAOJ" title="Dungeon Explorer II"/>
+  <Game id="QAPJ" title="Akumajou Dracula X - Chi no Rondo"/>
+  <Game id="QAPL" title="Castlevania - Rondo of Blood"/>
+  <Game id="QAPN" title="Castlevania - Rondo of Blood"/>
+  <Game id="QAPP" title="Castlevania: Rondo of Blood"/>
+  <Game id="QAQJ" title="Dragon Slayer - Eiyu Densetsu"/>
+  <Game id="QARJ" title="Blood Gear"/>
+  <Game id="QASE" title="Lords of Thunder"/>
+  <Game id="QASJ" title="Winds of Thunder"/>
+  <Game id="QASP" title="Lords of Thunder"/>
+  <Game id="QATE" title="Riot Zone"/>
+  <Game id="QATJ" title="Crest of Wolf"/>
+  <Game id="QATP" title="Riot Zone"/>
+  <Game id="QAUE" title="Monster Lair"/>
+  <Game id="QAUJ" title="Wonder Boy III - Monster Lair"/>
+  <Game id="QAUP" title="Monster Lair"/>
+  <Game id="QAVJ" title="Bomberman - Panic Bomber"/>
+  <Game id="QAWJ" title="Star Parodier"/>
+  <Game id="QAWL" title="Star Parodier"/>
+  <Game id="QAWN" title="Star Parodier"/>
+  <Game id="QAXJ" title="Martial Champion"/>
+  <Game id="QAYJ" title="Seirei Senshi Spriggan"/>
+  <Game id="QAZJ" title="Eikan wa Kimi ni - Koko Yakyu Zenkoku Taikai"/>
+  <Game id="QBAJ" title="L-Dis"/>
+  <Game id="QBBE" title="Fighting Street"/>
+  <Game id="QBBJ" title="Fighting Street"/>
+  <Game id="QBBP" title="Fighting Street"/>
+  <Game id="SP4V" title="Castlevania: Rondo of Blood"/>
+  <Game id="EA2E" title="Metal Slug 2"/>
+  <Game id="EA2J" title="Metal Slug 2"/>
+  <Game id="EA2P" title="合金弹头2(欧)"/>
+  <Game id="EA3J" title="Galaxy Fight - Universal Warriors"/>
+  <Game id="EA4E" title="Samurai Shodown III"/>
+  <Game id="EA4J" title="Samurai Spirits - Zankuro Musouken"/>
+  <Game id="EA4P" title="侍魂III(欧)"/>
+  <Game id="EA5E" title="Fatal Fury 3 - Road to the Final Victory"/>
+  <Game id="EA5J" title="Garou Densetsu 3 - Road to the Final Victory"/>
+  <Game id="EA5P" title="饿狼传说3 最终胜利之路(欧)"/>
+  <Game id="EA6E" title="The King of Fighters '96"/>
+  <Game id="EA6J" title="The King of Fighters '96"/>
+  <Game id="EA6P" title="The King of Fighters '96"/>
+  <Game id="EA7E" title="Samurai Shodown IV - Amakusa's Revenge"/>
+  <Game id="EA7J" title="Samurai Spirits - Amakusa Kourin"/>
+  <Game id="EA7P" title="Samurai Shodown IV - Amakusa's Revenge"/>
+  <Game id="EA8E" title="Ironclad"/>
+  <Game id="EA8J" title="IRONCLAD Chotetsu Brikinger"/>
+  <Game id="EA8M" title="Ironclad"/>
+  <Game id="EA9J" title="Waku Waku 7"/>
+  <Game id="EAAE" title="Fatal Fury"/>
+  <Game id="EAAJ" title="Garou Densetsu - Shukumei no Tatakai"/>
+  <Game id="EAAP" title="饿狼传说(欧)"/>
+  <Game id="EABE" title="World Heroes"/>
+  <Game id="EABJ" title="World Heroes"/>
+  <Game id="EABP" title="World Heroes"/>
+  <Game id="EACE" title="Magician Lord"/>
+  <Game id="EACJ" title="Magician Lord"/>
+  <Game id="EACP" title="Magician Lord"/>
+  <Game id="EADE" title="Art of Fighting"/>
+  <Game id="EADJ" title="Ryuuko no Ken"/>
+  <Game id="EADP" title="Art of Fighting"/>
+  <Game id="EAEE" title="Samurai Shodown"/>
+  <Game id="EAEJ" title="Samurai Spirits"/>
+  <Game id="EAEP" title="侍魂(欧)"/>
+  <Game id="EAFE" title="Blue's Journey"/>
+  <Game id="EAFJ" title="Raguy"/>
+  <Game id="EAFP" title="Blue's Journey"/>
+  <Game id="EAGE" title="The King of Fighters '94"/>
+  <Game id="EAGJ" title="The King of Fighters '94"/>
+  <Game id="EAGP" title="拳皇94(欧)"/>
+  <Game id="EAHE" title="Baseball Stars 2"/>
+  <Game id="EAHJ" title="Baseball Stars 2"/>
+  <Game id="EAHP" title="Baseball Stars 2"/>
+  <Game id="EAIE" title="Top Hunter - Roddy &amp; Cathy"/>
+  <Game id="EAIJ" title="Top Hunter - Roddy &amp; Cathy"/>
+  <Game id="EAIP" title="Top Hunter - Roddy &amp; Cathy"/>
+  <Game id="EAJE" title="Metal Slug"/>
+  <Game id="EAJJ" title="Metal Slug"/>
+  <Game id="EAJP" title="合金弹头(欧)"/>
+  <Game id="EAKE" title="Burning Fight"/>
+  <Game id="EAKJ" title="Burning Fight"/>
+  <Game id="EAKP" title="Burning Fight"/>
+  <Game id="EALE" title="Art of Fighting 2"/>
+  <Game id="EALJ" title="Ryuuko no Ken 2"/>
+  <Game id="EALP" title="Art of Fighting 2"/>
+  <Game id="EAME" title="Ninja Combat"/>
+  <Game id="EAMJ" title="Ninja Combat"/>
+  <Game id="EAMP" title="Ninja Combat"/>
+  <Game id="EANE" title="Fatal Fury 2"/>
+  <Game id="EANJ" title="Garou Densetsu 2 - Aratanaru Tatakai"/>
+  <Game id="EANP" title="饿狼传说2(欧)"/>
+  <Game id="EAOE" title="King of the Monsters"/>
+  <Game id="EAOJ" title="King of the Monsters"/>
+  <Game id="EAOP" title="King of the Monsters"/>
+  <Game id="EAPE" title="Ninja Commando"/>
+  <Game id="EAPJ" title="Ninja Commando"/>
+  <Game id="EAPP" title="Ninja Commando"/>
+  <Game id="EAQE" title="World Heroes 2"/>
+  <Game id="EAQJ" title="World Heroes 2"/>
+  <Game id="EAQP" title="World Heroes 2"/>
+  <Game id="EARE" title="Neo Turf Masters"/>
+  <Game id="EARJ" title="Neo Turf Masters"/>
+  <Game id="EARP" title="Neo Turf Masters"/>
+  <Game id="EASE" title="Samurai Shodown II"/>
+  <Game id="EASJ" title="Shin Samurai Spirits"/>
+  <Game id="EASP" title="侍魂II(欧)"/>
+  <Game id="EATE" title="World Heroes 2 Jet"/>
+  <Game id="EATJ" title="World Heroes 2 Jet"/>
+  <Game id="EATP" title="World Heroes 2 Jet"/>
+  <Game id="EAUJ" title="Twinkle Star Sprites"/>
+  <Game id="EAVE" title="The King of Fighters '95"/>
+  <Game id="EAVJ" title="The King of Fighters '95"/>
+  <Game id="EAVP" title="拳皇95(欧)"/>
+  <Game id="EAWE" title="Fatal Fury Special"/>
+  <Game id="EAWJ" title="Garou Densetsu Special"/>
+  <Game id="EAWP" title="饿狼传说特别版(欧)"/>
+  <Game id="EAYJ" title="King of the Monsters 2 - The Next Thing"/>
+  <Game id="EAZE" title="World Heroes Perfect"/>
+  <Game id="EAZJ" title="World Heroes Perfect"/>
+  <Game id="EAZP" title="World Heroes Perfect"/>
+  <Game id="EB2E" title="Real Bout Fatal Fury Special"/>
+  <Game id="EB2J" title="Real Bout Garou Densetsu Special"/>
+  <Game id="EB2P" title="Real Bout Fatal Fury Special"/>
+  <Game id="EB3J" title="Soccer Brawl"/>
+  <Game id="EB4J" title="ASO II - Last Guardian"/>
+  <Game id="EB5E" title="The Last Blade"/>
+  <Game id="EB5J" title="Bakumatsu Roman Daini Maku - Gekka no Kenshi"/>
+  <Game id="EB5P" title="The Last Blade"/>
+  <Game id="EB6E" title="Metal Slug 3"/>
+  <Game id="EB6J" title="Metal Slug 3"/>
+  <Game id="EB6P" title="Metal Slug 3"/>
+  <Game id="EB7J" title="The Super Spy"/>
+  <Game id="EB8E" title="Shock Troopers"/>
+  <Game id="EB8J" title="Shock Troopers"/>
+  <Game id="EB8P" title="Shock Troopers"/>
+  <Game id="EB9J" title="Pulstar"/>
+  <Game id="EBAE" title="Magical Drop II"/>
+  <Game id="EBAJ" title="Magical Drop 2"/>
+  <Game id="EBAP" title="Magical Drop II"/>
+  <Game id="EBBE" title="Fighter's History Dynamite"/>
+  <Game id="EBBJ" title="Fighter's History Dynamite"/>
+  <Game id="EBBP" title="Karnov's Revenge"/>
+  <Game id="EBCJ" title="Flying Power Disc"/>
+  <Game id="EBDE" title="Magical Drop III"/>
+  <Game id="EBDJ" title="Magical Drop III"/>
+  <Game id="EBDP" title="Magical Drop III"/>
+  <Game id="EBEE" title="Street Slam"/>
+  <Game id="EBEJ" title="Dunk Dream"/>
+  <Game id="EBEP" title="Street Hoop"/>
+  <Game id="EBFE" title="Spin Master"/>
+  <Game id="EBFJ" title="Miracle Adventure"/>
+  <Game id="EBFP" title="Spin Master"/>
+  <Game id="EBGE" title="The King of Fighters '97"/>
+  <Game id="EBGJ" title="The King of Fighters '97"/>
+  <Game id="EBGP" title="The King of Fighters '97"/>
+  <Game id="EBKJ" title="Last Resort"/>
+  <Game id="EBLJ" title="Tsuukai GanGan Koushinkyoku"/>
+  <Game id="EBMJ" title="Fire Suplex"/>
+  <Game id="EBNJ" title="Fu'un Mokushiroku - Kakutou Sousei"/>
+  <Game id="EBOJ" title="Fu'un Super Tag Battle"/>
+  <Game id="EBPJ" title="League Bowling"/>
+  <Game id="EBQE" title="Ninja Masters"/>
+  <Game id="EBQJ" title="Ninja Master's Haou Ninpou-chou"/>
+  <Game id="EBQP" title="Ninja Master's"/>
+  <Game id="EBRJ" title="Joy Joy Kid"/>
+  <Game id="EBSE" title="Art of Fighting 3"/>
+  <Game id="EBSJ" title="The Art of Fighting - Ryuuko no Ken Gaiden"/>
+  <Game id="EBSP" title="Art of Fighting 3"/>
+  <Game id="EBTJ" title="Crossed Swords"/>
+  <Game id="EBUE" title="2020 Super Baseball"/>
+  <Game id="EBUJ" title="Super Baseball 2020"/>
+  <Game id="EBUP" title="2020 Super Baseball"/>
+  <Game id="EBVJ" title="Shin-Oh-Ken"/>
+  <Game id="EBWE" title="Sengoku"/>
+  <Game id="EBWJ" title="Sengoku Denshou"/>
+  <Game id="EBWP" title="Sengoku"/>
+  <Game id="EBXE" title="Sengoku 2"/>
+  <Game id="EBXJ" title="Sengoku 2"/>
+  <Game id="EBXP" title="Sengoku 2"/>
+  <Game id="EBZE" title="Real Bout Fatal Fury"/>
+  <Game id="EBZJ" title="Real Bout Garou Densetsu"/>
+  <Game id="EBZP" title="Real Bout Fatal Fury"/>
+  <Game id="ECAE" title="Real Bout Fatal Fury 2 - The Newcomers"/>
+  <Game id="ECAJ" title="Real Bout Garou Densetsu 2 - The Newcomers"/>
+  <Game id="ECAP" title="Real Bout Fatal Fury 2 - The Newcomers"/>
+  <Game id="ECCE" title="Metal Slug X"/>
+  <Game id="ECCJ" title="Metal Slug X"/>
+  <Game id="ECCP" title="Metal Slug X"/>
+  <Game id="ECDJ" title="Stakes Winner - G1 Kanzen Seihahe no Michi"/>
+  <Game id="ECEE" title="The Last Blade 2"/>
+  <Game id="ECEJ" title="Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana"/>
+  <Game id="ECEP" title="The Last Blade 2"/>
+  <Game id="ECFJ" title="Blazing Star"/>
+  <Game id="ECGE" title="Shock Troopers - 2nd Squad"/>
+  <Game id="ECGJ" title="Shock Troopers - 2nd Squad"/>
+  <Game id="ECGP" title="Shock Troopers - 2nd Squad"/>
+  <Game id="ECHE" title="The King of Fighters '98"/>
+  <Game id="ECHJ" title="The King of Fighters '98"/>
+  <Game id="ECHP" title="The King of Fighters '98"/>
+  <Game id="ECIE" title="Metal Slug 4"/>
+  <Game id="ECIJ" title="Metal Slug 4"/>
+  <Game id="ECIP" title="Metal Slug 4"/>
+  <Game id="ECJE" title="The King of Fighters '99"/>
+  <Game id="ECJJ" title="The King of Fighters '99"/>
+  <Game id="ECJP" title="The King of Fighters '99"/>
+  <Game id="ECKE" title="NAM-1975"/>
+  <Game id="ECKJ" title="NAM-1975"/>
+  <Game id="ECKP" title="NAM-1975"/>
+  <Game id="ECLJ" title="Stakes Winner 2"/>
+  <Game id="ECMJ" title="Tokuten Oh - Honoo no Libero"/>
+  <Game id="ECNE" title="Sengoku 3"/>
+  <Game id="ECNJ" title="Sengoku Denshou 2001"/>
+  <Game id="ECNP" title="Sengoku 3"/>
+  <Game id="E52E" title="1942"/>
+  <Game id="E52J" title="1942"/>
+  <Game id="E52P" title="1942"/>
+  <Game id="E53E" title="Black Tiger"/>
+  <Game id="E53J" title="Black Dragon"/>
+  <Game id="E53P" title="Black Tiger"/>
+  <Game id="E54E" title="Ghosts 'n Goblins"/>
+  <Game id="E54J" title="Makaimura"/>
+  <Game id="E54P" title="Ghosts 'n Goblins"/>
+  <Game id="E55E" title="Wolf of the Battlefield - Commando"/>
+  <Game id="E55J" title="Senjou no Ōkami"/>
+  <Game id="E55P" title="Wolf of the Battlefield - Commando"/>
+  <Game id="E56E" title="Exed Exes"/>
+  <Game id="E56J" title="Exed Exes"/>
+  <Game id="E56P" title="Exed Exes"/>
+  <Game id="E57E" title="SonSon"/>
+  <Game id="E57J" title="Son Son"/>
+  <Game id="E57P" title="Son Son"/>
+  <Game id="E58J" title="Mr. Do!"/>
+  <Game id="E59J" title="Karate Dou"/>
+  <Game id="E5AJ" title="Ikki"/>
+  <Game id="E5BJ" title="Shanghai"/>
+  <Game id="E5VJ" title="Nekketsu Kouha Kunio-kun"/>
+  <Game id="E5WE" title="Wonder Boy in Monster Land"/>
+  <Game id="E5WJ" title="Wonder Boy in Monster Land"/>
+  <Game id="E5WP" title="Wonder Boy in Monster Land"/>
+  <Game id="E5XJ" title="Puyo Puyo Tsu"/>
+  <Game id="E5YJ" title="Puyo Puyo"/>
+  <Game id="E5ZE" title="Super Hang-On"/>
+  <Game id="E5ZJ" title="Super Hang-On"/>
+  <Game id="E5ZP" title="Super Hang-On"/>
+  <Game id="E62E" title="Space Harrier"/>
+  <Game id="E62J" title="Space Harrier"/>
+  <Game id="E62P" title="Space Harrier"/>
+  <Game id="E63E" title="Shinobi"/>
+  <Game id="E63J" title="Shinobi"/>
+  <Game id="E63P" title="Shinobi"/>
+  <Game id="E64J" title="Rolling Thunder 2"/>
+  <Game id="E65J" title="Valkyrie no Densetsu"/>
+  <Game id="E66J" title="Ordyne"/>
+  <Game id="E67J" title="Dig Dug"/>
+  <Game id="E68J" title="Galaga"/>
+  <Game id="E69J" title="Baraduke"/>
+  <Game id="E6AJ" title="Moon Cresta"/>
+  <Game id="E6BJ" title="Crazy Climber"/>
+  <Game id="E6CJ" title="Rompers"/>
+  <Game id="E6DJ" title="Toy Pop"/>
+  <Game id="E6EJ" title="Libble Rabble"/>
+  <Game id="E6FJ" title="Galaxian"/>
+  <Game id="E6GJ" title="Namco Quester"/>
+  <Game id="E6HJ" title="Face Off"/>
+  <Game id="E6IJ" title="Tank Force"/>
+  <Game id="E6JJ" title="Bakutotsu Kijuutei - Baraduke II"/>
+  <Game id="E6KJ" title="Chouzetsu Rinjin - Berabow Man"/>
+  <Game id="E6LJ" title="Maerchen Maze"/>
+  <Game id="E6ME" title="Tecmo Bowl"/>
+  <Game id="E6MJ" title="Tecmo Bowl"/>
+  <Game id="E6NE" title="Solomon's Key"/>
+  <Game id="E6NJ" title="Solomon's Key"/>
+  <Game id="E6NP" title="Solomon's Key"/>
+  <Game id="E6OJ" title="Bomb Jack"/>
+  <Game id="E6PE" title="Ninja Gaiden"/>
+  <Game id="E6PJ" title="Ninja Ryukenden"/>
+  <Game id="E6PP" title="Ninja Gaiden"/>
+  <Game id="E6QE" title="Rygar"/>
+  <Game id="E6QJ" title="Argus no Senshi"/>
+  <Game id="E6QP" title="Rygar"/>
+  <Game id="E6SJ" title="New Rally-X"/>
+  <Game id="E6VE" title="Zaxxon"/>
+  <Game id="E6VJ" title="Zaxxon"/>
+  <Game id="E6VP" title="Zaxxon"/>
+  <Game id="E6WE" title="黄金战斧(美)"/>
+  <Game id="E6WJ" title="Golden Axe"/>
+  <Game id="E6WP" title="黄金战斧(欧)"/>
+  <Game id="E6XE" title="Altered Beast"/>
+  <Game id="E6XJ" title="Jyuouki"/>
+  <Game id="E6XP" title="Altered Beast"/>
+  <Game id="E6YJ" title="Space Invaders"/>
+  <Game id="E6ZE" title="Star Force"/>
+  <Game id="E6ZJ" title="Star Force"/>
+  <Game id="E6ZP" title="Star Force"/>
+  <Game id="E72J" title="Star Blade"/>
+  <Game id="E73E" title="Mappy"/>
+  <Game id="E73J" title="Mappy"/>
+  <Game id="E73P" title="Mappy"/>
+  <Game id="E74J" title="Cosmo Gang - The Puzzle"/>
+  <Game id="E75J" title="Genpei Toumaden"/>
+  <Game id="E76J" title="Emeraldia"/>
+  <Game id="E77J" title="Ishtar no Fukkatsu"/>
+  <Game id="E78J" title="Solvalou"/>
+  <Game id="E79E" title="Gaplus"/>
+  <Game id="E79J" title="Gaplus"/>
+  <Game id="E79P" title="Gaplus"/>
+  <Game id="E7AJ" title="Grobda"/>
+  <Game id="E7BJ" title="Dig Dug II"/>
+  <Game id="E7CJ" title="Bosconian"/>
+  <Game id="E7EJ" title="Dragon Buster"/>
+  <Game id="E7FJ" title="Dragon Saber"/>
+  <Game id="E7GJ" title="Dragon Spirit"/>
+  <Game id="E7HJ" title="Xevious"/>
+  <Game id="E7IJ" title="Finest Hour"/>
+  <Game id="E7JJ" title="Knuckle Heads"/>
+  <Game id="E7KJ" title="Pac-Mania"/>
+  <Game id="E7LJ" title="Cosmo Gang - The Video"/>
+  <Game id="E7MJ" title="Phelios"/>
+  <Game id="E7NJ" title="Rolling Thunder"/>
+  <Game id="E7OJ" title="Burning Force"/>
+  <Game id="E7PJ" title="Marvel Land"/>
+  <Game id="E7QJ" title="Galaga '88"/>
+  <Game id="E7RJ" title="Wonder Momo"/>
+  <Game id="E7SJ" title="Assault"/>
+  <Game id="E7TJ" title="Hopping Mappy"/>
+  <Game id="E7UJ" title="Splatterhouse"/>
+  <Game id="E7VJ" title="Cyber Sled"/>
+  <Game id="E7WJ" title="Numan Athletics"/>
+  <Game id="E7XJ" title="Youkai Douchuuki"/>
+  <Game id="E7YJ" title="Sky Kid"/>
+  <Game id="E7ZE" title="The Tower of Druaga"/>
+  <Game id="E7ZJ" title="Druaga no Tou"/>
+  <Game id="E7ZP" title="The Tower of Druaga"/>
+  <Game id="C93E" title="Last Ninja 2 - Back with a Vengeance"/>
+  <Game id="C93P" title="Last Ninja 2 - Back with a Vengeance"/>
+  <Game id="C94E" title="Tower Toppler"/>
+  <Game id="C94P" title="Nebulus"/>
+  <Game id="C95P" title="Impossible Mission"/>
+  <Game id="C96E" title="Summer Games II"/>
+  <Game id="C96P" title="Summer Games II"/>
+  <Game id="C97E" title="California Games"/>
+  <Game id="C97P" title="California Games"/>
+  <Game id="C98P" title="Paradroid"/>
+  <Game id="C99P" title="Uridium"/>
+  <Game id="C9EP" title="Winter Games"/>
+  <Game id="C9GP" title="Mayhem in Monsterland"/>
+  <Game id="C9HE" title="Boulder Dash"/>
+  <Game id="C9HP" title="Boulder Dash"/>
+  <Game id="C9IE" title="Cybernoid - The Fighting Machine"/>
+  <Game id="C9IP" title="Cybernoid - The Fighting Machine"/>
+  <Game id="C9ME" title="Pitstop II"/>
+  <Game id="C9MJ" title="Pitstop Two"/>
+  <Game id="C9MP" title="Pitstop II"/>
+  <Game id="C9PP" title="Last Ninja 3 - Real Hatred is Timeless"/>
+  <Game id="C9QP" title="Jumpman"/>
+  <Game id="C9RP" title="International Karate +"/>
+  <Game id="C9SP" title="碟中谍(欧)"/>
+  <Game id="C9XE" title="The Last Ninja"/>
+  <Game id="C9XJ" title="The Last Ninja"/>
+  <Game id="C9XP" title="The Last Ninja"/>
+  <Game id="C9YE" title="International Karate"/>
+  <Game id="C9YJ" title="International Karate"/>
+  <Game id="C9YP" title="International Karate"/>
+  <Game id="C9ZP" title="World Games"/>
+  <Game id="XAAJ" title="Eggy"/>
+  <Game id="XABJ" title="Aleste"/>
+  <Game id="XADJ" title="Yie-Gah-koutei no Gyakush - Yie Ar Kung-Fu 2"/>
+  <Game id="XAEJ" title="Space Manbow"/>
+  <Game id="XAFJ" title="Metal Gear"/>
+  <Game id="XAGJ" title="Road Fighter"/>
+  <Game id="XAHJ" title="Yume Tairiku Adventure"/>
+  <Game id="XAIJ" title="Quarth"/>
+  <Game id="XAKJ" title="Parodius - Tako wa Chikyou wo Sukou"/>
+  <Game id="XALJ" title="Contra"/>
+  <Game id="XAMJ" title="Majou Densetsu"/>
+  <Game id="XANJ" title="Gradius 2"/>
+  <Game id="XAOJ" title="Gofer no Yabou - Episode II"/>
+  <Game id="XAPJ" title="Metal Gear 2 - Solid Snake"/>
+  <Game id="XAQJ" title="Salamander"/>
+  <Game id="5NEA" title="NWC24Editor"/>
+  <Game id="HAAA" title="照片频道"/>
+  <Game id="HABA" title="Wii购物频道"/>
+  <Game id="HABC" title="Wii购物频道"/>
+  <Game id="HABK" title="Wii Shopping Channel"/>
+  <Game id="HACA" title="Mii频道(欧)"/>
+  <Game id="HACC" title="Mii频道"/>
+  <Game id="HACK" title="Mii频道(韩)"/>
+  <Game id="HADE" title="网络频道(美)"/>
+  <Game id="HADJ" title="网络频道(日)"/>
+  <Game id="HADP" title="网络频道(欧)"/>
+  <Game id="HAFA" title="Forecast Channel"/>
+  <Game id="HAFE" title="天气频道(美)"/>
+  <Game id="HAFJ" title="天气频道(日)"/>
+  <Game id="HAFP" title="天气频道(欧)"/>
+  <Game id="HAGA" title="新闻频道(美)"/>
+  <Game id="HAGE" title="新闻频道(美)"/>
+  <Game id="HAGJ" title="新闻频道(日)"/>
+  <Game id="HAGP" title="新闻频道(欧)"/>
+  <Game id="HAJE" title="Everybody Votes Channel"/>
+  <Game id="HAJJ" title="Minna de Touhyou Channel"/>
+  <Game id="HAJP" title="Everybody Votes Channel"/>
+  <Game id="HAKC" title="使用协议"/>
+  <Game id="HAKE" title="User Agreements"/>
+  <Game id="HAKJ" title="Riyou Kiyaku"/>
+  <Game id="HAKK" title="Iyong Yaggwan"/>
+  <Game id="HAKP" title="Agreement/Contact"/>
+  <Game id="HALE" title="Region Select"/>
+  <Game id="HALJ" title="Region Select"/>
+  <Game id="HALK" title="Region Select"/>
+  <Game id="HALP" title="Region Select"/>
+  <Game id="HAPE" title="Mii交流频道(美)"/>
+  <Game id="HAPJ" title="Mii Contest Channel"/>
+  <Game id="HAPP" title="Mii交流频道(欧)"/>
+  <Game id="HATE" title="Nintendo Channel"/>
+  <Game id="HATJ" title="Minna no Nintendo Channel"/>
+  <Game id="HATP" title="Nintendo Channel"/>
+  <Game id="HAVJ" title="Kyou to Ashita no Uranai Lucky Channel"/>
+  <Game id="HAVK" title="Jeulgeoun Halu Unse Channel"/>
+  <Game id="HAVP" title="Today &amp; Tomorrow Channel"/>
+  <Game id="HAWE" title="Metroid Prime 3 Preview Channel"/>
+  <Game id="HAWP" title="Metroid Prime 3 Preview Channel"/>
+  <Game id="HAYA" title="照片频道"/>
+  <Game id="HAYC" title="照片频道"/>
+  <Game id="HAYK" title="Photo Channel"/>
+  <Game id="HBNJ" title="电视之友频道"/>
+  <Game id="HC2D" title="Watchever"/>
+  <Game id="HC3J" title="USB Flash Optimization"/>
+  <Game id="HC4E" title="Crunchyroll"/>
+  <Game id="HC4P" title="Crunchyroll"/>
+  <Game id="HCAJ" title="Daigassou! Brand Brothers DX Senyou Speaker Channel"/>
+  <Game id="HCAP" title="Jam with the Band Channel Live Channel"/>
+  <Game id="HCBJ" title="Photo Channel 1.0 Restore Program"/>
+  <Game id="HCCJ" title="地址设置"/>
+  <Game id="HCDJ" title="数码相机打印频道"/>
+  <Game id="HCFE" title="Wii Speak Channel"/>
+  <Game id="HCFJ" title="Wii Speak Channel"/>
+  <Game id="HCFK" title="Wii Speak Channel"/>
+  <Game id="HCFP" title="Wii Speak Channel"/>
+  <Game id="HCGE" title="Wii + Internet"/>
+  <Game id="HCGJ" title="Wii + Internet"/>
+  <Game id="HCGP" title="Wii &amp; the Internet"/>
+  <Game id="HCGX" title="Wii &amp; the Internet"/>
+  <Game id="HCHJ" title="送餐频道"/>
+  <Game id="HCIJ" title="Wii 房间"/>
+  <Game id="HCJP" title="BBC iPlayer"/>
+  <Game id="HCLE" title="Netflix系统安装盘(美)"/>
+  <Game id="HCLP" title="Netflix"/>
+  <Game id="HCMP" title="卡比电视频道"/>
+  <Game id="HCQE" title="Hulu Plus"/>
+  <Game id="HCQJ" title="Hulu"/>
+  <Game id="HCRE" title="The Legend of Zelda: Skyward Sword - Save Data Update Channel"/>
+  <Game id="HCRJ" title="Zelda Data Restoration Channel"/>
+  <Game id="HCRK" title="Data Boggu Channel"/>
+  <Game id="HCRP" title="The Legend of Zelda: Skyward Sword - Save Data Update Channel"/>
+  <Game id="HCSE" title="Wii U Transfer Tool"/>
+  <Game id="HCSJ" title="Wii U Transfer Tool"/>
+  <Game id="HCSP" title="Wii U Transfer Tool"/>
+  <Game id="HCTE" title="Wii System Transfer"/>
+  <Game id="HCTJ" title="Wii System Transfer"/>
+  <Game id="HCTP" title="Wii System Transfer"/>
+  <Game id="HCUE" title="Wii Menu Electronic Manual"/>
+  <Game id="HCUJ" title="Wii Menu Electronic Manual"/>
+  <Game id="HCUP" title="Wii Menu Electronic Manual"/>
+  <Game id="HCVA" title="Wii U Menu"/>
+  <Game id="HCWE" title="Amazon Instant Video"/>
+  <Game id="HCWP" title="Amazon Instant Video"/>
+  <Game id="HCXE" title="YouTube"/>
+  <Game id="HCXJ" title="YouTube"/>
+  <Game id="HCXP" title="YouTube"/>
+  <Game id="HCYE" title="Wii Menu Electronic Manual (Wii Mini)"/>
+  <Game id="HCYJ" title="Wii U Main Unit Update Repair Program"/>
+  <Game id="HCYP" title="Wii Menu Electronic Manual (Wii Mini)"/>
+  <Game id="HFNJ" title="Wii Fit Karada Check Channel"/>
+  <Game id="RFNE" title="Wii Fit Channel"/>
+  <Game id="RFNJ" title="Wii Fit Channel"/>
+  <Game id="RFNK" title="Wii Fit Channel"/>
+  <Game id="RFNP" title="Wii Fit Channel"/>
+  <Game id="RFNW" title="Wii Fit Channel"/>
+  <Game id="RFPE" title="Wii Fit Plus Channel"/>
+  <Game id="RFPJ" title="Wii Fit Plus Channel"/>
+  <Game id="RFPK" title="Wii Fit Plus Channel"/>
+  <Game id="RFPP" title="Wii Fit Plus Channel"/>
+  <Game id="RFPW" title="Wii Fit Plus Píndào"/>
+  <Game id="RGWE" title="Rabbids Channel"/>
+  <Game id="RGWJ" title="Rabbids Channel"/>
+  <Game id="RGWP" title="Rabbids Channel"/>
+  <Game id="RGWX" title="Rabbids Channel"/>
+  <Game id="RMCE" title="Mario Kart Channel"/>
+  <Game id="RMCJ" title="Mario Kart Channel"/>
+  <Game id="RMCK" title="Mario Kart Channel"/>
+  <Game id="RMCP" title="Mario Kart Channel"/>
+  <Game id="9XGX" title="SNES9x超任模拟器(美)"/>
+  <Game id="D01A" title="Wiimmfi Patcher"/>
+  <Game id="D02A" title="Engine02"/>
+  <Game id="D03A" title="BrainSlug Wii"/>
+  <Game id="D05A" title="Bash the Castle"/>
+  <Game id="D06A" title="Bit Streamer"/>
+  <Game id="D07A" title="BlisterBall"/>
+  <Game id="D08A" title="Blob Wars: Metal Blob Solid"/>
+  <Game id="D09A" title="Blobby Volley 2 Wii"/>
+  <Game id="D0AA" title="MPlayer Wii YouTube"/>
+  <Game id="D0BA" title="MPlayer Wii"/>
+  <Game id="D0CA" title="Ocarina"/>
+  <Game id="D0DA" title="MPlayer Dvdlib Edition"/>
+  <Game id="D0EA" title="MPlayer Wii by Rodries"/>
+  <Game id="D0FA" title="Signcheck"/>
+  <Game id="D0GA" title="GCBoot"/>
+  <Game id="D0HA" title="Memview"/>
+  <Game id="D0IA" title="IOS Check"/>
+  <Game id="D0JA" title="Open Sram Lang Modifier"/>
+  <Game id="D0KA" title="WiiBServer"/>
+  <Game id="D0LA" title="LibWiiGameLoad"/>
+  <Game id="D0MA" title="WiiReader"/>
+  <Game id="D0NA" title="lsusb"/>
+  <Game id="D0OA" title="Move the Pussy (Demo)"/>
+  <Game id="D0PA" title="Wiilax Minitro"/>
+  <Game id="D0QA" title="Fission Engine Project"/>
+  <Game id="D0RA" title="GRRLIB 4.0 (Demo)"/>
+  <Game id="D0SA" title="OSDM-BAR"/>
+  <Game id="D0TA" title="Homebrew Menu (Demo)"/>
+  <Game id="D0UA" title="LibMii Example"/>
+  <Game id="D0VA" title="The Scary (Demo)"/>
+  <Game id="D0WA" title="Starfield (Demo)"/>
+  <Game id="D0XA" title="Wire3D (Demo)"/>
+  <Game id="D0YA" title="Something"/>
+  <Game id="D0ZA" title="GRRLIB 4.3.0 Promote Intro"/>
+  <Game id="D10A" title="cIOSFix"/>
+  <Game id="D11A" title="ASCII Pong"/>
+  <Game id="D12A" title="BuscaWiinas"/>
+  <Game id="D13A" title="C-Dogs SDL"/>
+  <Game id="D14A" title="Castles of Dr. Creep"/>
+  <Game id="D15A" title="Wii Shop and IOS51 Installer"/>
+  <Game id="D16A" title="Centipede"/>
+  <Game id="D17A" title="Cobra Arcade"/>
+  <Game id="D18A" title="Dump Espresso OTP"/>
+  <Game id="D1LA" title="B.L.I.N.D."/>
+  <Game id="D1PA" title="1bit Invaders"/>
+  <Game id="D1RA" title="MinimaLauncher"/>
+  <Game id="D21A" title="Xroar"/>
+  <Game id="D22A" title="cIOS222 installer"/>
+  <Game id="D24A" title="24 Points"/>
+  <Game id="D26A" title="Wii2600"/>
+  <Game id="D2AA" title="Wii Deadly Cobra"/>
+  <Game id="D2BA" title="Jump N Bump"/>
+  <Game id="D2CA" title="WiiFlow Advanced"/>
+  <Game id="D2DA" title="Box2D Balls"/>
+  <Game id="D2EA" title="WiiFlow Start Configurator"/>
+  <Game id="D2GA" title="WAD Batch Installer"/>
+  <Game id="D2QA" title="Sqrxz 2"/>
+  <Game id="D2ZA" title="Console Shooter"/>
+  <Game id="D33A" title="Time Frack 2D"/>
+  <Game id="D36A" title="cIOS36 installer"/>
+  <Game id="D37A" title="WiiConnect"/>
+  <Game id="D38A" title="cIOS38 installer"/>
+  <Game id="D39A" title="Ctr Gts DacoTaco Edition"/>
+  <Game id="D3DA" title="Time Frack 3D"/>
+  <Game id="D3JA" title="NDSLoad"/>
+  <Game id="D3KA" title="Button Tester"/>
+  <Game id="D3LA" title="BootMii Booter"/>
+  <Game id="D3MA" title="Custom NAND Loader"/>
+  <Game id="D3OA" title="cIOS USB 2 Installer"/>
+  <Game id="D3QA" title="Sqrxz 3"/>
+  <Game id="D3WA" title="WarHeads: Scorched Earth"/>
+  <Game id="D40A" title="Luigi and the Island of Mystery"/>
+  <Game id="D42A" title="ArianeB"/>
+  <Game id="D43A" title="Wii Virtual Jaguar"/>
+  <Game id="D46A" title="Newo Escape"/>
+  <Game id="D4KA" title="Aleph WOne"/>
+  <Game id="D4LA" title="Yawnd"/>
+  <Game id="D4NA" title="Disc Dumper"/>
+  <Game id="D4PA" title="DVD Dumper"/>
+  <Game id="D4QA" title="Sqrxz 4"/>
+  <Game id="D4SA" title="USB Loader GUI FX"/>
+  <Game id="D51A" title="IOS51 Update"/>
+  <Game id="D52A" title="cboot252"/>
+  <Game id="D54A" title="cIOS PatchMii Installer"/>
+  <Game id="D55A" title="PID Extractor"/>
+  <Game id="D56A" title="Shopping Channel Fixer"/>
+  <Game id="D57A" title="Hijill GUI"/>
+  <Game id="D58A" title="Priiloader HacksDen Edition"/>
+  <Game id="D59A" title="TheUntitledProject"/>
+  <Game id="D5AA" title="Alarmii"/>
+  <Game id="D5BA" title="WiiFont"/>
+  <Game id="D5CA" title="cLoader"/>
+  <Game id="D5FA" title="Txted Mod"/>
+  <Game id="D5HA" title="Title Lister"/>
+  <Game id="D5JA" title="Tidy Up"/>
+  <Game id="D5LA" title="Switchtosneek"/>
+  <Game id="D5RA" title="Botoning"/>
+  <Game id="D60A" title="Ultimate USB Loader"/>
+  <Game id="D61A" title="Sand Traps Extra Levels"/>
+  <Game id="D62A" title="Newo Puzzle"/>
+  <Game id="D63A" title="3D Maze"/>
+  <Game id="D64A" title="任天堂N64模拟器(欧)"/>
+  <Game id="D65A" title="Transitory Vectors"/>
+  <Game id="D66A" title="Secret Maryo Chronicles"/>
+  <Game id="D68A" title="TheyDoNotDie2"/>
+  <Game id="D69A" title="IOS60 Installer"/>
+  <Game id="D6AA" title="Pussieloader"/>
+  <Game id="D6BA" title="Updatersafe"/>
+  <Game id="D6DA" title="Savegame Manager Mod"/>
+  <Game id="D6EA" title="Sneek FS Dumper"/>
+  <Game id="D6FA" title="AnyTitle Deleter Mod"/>
+  <Game id="D6HA" title="AnyTitle Deleter Mod DB"/>
+  <Game id="D6IA" title="DVD Info"/>
+  <Game id="D6KA" title="AnyTitle Deleter DB"/>
+  <Game id="D6MA" title="Banana Saves"/>
+  <Game id="D6OA" title="DOP Shop"/>
+  <Game id="D6QA" title="BootMii Checker"/>
+  <Game id="D6TA" title="MiiPlayer"/>
+  <Game id="D70A" title="Dungeon Crawl Stone Soup"/>
+  <Game id="D71A" title="Panic in the Mushroom Kingdom"/>
+  <Game id="D72A" title="Bfi"/>
+  <Game id="D78A" title="Wii7800"/>
+  <Game id="D79A" title="Newo Defence"/>
+  <Game id="D7AA" title="Action Replay Loader"/>
+  <Game id="D7DA" title="Depanbrew"/>
+  <Game id="D7GA" title="Channel Loader"/>
+  <Game id="D7KA" title="RawkSD"/>
+  <Game id="D7LA" title="Rumbler"/>
+  <Game id="D7MA" title="IS Wad"/>
+  <Game id="D7OA" title="Recovery Manager"/>
+  <Game id="D7QA" title="Reboot"/>
+  <Game id="D7SA" title="Childproof USB Loader"/>
+  <Game id="D7TA" title="Power Mii Off"/>
+  <Game id="D7VA" title="Power Off"/>
+  <Game id="D7WA" title="Abbaye des Morts"/>
+  <Game id="D7XA" title="NuGaSa"/>
+  <Game id="D7YA" title="Resistor"/>
+  <Game id="D81A" title="Newo Asteroids"/>
+  <Game id="D82A" title="cIOS PatchMii Installer with Korean Disc Support"/>
+  <Game id="D83A" title="Wii MFE Port"/>
+  <Game id="D84A" title="Gambol"/>
+  <Game id="D85A" title="Wii EDuke32"/>
+  <Game id="D86A" title="Firewii"/>
+  <Game id="D87A" title="Tick Tock Boat Race"/>
+  <Game id="D88A" title="Quasi88"/>
+  <Game id="D89A" title="Wiimote LED Flasher"/>
+  <Game id="D8AA" title="Front SD ELF Loader"/>
+  <Game id="D8BA" title="GameCube Homebrew Launcher"/>
+  <Game id="D8CA" title="WiiSend"/>
+  <Game id="D8DA" title="Menu"/>
+  <Game id="D8EA" title="Gecko Loader"/>
+  <Game id="D8FA" title="Shell"/>
+  <Game id="D8JA" title="Calc"/>
+  <Game id="D8QA" title="Brick OS"/>
+  <Game id="D8RA" title="Lotto"/>
+  <Game id="D8SA" title="Brainf**k"/>
+  <Game id="D8UA" title="TCPLoader"/>
+  <Game id="D8VA" title="Snort48"/>
+  <Game id="D8WA" title="Wiisixty"/>
+  <Game id="D8XA" title="All In One Emuloader"/>
+  <Game id="D8YA" title="Swissloader"/>
+  <Game id="D8ZA" title="Tick Tock Zombie Shooter"/>
+  <Game id="D91A" title="Jenny Thinks"/>
+  <Game id="D93A" title="WiiRayTracer"/>
+  <Game id="D94A" title="Nowhere"/>
+  <Game id="D95A" title="RenderMii"/>
+  <Game id="D96A" title="WiiMotionDemo"/>
+  <Game id="D97A" title="Fire"/>
+  <Game id="D98A" title="InstallMii"/>
+  <Game id="D99A" title="System Channels Updater"/>
+  <Game id="D9BA" title="Info"/>
+  <Game id="D9CA" title="cIOS USB2 Installer"/>
+  <Game id="D9FA" title="Dump"/>
+  <Game id="D9GA" title="Wad Creator"/>
+  <Game id="D9IA" title="SNES9xGX Channel Installer"/>
+  <Game id="D9KA" title="Txtread"/>
+  <Game id="D9LA" title="Forwarder"/>
+  <Game id="DA1A" title="Radianwars"/>
+  <Game id="DA2A" title="Moonstone: A Hard Days Night"/>
+  <Game id="DA3A" title="Wiitch"/>
+  <Game id="DA4A" title="arCard+Wii"/>
+  <Game id="DA6A" title="Automatii"/>
+  <Game id="DA7A" title="Astronomy"/>
+  <Game id="DA8A" title="Beer Belly Bill 3 Grillieren"/>
+  <Game id="DA9A" title="Achtung Wii Kurve"/>
+  <Game id="DAAA" title="WiiNetPuzzle"/>
+  <Game id="DAHA" title="Accio Hacks"/>
+  <Game id="DAMA" title="MegaCodeDownloader"/>
+  <Game id="DAPA" title="Map Maker"/>
+  <Game id="DARA" title="Anyregion Changer"/>
+  <Game id="DASA" title="Aspirin"/>
+  <Game id="DATA" title="AnyTitle Deleter"/>
+  <Game id="DATD" title="AnyTitle Deleter"/>
+  <Game id="DAVA" title="Avoidance"/>
+  <Game id="DAWA" title="Abuse Wii"/>
+  <Game id="DB0A" title="Spitits"/>
+  <Game id="DB2A" title="Mad Bomber"/>
+  <Game id="DB3A" title="Squarez"/>
+  <Game id="DB5A" title="mapbf"/>
+  <Game id="DB7A" title="Blacks Dash"/>
+  <Game id="DB9A" title="Robi"/>
+  <Game id="DBAA" title="BowFishing Action"/>
+  <Game id="DBBA" title="Balance Board Tools"/>
+  <Game id="DBCA" title="BootMii Configuration Editor"/>
+  <Game id="DBDA" title="Bluedump"/>
+  <Game id="DBEA" title="Beebem Wii"/>
+  <Game id="DBGA" title="BlastGuy"/>
+  <Game id="DBIA" title="Boot It"/>
+  <Game id="DBLA" title="BlueMSX-wii"/>
+  <Game id="DBMA" title="BootIOS"/>
+  <Game id="DBPA" title="Balance Board Pro"/>
+  <Game id="DBRA" title="WiiBrowser"/>
+  <Game id="DBSA" title="BrawlStats"/>
+  <Game id="DBTA" title="Bolt Thrower"/>
+  <Game id="DBUA" title="Buttoncast"/>
+  <Game id="DBWA" title="Reversmii"/>
+  <Game id="DBXA" title="Biniax 2"/>
+  <Game id="DC6A" title="Frodo (C64-network.org)"/>
+  <Game id="DC7A" title="Calculate"/>
+  <Game id="DCAA" title="WiiCasino"/>
+  <Game id="DCBA" title="CascadeBeneath"/>
+  <Game id="DCCA" title="ChristmasCountdown"/>
+  <Game id="DCDA" title="cIOS Downgrader"/>
+  <Game id="DCEA" title="Cheat Manager"/>
+  <Game id="DCFA" title="Coverfloader"/>
+  <Game id="DCGA" title="Ctr-Gcs"/>
+  <Game id="DCHA" title="Wii Chatter"/>
+  <Game id="DCIA" title="cIOS Installer"/>
+  <Game id="DCLA" title="Configurable USB Loader"/>
+  <Game id="DCMA" title="Wiicm"/>
+  <Game id="DCNA" title="Nandclean"/>
+  <Game id="DCOA" title="ConnectMii"/>
+  <Game id="DCPA" title="Splatter Castle"/>
+  <Game id="DCRA" title="都市打靶(欧)"/>
+  <Game id="DCSA" title="Cert.sys Extractor"/>
+  <Game id="DCTA" title="Christmas-Type Adventure Time"/>
+  <Game id="DCUA" title="cIOS Uninstaller"/>
+  <Game id="DCVA" title="WiiColEm"/>
+  <Game id="DCWA" title="WiiMC Channel Installer"/>
+  <Game id="DCXA" title="ComixChannel"/>
+  <Game id="DCYA" title="Cylinder Dodge"/>
+  <Game id="DD2A" title="Double Dash Wii"/>
+  <Game id="DD3A" title="Dario"/>
+  <Game id="DD5A" title="Dcvg5k"/>
+  <Game id="DD9A" title="Dungeons"/>
+  <Game id="DDAA" title="Darkcorp"/>
+  <Game id="DDBA" title="DOSBox Wii"/>
+  <Game id="DDCA" title="d2x cIOS Installer"/>
+  <Game id="DDDA" title="Disk Drive Lighter"/>
+  <Game id="DDEA" title="WiiModder"/>
+  <Game id="DDFA" title="Defendguin"/>
+  <Game id="DDHA" title="Homebrew Disc Launcher"/>
+  <Game id="DDIA" title="DiiLC"/>
+  <Game id="DDLA" title="磁盘装载软件(欧)"/>
+  <Game id="DDMA" title="龙媒播放器(欧)"/>
+  <Game id="DDOA" title="DOP-Mii"/>
+  <Game id="DDRA" title="顶级王牌 神秘博士(欧)"/>
+  <Game id="DDSA" title="DeSmuME"/>
+  <Game id="DDVA" title="Devolution"/>
+  <Game id="DDWA" title="DOP-Mii WiiBrew Edition"/>
+  <Game id="DE2A" title="Doubledown"/>
+  <Game id="DE5A" title="Pictogrid"/>
+  <Game id="DE7A" title="Commander Keen"/>
+  <Game id="DE9A" title="Wii Bash"/>
+  <Game id="DEAA" title="Headtracking (Demo)"/>
+  <Game id="DEBA" title="Pong Breaker"/>
+  <Game id="DEDA" title="Txted"/>
+  <Game id="DEEA" title="Eeeek Eeeeek Hooooook"/>
+  <Game id="DEFA" title="Fuse"/>
+  <Game id="DEHA" title="Chess"/>
+  <Game id="DEME" title="PunEmu"/>
+  <Game id="DEPA" title="Pacman"/>
+  <Game id="DERA" title="Elongated Reptile"/>
+  <Game id="DETA" title="MPlayer TT"/>
+  <Game id="DEWA" title="Wii Exhibit"/>
+  <Game id="DF0A" title="Mini FSToolbox"/>
+  <Game id="DF2A" title="Da ShAmAn"/>
+  <Game id="DF3A" title="Briickout"/>
+  <Game id="DF4A" title="Star Catching"/>
+  <Game id="DF5A" title="Strobe Alarm Clock"/>
+  <Game id="DF6A" title="Wii Quizz"/>
+  <Game id="DF7A" title="Chatnoir"/>
+  <Game id="DF8A" title="Trinary"/>
+  <Game id="DF9A" title="Chunk Munch"/>
+  <Game id="DFBA" title="Fsbrowser"/>
+  <Game id="DFEA" title="FlipEm"/>
+  <Game id="DFFA" title="Simple FS Dumper"/>
+  <Game id="DFGA" title="Smashing!"/>
+  <Game id="DFIA" title="FCE Ultra GX Channel Installer"/>
+  <Game id="DFLA" title="Starfall"/>
+  <Game id="DFMA" title="FMyLife"/>
+  <Game id="DFRA" title="FridgeMagnets"/>
+  <Game id="DFSA" title="FSToolbox"/>
+  <Game id="DFTA" title="FTP服务器(欧)"/>
+  <Game id="DFUA" title="Fuse"/>
+  <Game id="DG3A" title="Giddy 3"/>
+  <Game id="DG7A" title="WiiPeng"/>
+  <Game id="DG8A" title="Abusimbel Deluxe"/>
+  <Game id="DG9A" title="Garnatron"/>
+  <Game id="DGBA" title="GeexBox播放器(欧)"/>
+  <Game id="DGCA" title="GC备份加载器(欧)"/>
+  <Game id="DGEA" title="GeckoOS"/>
+  <Game id="DGFA" title="GuitarsOnFire"/>
+  <Game id="DGGA" title="Wii Rick Dangerous"/>
+  <Game id="DGIA" title="Gravitii"/>
+  <Game id="DGKA" title="ProjectGMC"/>
+  <Game id="DGMA" title="GCMM"/>
+  <Game id="DGPA" title="世嘉MD模拟器(欧)"/>
+  <Game id="DGSA" title="Shooting Gallery"/>
+  <Game id="DGWA" title="Goodbye World"/>
+  <Game id="DGXA" title="GxGeo"/>
+  <Game id="DH7A" title="Harmony's Nightmare"/>
+  <Game id="DH9A" title="Prophecy"/>
+  <Game id="DHBA" title="自制频道浏览器(欧)"/>
+  <Game id="DHCA" title="Hero City"/>
+  <Game id="DHDA" title="Hidtest"/>
+  <Game id="DHEA" title="Helium Boy"/>
+  <Game id="DHFA" title="Homebrew Filter"/>
+  <Game id="DHGA" title="HuGo-GX"/>
+  <Game id="DHHA" title="HHexen"/>
+  <Game id="DHIA" title="HackMii Installer"/>
+  <Game id="DHLA" title="Heli"/>
+  <Game id="DHMA" title="CharioMan"/>
+  <Game id="DHSA" title="Homebrew Sorter"/>
+  <Game id="DHTA" title="Hatari"/>
+  <Game id="DHWA" title="We Are Nowhere"/>
+  <Game id="DHXA" title="Hex"/>
+  <Game id="DI5A" title="Tanks"/>
+  <Game id="DI7A" title="ExistenzE"/>
+  <Game id="DI8A" title="IOS58 Installer"/>
+  <Game id="DI9A" title="Barrage"/>
+  <Game id="DIBA" title="Revolt of the Binary Couriers"/>
+  <Game id="DICA" title="Cubic"/>
+  <Game id="DIEA" title="EasyIOS"/>
+  <Game id="DIGA" title="Categorii"/>
+  <Game id="DIIA" title="iiii"/>
+  <Game id="DIMA" title="InspectMii"/>
+  <Game id="DINA" title="Mii Installer"/>
+  <Game id="DIRA" title="Ironing Maiden"/>
+  <Game id="DISA" title="Wii Supersonic"/>
+  <Game id="DITA" title="IOS236 Installer"/>
+  <Game id="DIXA" title="cIOSx installer"/>
+  <Game id="DJAA" title="Arcade Jigsaw"/>
+  <Game id="DJCA" title="JellyCar Wii"/>
+  <Game id="DJFA" title="Joyflow"/>
+  <Game id="DJJA" title="Jumping Jack"/>
+  <Game id="DJQA" title="宝石探秘(欧)"/>
+  <Game id="DJWA" title="Wii System Menu"/>
+  <Game id="DJZA" title="JzintvWii"/>
+  <Game id="DK1A" title="Karaokii"/>
+  <Game id="DK3A" title="Sketch Fight"/>
+  <Game id="DK4A" title="Drawingbox"/>
+  <Game id="DK6A" title="King of Fighters: Flames of Courage"/>
+  <Game id="DK7A" title="Uschtris"/>
+  <Game id="DKBA" title="RPG Baker"/>
+  <Game id="DKCA" title="Tick Tock Car Race"/>
+  <Game id="DKDA" title="Darkcube"/>
+  <Game id="DKHA" title="Katakana and Hiragana Practice"/>
+  <Game id="DKKA" title="KoreanKii"/>
+  <Game id="DKOA" title="Komopong"/>
+  <Game id="DKPA" title="Kidspaint"/>
+  <Game id="DKSA" title="Stppwii"/>
+  <Game id="DKTA" title="Taiko"/>
+  <Game id="DKWA" title="Kurushi"/>
+  <Game id="DL3A" title="Ballion"/>
+  <Game id="DL4A" title="LPairs"/>
+  <Game id="DL5A" title="Gameload"/>
+  <Game id="DL7A" title="LabClone"/>
+  <Game id="DLBA" title="My Little Ball"/>
+  <Game id="DLCA" title="Dance Clone"/>
+  <Game id="DLDA" title="Devilock"/>
+  <Game id="DLEA" title="Preloader"/>
+  <Game id="DLFA" title="LifeMii"/>
+  <Game id="DLGA" title="Gravity Glider"/>
+  <Game id="DLIA" title="Wii Mod Lite"/>
+  <Game id="DLLA" title="Lolicopocalypse"/>
+  <Game id="DLMA" title="自制程序装载器(欧)"/>
+  <Game id="DLNA" title="Lander"/>
+  <Game id="DLOA" title="Lightsout"/>
+  <Game id="DLPA" title="Lopan"/>
+  <Game id="DLTA" title="Leveltool"/>
+  <Game id="DLUA" title="WiiLauncher"/>
+  <Game id="DLXA" title="Linux Installer"/>
+  <Game id="DM0A" title="Pom"/>
+  <Game id="DM5A" title="Missle Command"/>
+  <Game id="DM7A" title="Matches"/>
+  <Game id="DM9A" title="CheckRegion"/>
+  <Game id="DMAA" title="Mame Wii"/>
+  <Game id="DMBA" title="Multiboot(美)"/>
+  <Game id="DMCA" title="CleanRip Mod"/>
+  <Game id="DMDA" title="Wii Mod"/>
+  <Game id="DMEA" title="Mii Extractor"/>
+  <Game id="DMFA" title="WiiMednafen"/>
+  <Game id="DMGA" title="Mighty Channels"/>
+  <Game id="DMHA" title="NanoMechas"/>
+  <Game id="DMIA" title="DIOS MIOS Booter"/>
+  <Game id="DMJA" title="自制 麻将 Wii(欧)"/>
+  <Game id="DMLA" title="Mighty Loader"/>
+  <Game id="DMMA" title="我的自制菜单(美)"/>
+  <Game id="DMNA" title="Magic Number"/>
+  <Game id="DMOA" title="cMIOS installer"/>
+  <Game id="DMPA" title="MPlayerCE播放器(欧)"/>
+  <Game id="DMRA" title="MIOS Patcher"/>
+  <Game id="DMSA" title="ShutMiiReboot"/>
+  <Game id="DMTA" title="Metronome"/>
+  <Game id="DMUA" title="Multi Mod Manager"/>
+  <Game id="DMWA" title="WakeMiiUp"/>
+  <Game id="DN0A" title="Thatother"/>
+  <Game id="DN6A" title="Not64"/>
+  <Game id="DN7A" title="Alien Breed"/>
+  <Game id="DN9A" title="Point and No Click"/>
+  <Game id="DNAA" title="Ncard"/>
+  <Game id="DNCA" title="NeoCD-Wii"/>
+  <Game id="DNDA" title="Nintendont"/>
+  <Game id="DNEA" title="Gravity"/>
+  <Game id="DNGA" title="NeoGammA加载器(欧)"/>
+  <Game id="DNHA" title="Headings"/>
+  <Game id="DNIA" title="Bugin"/>
+  <Game id="DNKA" title="Neko Project II"/>
+  <Game id="DNMA" title="Newo Model Viewer"/>
+  <Game id="DNNA" title="Save installer"/>
+  <Game id="DNOA" title="O.T.T.F."/>
+  <Game id="DNPA" title="NeoPopWii"/>
+  <Game id="DNRA" title="Newo Runner"/>
+  <Game id="DNSA" title="Newo Shooter"/>
+  <Game id="DNTA" title="NeoTanks"/>
+  <Game id="DNUA" title="Wii Donut"/>
+  <Game id="DNWA" title="Nowell"/>
+  <Game id="DO2A" title="O2EM"/>
+  <Game id="DO3A" title="Three Point O"/>
+  <Game id="DO4A" title="MTP"/>
+  <Game id="DO5A" title="Planet Hively"/>
+  <Game id="DO6A" title="Mini MP3 Player"/>
+  <Game id="DOCA" title="Code Downloader"/>
+  <Game id="DOEA" title="ShowTest"/>
+  <Game id="DOGA" title="MazeOfGaliousWii"/>
+  <Game id="DOHA" title="HighOctane"/>
+  <Game id="DOIA" title="Neogamma IOS Switcher"/>
+  <Game id="DOMA" title="Mole"/>
+  <Game id="DONA" title="Offline Network Enabler"/>
+  <Game id="DOOA" title="Doom"/>
+  <Game id="DOPA" title="PowerCheck"/>
+  <Game id="DORA" title="Rebooter"/>
+  <Game id="DOTA" title="OpenTTD"/>
+  <Game id="DP0A" title="Starplit"/>
+  <Game id="DP1A" title="Italian Parking"/>
+  <Game id="DP2A" title="Pong2"/>
+  <Game id="DP3A" title="Inkpoly"/>
+  <Game id="DP4A" title="Piirates"/>
+  <Game id="DP5A" title="Pix"/>
+  <Game id="DP6A" title="IOS36 Patcher"/>
+  <Game id="DP7A" title="Brawl+ Updatifier"/>
+  <Game id="DP8A" title="Timeless"/>
+  <Game id="DP9A" title="Alien Puzzle Wii"/>
+  <Game id="DPAA" title="WiiPaintBall"/>
+  <Game id="DPBA" title="Priibootergui"/>
+  <Game id="DPCA" title="Cherophobe"/>
+  <Game id="DPEA" title="PieChart"/>
+  <Game id="DPFA" title="Pwiictogrid"/>
+  <Game id="DPGA" title="Pingus"/>
+  <Game id="DPIA" title="Patched IOS 80 Installer for vWii"/>
+  <Game id="DPJA" title="Project M Launcher"/>
+  <Game id="DPKA" title="Physco"/>
+  <Game id="DPLA" title="Priiloader(欧)"/>
+  <Game id="DPMA" title="Music Painter"/>
+  <Game id="DPNA" title="RPG Pineapple Apocalypse"/>
+  <Game id="DPOA" title="Postloader"/>
+  <Game id="DPPA" title="Project Panic"/>
+  <Game id="DPRA" title="PlasmaRaketti"/>
+  <Game id="DPSA" title="Playstats"/>
+  <Game id="DPTA" title="Two Point Five"/>
+  <Game id="DPVA" title="PattView Wii"/>
+  <Game id="DPWA" title="Pimp my Wii"/>
+  <Game id="DQ1A" title="Q1rev"/>
+  <Game id="DQ2A" title="Q2rev"/>
+  <Game id="DQ6A" title="Light"/>
+  <Game id="DQ7A" title="Quake"/>
+  <Game id="DQ8A" title="LuaFWii"/>
+  <Game id="DQ9A" title="Wiihttpd"/>
+  <Game id="DQBA" title="Bible Quiz"/>
+  <Game id="DQCA" title="Q2ctfrev"/>
+  <Game id="DQRA" title="Qrevpak"/>
+  <Game id="DQWA" title="Quakegx"/>
+  <Game id="DR0A" title="Rokoban"/>
+  <Game id="DR1A" title="Wii Whiteboard"/>
+  <Game id="DR3A" title="Death Star Run"/>
+  <Game id="DR4A" title="Rock Paper Scissors"/>
+  <Game id="DR5A" title="Briicks"/>
+  <Game id="DR6A" title="Reader"/>
+  <Game id="DR7A" title="RockBlueMet"/>
+  <Game id="DR8A" title="Operation"/>
+  <Game id="DR9A" title="PixelPlot"/>
+  <Game id="DRAA" title="RetroArch-Wii"/>
+  <Game id="DRBA" title="Rock Band 2 WAD Installer"/>
+  <Game id="DRCA" title="Wiicross"/>
+  <Game id="DRDA" title="Drawmii"/>
+  <Game id="DREA" title="WiiRecipe"/>
+  <Game id="DRFA" title="Radiofeeds"/>
+  <Game id="DRGA" title="Reggie Dumper"/>
+  <Game id="DRIA" title="CleanRip"/>
+  <Game id="DRKA" title="Robotfindskitten"/>
+  <Game id="DRMA" title="Mr. Sitwell"/>
+  <Game id="DROA" title="SlimeRoll"/>
+  <Game id="DRPA" title="Marcos Lopez Part II"/>
+  <Game id="DRRA" title="Riiper"/>
+  <Game id="DRSA" title="RedSquare"/>
+  <Game id="DRTA" title="Tetris Custom"/>
+  <Game id="DRUA" title="Radiofeeds Updater"/>
+  <Game id="DRVA" title="Residualvm"/>
+  <Game id="DRWA" title="Winterman"/>
+  <Game id="DRZA" title="Zerace"/>
+  <Game id="DS0A" title="ShootMii"/>
+  <Game id="DS1A" title="Another Rock Paper Scissors"/>
+  <Game id="DS2A" title="Swingball2"/>
+  <Game id="DS3A" title="Senet"/>
+  <Game id="DS4A" title="Sar"/>
+  <Game id="DS5A" title="Snaketwo"/>
+  <Game id="DS6A" title="Scogger"/>
+  <Game id="DS7A" title="Swing Ball"/>
+  <Game id="DS8A" title="Scape"/>
+  <Game id="DS9A" title="Minesweeper"/>
+  <Game id="DSAA" title="Schism Tracker"/>
+  <Game id="DSBA" title="SpaceBubble"/>
+  <Game id="DSCA" title="Softchip"/>
+  <Game id="DSDA" title="SuperDump 1.3(美)"/>
+  <Game id="DSEA" title="Settings Editor GUI"/>
+  <Game id="DSFA" title="Sciifii"/>
+  <Game id="DSGA" title="SaveGame Manager"/>
+  <Game id="DSHA" title="SysCheck HacksDen Edition"/>
+  <Game id="DSIA" title="Simple IOS Patcher"/>
+  <Game id="DSKA" title="SockDreams"/>
+  <Game id="DSLA" title="Wii Stella"/>
+  <Game id="DSMA" title="世嘉SMS模拟器(欧)"/>
+  <Game id="DSOA" title="Bermuda Syndrome Wii"/>
+  <Game id="DSPA" title="Super Star Shooter"/>
+  <Game id="DSQA" title="Sqrxz"/>
+  <Game id="DSRA" title="WiiStrobe"/>
+  <Game id="DSSA" title="RSSMii"/>
+  <Game id="DSTA" title="Wii纸牌(欧)"/>
+  <Game id="DSUA" title="Super Mario War"/>
+  <Game id="DSVA" title="ScummVM模拟器(美)"/>
+  <Game id="DSWA" title="SuperTux Wii"/>
+  <Game id="DSXA" title="Super Pixel Jumper"/>
+  <Game id="DSYA" title="SysCheck"/>
+  <Game id="DT0A" title="Tower Defense"/>
+  <Game id="DT1A" title="Turnip"/>
+  <Game id="DT2A" title="Matching Cards"/>
+  <Game id="DT3A" title="Bichejos"/>
+  <Game id="DT4A" title="Soduku"/>
+  <Game id="DT5A" title="Poker"/>
+  <Game id="DT6A" title="Simon"/>
+  <Game id="DT7A" title="TheyDoNotDie"/>
+  <Game id="DTAA" title="Wii-Tac-Toe"/>
+  <Game id="DTCA" title="The Catachthonic"/>
+  <Game id="DTDA" title="Descent"/>
+  <Game id="DTEA" title="Topedit"/>
+  <Game id="DTFA" title="模拟NAND中游戏运行器(美)"/>
+  <Game id="DTGA" title="RiiTag"/>
+  <Game id="DTHA" title="Heretic"/>
+  <Game id="DTIA" title="Wiitriis"/>
+  <Game id="DTJA" title="Trojan"/>
+  <Game id="DTKA" title="Tick Tock Tank Fight"/>
+  <Game id="DTLA" title="TailTale"/>
+  <Game id="DTMA" title="Tetrominos"/>
+  <Game id="DTNA" title="Tunnel"/>
+  <Game id="DTOA" title="Tong"/>
+  <Game id="DTPA" title="Paintown"/>
+  <Game id="DTRA" title="Trucha Bug Restorer"/>
+  <Game id="DTSA" title="Desert Bus"/>
+  <Game id="DTTA" title="Toddtris"/>
+  <Game id="DTWA" title="WiiTweet"/>
+  <Game id="DTXA" title="Texttris"/>
+  <Game id="DU0A" title="DumpMiiNAND"/>
+  <Game id="DU7A" title="Uno"/>
+  <Game id="DU8A" title="RealWnd"/>
+  <Game id="DU9A" title="Harmonium"/>
+  <Game id="DUAA" title="UAE Wii"/>
+  <Game id="DUBA" title="Multibu"/>
+  <Game id="DUDA" title="Duck Hunt"/>
+  <Game id="DUGA" title="Guitar Fun"/>
+  <Game id="DUIA" title="ChessUI"/>
+  <Game id="DULA" title="USB Loader GX"/>
+  <Game id="DUNA" title="Uname"/>
+  <Game id="DUSA" title="bootOperaModUSB"/>
+  <Game id="DUTG" title="DU Tag Channel"/>
+  <Game id="DUWA" title="Waninkoko's USB Loader"/>
+  <Game id="DV0A" title="Remove Preloader Hacks"/>
+  <Game id="DV3A" title="DVD Browser"/>
+  <Game id="DV9A" title="SensorMii"/>
+  <Game id="DVDA" title="cIOS DVD Dumper"/>
+  <Game id="DVGA" title="The Video Game"/>
+  <Game id="DVHA" title="Horror Vacui"/>
+  <Game id="DVIA" title="Vbagx Channel Installer"/>
+  <Game id="DVLA" title="Vigiroth le livreur"/>
+  <Game id="DVNA" title="WiiVNC"/>
+  <Game id="DVOA" title="Vectoroids"/>
+  <Game id="DVPA" title="Progressiveswitch"/>
+  <Game id="DVSA" title="GameCube Saver"/>
+  <Game id="DVXA" title="VectrexWii"/>
+  <Game id="DW1A" title="Intuitwars"/>
+  <Game id="DW5A" title="Marel"/>
+  <Game id="DW6A" title="Wiicraft"/>
+  <Game id="DW7A" title="Ravewild"/>
+  <Game id="DWAA" title="WiiApple"/>
+  <Game id="DWBA" title="WiirtualBoy"/>
+  <Game id="DWCA" title="WiiFlow Channel Installer"/>
+  <Game id="DWDA" title="WiiFlow Banner Downloader"/>
+  <Game id="DWEA" title="Wii地球(欧)"/>
+  <Game id="DWFA" title="WiiFlow"/>
+  <Game id="DWHA" title="WiiHandySDL"/>
+  <Game id="DWIA" title="Wii Donut"/>
+  <Game id="DWJA" title="Jewel"/>
+  <Game id="DWKA" title="Wiibreaker"/>
+  <Game id="DWLA" title="Wii-Linux"/>
+  <Game id="DWMA" title="Wad管理器 v1.5(美)"/>
+  <Game id="DWNA" title="Nwancat"/>
+  <Game id="DWPA" title="WiiPhysics"/>
+  <Game id="DWRA" title="Wii电台(美)"/>
+  <Game id="DWSA" title="WiiSX"/>
+  <Game id="DWTA" title="Wiituka"/>
+  <Game id="DWUA" title="Wufe"/>
+  <Game id="DWWA" title="Winters End"/>
+  <Game id="DWXA" title="Wii资源管理器(欧)"/>
+  <Game id="DX3A" title="Midway Space Invaders Emulator"/>
+  <Game id="DX4A" title="Brawl DX Launcher"/>
+  <Game id="DX5A" title="MP3+G Player"/>
+  <Game id="DX6A" title="Build Blocks"/>
+  <Game id="DX7A" title="Roxoptr2"/>
+  <Game id="DX8A" title="Hexen"/>
+  <Game id="DX9A" title="Sand Traps"/>
+  <Game id="DXBA" title="WiiX-Ball"/>
+  <Game id="DXCA" title="CorsixTH"/>
+  <Game id="DXDA" title="DVDX"/>
+  <Game id="DXEA" title="SDExplorer"/>
+  <Game id="DXHA" title="Texas Holdem Poker"/>
+  <Game id="DXIA" title="Piixelator"/>
+  <Game id="DXLA" title="WiiXL"/>
+  <Game id="DXNA" title="bootnetflix"/>
+  <Game id="DXPA" title="Xeempongwii"/>
+  <Game id="DXQA" title="Quadrax"/>
+  <Game id="DXSA" title="Save Extractor"/>
+  <Game id="DXTA" title="The Lone Pixel"/>
+  <Game id="DXXA" title="Hexxagon"/>
+  <Game id="DXYA" title="xyzzy"/>
+  <Game id="DXZA" title="Megazeux"/>
+  <Game id="DY5A" title="Darkcorp Lite"/>
+  <Game id="DY6A" title="Liqwiid Wars"/>
+  <Game id="DY9A" title="TetWiis"/>
+  <Game id="DYAA" title="Syasokoban"/>
+  <Game id="DYBA" title="Yabause"/>
+  <Game id="DYCA" title="Tetricycle"/>
+  <Game id="DYEA" title="Epilepsii"/>
+  <Game id="DYGA" title="Yog"/>
+  <Game id="DYHA" title="Hypno Blast"/>
+  <Game id="DYIA" title="Chippy"/>
+  <Game id="DYMA" title="YAWMM"/>
+  <Game id="DYOA" title="Toy Wars"/>
+  <Game id="DYPA" title="PongYourWii"/>
+  <Game id="DYSA" title="Shiny tank"/>
+  <Game id="DYTA" title="Newo Tokyo"/>
+  <Game id="DYUA" title="UFO Racer"/>
+  <Game id="DYWA" title="Yahtzwii"/>
+  <Game id="DYYA" title="System Setting Replace Tool"/>
+  <Game id="DZ0A" title="Eject"/>
+  <Game id="DZ7A" title="SameGame"/>
+  <Game id="DZ8A" title="WiiMPC"/>
+  <Game id="DZ9A" title="Teeter Torture"/>
+  <Game id="DZIA" title="Ziip"/>
+  <Game id="DZPA" title="Puzsion"/>
+  <Game id="DZQA" title="Quizz"/>
+  <Game id="DZRA" title="Rezerwar"/>
+  <Game id="DZSA" title="Szigoy"/>
+  <Game id="DZXA" title="FBZX Wii"/>
+  <Game id="DZYA" title="Snake Two"/>
+  <Game id="DZZA" title="OpenJazz"/>
+  <Game id="FCEU" title="FCE Ultra任天堂FC模拟器(欧)"/>
+  <Game id="HACS" title="Mii Channel Symbols"/>
+  <Game id="HWFL" title="HackWiiFlow"/>
+  <Game id="JODI" title="自制频道(欧)"/>
+  <Game id="LULZ" title="自制频道(欧)"/>
+  <Game id="MAUI" title="Backup Homebrew Channel"/>
+  <Game id="NK2O" title="Neek2o"/>
+  <Game id="NZXM" title="Super Mario 64 Multiplayer"/>
+  <Game id="OHBC" title="自制频道(欧)"/>
+  <Game id="PLUS" title="WiiMC+"/>
+  <Game id="PXWE" title="Project X:  Love Potion Disaster"/>
+  <Game id="RIIV" title="Riivolution"/>
+  <Game id="RMCX" title="CTGP Revolution Channel"/>
+  <Game id="SEGA" title="Genesis Plus GX"/>
+  <Game id="SMGX" title="SaveGame Manager GX"/>
+  <Game id="SNTX" title="Snes9x TX"/>
+  <Game id="SOMA" title="Sonic Mania"/>
+  <Game id="STUX" title="Super Tux Wii Edition"/>
+  <Game id="ULFW" title="uLoader"/>
+  <Game id="UNEO" title="USB Loader GX"/>
+  <Game id="VBGX" title="VBA模拟器(欧)"/>
+  <Game id="WIMC" title="WiiMC"/>
+  <Game id="WMH1" title="Mother 1+2+3"/>
+  <Game id="WN64" title="Wii64"/>
+  <Game id="WPSX" title="WiiSX"/>
+</Game-List>
