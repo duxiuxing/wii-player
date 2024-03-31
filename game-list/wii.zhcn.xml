@@ -288,7 +288,7 @@
   <Game id="R68E5G" zhcn="去玩吧 城市运动(美)"/>
   <Game id="R69E36" zhcn="尘埃2(美)"/>
   <Game id="R69P36" zhcn="尘埃2(欧)"/>
-  <Game id="R6APPU" zhcn="宝贝和我[平衡板](欧)"/>
+  <Game id="R6APPU" zhcn="宝贝和我(欧)"/>
   <Game id="R6BE78" zhcn="颜料宝贝(美)"/>
   <Game id="R6BJ78" zhcn="颜料宝贝(日)"/>
   <Game id="R6BK78" zhcn="颜料宝贝(韩)"/>
@@ -402,7 +402,7 @@
   <Game id="R8AJ01" zhcn="宝可梦公园Wii 皮卡丘的大冒险(日或中)"/>
   <Game id="R8AP01" zhcn="口袋乐园 皮卡丘历险记(欧)"/>
   <Game id="R8BE41" zhcn="保姆派对(美)"/>
-  <Game id="R8BP41" zhcn="保姆派对[平衡板](欧)"/>
+  <Game id="R8BP41" zhcn="保姆派对(欧)"/>
   <Game id="R8DEA4" zhcn="游戏王5D's 决斗狂热者[WiFi](美)"/>
   <Game id="R8DJA4" zhcn="游戏王5D's 决斗狂热者(日或中)"/>
   <Game id="R8DPA4" zhcn="游戏王5D's 决斗狂热者[WiFi](欧)"/>
@@ -491,7 +491,7 @@
   <Game id="R9TJ13" zhcn="泰格伍兹高尔夫巡回赛09(日)"/>
   <Game id="R9TK69" zhcn="泰格伍兹高尔夫巡回赛09[WiFi](韩)"/>
   <Game id="R9TP69" zhcn="泰格伍兹高尔夫巡回赛09[WiFi](欧)"/>
-  <Game id="R9UE52" zhcn="熊熊工坊 友谊谷(美)"/>
+  <Game id="R9UE52" zhcn="熊熊工作室 友谊谷(美)"/>
   <Game id="R9UPGY" zhcn="熊熊工作室 友谊谷(欧)"/>
   <Game id="R9VE52" zhcn="坎贝拉野外冒险2010(美)"/>
   <Game id="R9WPSP" zhcn="WSC真实09世界斯诺克大奖赛(欧)"/>
@@ -508,16 +508,16 @@
   <Game id="RB4P08" zhcn="生化危机4(欧)"/>
   <Game id="RB4X08" zhcn="生化危机4(X)"/>
   <Game id="RB5E41" zhcn="战火兄弟连 浴血奋战(美)"/>
-  <Game id="RB5P41" zhcn="战火兄弟连 双重时间(欧)"/>
+  <Game id="RB5P41" zhcn="战火兄弟连 浴血奋战(欧)"/>
   <Game id="RB6J18" zhcn="炸弹人(日)"/>
   <Game id="RB7E54" zhcn="恶霸鲁尼 学院风云(美)"/>
   <Game id="RB7P54" zhcn="恶霸鲁尼 学院风云(欧)"/>
   <Game id="RB8E70" zhcn="后院棒球09(美)"/>
-  <Game id="RB9D78" zhcn="布拉兹娃娃电影版(德)"/>
-  <Game id="RB9E78" zhcn="布拉兹娃娃电影版(美)"/>
-  <Game id="RB9P78" zhcn="布拉兹娃娃电影版(欧)"/>
-  <Game id="RB9X78" zhcn="布拉兹娃娃电影版(欧)"/>
-  <Game id="RB9Y78" zhcn="布拉兹娃娃电影版(欧)"/>
+  <Game id="RB9D78" zhcn="贝兹娃娃电影版(德)"/>
+  <Game id="RB9E78" zhcn="贝兹娃娃电影版(美)"/>
+  <Game id="RB9P78" zhcn="贝兹娃娃电影版(欧)"/>
+  <Game id="RB9X78" zhcn="贝兹娃娃电影版(X)"/>
+  <Game id="RB9Y78" zhcn="贝兹娃娃电影版(Y)"/>
   <Game id="RBAE41" zhcn="炽天使 二战空骑兵(美)"/>
   <Game id="RBAP41" zhcn="炽天使 二战空骑兵(欧)"/>
   <Game id="RBBE18" zhcn="炸弹人乐园(美)"/>
@@ -535,29 +535,29 @@
   <Game id="RBHJ08" zhcn="生化危机0(日或中)"/>
   <Game id="RBHP08" zhcn="生化危机0(欧)"/>
   <Game id="RBIEE9" zhcn="牧场物语 欢乐动物进行曲(美)"/>
-  <Game id="RBIJ99" zhcn="牧场物语 欢乐动物进行曲[WiFi](日)"/>
+  <Game id="RBIJ99" zhcn="牧场物语 欢乐动物进行曲(日)"/>
   <Game id="RBIP99" zhcn="牧场物语 欢乐动物进行曲[WiFi](欧)"/>
   <Game id="RBKE69" zhcn="轰炸方块(美)"/>
   <Game id="RBKJ13" zhcn="轰炸方块(日)"/>
-  <Game id="RBKK69" zhcn="轰炸方块[WiFi](韩)"/>
-  <Game id="RBKP69" zhcn="轰炸方块[WiFi](欧)"/>
+  <Game id="RBKK69" zhcn="轰炸方块(韩)"/>
+  <Game id="RBKP69" zhcn="轰炸方块(欧)"/>
   <Game id="RBLE8P" zhcn="死神 白刃闪耀圆舞曲(美)"/>
   <Game id="RBLJ8P" zhcn="死神 白刃闪耀圆舞曲(日)"/>
   <Game id="RBLP8P" zhcn="死神 白刃闪耀圆舞曲(欧)"/>
   <Game id="RBME5G" zhcn="泡泡龙(美)"/>
   <Game id="RBMPGT" zhcn="泡泡龙(欧)"/>
   <Game id="RBNEG9" zhcn="少年骇客 地球保卫者(美)"/>
-  <Game id="RBNPG9" zhcn="Ben 10 守护地球(欧)"/>
-  <Game id="RBNXG9" zhcn="Ben 10 守护地球(X)"/>
+  <Game id="RBNPG9" zhcn="少年骇客 地球保卫者(欧)"/>
+  <Game id="RBNXG9" zhcn="少年骇客 地球保卫者(X)"/>
   <Game id="RBOE69" zhcn="布吉摇摆(美)"/>
   <Game id="RBOP69" zhcn="布吉摇摆(欧)"/>
   <Game id="RBPE4Z" zhcn="布朗斯威克 职业保龄球赛(美)"/>
   <Game id="RBPPGT" zhcn="布朗斯威克 职业保龄球赛(欧)"/>
   <Game id="RBQENR" zhcn="经典英式赛车(美)"/>
   <Game id="RBQPUG" zhcn="经典英式赛车(欧)"/>
-  <Game id="RBRE5G" zhcn="轰炸使命[WiFi](美)"/>
-  <Game id="RBRP5G" zhcn="轰炸使命[WiFi](欧)"/>
-  <Game id="RBRX5G" zhcn="轰炸作业 建造 融化 摧毁(欧)"/>
+  <Game id="RBRE5G" zhcn="轰炸使命(美)"/>
+  <Game id="RBRP5G" zhcn="轰炸使命(欧)"/>
+  <Game id="RBRX5G" zhcn="轰炸使命(X)"/>
   <Game id="RBSJ08" zhcn="战国 BASARA 2 英雄外传A(日)"/>
   <Game id="RBTE8P" zhcn="钓鱼高手(美)"/>
   <Game id="RBTJ8P" zhcn="钓鱼高手(日)"/>
@@ -570,7 +570,7 @@
   <Game id="RBVP52" zhcn="芭比 森林公主(欧)"/>
   <Game id="RBWE01" zhcn="军队战争2(美)"/>
   <Game id="RBWJ01" zhcn="军队战争2[WiFi](日)"/>
-  <Game id="RBWP01" zhcn="军队战争2[WiFi](欧)"/>
+  <Game id="RBWP01" zhcn="军队战争2(欧)"/>
   <Game id="RBXJ8P" zhcn="死神 对决十刃(日)"/>
   <Game id="RBYE78" zhcn="疯狂农庄(美)"/>
   <Game id="RBYJ78" zhcn="疯狂农庄(日)"/>
@@ -645,7 +645,7 @@
   <Game id="RCVE41" zhcn="孤岛惊魂 复仇(美)"/>
   <Game id="RCVP41" zhcn="孤岛惊魂 复仇(欧)"/>
   <Game id="RCXE78" zhcn="全明星拉拉队(美)"/>
-  <Game id="RCXP78" zhcn="全明星拉拉队[平衡板](欧)"/>
+  <Game id="RCXP78" zhcn="全明星拉拉队(欧)"/>
   <Game id="RCXX78" zhcn="全明星拉拉队(X)"/>
   <Game id="RCYPGN" zhcn="切格的聚会迷题(欧)"/>
   <Game id="RD2E41" zhcn="赤铁2[MP](美)"/>
@@ -996,7 +996,7 @@
   <Game id="RI6P41" zhcn="夏季运动聚会(欧)"/>
   <Game id="RI7E4Z" zhcn="怪物大破坏 创建和战斗(美)"/>
   <Game id="RI8E41" zhcn="战火兄弟连 进军30高地(美)"/>
-  <Game id="RI8P41" zhcn="战火兄弟连 双重时间(欧)"/>
+  <Game id="RI8P41" zhcn="战火兄弟连 进军30高地(欧)"/>
   <Game id="RI9EGT" zhcn="天后女孩 冰上公主(美)"/>
   <Game id="RI9PGT" zhcn="天后女孩 冰上公主[平衡板](欧)"/>
   <Game id="RIAE52" zhcn="冰河世纪3 恐龙的黎明(美)"/>
@@ -1222,7 +1222,7 @@
   <Game id="RLTXUG" zhcn="伦敦出租车 高峰时间(X)"/>
   <Game id="RLUE4Q" zhcn="闪电狗(美)"/>
   <Game id="RLUP4Q" zhcn="闪电狗(欧)"/>
-  <Game id="RLUR4Q" zhcn="Bolt"/>
+  <Game id="RLUR4Q" zhcn="闪电狗(俄)"/>
   <Game id="RLUX4Q" zhcn="闪电狗(X)"/>
   <Game id="RLUY4Q" zhcn="闪电狗(Y)"/>
   <Game id="RLVE78" zhcn="降世神通最后的空气大师(美)"/>
@@ -1478,7 +1478,7 @@
   <Game id="RP2P69" zhcn="冷知识游戏(欧)"/>
   <Game id="RP3JAF" zhcn="高尔夫球选手猿(日)"/>
   <Game id="RP4E69" zhcn="我的模拟聚会(美)"/>
-  <Game id="RP4J13" zhcn="我的模拟聚会[WiFi](日)"/>
+  <Game id="RP4J13" zhcn="我的模拟聚会(日)"/>
   <Game id="RP4P69" zhcn="我的模拟聚会[WiFi](欧)"/>
   <Game id="RP5JA4" zhcn="实况力量棒球15(日)"/>
   <Game id="RP6E41" zhcn="宠物 疯狂的猴子(美)"/>
@@ -2044,7 +2044,7 @@
   <Game id="RWSK01" zhcn="马里奥与索尼克在奥运会[WiFi](韩)"/>
   <Game id="RWSP8P" zhcn="马里奥与索尼克在奥运会[WiFi](欧)"/>
   <Game id="RWTEG9" zhcn="少年骇客 外星英雄(美)"/>
-  <Game id="RWTPG9" zhcn="BEN 10 外星神力(欧)"/>
+  <Game id="RWTPG9" zhcn="少年骇客 外星英雄(欧)"/>
   <Game id="RWUE52" zhcn="X战警 金钢狼(美)"/>
   <Game id="RWUP52" zhcn="X战警 金钢狼(欧)"/>
   <Game id="RWUX52" zhcn="X战警 金钢狼(X)"/>
@@ -2103,11 +2103,11 @@
   <Game id="RXLP41" zhcn="医生格蕾(欧)"/>
   <Game id="RXMJ8P" zhcn="手舞足蹈填字谜(日)"/>
   <Game id="RXNEXS" zhcn="又上钩啦 实感钓鱼(美)"/>
-  <Game id="RXNJJF" zhcn="鲈鱼钓手Wii 世界锦标赛[MP](日)"/>
+  <Game id="RXNJJF" zhcn="鲈鱼钓手Wii 世界锦标赛(日)"/>
   <Game id="RXNPGT" zhcn="巴斯钓鱼2(欧)"/>
   <Game id="RXPEXS" zhcn="实感钓鱼 上钩了(美)"/>
-  <Game id="RXPJJF" zhcn="实感钓鱼[WiFi](日)"/>
-  <Game id="RXPPGT" zhcn="实感钓鱼[WiFi](欧)"/>
+  <Game id="RXPJJF" zhcn="实感钓鱼(日)"/>
+  <Game id="RXPPGT" zhcn="实感钓鱼(欧)"/>
   <Game id="RXQEWR" zhcn="野兽家园(美)"/>
   <Game id="RXQPWR" zhcn="野兽家园(欧)"/>
   <Game id="RXRERS" zhcn="浪漫鼠德佩罗(美)"/>
@@ -2145,7 +2145,7 @@
   <Game id="RY9E69" zhcn="FIFA足球09[WiFi](美)"/>
   <Game id="RYAJDA" zhcn="小双侠Wii 惊心动魄机器猛竞速(日或中)"/>
   <Game id="RYBE69" zhcn="轰炸方块 猛击聚会(美)"/>
-  <Game id="RYBP69" zhcn="轰炸方块 猛击聚会[WiFi](欧)"/>
+  <Game id="RYBP69" zhcn="轰炸方块 猛击聚会(欧)"/>
   <Game id="RYDELT" zhcn="宠物伴侣 动物医生(美)"/>
   <Game id="RYDP6V" zhcn="宠物伴侣 动物医生(欧)"/>
   <Game id="RYEEEB" zhcn="101合1 聚会游戏大合集(美)"/>
@@ -2306,7 +2306,7 @@
   <Game id="S3DP18" zhcn="德卡运动会3[MP][WiFi](欧)"/>
   <Game id="S3EE78" zhcn="芭比娃娃 时尚风格(美)"/>
   <Game id="S3EP78" zhcn="芭比娃娃 时尚风格(欧)"/>
-  <Game id="S3EXVZ" zhcn="Barbie Jet, Set &amp; Style!"/>
+  <Game id="S3EXVZ" zhcn="芭比娃娃 时尚风格(X)"/>
   <Game id="S3FE69" zhcn="FIFA足球13(美)"/>
   <Game id="S3FP69" zhcn="FIFA 足球 13"/>
   <Game id="S3FX69" zhcn="FIFA 13"/>
@@ -2338,7 +2338,7 @@
   <Game id="S59JC8" zhcn="战国无双 3(日)"/>
   <Game id="S59P01" zhcn="战国无双 3(欧)"/>
   <Game id="S5BETL" zhcn="回到未来(美)"/>
-  <Game id="S5BPKM" zhcn="Back to the Future: The Game"/>
+  <Game id="S5BPKM" zhcn="回到未来(欧)"/>
   <Game id="S5DE41" zhcn="舞力全开 迪士尼派对2(美)"/>
   <Game id="S5DP41" zhcn="舞力全开 迪士尼派对2(欧)"/>
   <Game id="S5EE41" zhcn="舞力全开2019(美)"/>
@@ -2352,7 +2352,7 @@
   <Game id="S5RPNJ" zhcn="拉姆赛车(欧)"/>
   <Game id="S5SJHF" zhcn="闪电十一人GO时空之石 王牌前锋 2013(日)"/>
   <Game id="S5TEG9" zhcn="少年骇客 全面进化(美)"/>
-  <Game id="S5TPAF" zhcn="Ben 10: Omniverse"/>
+  <Game id="S5TPAF" zhcn="少年骇客 全面进化(欧)"/>
   <Game id="S5WE20" zhcn="在50个游戏里环游世界(美)"/>
   <Game id="S6BE4Q" zhcn="勇敢传说(美)"/>
   <Game id="S6BP4Q" zhcn="勇敢传说(欧)"/>
@@ -2389,7 +2389,7 @@
   <Game id="SA3XGT" zhcn="鼠来宝3(X)"/>
   <Game id="SA5E78" zhcn="你比五年级生聪明吗3(美)"/>
   <Game id="SA6EG9" zhcn="少年骇客 银河赛车(美)"/>
-  <Game id="SA6PAF" zhcn="Ben 10 银河赛车(美)"/>
+  <Game id="SA6PAF" zhcn="少年骇客 银河赛车(欧)"/>
   <Game id="SA7ESZ" zhcn="小熊软糖 魔法勋章(美)"/>
   <Game id="SA8P52" zhcn="The Amazing Spider-Man"/>
   <Game id="SA9D7K" zhcn="Bibi &amp; Tina: Das große Reiterfest"/>
@@ -2444,19 +2444,19 @@
   <Game id="SB7IVU" zhcn="Planet Basket 2009/2010"/>
   <Game id="SB8EQH" zhcn="汉堡博特(美)"/>
   <Game id="SB9E78" zhcn="芭比娃娃 照顾小狗(美)"/>
-  <Game id="SB9EVZ" zhcn="Barbie: Groom and Glam Pups"/>
+  <Game id="SB9EVZ" zhcn="芭比娃娃 照顾小狗(美)"/>
   <Game id="SB9P78" zhcn="芭比娃娃 照顾小狗(欧)"/>
-  <Game id="SB9X78" zhcn="芭比娃娃 照顾小狗(美)"/>
-  <Game id="SB9YVZ" zhcn="Barbie: Groom and Glam Pups"/>
+  <Game id="SB9X78" zhcn="芭比娃娃 照顾小狗(X)"/>
+  <Game id="SB9YVZ" zhcn="芭比娃娃 照顾小狗(Y)"/>
   <Game id="SBAJGD" zhcn="勇者斗恶龙 怪兽战斗之路 胜利(日)"/>
   <Game id="SBBE18" zhcn="金属战斗陀螺 对决大赛场(美)"/>
   <Game id="SBBJ18" zhcn="金属战斗陀螺 对决大赛场(日)"/>
   <Game id="SBBP18" zhcn="金属战斗陀螺 对决大赛场(欧)"/>
   <Game id="SBCJ2N" zhcn="比利的训练营Wii 享受减肥(日)"/>
-  <Game id="SBDE08" zhcn="生化危机 阴暗编年史(美或中)"/>
-  <Game id="SBDJ08" zhcn="生化危机 暗黑历代记[WiFi](日)"/>
-  <Game id="SBDK08" zhcn="生化危机 暗黑历代记[WiFi](韩)"/>
-  <Game id="SBDP08" zhcn="生化危机 暗黑历代记[WiFi](欧)"/>
+  <Game id="SBDE08" zhcn="生化危机 暗黑历代记(美或中)"/>
+  <Game id="SBDJ08" zhcn="生化危机 暗黑历代记(日)"/>
+  <Game id="SBDK08" zhcn="生化危机 暗黑历代记(韩)"/>
+  <Game id="SBDP08" zhcn="生化危机 暗黑历代记(欧)"/>
   <Game id="SBEPSV" zhcn="百慕大三角 拯救珊瑚礁(欧)"/>
   <Game id="SBFE70" zhcn="后院橄榄球10(美)"/>
   <Game id="SBHEFP" zhcn="雷明顿美洲猎鸟记(美)"/>
@@ -2464,15 +2464,15 @@
   <Game id="SBIEVZ" zhcn="勤劳理发师(美)"/>
   <Game id="SBIPVZ" zhcn="勤劳理发师(欧)"/>
   <Game id="SBJEG9" zhcn="少年骇客 终极异形之宇宙毁灭(美)"/>
-  <Game id="SBJPAF" zhcn="BEN 10 外星神力 终极异型(欧)"/>
+  <Game id="SBJPAF" zhcn="少年骇客 终极异形之宇宙毁灭(欧)"/>
   <Game id="SBKEPZ" zhcn="布朗斯威克 宇宙领域保龄球(美)"/>
   <Game id="SBLE5G" zhcn="男孩与软泥(美)"/>
   <Game id="SBLP5G" zhcn="男孩与软泥(欧)"/>
-  <Game id="SBNEG9" zhcn="少年骇客 外星英雄之魔賈斯袭击(美)"/>
-  <Game id="SBNPG9" zhcn="BEN 10 外星神力 维尔加科斯的反击(欧)"/>
+  <Game id="SBNEG9" zhcn="少年骇客 外星英雄之魔贾斯的袭击(美)"/>
+  <Game id="SBNPG9" zhcn="少年骇客 外星英雄之魔贾斯的袭击(欧)"/>
   <Game id="SBQE4Z" zhcn="雄鹿猎人(美)"/>
   <Game id="SBREJJ" zhcn="一起跳芭蕾(美)"/>
-  <Game id="SBRPKM" zhcn="一起跳芭蕾[平衡板](欧)"/>
+  <Game id="SBRPKM" zhcn="一起跳芭蕾(欧)"/>
   <Game id="SBSEFP" zhcn="雷明顿超级大满贯狩猎 北美(美)"/>
   <Game id="SBSURN" zhcn="雷明顿狩猎北美超级大满贯(英)"/>
   <Game id="SBVE78" zhcn="海绵宝宝 碰碰船竞速(美)"/>
@@ -2509,7 +2509,7 @@
   <Game id="SCBE5V" zhcn="Cyberbike Cycling Sports"/>
   <Game id="SCBPNK" zhcn="自行车运动(欧)"/>
   <Game id="SCDE52" zhcn="坎贝拉危险狩猎2011(美)"/>
-  <Game id="SCDP52" zhcn="坎贝拉危险狩猎 2011(欧)"/>
+  <Game id="SCDP52" zhcn="坎贝拉危险狩猎2011(欧)"/>
   <Game id="SCEE6K" zhcn="查克奶酪的派对游戏(美)"/>
   <Game id="SCFPNK" zhcn="魔怪狂欢节(欧)"/>
   <Game id="SCGE20" zhcn="凯文塔克的乡村狂欢 农场动物赛车锦标赛(美)"/>
@@ -2527,7 +2527,7 @@
   <Game id="SCQDRV" zhcn="Schlag den Raab: Das 2. Spiel"/>
   <Game id="SCREJH" zhcn="小鸡大暴乱(美)"/>
   <Game id="SCRPJH" zhcn="小鸡大暴乱(欧)"/>
-  <Game id="SCSE52" zhcn="游轮度假游戏[MP](美)"/>
+  <Game id="SCSE52" zhcn="游轮度假游戏(美)"/>
   <Game id="SCSPGR" zhcn="游轮度假游戏[MP](欧)"/>
   <Game id="SCTPNK" zhcn="小魔怪惊喜(欧)"/>
   <Game id="SCUPFR" zhcn="疯狂小鸡嘉年华派对(欧)"/>
@@ -2596,13 +2596,13 @@
   <Game id="SDZE41" zhcn="舞力全开 儿童版(美)"/>
   <Game id="SDZP41" zhcn="舞力全开 儿童版(欧)"/>
   <Game id="SE2E69" zhcn="EA运动活力2(美)"/>
-  <Game id="SE2P69" zhcn="EA运动活力2[平衡板](欧)"/>
+  <Game id="SE2P69" zhcn="EA运动活力2(欧)"/>
   <Game id="SE3E41" zhcn="舞力全开2015(美)"/>
   <Game id="SE3P41" zhcn="舞力全开2015(欧)"/>
   <Game id="SE8E41" zhcn="舞力全开2018(美)"/>
   <Game id="SE8P41" zhcn="舞力全开2018(欧)"/>
   <Game id="SEAE69" zhcn="EA运动活力 更多锻炼(美)"/>
-  <Game id="SEAJ13" zhcn="EA运动活力 更多锻炼[平衡板](日)"/>
+  <Game id="SEAJ13" zhcn="EA运动活力 更多锻炼(日)"/>
   <Game id="SEAP69" zhcn="EA运动活力 更多锻炼[平衡板](欧)"/>
   <Game id="SECE69" zhcn="EA创造(美)"/>
   <Game id="SECP69" zhcn="EA创造(欧)"/>
@@ -2776,7 +2776,7 @@
   <Game id="SHSE20" zhcn="超级战斗机(美)"/>
   <Game id="SHSPXT" zhcn="Hyper Fighters"/>
   <Game id="SHTE20" zhcn="马修斯狩猎弓(美)"/>
-  <Game id="SHUE52" zhcn="坎贝拉危险狩猎 2011 特别版(美)"/>
+  <Game id="SHUE52" zhcn="坎贝拉危险狩猎2011 特别版(美)"/>
   <Game id="SHVE78" zhcn="风火轮赛车 赛道攻击(美)"/>
   <Game id="SHVP78" zhcn="风火轮赛车 赛道攻击(欧)"/>
   <Game id="SHVX78" zhcn="风火轮赛车 赛道攻击(美)"/>
@@ -2909,7 +2909,7 @@
   <Game id="SKSE54" zhcn="NBA 2K13(美)"/>
   <Game id="SKSP54" zhcn="NBA 2K13"/>
   <Game id="SKTE78" zhcn="全明星空手道(美)"/>
-  <Game id="SKTP78" zhcn="全明星空手道[MP](欧)"/>
+  <Game id="SKTP78" zhcn="全明星空手道(欧)"/>
   <Game id="SKUE78" zhcn="功夫熊猫2(美)"/>
   <Game id="SKUP78" zhcn="功夫熊猫2(欧)"/>
   <Game id="SKUZ78" zhcn="功夫熊猫2(美)"/>
@@ -2965,7 +2965,7 @@
   <Game id="SLVP41" zhcn="我们敢(欧)"/>
   <Game id="SLWE41" zhcn="沃尔多在哪里？ 梦幻之旅(美)"/>
   <Game id="SLYESZ" zhcn="丑恶人生(美)"/>
-  <Game id="SLYPNJ" zhcn="丑恶人生(美)"/>
+  <Game id="SLYPNJ" zhcn="丑恶人生(欧)"/>
   <Game id="SM2E52" zhcn="十分钟快速健身(美)"/>
   <Game id="SM2P52" zhcn="十分钟快速健身(欧)"/>
   <Game id="SM4E20" zhcn="大脚怪物卡车大破坏(美)"/>
@@ -3077,7 +3077,7 @@
   <Game id="SNYEVZ" zhcn="精灵高中 13个愿望(美)"/>
   <Game id="SNYPVZ" zhcn="Monster High: 13 Wishes"/>
   <Game id="SNZEVZ" zhcn="芭比梦幻屋派对(美)"/>
-  <Game id="SNZPVZ" zhcn="Barbie: Dreamhouse Party"/>
+  <Game id="SNZPVZ" zhcn="芭比梦幻屋派对(欧)"/>
   <Game id="SO3EE9" zhcn="符文工房 蓝海奇缘(美)"/>
   <Game id="SO3J99" zhcn="符文工房 蓝海奇缘(日)"/>
   <Game id="SOAE52" zhcn="坎贝拉狩猎探险(美)"/>
@@ -3295,7 +3295,7 @@
   <Game id="ST6P78" zhcn="减肥达人挑战赛[平衡板](欧)"/>
   <Game id="ST7E01" zhcn="富豪街Wii[WiFi](美)"/>
   <Game id="ST7JGD" zhcn="富豪街Wii(日或中)"/>
-  <Game id="ST7P01" zhcn="富豪街Wii[WiFi](欧)"/>
+  <Game id="ST7P01" zhcn="富豪街Wii(欧)"/>
   <Game id="ST9E52" zhcn="顶级射手(美)"/>
   <Game id="STAE78" zhcn="猜猜画画(美)"/>
   <Game id="STAP78" zhcn="猜猜画画(欧)"/>
@@ -3406,7 +3406,7 @@
   <Game id="SUYDRV" zhcn="Schlag den Raab: Das 3. Spiel"/>
   <Game id="SUZD7K" zhcn="Benjamin Blümchen: Törööö! im Zoo"/>
   <Game id="SV2E78" zhcn="大沙滩运动2(美)"/>
-  <Game id="SV2P78" zhcn="大沙滩运动2[平衡板](欧)"/>
+  <Game id="SV2P78" zhcn="大沙滩运动2(欧)"/>
   <Game id="SV3EG9" zhcn="马达加斯加3(美)"/>
   <Game id="SV3PAF" zhcn="马达加斯加3(欧)"/>
   <Game id="SV4E8P" zhcn="VR网球4(美)"/>
@@ -3416,7 +3416,7 @@
   <Game id="SV7EVZ" zhcn="Penguins of Madagascar"/>
   <Game id="SV7PVZ" zhcn="Penguins of Madagascar"/>
   <Game id="SVBE52" zhcn="战舰(美)"/>
-  <Game id="SVBP52" zhcn="Battleship"/>
+  <Game id="SVBP52" zhcn="战舰(欧)"/>
   <Game id="SVCEPZ" zhcn="Big Time Rush: Dance Party"/>
   <Game id="SVCPXT" zhcn="Big Time Rush: Dance Party"/>
   <Game id="SVDE52" zhcn="海绵宝宝 痞老板机器人复仇(美)"/>
@@ -3433,8 +3433,8 @@
   <Game id="SVPESZ" zhcn="维加斯聚会(美)"/>
   <Game id="SVPPNJ" zhcn="维加斯聚会(欧)"/>
   <Game id="SVQEVZ" zhcn="芭比姐妹之狗狗救援队(美)"/>
-  <Game id="SVQPVZ" zhcn="Barbie and Her Sisters: Puppy Rescue"/>
-  <Game id="SVSPZX" zhcn="Battle vs Chess"/>
+  <Game id="SVQPVZ" zhcn="芭比姐妹之狗狗救援队(欧)"/>
+  <Game id="SVSPZX" zhcn="战斗版国际象棋(欧)"/>
   <Game id="SVTEXS" zhcn="超级线程(美)"/>
   <Game id="SVTP99" zhcn="BIT.TRIP COMPLETE"/>
   <Game id="SVUPRV" zhcn="The Voice of Germany"/>
@@ -3448,7 +3448,7 @@
   <Game id="SVXX52" zhcn="Skylanders: Swap Force"/>
   <Game id="SVXY52" zhcn="Skylanders: Swap Force"/>
   <Game id="SVYEG9" zhcn="少年骇客 全面进化2(美)"/>
-  <Game id="SVYPAF" zhcn="Ben 10: Omniverse 2"/>
+  <Game id="SVYPAF" zhcn="少年骇客 全面进化2(欧)"/>
   <Game id="SVZEVZ" zhcn="驯龙高手2(美)"/>
   <Game id="SVZPVZ" zhcn="How to Train Your Dragon 2"/>
   <Game id="SW2E52" zhcn="勇敢向前冲2(美)"/>
@@ -3493,7 +3493,7 @@
   <Game id="SXEE52" zhcn="吉他英雄5(美)"/>
   <Game id="SXEP52" zhcn="吉他英雄5[WiFi](欧)"/>
   <Game id="SXFE52" zhcn="乐团英雄(美)"/>
-  <Game id="SXFP52" zhcn="乐团英雄[WiFi](欧)"/>
+  <Game id="SXFP52" zhcn="乐团英雄(欧)"/>
   <Game id="SXIE52" zhcn="吉他英雄6 摇滚战士(美)"/>
   <Game id="SXIP52" zhcn="吉他英雄6 摇滚战士[WiFi](欧)"/>
   <Game id="SY7PKM" zhcn="Let's Sing 7 - Spanish Version"/>
@@ -4895,7 +4895,7 @@
   <Game id="SO3EUD" zhcn="Rune Factory: Tides of Destiny Undub"/>
   <Game id="SOLO41" zhcn="Just Dance Solo"/>
   <Game id="SOME02" zhcn="大家的节奏天国(美)"/>
-  <Game id="SOMR01" zhcn="Beat the Beat: Rhythm Paradise"/>
+  <Game id="SOMR01" zhcn="大家的节奏天国(俄)"/>
   <Game id="SOUE41" zhcn="舞力全开 Ocean"/>
   <Game id="SP9P4Q" zhcn="自制 唱吧 下载版(欧)"/>
   <Game id="SPRE01" zhcn="New Super Mario Bros. Wii 14 Project Mario"/>
