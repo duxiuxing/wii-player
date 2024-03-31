@@ -171,7 +171,7 @@
   <Game id="R46ENS" zhcn="灵武战记Wii(美)"/>
   <Game id="R46JKB" zhcn="灵武战记Wii(日)"/>
   <Game id="R47E20" zhcn="ATV沙滩车之王(美)"/>
-  <Game id="R47P20" zhcn="ATV Quad Kings"/>
+  <Game id="R47P20" zhcn="ATV沙滩车之王(欧)"/>
   <Game id="R48E7D" zhcn="奇幻精灵事件簿(美)"/>
   <Game id="R48P7D" zhcn="奇幻精灵事件簿(欧)"/>
   <Game id="R49E01" zhcn="大金刚 丛林敲击(美)"/>
@@ -241,7 +241,7 @@
   <Game id="R5DE5G" zhcn="翻转的扭曲世界(美)"/>
   <Game id="R5EPMR" zhcn="倒计时(欧)"/>
   <Game id="R5FE41" zhcn="冠军学院 足球(美)"/>
-  <Game id="R5FP41" zhcn="冠军学院 足球[MP][平衡板](欧)"/>
+  <Game id="R5FP41" zhcn="冠军学院 足球(欧)"/>
   <Game id="R5GE78" zhcn="你比五年级生聪明吗(美)"/>
   <Game id="R5IE4Q" zhcn="玩具总动员(美)"/>
   <Game id="R5IP4Q" zhcn="玩具总动员(欧)"/>
@@ -273,7 +273,7 @@
   <Game id="R5XP69" zhcn="我的模拟人生 特工(欧)"/>
   <Game id="R5YD78" zhcn="全明星啦啦队2(德)"/>
   <Game id="R5YE78" zhcn="全明星啦啦队2(美)"/>
-  <Game id="R5YP78" zhcn="全明星啦啦队2[平衡板](欧)"/>
+  <Game id="R5YP78" zhcn="全明星啦啦队2(欧)"/>
   <Game id="R62E4Q" zhcn="迪士尼 想唱就唱 流行节奏(美)"/>
   <Game id="R62P4Q" zhcn="迪士尼 想唱就唱 流行节奏(欧)"/>
   <Game id="R63EG9" zhcn="家庭聚会 30款有趣的户外游戏(美)"/>
@@ -434,7 +434,7 @@
   <Game id="R8PK01" zhcn="超级纸片马里奥(韩)"/>
   <Game id="R8PP01" zhcn="超级纸片马里奥(欧)"/>
   <Game id="R8QPRT" zhcn="疯狂问答(欧)"/>
-  <Game id="R8RP41" zhcn="亚瑟与他的迷你王国2[平衡板](欧)"/>
+  <Game id="R8RP41" zhcn="亚瑟与他的迷你王国2(欧)"/>
   <Game id="R8SE41" zhcn="假日体育(美)"/>
   <Game id="R8SP41" zhcn="假日体育(欧)"/>
   <Game id="R8SX41" zhcn="假日体育(X)"/>
@@ -646,7 +646,7 @@
   <Game id="RCVP41" zhcn="孤岛惊魂 复仇(欧)"/>
   <Game id="RCXE78" zhcn="全明星拉拉队(美)"/>
   <Game id="RCXP78" zhcn="全明星拉拉队[平衡板](欧)"/>
-  <Game id="RCXX78" zhcn="全明星拉拉队[平衡板](欧)"/>
+  <Game id="RCXX78" zhcn="全明星拉拉队(X)"/>
   <Game id="RCYPGN" zhcn="切格的聚会迷题(欧)"/>
   <Game id="RD2E41" zhcn="赤铁2[MP](美)"/>
   <Game id="RD2J41" zhcn="赤铁2[MP](日)"/>
@@ -673,7 +673,7 @@
   <Game id="RDFE41" zhcn="肖恩怀特滑雪板[平衡板](美)"/>
   <Game id="RDFP41" zhcn="肖恩怀特滑雪板[平衡板](欧)"/>
   <Game id="RDGEA4" zhcn="恶魔城 审判(美)"/>
-  <Game id="RDGJA4" zhcn="恶魔城 审判[WiFi](日)"/>
+  <Game id="RDGJA4" zhcn="恶魔城 审判(日)"/>
   <Game id="RDGPA4" zhcn="恶魔城 审判[WiFi](欧)"/>
   <Game id="RDHE78" zhcn="毁灭全人类 解放威廉(美)"/>
   <Game id="RDHP78" zhcn="毁灭全人类 解放威廉(欧)"/>
@@ -1919,8 +1919,8 @@
   <Game id="RUSY78" zhcn="海绵宝宝历险记 致命水珠(Y)"/>
   <Game id="RUUE01" zhcn="动物之森 城市大家庭(美)"/>
   <Game id="RUUJ01" zhcn="动物之森 城市大家庭[WiFi](日)"/>
-  <Game id="RUUK01" zhcn="动物之森 城市大家庭[WiFi](韩)"/>
-  <Game id="RUUP01" zhcn="动物之森 城市大家庭[WiFi](欧)"/>
+  <Game id="RUUK01" zhcn="动物之森 城市大家庭(韩)"/>
+  <Game id="RUUP01" zhcn="动物之森 城市大家庭(欧)"/>
   <Game id="RUWJC8" zhcn="胜利赛马世界(日)"/>
   <Game id="RUXPUG" zhcn="都市极限飚车 街道之怒(X)"/>
   <Game id="RUXXUG" zhcn="都市极限飚车 街道之怒(X)"/>
@@ -1940,7 +1940,7 @@
   <Game id="RVAE78" zhcn="降世神通 燃烧的大地(美)"/>
   <Game id="RVAP78" zhcn="降世神通 燃烧的大地(欧)"/>
   <Game id="RVBERS" zhcn="鼠来宝(美)"/>
-  <Game id="RVBPRS" zhcn="艾尔文与花栗鼠(欧)"/>
+  <Game id="RVBPRS" zhcn="鼠来宝(欧)"/>
   <Game id="RVDPLG" zhcn="德伯力克 原罪(欧)"/>
   <Game id="RVEFMR" zhcn="欢迎来到北方(法)"/>
   <Game id="RVFE20" zhcn="大脚车 碰撞航向(美)"/>
@@ -2252,7 +2252,7 @@
   <Game id="S2CE54" zhcn="新嘉年华游戏[MP](美)"/>
   <Game id="S2CP54" zhcn="新嘉年华游戏[MP](欧)"/>
   <Game id="S2DPML" zhcn="跳吧！这是你的舞台[平衡板](欧)"/>
-  <Game id="S2EE41" zhcn="舞力全开ABBA(美)"/>
+  <Game id="S2EE41" zhcn="舞力全开 ABBA(美)"/>
   <Game id="S2EP41" zhcn="ABBA: You Can Dance(欧)"/>
   <Game id="S2HE70" zhcn="鬼屋(美)"/>
   <Game id="S2HP70" zhcn="鬼屋(欧)"/>
@@ -2375,7 +2375,7 @@
   <Game id="S7BP69" zhcn="棋盘游戏(欧)"/>
   <Game id="S7CJAF" zhcn="假面骑士 巅峰英雄 Fourze(日)"/>
   <Game id="S7DE52" zhcn="愤怒的小鸟 星球大战(美)"/>
-  <Game id="S7DP52" zhcn="Angry Birds: Star Wars"/>
+  <Game id="S7DP52" zhcn="愤怒的小鸟 星球大战(欧)"/>
   <Game id="S7EE52" zhcn="Transformers: Ultimate Battle Edition"/>
   <Game id="S7EP52" zhcn="Transformers: Ultimate Battle Edition"/>
   <Game id="S7FE5G" zhcn="Zumba Kids"/>
@@ -2385,8 +2385,8 @@
   <Game id="S7LPKM" zhcn="Let's Sing @ Radio Italia"/>
   <Game id="S7SP41" zhcn="The Smurfs Party Pack"/>
   <Game id="SA3E5G" zhcn="鼠来宝3(美)"/>
-  <Game id="SA3P5G" zhcn="Alvin and the Chipmunks: Chipwrecked"/>
-  <Game id="SA3XGT" zhcn="Alvin and the Chipmunks: Chipwrecked"/>
+  <Game id="SA3P5G" zhcn="鼠来宝3(欧)"/>
+  <Game id="SA3XGT" zhcn="鼠来宝3(X)"/>
   <Game id="SA5E78" zhcn="你比五年级生聪明吗3(美)"/>
   <Game id="SA6EG9" zhcn="少年骇客 银河赛车(美)"/>
   <Game id="SA6PAF" zhcn="Ben 10 银河赛车(美)"/>
@@ -2395,7 +2395,7 @@
   <Game id="SA9D7K" zhcn="Bibi &amp; Tina: Das große Reiterfest"/>
   <Game id="SAAJA4" zhcn="Winning Eleven PLAY MAKER 2013"/>
   <Game id="SABENR" zhcn="外星怪兽保龄球联赛(美)"/>
-  <Game id="SABPJG" zhcn="外星怪兽保龄球联赛[MP](欧)"/>
+  <Game id="SABPJG" zhcn="外星怪兽保龄球联赛(欧)"/>
   <Game id="SACSVS" zhcn="ACB Total 2010/2011"/>
   <Game id="SADE70" zhcn="后院运动 沙地强打者(美)"/>
   <Game id="SAFUHS" zhcn="澳大利亚橄榄球联赛(英)"/>
@@ -2414,12 +2414,12 @@
   <Game id="SAOXVZ" zhcn="怪物美少女 尸鬼精灵(欧)"/>
   <Game id="SAQE5G" zhcn="好莱坞明星私教(美)"/>
   <Game id="SARE4Z" zhcn="阿拉丁魔毯竞速(美)"/>
-  <Game id="SARPNK" zhcn="阿拉丁魔毯竞速[平衡板](欧)"/>
+  <Game id="SARPNK" zhcn="阿拉丁魔毯竞速(欧)"/>
   <Game id="SASEWW" zhcn="Atrévete a Soñar"/>
   <Game id="SATE6K" zhcn="查克奶酪的超级收藏(美)"/>
   <Game id="SAUJ8P" zhcn="魔法气泡! 20周年纪念版(日)"/>
   <Game id="SAVE5G" zhcn="鼠来宝2(美)"/>
-  <Game id="SAVX5G" zhcn="艾尔文与金花鼠 明星俱乐部(欧)"/>
+  <Game id="SAVX5G" zhcn="鼠来宝2(X)"/>
   <Game id="SAWE52" zhcn="愤怒的小鸟 三部曲(美)"/>
   <Game id="SAWP52" zhcn="愤怒的小鸟 三部曲(欧)"/>
   <Game id="SAXPFH" zhcn="Max &amp; the Magic Marker"/>
@@ -3716,7 +3716,7 @@
   <Game id="DMSP4Q" zhcn="自制 迪斯尼电影 想唱就唱(欧)"/>
   <Game id="DMVE26" zhcn="Dark Mario Vacation"/>
   <Game id="DOLL41" zhcn="Just Dance Melody"/>
-  <Game id="DQAJSC" zhcn="水瓶座棒球 界限的前方 (貓星漢化版)"/>
+  <Game id="DQAJSC" zhcn="水瓶座棒球(中)"/>
   <Game id="DRP22Q" zhcn="自制 唱吧 下载版(欧)"/>
   <Game id="DUAP01" zhcn="DU Super Mario Bros. : Anniversary Edition"/>
   <Game id="DUCE01" zhcn="自制 马里奥赛车Wii(美)"/>
