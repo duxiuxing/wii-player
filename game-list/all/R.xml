@@ -115,14 +115,15 @@
 	<Game id="RE4E08" en="Resident Evil Archives: Resident Evil" zhcn="生化危机(美)" collection="生化危机系列"/>
 	<Game id="RBHP08" en="Resident Evil Archives: Resident Evil Zero" zhcn="生化危机0(欧)"/>
 	<Game id="RBHE08" en="Resident Evil Archives: Resident Evil Zero" zhcn="生化危机0(美)" collection="生化危机系列"/>
-	<Game id="SBDE08" en="Resident Evil: The Darkside Chronicles" zhcn="生化危机 阴暗编年史(美或中)" collection="生化危机系列"/>
-	<Game id="SBDP08" en="Resident Evil: The Darkside Chronicles" zhcn="生化危机 暗黑历代记[WiFi](欧)"/>
+	<Game id="SBDE08" en="Resident Evil: The Darkside Chronicles" zhcn="生化危机 暗黑历代记(美或中)" collection="生化危机系列"/>
+	<Game id="SBDP08" en="Resident Evil: The Darkside Chronicles" zhcn="生化危机 暗黑历代记(欧)"/>
 	<Game id="RBUE08" en="Resident Evil: The Umbrella Chronicles" zhcn="生化危机 安布雷拉编年史(美或中)" collection="生化危机系列"/>
 	<Game id="RBUP08" en="Resident Evil: The Umbrella Chronicles" zhcn="生化危机 安布雷拉编年史(欧)"/>
 	<Game id="SEUPEY" en="Retro City Rampage DX" zhcn="Retro City Rampage DX"/>
 	<Game id="SMNERE" en="Retro Mario Bros." zhcn="Retro Mario Bros."/>
 	<Game id="SMNJRE" en="Retro Mario Bros." zhcn="Retro Mario Bros."/>
 	<Game id="SMNPRE" en="Retro Mario Bros." zhcn="Retro Mario Bros."/>
+	<Game id="RMCETO" en="Retro Rewind" zhcn="Retro Rewind"/>
 	<Game id="SMNE69" en="Revised Super Mario Bros. Wii" zhcn="Revised Super Mario Bros. Wii"/>
 	<Game id="REVE64" en="Revo Kart 64" zhcn="Revo Kart 64"/>
 	<Game id="SOME01" en="Rhythm Heaven Fever" zhcn="大家的节奏天国(美)"/>
