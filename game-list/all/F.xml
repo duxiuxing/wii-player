@@ -123,7 +123,7 @@
 	<Game id="SFRPXT" en="Fit &amp; Fun" zhcn="健身娱乐[平衡板](欧)"/>
 	<Game id="SFRDRV" en="Fit &amp; Fun" zhcn="健身乐趣[平衡板](欧)"/>
 	<Game id="SFEPYF" en="Fit Music" zhcn="Fit Music"/>
-	<Game id="SF5E41" en="Fit in Six" zhcn="六步健身法(美)" path="健身系列\六步健身法(美) [SF5E41]"/>
+	<Game id="SF5E41" en="Fit in Six" zhcn="六步健身法(美)"/>
 	<Game id="SF5J41" en="Fit in Six: Karada o Kitaeru 6-tsu no Youso" zhcn="健身工坊(日)"/>
 	<Game id="SRYJAF" en="Fitness Party" zhcn="动感塑身派对(日)"/>
 	<Game id="R9EPNP" en="Fix It: Home Improvement Challenge" zhcn="修理派对(欧)" collection="3"/>
@@ -132,6 +132,7 @@
 	<Game id="R22P01" en="FlingSmash" zhcn="弹球小精灵[MP](欧)"/>
 	<Game id="R22E01" en="FlingSmash" zhcn="弹球小精灵(美)" collection="加速器游戏"/>
 	<Game id="R5DE5G" en="Flip's Twisted World" zhcn="翻转的扭曲世界(美)" collection="done6"/>
+	<Game id="RMCELF" en="Flounder's Megamix" zhcn="Flounder's Megamix"/>
 	<Game id="SFOEAF" en="Food Network: Cook or Be Cooked" zhcn="网络食谱 烹饪对战(美)" collection="done6"/>
 	<Game id="RO2E7N" en="Ford Racing Off Road" zhcn="福特越野赛车(美)" collection="done6"/>
 	<Game id="RFBJ01" en="Forever Blue" zhcn="永恒蔚蓝[WiFi](日)" collection="5"/>
