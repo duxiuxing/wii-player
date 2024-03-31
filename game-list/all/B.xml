@@ -32,7 +32,7 @@
 	<Game id="S3EXVZ" en="Barbie Jet, Set &amp; Style!" zhcn="芭比娃娃 时尚风格(X)" same-as="S3EE78"/>
 	<Game id="S3EE78" en="Barbie Jet, Set &amp; Style!" zhcn="芭比娃娃 时尚风格(美)" collection="芭比系列"/>
 	<Game id="S3EP78" en="Barbie Jet, Set &amp; Style!" zhcn="芭比娃娃 时尚风格(欧)"/>
-	<Game id="SVQPVZ" en="Barbie and Her Sisters: Puppy Rescue" zhcn="Barbie and Her Sisters: Puppy Rescue"/>
+	<Game id="SVQPVZ" en="Barbie and Her Sisters: Puppy Rescue" zhcn="芭比姐妹之狗狗救援队(欧)"/>
 	<Game id="SVQEVZ" en="Barbie and Her Sisters: Puppy Rescue" zhcn="芭比姐妹之狗狗救援队(美)" collection="芭比系列"/>
 	<Game id="R23P52" en="Barbie and the Three Musketeers" zhcn="芭比与三个火枪手(欧)"/>
 	<Game id="R23E52" en="Barbie and the Three Musketeers" zhcn="芭比与三个火枪手(美)" collection="芭比系列"/>
@@ -77,7 +77,7 @@
 	<Game id="SLYPNJ" en="Beastly" zhcn="丑恶人生(欧)" same-as="SLYESZ"/>
 	<Game id="SLYESZ" en="Beastly" zhcn="丑恶人生(美)" collection="影视IP游戏"/>
 	<Game id="SOMP01" en="Beat the Beat: Rhythm Paradise" zhcn="大家的节奏天国(欧)"/>
-	<Game id="SOMR01" en="Beat the Beat: Rhythm Paradise" zhcn="大家的節奏天國(俄)"/>
+	<Game id="SOMR01" en="Beat the Beat: Rhythm Paradise" zhcn="大家的节奏天国(俄)"/>
 	<Game id="RBEX52" en="Bee Movie Game" zhcn="蜜蜂总动员(X)"/>
 	<Game id="RBEP52" en="Bee Movie Game" zhcn="蜜蜂总动员(欧)"/>
 	<Game id="RBEE52" en="Bee Movie Game" zhcn="蜜蜂总动员(美)"/>
@@ -232,5 +232,5 @@
 	<Game id="RBME5G" en="Bust-a-Move Bash!" zhcn="泡泡龙(美)" collection="益智游戏"/>
 	<Game id="SBIPVZ" en="Busy Scissors" zhcn="勤劳理发师(欧)"/>
 	<Game id="SBIEVZ" en="Busy Scissors" zhcn="勤劳理发师(美)" collection="B"/>
-	<Game id="SUKK01" en="Byeorui Kirby Wii" zhcn="Byeorui Kirby Wii"/>	
+	<Game id="SUKK01" en="Byeorui Kirby Wii" zhcn="Byeorui Kirby Wii"/>
 </Game-List>
