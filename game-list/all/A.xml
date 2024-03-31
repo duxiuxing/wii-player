@@ -23,7 +23,7 @@
 	<Game id="SH7PNJ" en="ATV Fever" zhcn="狂热本田沙滩车(欧)"/>
 	<Game id="R47E20" en="ATV Quad Kings" zhcn="ATV沙滩车之王(美)" collection="A"/>
 	<Game id="R47P20" en="ATV Quad Kings" zhcn="ATV沙滩车之王(欧)"/>
-	<Game id="R5FP41" en="Academy of Champions: Football" zhcn="冠军学院 足球[MP][平衡板](欧)"/>
+	<Game id="R5FP41" en="Academy of Champions: Football" zhcn="冠军学院 足球(欧)"/>
 	<Game id="R5FE41" en="Academy of Champions: Soccer" zhcn="冠军学院 足球(美)" collection="运动游戏 足球"/>
 	<Game id="RGYE5Z" en="Action Girlz Racing" zhcn="美女卡丁车(美)" collection="A"/>
 	<Game id="RGYPUG" en="Action Girlz Racing" zhcn="美女卡丁车(欧)"/>
@@ -111,7 +111,7 @@
 	<Game id="RO9PNK" en="Aqua Panic!" zhcn="水底恐慌(欧)"/>
 	<Game id="RO9EFS" en="Aqua Panic!" zhcn="水底恐慌(美)" collection="A"/>
 	<Game id="DQAJK2" en="Aquarius Baseball" zhcn="水瓶座棒球(日或中)" collection="A/运动游戏 棒球"/>
-	<Game id="DQAJSC" en="Aquarius Baseball" zhcn="水瓶座棒球(中)" same-as="DQAJK2"/>
+	<Game id="DQAJSC" en="Aquarius Baseball (Simplified Chinese Translation)" zhcn="水瓶座棒球(中)" same-as="DQAJK2"/>
 	<Game id="RPJJ99" en="Arc Rise Fantasia" zhcn="弧光幻想曲(日)" same-as="RPJE7U"/>
 	<Game id="RPJE7U" en="Arc Rise Fantasia" zhcn="弧光幻想曲(美)" collection="A"/>
 	<Game id="RPJEUD" en="Arc Rise Fantasia Undub" zhcn="Arc Rise Fantasia Undub"/>
