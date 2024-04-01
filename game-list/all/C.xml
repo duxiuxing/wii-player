@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Game-List>
+	<Game id="SCAJ18" en="CALLING Kuroki Chakushin" zhcn="鬼铃 黑暗来电(日或中)" collection="中文游戏"/>
+	<Game id="RDYEGN" en="CID: The Dummy" zhcn="人偶CID(美)" collection="C"/>
+	<Game id="RC9PGN" en="CID: The Dummy" zhcn="人偶CID(欧)"/>
+	<Game id="R5UE41" en="CSI: Deadly Intent" zhcn="犯罪现场调查 致命意图(美)" collection="影视IP游戏"/>
+	<Game id="R5UP41" en="CSI: Deadly Intent" zhcn="犯罪现场调查 致命意图(欧)"/>
+	<Game id="SCIE41" en="CSI: Fatal Conspiracy" zhcn="犯罪现场调查 致命阴谋(美)" collection="影视IP游戏"/>
+	<Game id="SCIP41" en="CSI: Fatal Conspiracy" zhcn="犯罪现场调查 致命阴谋(欧)"/>
+	<Game id="RCIP41" en="CSI: Hard Evidence" zhcn="犯罪现场调查 铁证如山(欧)"/>
+	<Game id="RCIE41" en="CSI: Hard Evidence" zhcn="犯罪现场调查 铁证如山(美)" collection="影视IP游戏"/>
+	<Game id="CTJBO1" en="CT Jam Best Of " zhcn="CT Jam Best Of "/>
+	<Game id="RMCECY" en="CTGP Classic Pack" zhcn="CTGP Classic Pack"/>
+	<Game id="RMCECL" en="CTGP Revolution Classic" zhcn="CTGP Revolution Classic"/>
+	<Game id="RMCEHC" en="CTGP-R HNS Pack" zhcn="CTGP-R HNS Pack"/>
+	<Game id="SH8P52" en="Cabela's Adventure Camp" zhcn="坎贝拉冒险夏令营(美)"/>
+	<Game id="SH8E52" en="Cabela's Adventure Camp" zhcn="坎贝拉冒险夏令营(美)" collection="运动游戏 打猎"/>
+	<Game id="SQAE52" en="Cabela's African Adventures" zhcn="坎贝拉的非洲冒险(美)" collection="运动游戏 打猎"/>
+	<Game id="RCBE52" en="Cabela's Big Game Hunter" zhcn="坎贝拉猎人(美)" collection="运动游戏 打猎"/>
+	<Game id="RCBP52" en="Cabela's Big Game Hunter" zhcn="坎贝拉猎人(欧)"/>
+	<Game id="SC9P52" en="Cabela's Big Game Hunter 2010" zhcn="卡贝拉猎人2010(美)"/>
+	<Game id="R8YE52" en="Cabela's Big Game Hunter 2010" zhcn="坎贝拉猎人2010(美)" collection="运动游戏 打猎"/>
+	<Game id="SH6P52" en="Cabela's Big Game Hunter 2012" zhcn="Cabela's Big Game Hunter 2012"/>
+	<Game id="SH6E52" en="Cabela's Big Game Hunter 2012" zhcn="坎贝拉狩猎2012(美)" collection="运动游戏 打猎"/>
+	<Game id="RXZP52" en="Cabela's Dangerous Adventures" zhcn="卡贝拉危险狩猎2009(欧)"/>
+	<Game id="RXZE52" en="Cabela's Dangerous Hunts 2009" zhcn="坎贝拉危险狩猎2009(美)" collection="运动游戏 打猎"/>
+	<Game id="SCDP52" en="Cabela's Dangerous Hunts 2011" zhcn="坎贝拉危险狩猎2011(欧)"/>
+	<Game id="SCDE52" en="Cabela's Dangerous Hunts 2011" zhcn="坎贝拉危险狩猎2011(美)"/>
+	<Game id="SHUE52" en="Cabela's Dangerous Hunts 2011: Special Edition" zhcn="坎贝拉危险狩猎2011 特别版(美)" collection="运动游戏 打猎"/>
+	<Game id="SUVP52" en="Cabela's Dangerous Hunts 2013" zhcn="Cabela's Dangerous Hunts 2013"/>
+	<Game id="SUVE52" en="Cabela's Dangerous Hunts 2013" zhcn="坎贝拉危险狩猎2013(美)" collection="运动游戏 打猎"/>
+	<Game id="SOAE52" en="Cabela's Hunting Expeditions" zhcn="坎贝拉狩猎探险(美)" collection="运动游戏 打猎"/>
+	<Game id="RCUE52" en="Cabela's Legendary Adventures" zhcn="坎贝拉传奇冒险(美)" collection="运动游戏 打猎"/>
+	<Game id="RQPZ52" en="Cabela's Monster Buck Hunter" zhcn="坎贝拉的猎鹿(欧)" collection="运动游戏 打猎"/>
+	<Game id="SNAE52" en="Cabela's North American Adventures 2011" zhcn="坎贝拉猎人 北美历险记2011(美)" collection="运动游戏 打猎"/>
+	<Game id="R9VE52" en="Cabela's Outdoor Adventures 2010" zhcn="坎贝拉野外冒险2010(美)" collection="运动游戏 打猎"/>
+	<Game id="SAJE52" en="Cabela's Survival: Shadows of Katmai" zhcn="坎贝拉生存大冒险 卡特迈的阴影(美)" collection="运动游戏 打猎"/>
+	<Game id="SAJP52" en="Cabela's Survival: Shadows of Katmai" zhcn="坎贝拉生存大冒险 卡特迈的阴影(欧)"/>
+	<Game id="RQPP52" en="Cabela's Trophy Bucks" zhcn="卡贝拉的猎鹿(欧)"/>
+	<Game id="RQPE52" en="Cabela's Trophy Bucks" zhcn="坎贝拉的猎鹿(美)" collection="运动游戏 打猎"/>
+	<Game id="RKDJEB" en="Caduceus Z: Futatsu no Chou Shittou" zhcn="超执刀 再次执刀(日)"/>
+	<Game id="RK2JEB" en="Caduceus: New Blood" zhcn="超执刀 新血(日)"/>
+	<Game id="R72E5G" en="Cake Mania: In The Mix!" zhcn="蛋糕工坊 混合(美)" collection="C"/>
+	<Game id="R72P5G" en="Cake Mania: In the Mix!" zhcn="蛋糕工坊 混合(欧)"/>
+	<Game id="RSBE21" en="Calabrel's Custom Project M Build" zhcn="Calabrel's Custom Project M Build"/>
+	<Game id="ZM7E52" en="Call of Duty - Modern Warfare - Reflex Edition - Zombie Mode" zhcn="Call of Duty - Modern Warfare - Reflex Edition - Zombie Mode"/>
+	<Game id="RCDX52" en="Call of Duty 3" zhcn="使命召唤3(X)"/>
+	<Game id="RCDD52" en="Call of Duty 3" zhcn="使命召唤3(德)"/>
+	<Game id="RCDE52" en="Call of Duty 3" zhcn="使命召唤3(美)" collection="光枪游戏 使命召唤系列"/>
+	<Game id="RCDP52" en="Call of Duty 3" zhcn="使命召唤3(欧)"/>
+	<Game id="SC7P52" en="Call of Duty: Black Ops" zhcn="使命召唤 黑色行动(欧)"/>
+	<Game id="SC7Z52" en="Call of Duty: Black Ops" zhcn="使命召唤 黑色行动(英)"/>
+	<Game id="SC7E52" en="Call of Duty: Black Ops" zhcn="使命召唤 黑色行动(美)" collection="光枪游戏 使命召唤系列"/>
+	<Game id="SC7D52" en="Call of Duty: Black Ops" zhcn="使命召唤 黑色行动(德)"/>
+	<Game id="SC7S52" en="Call of Duty: Black Ops" zhcn="使命召唤 黑色行动(西)"/>
+	<Game id="SC7I52" en="Call of Duty: Black Ops" zhcn="使命召唤 黑色行动(意)"/>
+	<Game id="SC7F52" en="Call of Duty: Black Ops" zhcn="使命召唤 黑色行动(法)"/>
+	<Game id="RJAE52" en="Call of Duty: Modern Warfare - Reflex Edition" zhcn="使命召唤 现代战争(美)" collection="光枪游戏 使命召唤系列"/>
+	<Game id="RJAD52" en="Call of Duty: Modern Warfare - Reflex Edition" zhcn="使命召唤 现代战争(德)"/>
+	<Game id="RJAP52" en="Call of Duty: Modern Warfare - Reflex Edition" zhcn="使命召唤 现代战争(欧)" collection="光枪游戏 使命召唤系列"/>
+	<Game id="RJAX52" en="Call of Duty: Modern Warfare - Reflex Edition" zhcn="使命召唤 现代战争(X)"/>
+	<Game id="SM8F52" en="Call of Duty: Modern Warfare 3" zhcn="使命召唤 现代战争3(法)"/>
+	<Game id="SM8I52" en="Call of Duty: Modern Warfare 3" zhcn="使命召唤 现代战争3(意)"/>
+	<Game id="SM8P52" en="Call of Duty: Modern Warfare 3" zhcn="使命召唤 现代战争3(欧)"/>
+	<Game id="SM8S52" en="Call of Duty: Modern Warfare 3" zhcn="使命召唤 现代战争3(西)"/>
+	<Game id="SM8X52" en="Call of Duty: Modern Warfare 3" zhcn="使命召唤 现代战争3(X)"/>
+	<Game id="SM8D52" en="Call of Duty: Modern Warfare 3" zhcn="使命召唤 现代战争3(德)"/>
+	<Game id="SM8E52" en="Call of Duty: Modern Warfare 3" zhcn="使命召唤 现代战争3(美)" collection="光枪游戏 使命召唤系列"/>
+	<Game id="RVYY52" en="Call of Duty: World at War" zhcn="使命召唤 世界大战(Y)"/>
+	<Game id="RVYP52" en="Call of Duty: World at War" zhcn="使命召唤 战争世界(欧)" collection="光枪游戏 使命召唤系列"/>
+	<Game id="RVYK52" en="Call of Duty: World at War" zhcn="使命召唤 世界大战(韩)"/>
+	<Game id="RVYE52" en="Call of Duty: World at War" zhcn="使命召唤 战争世界(美)" collection="光枪游戏 使命召唤系列"/>
+	<Game id="RVYX52" en="Call of Duty: World at War" zhcn="使命召唤 世界大战(X)"/>
+	<Game id="RVYD52" en="Call of Duty: World at War" zhcn="使命召唤 世界大战(德)"/>
+	<Game id="SCAE18" en="Calling" zhcn="鬼铃 黑暗来电(美)" collection="C"/>
+	<Game id="SCAP18" en="Calling" zhcn="鬼铃 黑暗来电(欧)"/>
+	<Game id="DCAE18" en="Calling (Demo)" zhcn="鬼铃 黑暗来电 试玩版(美)"/>
+	<Game id="RVNP7J" en="Calvin Tucker's Redneck Jamboree" zhcn="凯文塔克的乡巴佬露营会(欧)"/>
+	<Game id="RVNE20" en="Calvin Tucker's Redneck Jamboree" zhcn="凯文塔克的乡巴佬露营会(美)" collection="C"/>
+	<Game id="SCGE20" en="Calvin Tucker's Redneck: Farm Animal Racing Tournament" zhcn="凯文塔克的乡村狂欢 农场动物赛车锦标赛(美)" collection="C"/>
+	<Game id="SCGPXT" en="Calvin Tucker's: Farm Animals Racing Tournament" zhcn="Calvin Tucker's: Farm Animals Racing Tournament"/>
+	<Game id="RMCET7" en="Cam, Tom And Troy's CT Pack" zhcn="Cam, Tom And Troy's CT Pack"/>
+	<Game id="RMCE75" en="Cam, Tom and Troy's CTGP Pack" zhcn="Cam, Tom and Troy's CTGP Pack"/>
+	<Game id="SCHEQH" en="Canada Hunt" zhcn="加拿大狩猎(美)" collection="运动游戏 打猎"/>
+	<Game id="RKQENR" en="Candace Kane's Candy Factory" zhcn="糖果工厂(美)" collection="C"/>
+	<Game id="SMNE04" en="Cannon Super Mario Bros. Wii" zhcn="Cannon Super Mario Bros. Wii"/>
+	<Game id="SMNJ04" en="Cannon Super Mario Bros. Wii" zhcn="Cannon Super Mario Bros. Wii"/>
+	<Game id="SMNP04" en="Cannon Super Mario Bros. Wii" zhcn="Cannon Super Mario Bros. Wii"/>
+	<Game id="SFQP8P" en="Captain America: Super Soldier" zhcn="美国队长 超级士兵(欧)"/>
+	<Game id="SFQE8P" en="Captain America: Super Soldier" zhcn="美国队长 超级士兵(美)" collection="影视IP游戏 漫威"/>
+	<Game id="SMNPZT" en="Captain Bowser's Revenge" zhcn="Captain Bowser's Revenge"/>
+	<Game id="SMNEZT" en="Captain Bowser's Revenge" zhcn="Captain Bowser's Revenge"/>
+	<Game id="SMNJZT" en="Captain Bowser's Revenge" zhcn="Captain Bowser's Revenge"/>
+	<Game id="SKKPHY" en="Captain Morgane and the Golden Turtle" zhcn="Captain Morgane and the Golden Turtle"/>
+	<Game id="SKKXHY" en="Captain Morgane and the Golden Turtle" zhcn="Captain Morgane and the Golden Turtle"/>
+	<Game id="R7CJ01" en="Captain Rainbow" zhcn="彩虹队长(日)" collection="C"/>
+	<Game id="R7CE01" en="Captain Rainbow [Eng]" zhcn="Captain Rainbow [Eng]"/>
+	<Game id="RCGE54" en="Carnival Games" zhcn="嘉年华游戏(美)" collection="聚会游戏"/>
+	<Game id="RCGP54" en="Carnival Games" zhcn="嘉年华游戏(欧)"/>
+	<Game id="RG9E54" en="Carnival Games: Mini Golf" zhcn="嘉年华游戏 迷你高尔夫(美)" collection="运动游戏"/>
+	<Game id="RG9P54" en="Carnival Games: Mini Golf" zhcn="嘉年华游戏 迷你高尔夫(欧)"/>
+	<Game id="RCAY78" en="Cars" zhcn="汽车总动员(Y)"/>
+	<Game id="RCAX78" en="Cars" zhcn="汽车总动员(X)"/>
+	<Game id="RCAP78" en="Cars" zhcn="汽车总动员(欧)"/>
+	<Game id="RCAE78" en="Cars" zhcn="汽车总动员(美)" collection="影视IP游戏 汽车总动员系列"/>
+	<Game id="SCYR4Q" en="Cars 2" zhcn="Cars 2"/>
+	<Game id="SCYX4Q" en="Cars 2" zhcn="汽车总动员2(X)"/>
+	<Game id="SCYY4Q" en="Cars 2" zhcn="汽车总动员2(Y)"/>
+	<Game id="SCYZ4Q" en="Cars 2" zhcn="汽车总动员2(Z)"/>
+	<Game id="SCYP4Q" en="Cars 2" zhcn="汽车总动员2(欧)"/>
+	<Game id="SCYE4Q" en="Cars 2" zhcn="汽车总动员2(美)" collection="影视IP游戏 汽车总动员系列"/>
+	<Game id="R6OX78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(X)"/>
+	<Game id="R6OP78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(欧)"/>
+	<Game id="R6OE78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(美)" collection="影视IP游戏 汽车总动员系列"/>
+	<Game id="STOE4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(美)" collection="影视IP游戏 汽车总动员系列"/>
+	<Game id="STOP4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(欧)"/>
+	<Game id="STOX4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(X)"/>
+	<Game id="RC2Y78" en="Cars: Mater-National" zhcn="汽车总动员 全国汽车大赛(Y)"/>
+	<Game id="RC2X78" en="Cars: Mater-National" zhcn="汽车总动员 全国汽车大赛(X)"/>
+	<Game id="RC2E78" en="Cars: Mater-National Championship" zhcn="汽车总动员 全国汽车大赛(美)" collection="影视IP游戏 汽车总动员系列"/>
+	<Game id="RC2P78" en="Cars: Mater-National Championship" zhcn="汽车总动员 全国汽车大赛(欧)"/>
+	<Game id="SQLPGN" en="Cartoon Network: Punch Time Explosion XL" zhcn="卡通频道明星大乱斗(欧)" ="SQLE4Z"/>
+	<Game id="SQLE4Z" en="Cartoon Network: Punch Time Explosion XL" zhcn="卡通频道明星大乱斗(美)" collection="C"/>
+	<Game id="RCOPNP" en="Case Closed: The Mirapolis Investigation" zhcn="名侦探柯南 追忆的幻想(欧)"/>
+	<Game id="RCOKZF" en="Case Closed: The Mirapolis Investigation" zhcn="名侦探柯南 追忆的幻想(韩)"/>
+	<Game id="RX4E4Z" en="Casper's Scare School: Spooky Sports Day" zhcn="鬼马小灵精 恐怖学校鬼怪的运动日(美)" collection="C"/>
+	<Game id="RX4PMT" en="Casper's Scare School: Spooky Sports Day" zhcn="鬼马小灵精 恐怖学校鬼怪的运动日(欧)"/>
+	<Game id="RS4EXS" en="Castle of Shikigami III" zhcn="式神之城3(美)" collection="C"/>
+	<Game id="RS4PXS" en="Castle of Shikigami III" zhcn="式神之城3(欧)"/>
+	<Game id="RDGPA4" en="Castlevania Judgment" zhcn="恶魔城 审判(欧)"/>
+	<Game id="RDGEA4" en="Castlevania Judgment" zhcn="恶魔城 审判(美)" collection="C"/>
+	<Game id="RKEPGN" en="Cate West: The Vanishing Files" zhcn="消失的档案(欧)" same-as="RKEENR"/>
+	<Game id="RKEENR" en="Cate West: The Vanishing Files" zhcn="消失的档案(美)" collection="C"/>
+	<Game id="RC3X41" en="Catz" zhcn="模拟宠物猫2(X)"/>
+	<Game id="RC3P41" en="Catz" zhcn="模拟宠物猫2(欧)"/>
+	<Game id="RMCECD" en="Cederic's MKW Texture and Music Pack" zhcn="Cederic's MKW Texture and Music Pack"/>
+	<Game id="REAP69" en="Celebrity Sports Showdown" zhcn="名人体育(欧)" collection="运动游戏 运动会"/>
+	<Game id="REAF69" en="Celebrity Sports Showdown" zhcn="名人体育(法)"/>
+	<Game id="REAE69" en="Celebrity Sports Showdown" zhcn="名人体育(美)" collection="运动游戏 运动会"/>
+	<Game id="SCPE70" en="Centipede: Infestation" zhcn="巨虫入侵ACT(美)" collection="C"/>
+	<Game id="SC6PGN" en="Challenge Me: Brain Puzzles 2" zhcn="自我挑战 大脑智力题2(欧)"/>
+	<Game id="SC5PGN" en="Challenge Me: Word Puzzles" zhcn="挑战自我 填字游戏(欧)"/>
+	<Game id="SMNPZC" en="Challenging Super Mario Bros. Wii: Virtual Special" zhcn="Challenging Super Mario Bros. Wii: Virtual Special"/>
+	<Game id="SMNJZC" en="Challenging Super Mario Bros. Wii: Virtual Special" zhcn="Challenging Super Mario Bros. Wii: Virtual Special"/>
+	<Game id="SMNEZC" en="Challenging Super Mario Bros. Wii: Virtual Special" zhcn="Challenging Super Mario Bros. Wii: Virtual Special"/>
+	<Game id="SGKEC8" en="Champion Jockey: G1 Jockey &amp; Gallop Racer" zhcn="冠军骑师 骑师之道＆风速神驹(美)" collection="C"/>
+	<Game id="SGKPC8" en="Champion Jockey: G1 Jockey &amp; Gallop Racer" zhcn="冠军骑师 骑师之道＆风速神驹(欧)"/>
+	<Game id="SGKJC8" en="Champion Jockey: Gallop Racer &amp; GI Jockey" zhcn="冠军骑师 风速神驹＆骑师之道(日)" collection="C"/>
+	<Game id="R4BEJZ" en="Championship Foosball" zhcn="桌面足球(美)" collection="运动游戏 足球"/>
+	<Game id="RXHF5D" en="Chaos à La Maison" zhcn="混沌之家(法)"/>
+	<Game id="RMCEOA" en="Chaotic Kart Wii" zhcn="Chaotic Kart Wii"/>
+	<Game id="CNSMBW" en="Chaotic New Super Mario Bros. Wii" zhcn="Chaotic New Super Mario Bros. Wii"/>
+	<Game id="R7QE52" en="Chaotic: Shadow Warriors" zhcn="混沌影子武士(美)" collection="C"/>
+	<Game id="R7IE69" en="Charm Girls Club: Pajama Party" zhcn="魅力女孩俱乐部 睡衣派对(美)" collection="平衡板游戏"/>
+	<Game id="R7IP69" en="Charm Girls Club: Pyjama Party" zhcn="魅力女孩俱乐部 睡衣派对(欧)"/>
+	<Game id="RSPE02" en="Checkered Sports" zhcn="Checkered Sports"/>
+	<Game id="RCYPGN" en="Cheggers Party Quiz" zhcn="切格的聚会迷题(欧)"/>
+	<Game id="RHAK01" en="Cheoeum Mannaneun Wii" zhcn="Wii第一次接触(韩)"/>
+	<Game id="SROKZ5" en="Cheongongui Gisa Rodea" zhcn="Cheongongui Gisa Rodea"/>
+	<Game id="SCXESZ" en="Chevrolet Camaro: Wild Ride" zhcn="雪福来卡玛洛 野外驾驶(美)" collection="C"/>
+	<Game id="SCXPNJ" en="Chevrolet Camaro: Wild Ride" zhcn="雪福来卡玛洛 野外驾驶(欧)" same-as="SCXESZ"/>
+	<Game id="R24J01" en="Chibi-Robo!" zhcn="用Wii游玩小小机器人(日)" collection="C"/>
+	<Game id="R24E01" en="Chibi-Robo! [ENG]" zhcn="用Wii游玩小小机器人(美)"/>
+	<Game id="R8LP7J" en="Chicken Blaster" zhcn="爆裂小鸡猎杀者(欧)" same-as="R8LE20"/>
+	<Game id="R8LE20" en="Chicken Blaster" zhcn="爆裂小鸡猎杀者(美)" collection="光枪游戏"/>
+	<Game id="RCLP4Q" en="Chicken Little: Ace In Action" zhcn="四眼天鸡之动作天王(欧)"/>
+	<Game id="SCREJH" en="Chicken Riot" zhcn="小鸡大暴乱(美)" collection="C"/>
+	<Game id="SCRPJH" en="Chicken Riot" zhcn="小鸡大暴乱(欧)"/>
+	<Game id="RCSP7J" en="Chicken Shoot" zhcn="射鸡英雄传(欧)"/>
+	<Game id="RCSE20" en="Chicken Shoot" zhcn="射鸡英雄传(美)" collection="光枪游戏"/>
+	<Game id="RTIJ8P" en="Chin Sports" zhcn="疯狂世界大运动(日)"/>
+	<Game id="RMCECH" en="Chis Kart Wii" zhcn="Chis Kart Wii"/>
+	<Game id="R7FJGD" en="Chocobo no Fushigi na Dungeon: Toki-wasure no Meikyuu" zhcn="陆行鸟 忘却时间的迷宫(日)" collection="C"/>
+	<Game id="RCQJDA" en="Choro Q Wii" zhcn="Q版赛车 Wii(日)"/>
+	<Game id="R3CP7J" en="Chrysler Classic Racing" zhcn="克莱斯勒经典赛车(欧)" same-as="R3CE20"/>
+	<Game id="R3CE20" en="Chrysler Classic Racing" zhcn="克莱斯勒经典赛车(美)" collection="竞速游戏"/>
+	<Game id="SCEE6K" en="Chuck E. Cheese's Party Games" zhcn="查克奶酪的派对游戏(美)" collection="查克奶酪系列"/>
+	<Game id="SCKE6K" en="Chuck E. Cheese's Sports Games" zhcn="查克奶酪的运动游戏(美)" collection="查克奶酪系列"/>
+	<Game id="SATE6K" en="Chuck E. Cheese's Super Collection" zhcn="查克奶酪的超级收藏(美)" collection="查克奶酪系列"/>
+	<Game id="RODK01" en="Chumchwora Made in Wario" zhcn="瓦里奥制造 手舞足蹈(韩或中)" collection="中文游戏"/>
+	<Game id="R5QPGT" en="Circus" zhcn="马戏团游戏(欧)"/>
+	<Game id="RQKE41" en="Circus Games" zhcn="马戏团游戏(美)" collection="C"/>
+	<Game id="RG7EQH" en="City Builder" zhcn="城市建设者(美)" collection="C"/>
+	<Game id="RBQENR" en="Classic British Motor Racing" zhcn="经典英式赛车(美)" collection="竞速游戏"/>
+	<Game id="RBQPUG" en="Classic British Motor Racing" zhcn="经典英式赛车(欧)" same-as="RBQENR"/>
+	<Game id="RV3P6N" en="Clever Kids: Creepy Crawlies" zhcn="聪明的孩子 吓人的爬行动物(欧)"/>
+	<Game id="SCLJ01" en="Cliff Super Mario Bros. Wii" zhcn="Cliff Super Mario Bros. Wii"/>
+	<Game id="SCLE01" en="Cliff Super Mario Bros. Wii" zhcn="Cliff Super Mario Bros. Wii"/>
+	<Game id="SCLP01" en="Cliff Super Mario Bros. Wii" zhcn="Cliff Super Mario Bros. Wii"/>
+	<Game id="ROYE41" en="Cloudy with a Chance of Meatballs" zhcn="天降美食(美)" collection="影视IP游戏"/>
+	<Game id="ROYP41" en="Cloudy with a Chance of Meatballs" zhcn="天降美食(欧)"/>
+	<Game id="ROYX41" en="Cloudy with a Chance of Meatballs" zhcn="天降美食(X)"/>
+	<Game id="R59P4Q" en="Club Penguin: Game Day!" zhcn="企鹅俱乐部 游戏日(欧)"/>
+	<Game id="R59E4Q" en="Club Penguin: Game Day!" zhcn="企鹅俱乐部 游戏日(美)" collection="C"/>
+	<Game id="SMNELC" en="Clue4u's Super Epic Mod" zhcn="Clue4u's Super Epic Mod"/>
+	<Game id="SCFPNK" en="Cocoto Festival" zhcn="魔怪狂欢节(欧)"/>
+	<Game id="ROCE5Z" en="Cocoto Kart Racer" zhcn="小魔怪卡丁车(美)" collection="竞速游戏"/>
+	<Game id="ROCPNK" en="Cocoto Kart Racer" zhcn="小魔怪卡丁车(欧)" same-as="ROCE5Z"/>
+	<Game id="SKWPNK" en="Cocoto Kart Racer 2" zhcn="Cocoto Kart Racer 2"/>
+	<Game id="RMRXNK" en="Cocoto Magic Circus" zhcn="小魔怪魔法马戏团(X)"/>
+	<Game id="RMRPNK" en="Cocoto Magic Circus" zhcn="小魔怪魔法马戏团(欧)" same-as="RMRE5Z"/>
+	<Game id="RMRE5Z" en="Cocoto Magic Circus" zhcn="小魔怪魔法马戏团(美)" collection="C"/>
+	<Game id="SCTPNK" en="Cocoto Surprise" zhcn="小魔怪惊喜(欧)"/>
+	<Game id="RLKEGY" en="Code Lyoko: Quest for Infinity" zhcn="虚幻勇士 追求无限(美)" collection="C"/>
+	<Game id="RLKPFK" en="Code Lyoko: Quest for Infinity" zhcn="虚幻勇士 追求无限(欧)"/>
+	<Game id="R6DFJW" en="Code de la Route" zhcn="警告 公路规则(法)"/>
+	<Game id="R7NE20" en="Cold Stone Creamery: Scoop It Up" zhcn="酷圣石 冰激凌来一勺(美)" collection="C"/>
+	<Game id="R69P36" en="Colin McRae: DiRT 2" zhcn="尘埃2(欧)"/>
+	<Game id="RMCECG" en="Color Grand Prix" zhcn="Color Grand Prix"/>
+	<Game id="SGXP41" en="Combat of Giants: Dinosaurs Strike" zhcn="巨兽之战 恐龙袭击(欧)"/>
+	<Game id="SC2P8P" en="Conduit 2" zhcn="管道2(欧)"/>
+	<Game id="SC2E8P" en="Conduit 2" zhcn="管道2(美)" collection="C"/>
+	<Game id="RMCECK" en="Confused Kart Wii" zhcn="Confused Kart Wii"/>
+	<Game id="RZLE41" en="Cook Wars" zhcn="烹饪战争(美)" collection="C"/>
+	<Game id="RZLP41" en="Cook-off Party" zhcn="烹饪聚会(欧)"/>
+	<Game id="SQKK01" en="Cooking Mama" zhcn="Cooking Mama"/>
+	<Game id="RCCPGT" en="Cooking Mama" zhcn="料理妈妈(欧)"/>
+	<Game id="R2QJC0" en="Cooking Mama 2: Taihen!! Mama wa Ooisogashi!" zhcn="料理妈妈2 糟糕！妈妈好忙！！(日)" collection="料理妈妈系列"/>
+	<Game id="RWKPGT" en="Cooking Mama 2: World Kitchen" zhcn="料理妈妈 世界厨房(欧)"/>
+	<Game id="SBWPGT" en="Cooking Mama World: Babysitting Mama" zhcn="育儿妈妈(欧)" collection="料理妈妈系列"/>
+	<Game id="RCCE5G" en="Cooking Mama: Cook Off" zhcn="料理妈妈(美)" collection="料理妈妈系列"/>
+	<Game id="RCCJC0" en="Cooking Mama: Minna to Issho ni Oryouri Taikai!" zhcn="料理妈妈(日)"/>
+	<Game id="RWKE5G" en="Cooking Mama: World Kitchen" zhcn="料理妈妈 世界厨房(美)" collection="料理妈妈系列"/>
+	<Game id="RKLPG9" en="Coraline" zhcn="鬼妈妈(欧)"/>
+	<Game id="RKLEG9" en="Coraline" zhcn="鬼妈妈(美)" collection="C"/>
+	<Game id="RCFE41" en="Cosmic Family" zhcn="宇宙家庭(美)" collection="C"/>
+	<Game id="RCFP41" en="Cosmic Family" zhcn="宇宙家庭(欧)"/>
+	<Game id="RMCEC7" en="Cosmic Kart" zhcn="Cosmic Kart"/>
+	<Game id="R5EPMR" en="Countdown: The Game" zhcn="倒计时(欧)"/>
+	<Game id="R54FMR" en="Countdown: The Game" zhcn="倒数游戏(法)"/>
+	<Game id="RCTE5Z" en="Counter Force" zhcn="反击力量(美)" collection="C"/>
+	<Game id="RCTPGT" en="Counter Force" zhcn="反击力量(欧)" same-as="RCTE5Z"/>
+	<Game id="SQ3EPZ" en="Country Dance" zhcn="乡村舞蹈(美)"/>
+	<Game id="SQ2EPZ" en="Country Dance" zhcn="乡村舞蹈(美)" collection="舞力全开 衍生系列"/>
+	<Game id="SQ2PXT" en="Country Dance" zhcn="Country Dance"/>
+	<Game id="DAUEPZ" en="Country Dance (Demo)" zhcn="Country Dance (Demo)"/>
+	<Game id="S2BPXT" en="Country Dance 2" zhcn="Country Dance 2"/>
+	<Game id="S2BEPZ" en="Country Dance 2" zhcn="乡村舞蹈2(美)" collection="舞力全开 衍生系列"/>
+	<Game id="RKBE41" en="Cranium Kabookii" zhcn="卡波其涂鸦(美)" collection="C"/>
+	<Game id="RKBP41" en="Cranium Kabookii" zhcn="卡波其涂鸦(欧)"/>
+	<Game id="SN5PNG" en="Crash Car Racer" zhcn="急速赛车 冲撞赛车(欧)"/>
+	<Game id="RQJX7D" en="Crash of the Titans" zhcn="古惑狼 泰坦巨人(X)"/>
+	<Game id="RQJP7D" en="Crash of the Titans" zhcn="古惑狼 泰坦巨人(欧)"/>
+	<Game id="RQJE7D" en="Crash of the Titans" zhcn="古惑狼 泰坦巨人(美)" collection="C"/>
+	<Game id="RC8P7D" en="Crash: Mind Over Mutant" zhcn="古惑狼 变异心灵(欧)"/>
+	<Game id="RC8X7D" en="Crash: Mind Over Mutant" zhcn="古惑狼 变异心灵(X)"/>
+	<Game id="RC8E7D" en="Crash: Mind Over Mutant" zhcn="古惑狼 变异心灵(美)" collection="C"/>
+	<Game id="RZUE4Z" en="Crayola Colorful Journey" zhcn="彩色之旅(美)" collection="C"/>
+	<Game id="RC4JD9" en="Crayon Shin-Chan: Saikyou Kazoku Kasukabe King Wii" zhcn="蜡笔小新 最强家族春日部之王(日)" collection="影视IP游戏"/>
+	<Game id="RHVE5Z" en="Crazy Chicken Tales" zhcn="疯狂小鸡传说(美)" collection="C"/>
+	<Game id="RHVPFR" en="Crazy Chicken Tales" zhcn="疯狂小鸡传说(欧)"/>
+	<Game id="SCUPFR" en="Crazy Chicken: Carnival" zhcn="疯狂小鸡嘉年华派对(欧)"/>
+	<Game id="RQ2JK6" en="Crazy Climber Wii" zhcn="疯狂攀登者Wii(日或中)" collection="中文游戏"/>
+	<Game id="SCZEMH" en="Crazy Machines" zhcn="疯狂机器(美)" collection="C"/>
+	<Game id="SCZPFR" en="Crazy Machines" zhcn="疯狂机器(欧)"/>
+	<Game id="SG2PUG" en="Crazy Mini Golf 2" zhcn="Crazy Mini Golf 2"/>
+	<Game id="SG2YFS" en="Crazy Mini Golf 2" zhcn="Crazy Mini Golf 2"/>
+	<Game id="SG2XUG" en="Crazy Mini Golf 2" zhcn="疯狂迷你高尔夫2(X)" same-as="SG2EFS"/>
+	<Game id="SG2EFS" en="Crazy Mini Golf 2" zhcn="疯狂迷你高尔夫2(美)" collection="运动游戏"/>
+	<Game id="R8QPRT" en="Crazy Quiz! Are You Crazy Enough?" zhcn="疯狂问答(欧)"/>
+	<Game id="SECE69" en="Create" zhcn="EA创造(美)" collection="C"/>
+	<Game id="SECP69" en="Create" zhcn="EA创造(欧)"/>
+	<Game id="RMCE69" en="Cria Kart Wii" zhcn="Cria Kart Wii"/>
+	<Game id="RCRE5D" en="Cruis'n" zhcn="劲速狂飙(美)" collection="竞速游戏"/>
+	<Game id="RCRP5D" en="Cruis'n" zhcn="劲速狂飙(欧)"/>
+	<Game id="SCSPGR" en="Cruise Ship Resort" zhcn="游轮度假游戏(欧)"/>
+	<Game id="SCSE52" en="Cruise Ship Vacation Games" zhcn="游轮度假游戏(美)" collection="加速器游戏"/>
+	<Game id="RMCEGC" en="CTGP Revolution Legacy" zhcn="CTGP Revolution Legacy"/>
+	<Game id="RMCE7T" en="Cuber's Hack Pack" zhcn="Cuber's Hack Pack"/>
+	<Game id="RQ6XKM" en="Cursed Mountain" zhcn="妖山诅咒(X)"/>
+	<Game id="RQ6EJJ" en="Cursed Mountain" zhcn="妖山诅咒(美)" collection="C"/>
+	<Game id="RQ6PKM" en="Cursed Mountain" zhcn="妖山诅咒(欧)"/>
+	<Game id="RMKE02" en="Custom Kart 1" zhcn="自制 马里奥赛车1(美)"/>
+	<Game id="RMCP05" en="Custom Mario Kart Wii" zhcn="自制 马里奥赛车Wii(欧)"/>
+	<Game id="SMNEHS" en="Custom Super Mario Bros. Wii Halloween Special" zhcn="Custom Super Mario Bros. Wii Halloween Special"/>
+	<Game id="SCBPNK" en="Cyberbike Cycling Sports" zhcn="自行车运动(欧)"/>
+	<Game id="SCBE5V" en="Cyberbike Cycling Sports" zhcn="Cyberbike Cycling Sports"/>
+</Game-List>

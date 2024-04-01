@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Game-List>
+	<Game id="SNSE52" en="NASCAR 2011: The Game" zhcn="云斯顿赛车 2011(美)" collection="done2"/>
+	<Game id="R2NE69" en="NASCAR Kart Racing" zhcn="纳斯卡卡丁车赛(美)" collection="N"/>
+	<Game id="SNPE52" en="NASCAR The Game: Inside Line" zhcn="云斯顿赛车 内线(美)" collection="N"/>
+	<Game id="SNRE52" en="NASCAR Unleashed" zhcn="云斯顿赛车 快感释放(美)" collection="N"/>
+	<Game id="R76E54" en="NBA 2K10" zhcn="NBA 2010[WiFi](美)" collection="N"/>
+	<Game id="R76P54" en="NBA 2K10" zhcn="NBA 2010[WiFi](欧)"/>
+	<Game id="SB5P54" en="NBA 2K11" zhcn="NBA 2K11[WiFi](欧)"/>
+	<Game id="SB5E54" en="NBA 2K11" zhcn="NBA 2K11[WiFi](美)" collection="N"/>
+	<Game id="S2QP54" en="NBA 2K12" zhcn="NBA 2K12(欧)"/>
+	<Game id="S2QE54" en="NBA 2K12" zhcn="NBA 2K12(美)" collection="N"/>
+	<Game id="SKSP54" en="NBA 2K13" zhcn="NBA 2K13"/>
+	<Game id="SKSE54" en="NBA 2K13" zhcn="NBA 2K13(美)" collection="运动游戏"/>
+	<Game id="SNJP69" en="NBA Jam" zhcn="NBA嘉年华(欧)"/>
+	<Game id="SNJE69" en="NBA Jam" zhcn="NBA嘉年华(美)" collection="运动游戏"/>
+	<Game id="RNBX69" en="NBA Live 08" zhcn="美国职业篮球2008[WiFi](X)"/>
+	<Game id="RNBE69" en="NBA Live 08" zhcn="美国职业篮球2008[WiFi](美)" collection="N"/>
+	<Game id="RNBP69" en="NBA Live 08" zhcn="美国职业篮球2008[WiFi](欧)"/>
+	<Game id="RQ9S69" en="NBA Live 09 All-Play" zhcn="美国职业篮球2009[WiFi](西)"/>
+	<Game id="RQ9P69" en="NBA Live 09 All-Play" zhcn="美国职业篮球2009[WiFi](欧)"/>
+	<Game id="RQ9F69" en="NBA Live 09 All-Play" zhcn="美国职业篮球2009[WiFi](法)"/>
+	<Game id="RQ9E69" en="NBA Live 09 All-Play" zhcn="美国职业篮球2009[WiFi](美)" collection="N"/>
+	<Game id="RNAE69" en="NCAA Football 09" zhcn="美国大学橄榄球2009(美)" collection="N"/>
+	<Game id="SNBE41" en="NCIS: The Game" zhcn="重返犯罪现场 NCIS(美)" collection="N"/>
+	<Game id="SNBP41" en="NCIS: The Game" zhcn="重返犯罪现场 NCIS(欧)" collection="done2"/>
+	<Game id="RNKE69" en="NERF N-Strike" zhcn="玩具枪大作战(美)" collection="光枪游戏"/>
+	<Game id="RNKP69" en="NERF N-Strike" zhcn="玩具枪大战(欧)"/>
+	<Game id="SN2E69" en="NERF N-Strike Double Blast Bundle" zhcn="玩具枪大作战 双重爆破合集(美)" collection="光枪游戏"/>
+	<Game id="RL6E69" en="NERF N-Strike Elite" zhcn="玩具枪大作战 精英(美)" collection="光枪游戏"/>
+	<Game id="RQIJ01" en="NHK Kouhaku Quiz Gassen" zhcn="NHK红白猜谜合战(日)"/>
+	<Game id="R7OE54" en="NHL 2K10" zhcn="北美冰球联盟2010[MP][WiFi](美)" collection="N"/>
+	<Game id="R7OP54" en="NHL 2K10" zhcn="北美冰球联盟2010[MP][WiFi](欧)"/>
+	<Game id="SH3P54" en="NHL 2K11" zhcn="北美冰球联盟2011[MP][WiFi](欧)"/>
+	<Game id="SH3E54" en="NHL 2K11" zhcn="北美冰球联盟2011[MP][WiFi](美)" collection="N"/>
+	<Game id="RNLE54" en="NHL 2K9" zhcn="北美冰球联盟2009[WiFi](美)" collection="N"/>
+	<Game id="RNLP54" en="NHL 2K9" zhcn="北美冰球联盟2009[WiFi](欧)"/>
+	<Game id="SHYE69" en="NHL SlapShot" zhcn="NHL冰球 强打(美)" collection="N"/>
+	<Game id="SHYP69" en="NHL Slapshot" zhcn="NHL冰球 强打(欧)"/>
+	<Game id="R29E52" en="NPPL Championship Paintball 2009" zhcn="世界彩弹锦标赛2009(美)" collection="N"/>
+	<Game id="SNMEAF" en="Namco Museum Megamix" zhcn="Namco博物馆 重制版(美)" collection="N"/>
+	<Game id="RN2P70" en="Namco Museum Remix" zhcn="Namco博物馆重制版(欧)"/>
+	<Game id="RN2EAF" en="Namco Museum Remix" zhcn="Namco博物馆重制版(美)" collection="4"/>
+	<Game id="RNWKAF" en="Namco Museum Remix" zhcn="Namco博物馆 重制版(韩)"/>
+	<Game id="RNUE8P" en="Nancy Drew: The White Wolf of Icicle Creek" zhcn="南茜朱儿 冰溪白狼(美)" collection="N"/>
+	<Game id="RNNJ4Q" en="Narnia Koku Monogatari: Dai-2 Shou: Caspian Ouji no Tsunobue" zhcn="纳尼亚传奇 凯斯宾王子(日)"/>
+	<Game id="G4NEDA" en="Naruto Gektiou Ninja Taisen! 4 [Eng]" zhcn="Naruto Gektiou Ninja Taisen! 4 [Eng]"/>
+	<Game id="RNEEDA" en="Naruto Shippuden: Clash of Ninja Revolution 3" zhcn="火影忍者疾风传 激斗忍者大战3(美)" collection="影视IP游戏 火影忍者系列"/>
+	<Game id="RNEPDA" en="Naruto Shippuden: Clash of Ninja Revolution 3" zhcn="火影忍者疾风传 激斗忍者大战 3[WiFi](欧)"/>
+	<Game id="RNEEUD" en="Naruto Shippuden: Clash of Ninja Revolution 3 Undub" zhcn="Naruto Shippuden: Clash of Ninja Revolution 3 Undub"/>
+	<Game id="SN4XGT" en="Naruto Shippuden: Dragon Blade Chronicles" zhcn="火影忍者疾风传 龙刃编年史(欧)"/>
+	<Game id="SN4EDA" en="Naruto Shippuden: Dragon Blade Chronicles" zhcn="火影忍者疾风传 龙刃编年史(美)" collection="N"/>
+	<Game id="RNXJDA" en="Naruto Shippuuden: Gekitou Ninja Taisen! EX" zhcn="火影忍者疾风传 激斗忍者大战EX(日)" collection="影视IP游戏 火影忍者系列"/>
+	<Game id="RNYJDA" en="Naruto Shippuuden: Gekitou Ninja Taisen! EX2" zhcn="火影忍者疾风传 激斗忍者大战EX2(日)" collection="影视IP游戏 火影忍者系列"/>
+	<Game id="RNEJDA" en="Naruto Shippuuden: Gekitou Ninja Taisen! EX3" zhcn="火影忍者疾风传 激斗忍者大战EX3(日)" collection="影视IP游戏 火影忍者系列"/>
+	<Game id="SNXJDA" en="Naruto Shippuuden: Gekitou Ninja Taisen! Special" zhcn="火影忍者疾风传 激斗忍者大战特别版(日)" collection="影视IP游戏 火影忍者系列"/>
+	<Game id="SN4JDA" en="Naruto Shippuuden: Ryuu Jin-ki" zhcn="火影忍者疾风传 龙刃编年史(日)" collection="影视IP游戏 火影忍者系列"/>
+	<Game id="RNXEDA" en="Naruto: Clash of Ninja Revolution" zhcn="火影忍者疾风传 激斗忍者大战(美)" collection="N"/>
+	<Game id="RNXPDA" en="Naruto: Clash of Ninja Revolution" zhcn="火影忍者疾风传 激斗忍者大战(欧)"/>
+	<Game id="RNYEDA" en="Naruto: Clash of Ninja Revolution 2" zhcn="火影忍者疾风传 激斗忍者大战 2(美)" collection="N"/>
+	<Game id="RNYPDA" en="Naruto: Clash of Ninja Revolution 2" zhcn="火影忍者疾风传 激斗忍者大战 2(欧)"/>
+	<Game id="SG4JDA" en="Naruto: Super Clash of Ninja 4" zhcn="Naruto: Super Clash of Ninja 4"/>
+	<Game id="SGEEG9" en="Nat Geo Challenge! Wild Life" zhcn="国家地理杂志问答 野生动物(美)"/>
+	<Game id="SGEPLG" en="Nat Geo Quiz! Wild Life" zhcn="国家地理杂志问答 野生动物(欧)"/>
+	<Game id="SNQE7U" en="National Geographic Challenge!" zhcn="国家地理大挑战(美)" collection="N"/>
+	<Game id="SNQPLG" en="National Geographic Challenge!" zhcn="国家地理大挑战(欧)"/>
+	<Game id="RMCENH" en="Navi's HNS CT Pack" zhcn="Navi's HNS CT Pack"/>
+	<Game id="RN9JEL" en="Necro-Nesia" zhcn="巨虫魔岛(日)"/>
+	<Game id="RNSE69" en="Need for Speed Carbon" zhcn="极品飞车 卡本峡谷(美)" collection="N"/>
+	<Game id="RNSF69" en="Need for Speed: Carbon" zhcn="极品飞车10卡本峡谷(法)"/>
+	<Game id="RNSJ13" en="Need for Speed: Carbon" zhcn="极品飞车10卡本峡谷(日)"/>
+	<Game id="RNSP69" en="Need for Speed: Carbon" zhcn="极品飞车10卡本峡谷(欧)"/>
+	<Game id="RNSD69" en="Need for Speed: Carbon" zhcn="极品飞车10卡本峡谷(德)"/>
+	<Game id="SNHP69" en="Need for Speed: Hot Pursuit" zhcn="极品飞车 热力追踪(欧)"/>
+	<Game id="SNHE69" en="Need for Speed: Hot Pursuit" zhcn="极品飞车 热力追踪(美)" collection="1"/>
+	<Game id="SNHJ13" en="Need for Speed: Hot Pursuit" zhcn="极品飞车 热力追踪(日)" collection="done2"/>
+	<Game id="R7XE69" en="Need for Speed: Nitro" zhcn="极品飞车 氮气(美)" collection="1"/>
+	<Game id="R7XJ13" en="Need for Speed: Nitro" zhcn="极品飞车 氮气(日)"/>
+	<Game id="R7XP69" en="Need for Speed: Nitro" zhcn="极品飞车 氮气(欧)"/>
+	<Game id="RNPE69" en="Need for Speed: ProStreet" zhcn="极品飞车 街头职业赛(美)" collection="done3"/>
+	<Game id="RNPJ13" en="Need for Speed: ProStreet" zhcn="极品飞车 街头职业赛(日)"/>
+	<Game id="RNPP69" en="Need for Speed: ProStreet" zhcn="极品飞车 街头职业赛(欧)"/>
+	<Game id="RNPX69" en="Need for Speed: ProStreet" zhcn="极品飞车 街头职业赛(X)"/>
+	<Game id="RNPY69" en="Need for Speed: ProStreet" zhcn="极品飞车 街头职业赛(Y)"/>
+	<Game id="RNPK69" en="Need for Speed: ProStreet" zhcn="极品飞车 街头职业赛(韩)"/>
+	<Game id="SNVP69" en="Need for Speed: The Run" zhcn="极速快感 亡命天涯(欧)"/>
+	<Game id="SNVJ13" en="Need for Speed: The Run" zhcn="极速快感 亡命天涯(日)" collection="done2"/>
+	<Game id="SNVE69" en="Need for Speed: The Run" zhcn="极速快感 亡命天涯(美)" collection="2"/>
+	<Game id="RX9K69" en="Need for Speed: Undercover" zhcn="极品飞车 卧底(韩)"/>
+	<Game id="RX9Y69" en="Need for Speed: Undercover" zhcn="极品飞车 卧底(Y)"/>
+	<Game id="RX9X69" en="Need for Speed: Undercover" zhcn="极品飞车 卧底(X)"/>
+	<Game id="RX9E69" en="Need for Speed: Undercover" zhcn="极品飞车 卧底(美)" collection="done3"/>
+	<Game id="RX9J13" en="Need for Speed: Undercover" zhcn="极品飞车 卧底(日)"/>
+	<Game id="RX9P69" en="Need for Speed: Undercover" zhcn="极品飞车 卧底(欧)"/>
+	<Game id="RNGJ99" en="Negima! Neo-Pactio Fight!!" zhcn="魔法老师涅吉！？新契约大战！！(日)"/>
+	<Game id="RN7E78" en="Neighborhood Games" zhcn="邻居间的游戏(美)" collection="N"/>
+	<Game id="NMGE01" en="Neo Mario Galaxy" zhcn="Neo Mario Galaxy"/>
+	<Game id="SB4J02" en="Neo Mario Galaxy" zhcn="Neo Mario Galaxy"/>
+	<Game id="SB4E02" en="Neo Mario Galaxy" zhcn="Neo Mario Galaxy"/>
+	<Game id="NMGP01" en="Neo Mario Galaxy" zhcn="Neo Mario Galaxy"/>
+	<Game id="SB4P02" en="Neo Mario Galaxy" zhcn="Neo Mario Galaxy"/>
+	<Game id="R52P08" en="Neopets Puzzle Adventure" zhcn="尼奥宠物谜题大冒险(欧)" collection="3"/>
+	<Game id="R52E08" en="Neopets Puzzle Adventure" zhcn="尼奥宠物谜题大冒险(美)" collection="N"/>
+	<Game id="RMCEBC" en="Neptune777 Forza MAX Broad Challenge" zhcn="Neptune777 Forza MAX Broad Challenge"/>
+	<Game id="RMCENG" en="Neptune777 Forza MAX New Generation" zhcn="Neptune777 Forza MAX New Generation"/>
+	<Game id="RMCENL" en="Neptune777 Forza MAX Next Layer" zhcn="Neptune777 Forza MAX Next Layer"/>
+	<Game id="RMCEFO" en="Neptune777 Forza MAX Origins" zhcn="Neptune777 Forza MAX Origins"/>
+	<Game id="RMCEGT" en="Neptune777 Xtreme Race GTX" zhcn="Neptune777 Xtreme Race GTX"/>
+	<Game id="SNTEXN" en="Netflix Instant Streaming Disc" zhcn="Netflix系统安装盘(美)"/>
+	<Game id="RMCENQ" en="Nevesqq's Texture n' Music Pack" zhcn="Nevesqq's Texture n' Music Pack"/>
+	<Game id="RMCENA" en="New Adventure All-Stars" zhcn="New Adventure All-Stars"/>
+	<Game id="S2CP54" en="New Carnival Funfair Games" zhcn="新嘉年华游戏[MP](欧)"/>
+	<Game id="S2CE54" en="New Carnival Games" zhcn="新嘉年华游戏[MP](美)" collection="N"/>
+	<Game id="RMCEM6" en="New Mario Kart Seven" zhcn="New Mario Kart Seven"/>
+	<Game id="RMCEG5" en="New Mario Kart Wii 64" zhcn="New Mario Kart Wii 64"/>
+	<Game id="RMCEM9" en="New Mario Kart: Double Dash!!" zhcn="New Mario Kart: Double Dash!!"/>
+	<Game id="PMNEO1" en="New Old Super Mario Bros. Wii" zhcn="自制 新旧超级马里奥兄弟Wii(美)"/>
+	<Game id="NPXW69" en="New Pokémon X Wii" zhcn="New Pokémon X Wii"/>
+	<Game id="SDNP01" en="New SUPER DODO BROS" zhcn="New SUPER DODO BROS"/>
+	<Game id="ENDP01" en="New SUPER MARIO BROS. Wii 20 The End For Now" zhcn="New SUPER MARIO BROS. Wii 20 The End For Now"/>
+	<Game id="SMNE62" en="New Super Bowser Wii" zhcn="New Super Bowser Wii"/>
+	<Game id="SMNP62" en="New Super Bowser Wii" zhcn="New Super Bowser Wii"/>
+	<Game id="SMNJ62" en="New Super Bowser Wii" zhcn="New Super Bowser Wii"/>
+	<Game id="SMNECZ" en="New Super Coinless Kaizo Wii" zhcn="New Super Coinless Kaizo Wii"/>
+	<Game id="SMNEG4" en="New Super Ganondorf Bros. Wii" zhcn="New Super Ganondorf Bros. Wii"/>
+	<Game id="SMNEL8" en="New Super Larry Wii" zhcn="New Super Larry Wii"/>
+	<Game id="SMNPLT" en="New Super Little Timmy Wii" zhcn="New Super Little Timmy Wii"/>
+	<Game id="SVMEBR" en="New Super Mario All-Stars HD" zhcn="New Super Mario All-Stars HD"/>
+	<Game id="SRVP01" en="New Super Mario Bros Revolution" zhcn="New Super Mario Bros Revolution"/>
+	<Game id="SMSE01" en="New Super Mario Bros Wii 12 Sunshine Paradise" zhcn="New Super Mario Bros Wii 12 Sunshine Paradise"/>
+	<Game id="SZEE01" en="New Super Mario Bros Wii 13 Shadow Zero Escape" zhcn="New Super Mario Bros Wii 13 Shadow Zero Escape"/>
+	<Game id="NEWE01" en="New Super Mario Bros Wii 15 A New World" zhcn="New Super Mario Bros Wii 15 A New World"/>
+	<Game id="SIXE01" en="New Super Mario Bros Wii 16 Revelations" zhcn="New Super Mario Bros Wii 16 Revelations"/>
+	<Game id="VIPE01" en="New Super Mario Bros Wii 18 Vip Mix" zhcn="New Super Mario Bros Wii 18 Vip Mix"/>
+	<Game id="SRGP01" en="New Super Mario Bros Wii 2 Reggie" zhcn="新超级马里奥兄弟Wii2 Reggie"/>
+	<Game id="SMNEH3" en="New Super Mario Bros. 3 Halloween Wii" zhcn="New Super Mario Bros. 3 Halloween Wii"/>
+	<Game id="SLFE01" en="New Super Mario Bros. 3 The Final Levels" zhcn="New Super Mario Bros. 3 The Final Levels"/>
+	<Game id="SLFP01" en="New Super Mario Bros. 3: The Final Levels" zhcn="New Super Mario Bros. 3: The Final Levels"/>
+	<Game id="SBWC11" en="New Super Mario Bros. 3: The Wrath of Shadow Bowser" zhcn="New Super Mario Bros. 3: The Wrath of Shadow Bowser"/>
+	<Game id="SMNESS" en="New Super Mario Bros. 7" zhcn="New Super Mario Bros. 7"/>
+	<Game id="SMNP20" en="New Super Mario Bros. H" zhcn="New Super Mario Bros. H"/>
+	<Game id="SMNE20" en="New Super Mario Bros. H" zhcn="New Super Mario Bros. H"/>
+	<Game id="SMNJ20" en="New Super Mario Bros. H" zhcn="New Super Mario Bros. H"/>
+	<Game id="SMNE22" en="New Super Mario Bros. Jungle Adventure Wii" zhcn="New Super Mario Bros. Jungle Adventure Wii"/>
+	<Game id="SMNELE" en="New Super Mario Bros. Legacy" zhcn="New Super Mario Bros. Legacy"/>
+	<Game id="SMNE0S" en="New Super Mario Bros. S" zhcn="New Super Mario Bros. S"/>
+	<Game id="SMNC01" en="New Super Mario Bros. Wii" zhcn="自制 新超级马里奥兄弟Wii(中)"/>
+	<Game id="SMNK01" en="New Super Mario Bros. Wii" zhcn="新超级马里奥兄弟Wii(韩)"/>
+	<Game id="SMNP01" en="New Super Mario Bros. Wii" zhcn="新超级马里奥兄弟Wii(欧)"/>
+	<Game id="SMNW01" en="New Super Mario Bros. Wii" zhcn="新超级马里奥兄弟Wii(中)" collection="超级马里奥兄弟系列"/>
+	<Game id="SMNE01" en="New Super Mario Bros. Wii" zhcn="新超级马里奥兄弟Wii(美)"/>
+	<Game id="SMNE52" en="New Super Mario Bros. Wii  - The Depot Level Pack Part 2" zhcn="New Super Mario Bros. Wii  - The Depot Level Pack Part 2"/>
+	<Game id="SMNJ46" en="New Super Mario Bros. Wii - Birthday Batch of Levels" zhcn="New Super Mario Bros. Wii - Birthday Batch of Levels"/>
+	<Game id="SMNP46" en="New Super Mario Bros. Wii - Birthday Batch of Levels" zhcn="New Super Mario Bros. Wii - Birthday Batch of Levels"/>
+	<Game id="SMNE46" en="New Super Mario Bros. Wii - Birthday Batch of Levels" zhcn="New Super Mario Bros. Wii - Birthday Batch of Levels"/>
+	<Game id="SMNJ53" en="New Super Mario Bros. Wii - Kid Edition" zhcn="New Super Mario Bros. Wii - Kid Edition"/>
+	<Game id="SMNP53" en="New Super Mario Bros. Wii - Kid Edition" zhcn="New Super Mario Bros. Wii - Kid Edition"/>
+	<Game id="SMNE53" en="New Super Mario Bros. Wii - Kid Edition" zhcn="New Super Mario Bros. Wii - Kid Edition"/>
+	<Game id="SMNJ55" en="New Super Mario Bros. Wii - Lava Mod Pack" zhcn="New Super Mario Bros. Wii - Lava Mod Pack"/>
+	<Game id="SMNP55" en="New Super Mario Bros. Wii - Lava Mod Pack" zhcn="New Super Mario Bros. Wii - Lava Mod Pack"/>
+	<Game id="SMNE55" en="New Super Mario Bros. Wii - Lava Mod Pack" zhcn="New Super Mario Bros. Wii - Lava Mod Pack"/>
+	<Game id="SMNP49" en="New Super Mario Bros. Wii - MSMKW Pack" zhcn="New Super Mario Bros. Wii - MSMKW Pack"/>
+	<Game id="SMNJ49" en="New Super Mario Bros. Wii - MSMKW Pack" zhcn="New Super Mario Bros. Wii - MSMKW Pack"/>
+	<Game id="SMNE49" en="New Super Mario Bros. Wii - MSMKW Pack" zhcn="New Super Mario Bros. Wii - MSMKW Pack"/>
+	<Game id="MP1E16" en="New Super Mario Bros. Wii - Mod Pack 1" zhcn="New Super Mario Bros. Wii - Mod Pack 1"/>
+	<Game id="SMNP31" en="New Super Mario Bros. Wii - Other World" zhcn="New Super Mario Bros. Wii - Other World"/>
+	<Game id="SMNE31" en="New Super Mario Bros. Wii - Other World" zhcn="New Super Mario Bros. Wii - Other World"/>
+	<Game id="SMNJ31" en="New Super Mario Bros. Wii - Other World" zhcn="New Super Mario Bros. Wii - Other World"/>
+	<Game id="SMNP50" en="New Super Mario Bros. Wii - Power Tower Pack" zhcn="New Super Mario Bros. Wii - Power Tower Pack"/>
+	<Game id="SMNE50" en="New Super Mario Bros. Wii - Power Tower Pack" zhcn="New Super Mario Bros. Wii - Power Tower Pack"/>
+	<Game id="SMNJ50" en="New Super Mario Bros. Wii - Power Tower Pack" zhcn="New Super Mario Bros. Wii - Power Tower Pack"/>
+	<Game id="SMNJ59" en="New Super Mario Bros. Wii - Quenry17's Level Pack" zhcn="New Super Mario Bros. Wii - Quenry17's Level Pack"/>
+	<Game id="SMNE59" en="New Super Mario Bros. Wii - Quenry17's Level Pack" zhcn="New Super Mario Bros. Wii - Quenry17's Level Pack"/>
+	<Game id="SMNP59" en="New Super Mario Bros. Wii - Quenry17's Level Pack" zhcn="New Super Mario Bros. Wii - Quenry17's Level Pack"/>
+	<Game id="SMNE51" en="New Super Mario Bros. Wii - The Depot Level Pack Part 1" zhcn="New Super Mario Bros. Wii - The Depot Level Pack Part 1"/>
+	<Game id="SMNP51" en="New Super Mario Bros. Wii - The Depot Level Pack Part 1" zhcn="New Super Mario Bros. Wii - The Depot Level Pack Part 1"/>
+	<Game id="SMNJ51" en="New Super Mario Bros. Wii - The Depot Level Pack Part 2" zhcn="New Super Mario Bros. Wii - The Depot Level Pack Part 2"/>
+	<Game id="SMNJ52" en="New Super Mario Bros. Wii - The Depot Level Pack Part 2" zhcn="New Super Mario Bros. Wii - The Depot Level Pack Part 2"/>
+	<Game id="SMNP52" en="New Super Mario Bros. Wii - The Depot Level Pack Part 2" zhcn="New Super Mario Bros. Wii - The Depot Level Pack Part 2"/>
+	<Game id="SMNP56" en="New Super Mario Bros. Wii - The Depot Level Pack Part 3" zhcn="New Super Mario Bros. Wii - The Depot Level Pack Part 3"/>
+	<Game id="SMNE56" en="New Super Mario Bros. Wii - The Depot Level Pack Part 3" zhcn="New Super Mario Bros. Wii - The Depot Level Pack Part 3"/>
+	<Game id="SMNJ56" en="New Super Mario Bros. Wii - The Depot Level Pack Part 3" zhcn="New Super Mario Bros. Wii - The Depot Level Pack Part 3"/>
+	<Game id="SMNP54" en="New Super Mario Bros. Wii - The Next Levels 2" zhcn="New Super Mario Bros. Wii - The Next Levels 2"/>
+	<Game id="SMNE54" en="New Super Mario Bros. Wii - The Next Levels 2" zhcn="New Super Mario Bros. Wii - The Next Levels 2"/>
+	<Game id="SMNJ54" en="New Super Mario Bros. Wii - The Next Levels 2" zhcn="New Super Mario Bros. Wii - The Next Levels 2"/>
+	<Game id="SWBP01" en="New Super Mario Bros. Wii 0 Where It All Began" zhcn="New Super Mario Bros. Wii 0 Where It All Began"/>
+	<Game id="SNLE01" en="New Super Mario Bros. Wii 0-2 Next Generation Levels" zhcn="New Super Mario Bros. Wii 0-2 Next Generation Levels"/>
+	<Game id="DIYP01" en="New Super Mario Bros. Wii 0-4 D.I.Y." zhcn="New Super Mario Bros. Wii 0-4 D.I.Y."/>
+	<Game id="EVOP01" en="New Super Mario Bros. Wii 0-5 Evolution" zhcn="New Super Mario Bros. Wii 0-5 Evolution"/>
+	<Game id="RADP01" en="New Super Mario Bros. Wii 0-6 Radiance" zhcn="New Super Mario Bros. Wii 0-6 Radiance"/>
+	<Game id="JOUE01" en="New Super Mario Bros. Wii 10 The Journey" zhcn="New Super Mario Bros. Wii 10 The Journey"/>
+	<Game id="AMEE01" en="New Super Mario Bros. Wii 11 American Revolution" zhcn="New Super Mario Bros. Wii 11 American Revolution"/>
+	<Game id="SAME01" en="New Super Mario Bros. Wii 11 American Revolution" zhcn="New Super Mario Bros. Wii 11 American Revolution"/>
+	<Game id="PROE01" en="New Super Mario Bros. Wii 14 Project Mario" zhcn="New Super Mario Bros. Wii 14 Project Mario"/>
+	<Game id="SPRE01" en="New Super Mario Bros. Wii 14 Project Mario" zhcn="New Super Mario Bros. Wii 14 Project Mario"/>
+	<Game id="BOWE01" en="New Super Mario Bros. Wii 17 Bowser's Last Laugh" zhcn="New Super Mario Bros. Wii 17 Bowser's Last Laugh"/>
+	<Game id="SBSE01" en="New Super Mario Bros. Wii 17 Bowser's Last Laugh" zhcn="New Super Mario Bros. Wii 17 Bowser's Last Laugh"/>
+	<Game id="SURE01" en="New Super Mario Bros. Wii 19 Resurrection U" zhcn="New Super Mario Bros. Wii 19 Resurrection U"/>
+	<Game id="UUUE01" en="New Super Mario Bros. Wii 19 Resurrection U" zhcn="New Super Mario Bros. Wii 19 Resurrection U"/>
+	<Game id="NSMB02" en="New Super Mario Bros. Wii 2" zhcn="New Super Mario Bros. Wii 2"/>
+	<Game id="PPNP01" en="New Super Mario Bros. Wii 2: The Next Levels" zhcn="自制 新超级马里奥兄弟Wii 2 下一阶段(欧)"/>
+	<Game id="PPNE01" en="New Super Mario Bros. Wii 2: The Next Levels" zhcn="新超级马里奥兄弟Wii2 下一阶段" collection="3"/>
+	<Game id="SMPP01" en="New Super Mario Bros. Wii 2: The Other P" zhcn="新超级马里奥兄弟Wii2 另一个P"/>
+	<Game id="SMNJ11" en="New Super Mario Bros. Wii 4" zhcn="New Super Mario Bros. Wii 4"/>
+	<Game id="SMNE11" en="New Super Mario Bros. Wii 4" zhcn="New Super Mario Bros. Wii 4"/>
+	<Game id="SMNP11" en="New Super Mario Bros. Wii 4" zhcn="New Super Mario Bros. Wii 4"/>
+	<Game id="SARP01" en="New Super Mario Bros. Wii 4 Arcadia Another Ride" zhcn="New Super Mario Bros. Wii 4 Arcadia Another Ride"/>
+	<Game id="SRHP01" en="New Super Mario Bros. Wii 7 Retro Heaven" zhcn="New Super Mario Bros. Wii 7 Retro Heaven"/>
+	<Game id="SEOP01" en="New Super Mario Bros. Wii 8 Omega" zhcn="New Super Mario Bros. Wii 8 Omega"/>
+	<Game id="SFDE01" en="New Super Mario Bros. Wii 9 Virtue: This Fall Darkness" zhcn="New Super Mario Bros. Wii 9 Virtue: This Fall Darkness"/>
+	<Game id="APRP08" en="New Super Mario Bros. Wii ANDY AFRO'S Custom Collection Volume 1." zhcn="新超级马里奥兄弟Wii ANDY AFRO的自制系列卷1"/>
+	<Game id="APRP01" en="New Super Mario Bros. Wii ANDY AFRO'S Custom Collection Volume 2." zhcn="新超级马里奥兄弟Wii ANDY AFRO的自制系列卷2"/>
+	<Game id="APRP02" en="New Super Mario Bros. Wii ANDY AFRO'S Custom Collection Volume 3." zhcn="新超级马里奥兄弟Wii ANDY AFRO的自制系列卷3"/>
+	<Game id="SMMP01" en="New Super Mario Bros. Wii ANDY AFRO'S Custom Collection Volume 4." zhcn="新超级马里奥兄弟Wii ANDY AFRO的自制系列卷4"/>
+	<Game id="APRP06" en="New Super Mario Bros. Wii ANDY AFRO'S Custom Collection Volume 5." zhcn="新超级马里奥兄弟Wii ANDY AFRO的自制系列卷5"/>
+	<Game id="APRP03" en="New Super Mario Bros. Wii ANDY AFRO'S Custom Collection Volume 6." zhcn="新超级马里奥兄弟Wii ANDY AFRO的自制系列卷6"/>
+	<Game id="APRP04" en="New Super Mario Bros. Wii ANDY AFRO'S Custom Collection Volume 7." zhcn="新超级马里奥兄弟Wii ANDY AFRO的自制系列卷7"/>
+	<Game id="AFRE01" en="New Super Mario Bros. Wii ANDY AFRO'S Custom Collection Volume 8." zhcn="新超级马里奥兄弟Wii ANDY AFRO的自制系列卷8"/>
+	<Game id="SMNP77" en="New Super Mario Bros. Wii Arcadia" zhcn="自制 新超级马里奥兄弟 阿卡迪亚(欧)"/>
+	<Game id="SMNEC7" en="New Super Mario Bros. Wii Chaos Edition" zhcn="New Super Mario Bros. Wii Chaos Edition"/>
+	<Game id="SMNJ37" en="New Super Mario Bros. Wii Dragon Coaster Frenzy" zhcn="New Super Mario Bros. Wii Dragon Coaster Frenzy"/>
+	<Game id="SMNE37" en="New Super Mario Bros. Wii Dragon Coaster Frenzy" zhcn="New Super Mario Bros. Wii Dragon Coaster Frenzy"/>
+	<Game id="SMNP37" en="New Super Mario Bros. Wii Dragon Coaster Frenzy" zhcn="New Super Mario Bros. Wii Dragon Coaster Frenzy"/>
+	<Game id="SANE01" en="New Super Mario Bros. Wii Five Spica Edition" zhcn="New Super Mario Bros. Wii Five Spica Edition"/>
+	<Game id="SMNESN" en="New Super Mario Bros. Wii H" zhcn="New Super Mario Bros. Wii H"/>
+	<Game id="SMNJ36" en="New Super Mario Bros. Wii Hack Pack" zhcn="New Super Mario Bros. Wii Hack Pack"/>
+	<Game id="SMNP36" en="New Super Mario Bros. Wii Hack Pack" zhcn="New Super Mario Bros. Wii Hack Pack"/>
+	<Game id="SMNE36" en="New Super Mario Bros. Wii Hack Pack" zhcn="New Super Mario Bros. Wii Hack Pack"/>
+	<Game id="NHMP01" en="New Super Mario Bros. Wii Halloween Mayhem" zhcn="New Super Mario Bros. Wii Halloween Mayhem"/>
+	<Game id="SMNEI3" en="New Super Mario Bros. Wii Isabelle Edition" zhcn="New Super Mario Bros. Wii Isabelle Edition"/>
+	<Game id="SMBWMM" en="New Super Mario Bros. Wii Master Mode" zhcn="New Super Mario Bros. Wii Master Mode"/>
+	<Game id="SMNEMC" en="New Super Mario Bros. Wii Minecraft" zhcn="New Super Mario Bros. Wii Minecraft"/>
+	<Game id="MRRE01" en="New Super Mario Bros. Wii Retro Remix" zhcn="New Super Mario Bros. Wii Retro Remix"/>
+	<Game id="MRRP01" en="New Super Mario Bros. Wii Retro Remix" zhcn="新超级马里奥兄弟Wii 复古重制版"/>
+	<Game id="SRNP01" en="New Super Mario Bros. Wii Revolution" zhcn="New Super Mario Bros. Wii Revolution"/>
+	<Game id="DUDE01" en="New Super Mario Bros. Wii Scooby-Doo! Hack" zhcn="自制 新史酷比马里奥兄弟(美)"/>
+	<Game id="SMNPEV" en="New Super Mario Bros. Wii The End of Vacation..." zhcn="New Super Mario Bros. Wii The End of Vacation..."/>
+	<Game id="SMNE64" en="New Super Mario Bros. Wii Ultimate" zhcn="New Super Mario Bros. Wii Ultimate"/>
+	<Game id="SMNJ38" en="New Super Mario Bros. Wii Underground Maze" zhcn="New Super Mario Bros. Wii Underground Maze"/>
+	<Game id="SMNE38" en="New Super Mario Bros. Wii Underground Maze" zhcn="New Super Mario Bros. Wii Underground Maze"/>
+	<Game id="SMNP38" en="New Super Mario Bros. Wii Underground Maze" zhcn="New Super Mario Bros. Wii Underground Maze"/>
+	<Game id="SMNEWI" en="New Super Mario Bros. Wii Winter Edition" zhcn="New Super Mario Bros. Wii Winter Edition"/>
+	<Game id="HBWE01" en="New Super Mario Bros. Wii: Hellboy Edition" zhcn="自制 超级马里奥兄弟Wii 地狱男爵版(美)" collection="N"/>
+	<Game id="SMNP14" en="New Super Mario Bros. Wii: Pain Coins" zhcn="New Super Mario Bros. Wii: Pain Coins"/>
+	<Game id="SMNE14" en="New Super Mario Bros. Wii: Pain Coins" zhcn="New Super Mario Bros. Wii: Pain Coins"/>
+	<Game id="SMNJ14" en="New Super Mario Bros. Wii: Pain Coins" zhcn="New Super Mario Bros. Wii: Pain Coins"/>
+	<Game id="SSSE01" en="New Super Mario Bros. Wii: Summer Sun" zhcn="New Super Mario Bros. Wii: Summer Sun"/>
+	<Game id="SMRE01" en="New Super Mario Bros. Wii: Super Mario Bros. 1 Custom" zhcn="自制 新超级马里奥兄弟Wii 超级马里奥兄弟1自制(美)"/>
+	<Game id="SMNEPE" en="New Super Mario Bros. Wii: The Pro Edition" zhcn="New Super Mario Bros. Wii: The Pro Edition"/>
+	<Game id="SMNP34" en="New Super Mario Bros. Wii: Yoshi Mode" zhcn="New Super Mario Bros. Wii: Yoshi Mode"/>
+	<Game id="SMNJ34" en="New Super Mario Bros. Wii: Yoshi Mode" zhcn="New Super Mario Bros. Wii: Yoshi Mode"/>
+	<Game id="SMNE34" en="New Super Mario Bros. Wii: Yoshi Mode" zhcn="New Super Mario Bros. Wii: Yoshi Mode"/>
+	<Game id="SMNJ35" en="New Super Mario Bros. Wii: Yoshi Mode - Classic Mode" zhcn="New Super Mario Bros. Wii: Yoshi Mode - Classic Mode"/>
+	<Game id="SMNE35" en="New Super Mario Bros. Wii: Yoshi Mode - Classic Mode" zhcn="New Super Mario Bros. Wii: Yoshi Mode - Classic Mode"/>
+	<Game id="SMNP35" en="New Super Mario Bros. Wii: Yoshi Mode - Classic Mode" zhcn="New Super Mario Bros. Wii: Yoshi Mode - Classic Mode"/>
+	<Game id="SMNJ42" en="New Super Mario Bros. Wii: Yoshi Mode Lite" zhcn="New Super Mario Bros. Wii: Yoshi Mode Lite"/>
+	<Game id="SMNP42" en="New Super Mario Bros. Wii: Yoshi Mode Lite" zhcn="New Super Mario Bros. Wii: Yoshi Mode Lite"/>
+	<Game id="SMNE42" en="New Super Mario Bros. Wii: Yoshi Mode Lite" zhcn="New Super Mario Bros. Wii: Yoshi Mode Lite"/>
+	<Game id="SMNJ01" en="New Super Mario Brothers Wii" zhcn="新超级马里奥兄弟Wii(日)"/>
+	<Game id="SMNPO1" en="New Super Mario Custom Edition" zhcn="自制 新超级马里奥兄弟Wii定制版(欧)"/>
+	<Game id="SMNEL0" en="New Super Mario Land Wii" zhcn="New Super Mario Land Wii"/>
+	<Game id="SMNE02" en="New Super Mario Remake" zhcn="自制 新超级马里奥兄弟Remake版(美)"/>
+	<Game id="METE01" en="New Super Metroid Bros. Wii" zhcn="New Super Metroid Bros. Wii"/>
+	<Game id="SMNEMB" en="New Super Minecraft Bros. Wii" zhcn="New Super Minecraft Bros. Wii"/>
+	<Game id="NSSBW1" en="New Super Shell Bros. Wii" zhcn="New Super Shell Bros. Wii"/>
+	<Game id="SMNPSW" en="New Super Sonic Wii" zhcn="New Super Sonic Wii"/>
+	<Game id="SMNE21" en="New Super Spike Wii" zhcn="New Super Spike Wii"/>
+	<Game id="SMNES8" en="New Super SpongeBob Bros. Wii" zhcn="New Super SpongeBob Bros. Wii"/>
+	<Game id="SMNE61" en="New Super Summer Vacation" zhcn="New Super Summer Vacation"/>
+	<Game id="SMNJ61" en="New Super Summer Vacation" zhcn="New Super Summer Vacation"/>
+	<Game id="SMNP61" en="New Super Summer Vacation" zhcn="New Super Summer Vacation"/>
+	<Game id="RUNJ0Q" en="New Unou Kids Wii" zhcn="新 右脑达人Wii(日)"/>
+	<Game id="NYIW69" en="New Yoshi's Island Wii" zhcn="New Yoshi's Island Wii"/>
+	<Game id="SLTPLG" en="NewU Fitness First Mind Body: Yoga &amp; Pilates Workout" zhcn="新优健身 瑜珈和普拉提(欧)" collection="平衡板游戏"/>
+	<Game id="SLTEJJ" en="NewU Fitness First Mind Body: Yoga &amp; Pilates Workout" zhcn="新优健身 瑜伽和普拉提(美)" collection="平衡板游戏"/>
+	<Game id="RU4X41" en="NewU Fitness First Personal Trainer" zhcn="新个人健身教练[平衡板](X)"/>
+	<Game id="RU4P41" en="NewU Fitness First Personal Trainer" zhcn="NewU Fitness First Personal Trainer"/>
+	<Game id="SMNJZA" en="Newer Apocalypse" zhcn="Newer Apocalypse"/>
+	<Game id="SMNEZA" en="Newer Apocalypse" zhcn="Newer Apocalypse"/>
+	<Game id="SMNPZA" en="Newer Apocalypse" zhcn="Newer Apocalypse"/>
+	<Game id="SMNE23" en="Newer Falling Leaf" zhcn="Newer Falling Leaf"/>
+	<Game id="SMNE29" en="Newer Falling Leaf U" zhcn="Newer Falling Leaf U"/>
+	<Game id="SMNP07" en="Newer Holiday Special" zhcn="Newer Holiday Special"/>
+	<Game id="SMNJ07" en="Newer Holiday Special" zhcn="Newer Holiday Special"/>
+	<Game id="SMNE07" en="Newer Holiday Special" zhcn="Newer Holiday Special"/>
+	<Game id="SMNEM5" en="Newer Mayro Bros. Wii" zhcn="Newer Mayro Bros. Wii"/>
+	<Game id="SMNP06" en="Newer Summer Sun" zhcn="Newer Summer Sun"/>
+	<Game id="SMNJ06" en="Newer Summer Sun" zhcn="Newer Summer Sun"/>
+	<Game id="NSSP01" en="Newer Summer Sun" zhcn="Newer Summer Sun"/>
+	<Game id="SMNE06" en="Newer Summer Sun" zhcn="Newer Summer Sun"/>
+	<Game id="SMNE24" en="Newer Super Luigi Bros. Wii U" zhcn="Newer Super Luigi Bros. Wii U"/>
+	<Game id="SMNJLL" en="Newer Super Luigi Wii" zhcn="Newer Super Luigi Wii"/>
+	<Game id="SMNELL" en="Newer Super Luigi Wii" zhcn="Newer Super Luigi Wii"/>
+	<Game id="SMNPLL" en="Newer Super Luigi Wii" zhcn="Newer Super Luigi Wii"/>
+	<Game id="SMNJLM" en="Newer Super Luigi Wii Dark Moon" zhcn="Newer Super Luigi Wii Dark Moon"/>
+	<Game id="SMNPLM" en="Newer Super Luigi Wii: Dark Moon" zhcn="Newer Super Luigi Wii: Dark Moon"/>
+	<Game id="SMNELM" en="Newer Super Luigi Wii: Dark Moon" zhcn="Newer Super Luigi Wii: Dark Moon"/>
+	<Game id="SMNEMR" en="Newer Super Luigi Wii: Dark Moon Reverse" zhcn="Newer Super Luigi Wii: Dark Moon Reverse"/>
+	<Game id="SMNEN5" en="Newer Super Mario 54" zhcn="Newer Super Mario 54"/>
+	<Game id="SMNPF4" en="Newer Super Mario 54" zhcn="Newer Super Mario 54"/>
+	<Game id="SMNEAR" en="Newer Super Mario All-Stars Revived" zhcn="Newer Super Mario All-Stars Revived"/>
+	<Game id="NSME03" en="Newer Super Mario Bros 3" zhcn="Newer Super Mario Bros 3"/>
+	<Game id="SMNJ15" en="Newer Super Mario Bros. 7" zhcn="Newer Super Mario Bros. 7"/>
+	<Game id="SMNP15" en="Newer Super Mario Bros. 7" zhcn="Newer Super Mario Bros. 7"/>
+	<Game id="SMNE15" en="Newer Super Mario Bros. 7" zhcn="Newer Super Mario Bros. 7"/>
+	<Game id="SMNE17" en="Newer Super Mario Bros. U Ghostly Edition" zhcn="Newer Super Mario Bros. U Ghostly Edition"/>
+	<Game id="SMNK03" en="Newer Super Mario Bros. Wii" zhcn="Newer Super Mario Bros. Wii"/>
+	<Game id="SMNP03" en="Newer Super Mario Bros. Wii" zhcn="Newer Super Mario Bros. Wii"/>
+	<Game id="SMNJ03" en="Newer Super Mario Bros. Wii" zhcn="Newer Super Mario Bros. Wii"/>
+	<Game id="NWRP01" en="Newer Super Mario Bros. Wii" zhcn="Newer Super Mario Bros. Wii"/>
+	<Game id="NMNP01" en="Newer Super Mario Bros. Wii" zhcn="Newer Super Mario Bros. Wii"/>
+	<Game id="KMNP03" en="Newer Super Mario Bros. Wii" zhcn="Newer Super Mario Bros. Wii"/>
+	<Game id="KMNJ03" en="Newer Super Mario Bros. Wii" zhcn="Newer Super Mario Bros. Wii"/>
+	<Game id="KMNE03" en="Newer Super Mario Bros. Wii" zhcn="Newer Super Mario Bros. Wii"/>
+	<Game id="SMNE03" en="Newer Super Mario Bros. Wii" zhcn="更加新的超级马里奥兄弟Wii"/>
+	<Game id="SMNW03" en="Newer Super Mario Bros. Wii" zhcn="新新超级马里奥兄弟Wii(中)" collection="超级马里奥兄弟系列"/>
+	<Game id="SMNEAU" en="Newer Super Mario Bros. Wii Autumn Adventure" zhcn="Newer Super Mario Bros. Wii Autumn Adventure"/>
+	<Game id="SMNJ40" en="Newer Super Mario Bros. Wii U" zhcn="Newer Super Mario Bros. Wii U"/>
+	<Game id="SMNE40" en="Newer Super Mario Bros. Wii U" zhcn="Newer Super Mario Bros. Wii U"/>
+	<Game id="SMNP40" en="Newer Super Mario Bros. Wii U" zhcn="Newer Super Mario Bros. Wii U"/>
+	<Game id="SMNE18" en="Newer Super Mario Bros. Wii U 2" zhcn="Newer Super Mario Bros. Wii U 2"/>
+	<Game id="SMNE16" en="Newer Super Mario Bros. Wii U 3" zhcn="Newer Super Mario Bros. Wii U 3"/>
+	<Game id="SMNE39" en="Newer Super Mario Bros. Wii: Antnee Level Pack" zhcn="Newer Super Mario Bros. Wii: Antnee Level Pack"/>
+	<Game id="SMNP39" en="Newer Super Mario Bros. Wii: Antnee Level Pack" zhcn="Newer Super Mario Bros. Wii: Antnee Level Pack"/>
+	<Game id="SMNJ39" en="Newer Super Mario Bros. Wii: Antnee Level Pack" zhcn="Newer Super Mario Bros. Wii: Antnee Level Pack"/>
+	<Game id="SMNJ23" en="Newer Super Mario Bros. Wii: Falling Leaves" zhcn="Newer Super Mario Bros. Wii: Falling Leaves"/>
+	<Game id="SMNP23" en="Newer Super Mario Bros. Wii: Falling Leaves" zhcn="Newer Super Mario Bros. Wii: Falling Leaves"/>
+	<Game id="SMWJ01" en="Newer Super Mario World U" zhcn="Newer Super Mario World U"/>
+	<Game id="SMWE01" en="Newer Super Mario World U" zhcn="Newer Super Mario World U"/>
+	<Game id="SMWP01" en="Newer Super Mario World U" zhcn="Newer Super Mario World U"/>
+	<Game id="SMNENL" en="Newest Super Luigi Wii" zhcn="Newest Super Luigi Wii"/>
+	<Game id="SMNENT" en="Newest Super Mario Bros. Wii" zhcn="Newest Super Mario Bros. Wii"/>
+	<Game id="SMNE13" en="Newest Super Mario Bros. Wii" zhcn="Newest Super Mario Bros. Wii"/>
+	<Game id="R6HP54" en="Ni Hao, Kai-lan: Super Game Day" zhcn="你好，开兰 超级游戏日(欧)"/>
+	<Game id="R6HE54" en="Ni Hao, Kai-lan: Super Game Day" zhcn="你好，开兰 超级游戏日(美)" collection="N"/>
+	<Game id="R7EJ8P" en="NiGHTS: Hoshi Furu Yoru no Monogatari" zhcn="梦精灵 星降夜物语[WiFi](日)"/>
+	<Game id="R7EE8P" en="NiGHTS: Journey of Dreams" zhcn="梦精灵 星降夜物语(美)" collection="donem"/>
+	<Game id="R7EP8P" en="NiGHTS: Journey of Dreams" zhcn="梦精灵 星降夜物语[WiFi](欧)"/>
+	<Game id="SNLX54" en="Nickelodeon Dance" zhcn="尼克罗顿舞蹈(欧)" collection="影视IP游戏"/>
+	<Game id="SNLE54" en="Nickelodeon Dance" zhcn="尼克罗顿舞蹈(美)"/>
+	<Game id="SU2P54" en="Nickelodeon Dance 2" zhcn="尼克罗顿舞蹈2(欧)"/>
+	<Game id="SU2X54" en="Nickelodeon Dance 2" zhcn="尼克罗顿舞蹈2(欧)"/>
+	<Game id="SU2E54" en="Nickelodeon Dance 2" zhcn="尼克罗顿舞蹈2(美)" collection="N"/>
+	<Game id="SNKX54" en="Nickelodeon Fit" zhcn="尼克罗顿健身[平衡板](欧)"/>
+	<Game id="SNKP54" en="Nickelodeon Fit" zhcn="尼克罗顿健身[平衡板](欧)"/>
+	<Game id="SN9E54" en="Nickelodeon Fit" zhcn="尼克罗顿健身(美)" collection="影视IP游戏"/>
+	<Game id="RQ4J78" en="Nickelodeon SpongeBob SquarePants" zhcn="棉球方块历险记(日)"/>
+	<Game id="RUSK78" en="Nickelodeon SpongeBob SquarePants featuring Nicktoons - Globs of Doom" zhcn="海绵宝宝历险记 致命水珠(韩)"/>
+	<Game id="SNIE54" en="Nicktoons MLB" zhcn="尼克卡通MLB(美)" collection="done2"/>
+	<Game id="RN3X78" en="Nicktoons: Attack of the Toybots" zhcn="海绵宝宝 玩具机器人来袭(X)"/>
+	<Game id="RN3P78" en="Nicktoons: Attack of the Toybots" zhcn="海绵宝宝 玩具机器人来袭(欧)"/>
+	<Game id="RN3E78" en="Nicktoons: Attack of the Toybots" zhcn="海绵宝宝 玩具机器人来袭(美)" collection="N"/>
+	<Game id="RU7E5G" en="Night at the Museum: Battle of the Smithsonian - The Video Game" zhcn="博物馆奇妙夜2 决战史密森尼(美)" collection="N"/>
+	<Game id="RU7X5G" en="Night at the Museum: Battle of the Smithsonian - The Video Game" zhcn="博物馆奇妙夜2 决战史密森尼(X)"/>
+	<Game id="R8NJG0" en="Nihon Yakyuu Kikou Shounin - Batting Revolution" zhcn="日本棒球机构承认 击球革命[MP](日)"/>
+	<Game id="RY7PHZ" en="Ninja Captains" zhcn="忍者首领(欧)"/>
+	<Game id="RNZJ13" en="Ninja Reflex" zhcn="忍者反应(日)"/>
+	<Game id="RNZE69" en="Ninja Reflex" zhcn="忍者反应(美)" collection="3"/>
+	<Game id="RNZK69" en="Ninja Reflex" zhcn="忍者反应(韩)"/>
+	<Game id="RNZP69" en="Ninja Reflex" zhcn="忍者反应(欧)"/>
+	<Game id="RNMXUG" en="Ninjabread Man" zhcn="面包忍者(X)"/>
+	<Game id="RNME5Z" en="Ninjabread Man" zhcn="面包忍者(美)" collection="N"/>
+	<Game id="RNMPUG" en="Ninjabread Man" zhcn="面包忍者(欧)" collection="5"/>
+	<Game id="RMCEN2" en="Nintendo Remasters" zhcn="Nintendo Remasters"/>
+	<Game id="RNRE41" en="Nitro Bike" zhcn="火爆机车[WiFi](美)" collection="N"/>
+	<Game id="RNRP41" en="Nitro Bike" zhcn="火爆机车[WiFi](欧)"/>
+	<Game id="RMCEN8" en="Nitro CT Pack" zhcn="Nitro CT Pack"/>
+	<Game id="RNRJ41" en="Nitrobike" zhcn="火爆机车[WiFi](日)"/>
+	<Game id="RNHP99" en="No More Heroes" zhcn="英雄不再(欧)"/>
+	<Game id="RNHK8M" en="No More Heroes" zhcn="英雄不再(韩)"/>
+	<Game id="RNHJ99" en="No More Heroes" zhcn="英雄不再(日)" collection="3"/>
+	<Game id="RNHE41" en="No More Heroes" zhcn="英雄不再(美)" collection="N"/>
+	<Game id="RUYE41" en="No More Heroes 2: Desperate Struggle" zhcn="英雄不再2 垂死挣扎(美)" collection="3"/>
+	<Game id="RUYJ99" en="No More Heroes 2: Desperate Struggle" zhcn="英雄不再2：垂死挣扎(日)"/>
+	<Game id="RUYP99" en="No More Heroes 2: Desperate Struggle" zhcn="英雄不再2 垂死挣扎(欧)"/>
+	<Game id="RN8JC8" en="Nobunaga no Yabou Kakushin with Power-Up Kit" zhcn="信长的野望·革新 威力加强版(日)"/>
+	<Game id="RNDJAF" en="Nodame Cantabile Dream Orchestra" zhcn="交响情人梦 梦之☆管弦乐(日)"/>
+	<Game id="SMNEN2" en="Normal Super Mario Bros. Wii" zhcn="Normal Super Mario Bros. Wii"/>
+	<Game id="SNEPXT" en="North American Hunting 2: Extravaganza" zhcn="北美狩猎盛典2(欧)"/>
+	<Game id="RN6P7J" en="North American Hunting Extravaganza" zhcn="北美狩猎盛典(欧)"/>
+	<Game id="RN6ENR" en="North American Hunting Extravaganza" zhcn="北美狩猎盛典(美)" collection="N"/>
+	<Game id="SNEENR" en="North American Hunting Extravaganza 2" zhcn="北美狩猎盛典2(美)" collection="N"/>
+	<Game id="SNOPY1" en="Now! That's What I Call Music: Dance &amp; Sing" zhcn="Now! That's What I Call Music: Dance &amp; Sing"/>
+	<Game id="RC3J41" en="Nyanko to Mahou no Boushi" zhcn="模拟宠物猫2(日)"/>
+</Game-List>
