@@ -426,8 +426,8 @@
 	<Game id="SONFMR" en="My First Songs" zhcn="我的第一首卡拉OK(法)"/>
 	<Game id="SONPMR" en="My First Songs" zhcn="我的第一首卡拉OK(欧)"/>
 	<Game id="SONDMR" en="My First Songs" zhcn="我的第一首卡拉OK(德)"/>
-	<Game id="RFKE41" en="My Fitness Coach" zhcn="我的健身教练(美)" collection="3"/>
-	<Game id="RU4E41" en="My Fitness Coach 2: Exercise &amp; Nutrition" zhcn="我的健身教练2 运动与营养(美)" collection="3"/>
+	<Game id="RFKE41" en="My Fitness Coach" zhcn="我的健身教练(美)" collection="运动游戏 健身"/>
+	<Game id="RU4E41" en="My Fitness Coach 2: Exercise &amp; Nutrition" zhcn="我的健身教练2 运动与营养(美)" collection="运动游戏 健身"/>
 	<Game id="REKP41" en="My Fitness Coach: Cardio Workout" zhcn="金牌吉姆卡迪欧塑身[平衡板](欧)"/>
 	<Game id="SF5P41" en="My Fitness Coach: Club" zhcn="我的健身教练 俱乐部(欧)" path="健身系列\我的健身教练 俱乐部(欧) [SF5P41]"/>
 	<Game id="SCWP41" en="My Fitness Coach: Dance Workout" zhcn="我的健身教练 舞蹈锻炼[平衡板](欧)"/>
