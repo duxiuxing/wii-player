@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Game-List name="光枪游戏 使命召唤系列">
-	<Game id="RCDE52" en="Call of Duty 3" zhcn="使命召唤3(美)" date="2006/11/19"/>
-	<Game id="RVYE52" en="Call of Duty: World at War" zhcn="使命召唤 战争世界(美)" date="2008/11/11"/>
-	<Game id="RJAE52" en="Call of Duty: Modern Warfare - Reflex Edition" zhcn="使命召唤 现代战争(美)" date="2009/11/10"/>
-	<Game id="SC7E52" en="Call of Duty: Black Ops" zhcn="使命召唤 黑色行动(美)" date="2010/11/09"/>
-	<Game id="SM8E52" en="Call of Duty: Modern Warfare 3" zhcn="使命召唤 现代战争3(美)" date="2011/11/08"/>
-</Game-List>
