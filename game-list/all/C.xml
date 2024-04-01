@@ -119,7 +119,7 @@
 	<Game id="RC2X78" en="Cars: Mater-National" zhcn="汽车总动员 全国汽车大赛(X)"/>
 	<Game id="RC2E78" en="Cars: Mater-National Championship" zhcn="汽车总动员 全国汽车大赛(美)" collection="影视IP游戏 汽车总动员系列"/>
 	<Game id="RC2P78" en="Cars: Mater-National Championship" zhcn="汽车总动员 全国汽车大赛(欧)"/>
-	<Game id="SQLPGN" en="Cartoon Network: Punch Time Explosion XL" zhcn="卡通频道明星大乱斗(欧)" ="SQLE4Z"/>
+	<Game id="SQLPGN" en="Cartoon Network: Punch Time Explosion XL" zhcn="卡通频道明星大乱斗(欧)" same-as="SQLE4Z"/>
 	<Game id="SQLE4Z" en="Cartoon Network: Punch Time Explosion XL" zhcn="卡通频道明星大乱斗(美)" collection="C"/>
 	<Game id="RCOPNP" en="Case Closed: The Mirapolis Investigation" zhcn="名侦探柯南 追忆的幻想(欧)"/>
 	<Game id="RCOKZF" en="Case Closed: The Mirapolis Investigation" zhcn="名侦探柯南 追忆的幻想(韩)"/>
@@ -159,7 +159,7 @@
 	<Game id="SROKZ5" en="Cheongongui Gisa Rodea" zhcn="Cheongongui Gisa Rodea"/>
 	<Game id="SCXESZ" en="Chevrolet Camaro: Wild Ride" zhcn="雪福来卡玛洛 野外驾驶(美)" collection="C"/>
 	<Game id="SCXPNJ" en="Chevrolet Camaro: Wild Ride" zhcn="雪福来卡玛洛 野外驾驶(欧)" same-as="SCXESZ"/>
-	<Game id="R24J01" en="Chibi-Robo!" zhcn="用Wii游玩小小机器人(日)" collection="C"/>
+	<Game id="R24J01" en="Chibi Robo!" zhcn="用Wii游玩小小机器人(日)" collection="C"/>
 	<Game id="R24E01" en="Chibi-Robo! [ENG]" zhcn="用Wii游玩小小机器人(美)"/>
 	<Game id="R8LP7J" en="Chicken Blaster" zhcn="爆裂小鸡猎杀者(欧)" same-as="R8LE20"/>
 	<Game id="R8LE20" en="Chicken Blaster" zhcn="爆裂小鸡猎杀者(美)" collection="光枪游戏"/>
@@ -240,7 +240,7 @@
 	<Game id="RKBP41" en="Cranium Kabookii" zhcn="卡波其涂鸦(欧)"/>
 	<Game id="SN5PNG" en="Crash Car Racer" zhcn="急速赛车 冲撞赛车(欧)"/>
 	<Game id="RQJX7D" en="Crash of the Titans" zhcn="古惑狼 泰坦巨人(X)"/>
-	<Game id="RQJP7D" en="Crash of the Titans" zhcn="古惑狼 泰坦巨人(欧)"/>
+	<Game id="RQJP7D" en="Crash of the Titans" zhcn="古惑狼之泰坦巨人[WiFi](欧)"/>
 	<Game id="RQJE7D" en="Crash of the Titans" zhcn="古惑狼 泰坦巨人(美)" collection="C"/>
 	<Game id="RC8P7D" en="Crash: Mind Over Mutant" zhcn="古惑狼 变异心灵(欧)"/>
 	<Game id="RC8X7D" en="Crash: Mind Over Mutant" zhcn="古惑狼 变异心灵(X)"/>
@@ -275,4 +275,4 @@
 	<Game id="SMNEHS" en="Custom Super Mario Bros. Wii Halloween Special" zhcn="Custom Super Mario Bros. Wii Halloween Special"/>
 	<Game id="SCBPNK" en="Cyberbike Cycling Sports" zhcn="自行车运动(欧)"/>
 	<Game id="SCBE5V" en="Cyberbike Cycling Sports" zhcn="Cyberbike Cycling Sports"/>
-</Game-List>
+	<Game id="RCUP52" en="Cabela's Legendary Adventures" zhcn=""/><Game id="RGKPNR" en="Crazy Mini Golf" zhcn=""/><Game id="RMCET1" en="CT Jam Best Of " zhcn="Wiimms Intermezzo"/></Game-List>
