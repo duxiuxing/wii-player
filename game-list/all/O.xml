@@ -1,2 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Game-List><Game id="RSFJ99" en="Oboro Muramasa" zhcn="胧村正(日或中)" collection="中文游戏"/><Game id="ROBPPL" en="Obscure 2" zhcn="暗夜杀机 结果(欧)"/><Game id="ROBE7U" en="Obscure: The Aftermath" zhcn="暗夜杀机 结果(美)" collection="O"/><Game id="RQMPVN" en="Ocean Commander" zhcn="海底指挥官(欧)"/><Game id="RQMEVN" en="Ocean Commander" zhcn="海底指挥官(美)" collection="O"/><Game id="RTKE5Z" en="Octomania" zhcn="章鱼大作战[WiFi](美)" collection="O"/><Game id="RODJ01" en="Odoru Made in Wario" zhcn="瓦里奥制造 平滑移动(日)"/><Game id="RO2P7N" en="Off Road" zhcn="福特越野赛车(欧)"/><Game id="ROFPUG" en="Offroad Extreme!" zhcn="极限越野特别版(欧)"/><Game id="ROFXUG" en="Offroad Extreme!" zhcn="极限越野特别版(欧)"/><Game id="ROFE5Z" en="Offroad Extreme! Special Edition" zhcn="极限越野特别版(美)" collection="O"/><Game id="RXFEVN" en="Offshore Tycoon" zhcn="海洋大亨(美)" collection="O"/><Game id="SMNE09" en="Old Super Mario Bros. Wii" zhcn="自制 老超级马里奥兄弟Wii(美)"/><Game id="SUTESZ" en="Once Upon A Time" zhcn="很久很久以前(美)" collection="O"/><Game id="RIPEAF" en="One Piece: Unlimited Adventure" zhcn="海贼王 无尽的冒险(美)" collection="O"/><Game id="RIPJAF" en="One Piece: Unlimited Adventure" zhcn="海贼王 无尽的冒险(日)"/><Game id="ROUPAF" en="One Piece: Unlimited Cruise 1: The Treasure Beneath the Waves" zhcn="海贼王 无限巡航 EP1 波浪中的秘宝(欧)"/><Game id="RIUPAF" en="One Piece: Unlimited Cruise 2: Awakening of a Hero" zhcn="海贼王 无限巡航 EP2 觉醒的勇者(欧)" collection="1"/><Game id="ROUJAF" en="One Piece: Unlimited Cruise: Episode 1: Nami ni Yureru Hihou" zhcn="海贼王 无限巡航 EP1 波浪中的秘宝(日)"/><Game id="RIUJAF" en="One Piece: Unlimited Cruise: Episode 2: Mezameru Yuusha" zhcn="海贼王 无限巡航 EP2 觉醒的勇者(日)"/><Game id="RONEG9" en="Onechanbara: Bikini Zombie Slayers" zhcn="御姐玫瑰 革命(美)" collection="O"/><Game id="RONPG9" en="Onechanbara: Bikini Zombie Slayers" zhcn="御姐玫瑰 革命(欧)"/><Game id="RONJG9" en="Oneechanbara Revolution" zhcn="御姐玫瑰 革命(日或中)" collection="中文游戏"/><Game id="SPIE18" en="Oops! Prank Party" zhcn="装扮聚会(美)" collection="O"/><Game id="DPIE18" en="Oops! Prank Party (Demo)" zhcn="装扮聚会 试玩版(美)"/><Game id="ROPP41" en="Open Season" zhcn="狩猎季节(欧)"/><Game id="ROPE41" en="Open Season" zhcn="狩猎季节(美)" collection="O"/><Game id="RPOEC8" en="Opoona" zhcn="欧波娜大冒险(美)" collection="O"/><Game id="RPOJC8" en="Opoona" zhcn="欧波娜大冒险(日)"/><Game id="RPOPC8" en="Opoona" zhcn="欧波娜大冒险(欧)"/><Game id="RMCEO4" en="OptPack CT Pack" zhcn="OptPack CT Pack"/><Game id="ROXE20" en="Order Up!" zhcn="上菜啦(美)" collection="3"/><Game id="ROXP7J" en="Order Up!" zhcn="上菜啦(欧)"/><Game id="ROXX7J" en="Order Up!" zhcn="上菜啦(X)"/><Game id="RC5JDQ" en="Osouji Sentai Clean Keeper" zhcn="扫除战队(日)"/><Game id="RK7J0A" en="Ougon no Kizuna" zhcn="黄金之绊(日)"/><Game id="SHPE5G" en="Our House Party" zhcn="我们的家 聚会[WiFi](美)" collection="O"/><Game id="RO3J99" en="Ousama Monogatari" zhcn="小国王物语(日)"/><Game id="SFHEFP" en="Outdoor Action Double Pack" zhcn="户外活动合集(美)" collection="O"/><Game id="OMGD01" en="Outer Mario Galaxy" zhcn="Outer Mario Galaxy"/><Game id="ROAP36" en="Overlord: Dark Legend" zhcn="霸王 黑暗传奇(欧)" collection="5"/><Game id="ROAE36" en="Overlord: Dark Legend" zhcn="霸王 黑暗传奇(美)" collection="O"/><Game id="R3UJGD" en="Oyako de Asobo: Miffy no Omochabako" zhcn="亲子游戏 米菲兔的玩具(日)"/></Game-List>
+<Game-List>
+    <Game id="RSFJ99" en="Oboro Muramasa" zhcn="胧村正(日或中)" collection="中文游戏" />
+    <Game id="ROBPPL" en="Obscure 2" zhcn="暗夜杀机 结果(欧)" />
+    <Game id="ROBE7U" en="Obscure: The Aftermath" zhcn="暗夜杀机 结果(美)" collection="O" />
+    <Game id="RQMPVN" en="Ocean Commander" zhcn="海底指挥官(欧)" />
+    <Game id="RQMEVN" en="Ocean Commander" zhcn="海底指挥官(美)" collection="O" />
+    <Game id="RTKE5Z" en="Octomania" zhcn="章鱼大作战[WiFi](美)" collection="O" />
+    <Game id="RODJ01" en="Odoru Made in Wario" zhcn="瓦里奥制造 平滑移动(日)" />
+    <Game id="RO2P7N" en="Off Road" zhcn="福特越野赛车(欧)" />
+    <Game id="ROFPUG" en="Offroad Extreme!" zhcn="极限越野特别版(欧)" />
+    <Game id="ROFXUG" en="Offroad Extreme!" zhcn="极限越野特别版(欧)" />
+    <Game id="ROFE5Z" en="Offroad Extreme! Special Edition" zhcn="极限越野特别版(美)" collection="O" />
+    <Game id="RXFEVN" en="Offshore Tycoon" zhcn="海洋大亨(美)" collection="O" />
+    <Game id="SMNE09" en="Old Super Mario Bros. Wii" zhcn="自制 老超级马里奥兄弟Wii(美)" />
+    <Game id="SUTESZ" en="Once Upon A Time" zhcn="很久很久以前(美)" collection="O" />
+    <Game id="RIPEAF" en="One Piece: Unlimited Adventure" zhcn="海贼王 无尽的冒险(美)" collection="O" />
+    <Game id="RIPJAF" en="One Piece: Unlimited Adventure" zhcn="海贼王 无尽的冒险(日)" />
+    <Game id="ROUPAF" en="One Piece: Unlimited Cruise 1: The Treasure Beneath the Waves" zhcn="海贼王 无限巡航 EP1 波浪中的秘宝(欧)" />
+    <Game id="RIUPAF" en="One Piece: Unlimited Cruise 2: Awakening of a Hero" zhcn="海贼王 无限巡航 EP2 觉醒的勇者(欧)" collection="1" />
+    <Game id="ROUJAF" en="One Piece: Unlimited Cruise: Episode 1: Nami ni Yureru Hihou" zhcn="海贼王 无限巡航 EP1 波浪中的秘宝(日)" />
+    <Game id="RIUJAF" en="One Piece: Unlimited Cruise: Episode 2: Mezameru Yuusha" zhcn="海贼王 无限巡航 EP2 觉醒的勇者(日)" />
+    <Game id="RONEG9" en="Onechanbara: Bikini Zombie Slayers" zhcn="御姐玫瑰 革命(美)" collection="O" />
+    <Game id="RONPG9" en="Onechanbara: Bikini Zombie Slayers" zhcn="御姐玫瑰 革命(欧)" />
+    <Game id="RONJG9" en="Oneechanbara Revolution" zhcn="御姐玫瑰 革命(日或中)" collection="中文游戏" />
+    <Game id="SPIE18" en="Oops! Prank Party" zhcn="装扮聚会(美)" collection="O" />
+    <Game id="DPIE18" en="Oops! Prank Party (Demo)" zhcn="装扮聚会 试玩版(美)" />
+    <Game id="ROPP41" en="Open Season" zhcn="狩猎季节(欧)" />
+    <Game id="ROPE41" en="Open Season" zhcn="狩猎季节(美)" collection="O" />
+    <Game id="RPOEC8" en="Opoona" zhcn="欧波娜大冒险(美)" collection="O" />
+    <Game id="RPOJC8" en="Opoona" zhcn="欧波娜大冒险(日)" />
+    <Game id="RPOPC8" en="Opoona" zhcn="欧波娜大冒险(欧)" />
+    <Game id="RMCEO4" en="OptPack CT Pack" zhcn="OptPack CT Pack" />
+    <Game id="ROXE20" en="Order Up!" zhcn="上菜啦(美)" collection="3" />
+    <Game id="ROXP7J" en="Order Up!" zhcn="上菜啦(欧)" />
+    <Game id="ROXX7J" en="Order Up!" zhcn="上菜啦(X)" />
+    <Game id="RC5JDQ" en="Osouji Sentai Clean Keeper" zhcn="扫除战队(日)" />
+    <Game id="RK7J0A" en="Ougon no Kizuna" zhcn="黄金之绊(日)" />
+    <Game id="SHPE5G" en="Our House Party" zhcn="我们的家 聚会[WiFi](美)" collection="O" />
+    <Game id="RO3J99" en="Ousama Monogatari" zhcn="小国王物语(日)" />
+    <Game id="SFHEFP" en="Outdoor Action Double Pack" zhcn="户外活动合集(美)" collection="O" />
+    <Game id="OMGD01" en="Outer Mario Galaxy" zhcn="Outer Mario Galaxy" />
+    <Game id="ROAP36" en="Overlord: Dark Legend" zhcn="霸王 黑暗传奇(欧)" collection="5" />
+    <Game id="ROAE36" en="Overlord: Dark Legend" zhcn="霸王 黑暗传奇(美)" collection="O" />
+    <Game id="R3UJGD" en="Oyako de Asobo: Miffy no Omochabako" zhcn="亲子游戏 米菲兔的玩具(日)" />
+    <Game id="RIPPAF" en="One Piece: Unlimited Cruise 1: The Treasure Beneath the Waves" zhcn="" />
+    <Game id="ROWJ08" en="Ookami" zhcn="大神(日或中)" />
+</Game-List>

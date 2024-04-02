@@ -58,13 +58,19 @@
 	<Game id="STAE78" en="Pictionary" zhcn="猜猜画画(美)" collection="P"/>
 	<Game id="RSBE20" en="Pikezer's BrawlEx Pack" zhcn="Pikezer's BrawlEx Pack"/>
 	<Game id="R9IK01" en="Pikmin" zhcn="用Wii玩皮克敏(韩)"/>
-	<Game id="R9IJ01" en="Pikmin" zhcn="用Wii玩皮克敏(日)"/>
+	<Game id="R9IJ01" en="Pikmin" zhcn="用Wii玩皮克敏星球探险(日)"/>
 	<Game id="R9IE01" en="Pikmin" zhcn="用Wii玩皮克敏(美)" collection="3"/>
 	<Game id="R9IP01" en="Pikmin" zhcn="用Wii玩皮克敏(欧)"/>
 	<Game id="R92P01" en="Pikmin 2" zhcn="用Wii玩皮克敏2(欧)"/>
 	<Game id="R92J01" en="Pikmin 2" zhcn="用Wii玩皮克敏2(日)"/>
 	<Game id="R92E01" en="Pikmin 2" zhcn="皮克敏2" collection="P"/>
+	<Game id="PCLE01" en="Pikmin 2 Caveless Edition" zhcn="Pikmin 2 Caveless Edition"/>
+	<Game id="WSAE64" en="Pikmin 2 New Year (US)" zhcn="Pikmin 2 New Year (US)"/>
+	<Game id="WSAP64" en="Pikmin 2 New Year (PAL)" zhcn="Pikmin 2 New Year (PAL)"/>
+	<Game id="YELEDT" en="Pikmin 2 Yellow Edition" zhcn="Pikmin 2 Yellow Edition"/>
+	<Game id="POKE42" en="Pikmin 216" zhcn="Pikmin 216"/>
 	<Game id="PIKE25" en="Pikmin 251" zhcn="Pikmin 251"/>
+	<Game id="PKWE01" en="Pikmin Wars" zhcn="Pikmin Wars"/>
 	<Game id="RPIE52" en="Pimp My Ride" zhcn="MTV 帮你改装车(美)" collection="P"/>
 	<Game id="RPIP52" en="Pimp My Ride" zhcn="MTV 帮你改装车(欧)"/>
 	<Game id="RQSE4Z" en="Pinball Hall of Fame: The Gottlieb Collection" zhcn="弹珠台名人堂 威廉收藏版(美)" collection="P"/>
@@ -168,6 +174,7 @@
 	<Game id="RSBE11" en="Professor MGW's Tournament Hack Pack #1" zhcn="Professor MGW's Tournament Hack Pack #1"/>
 	<Game id="RSBE12" en="Professor MGW's Tournament Hack Pack #2" zhcn="Professor MGW's Tournament Hack Pack #2"/>
 	<Game id="RSBE22" en="Project M: Rage83's Competitive Custom Build" zhcn="Project M: Rage83's Competitive Custom Build"/>
+	<Game id="GLMN64" en="Project Reality Demo" zhcn="Project Reality Demo"/>
 	<Game id="SRNP70" en="Project Runway" zhcn="天桥骄子[平衡板](欧)"/>
 	<Game id="SRNE70" en="Project Runway" zhcn="天桥骄子[平衡板](美)" collection="P"/>
 	<Game id="SL2P01" en="Project Zero 2: Wii Edition" zhcn="零 ~ 真红之蝶(欧)"/>
