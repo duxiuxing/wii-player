@@ -26,7 +26,7 @@
 	<Game id="SNUPJW" en="Happy Neuron Academy" zhcn="快乐神经元学院(欧)"/>
 	<Game id="HSMP01" en="Harder Super Mario Bros. Wii" zhcn="Harder Super Mario Bros. Wii"/>
 	<Game id="SHZENR" en="Harley Davidson: Road Trip" zhcn="哈雷摩托公路狂飙(美)" collection="doneh"/>
-	<Game id="SAQE5G" en="Harley Pasternak's Hollywood Workout" zhcn="好莱坞明星私教(美)" path="健身系列\好莱坞明星私教(美) [SAQE5G]"/>
+	<Game id="SAQE5G" en="Harley Pasternak's Hollywood Workout" zhcn="好莱坞明星私教(美)"/>
 	<Game id="SHHP69" en="Harry Potter and the Deathly Hallows - Part 1" zhcn="哈利波特与死神的圣物 上集(欧)"/>
 	<Game id="SH5P69" en="Harry Potter and the Deathly Hallows - Part 2" zhcn="哈利波特 死神的圣物 下集(美)"/>
 	<Game id="SHHE69" en="Harry Potter and the Deathly Hallows, Part 1" zhcn="哈利波特与死亡圣器 上集(美)" collection="影视IP游戏"/>
@@ -51,6 +51,7 @@
 	<Game id="R84EE9" en="Harvest Moon: Tree of Tranquility" zhcn="牧场物语Wii 安稳之树(美)" collection="doneh"/>
 	<Game id="C84EE9" en="Harvest Moon: Tree of Tranquility - Big Gay Edition" zhcn="Harvest Moon: Tree of Tranquility - Big Gay Edition"/>
 	<Game id="RGBE08" en="Harvey Birdman: Attorney at Law" zhcn="哈维博德曼 律师(美)" collection="doneh"/>
+	<Game id="RGBP08" en="Harvey Birdman: Attorney at Law" zhcn=""/>
 	<Game id="RRMI69" en="Hasbro: Family Game Night" zhcn="Hasbro: Family Game Night"/>
 	<Game id="RRME69" en="Hasbro: Family Game Night" zhcn="孩之宝 家庭游戏之夜(美)" collection="家庭聚会游戏"/>
 	<Game id="RRMP69" en="Hasbro: Family Game Night" zhcn="孩之宝 家庭游戏之夜(欧)"/>
@@ -59,7 +60,7 @@
 	<Game id="R6XP69" en="Hasbro: Family Game Night 2" zhcn="孩之宝 家庭游戏之夜2(欧)"/>
 	<Game id="SHBE69" en="Hasbro: Family Game Night 3" zhcn="孩之宝 家庭游戏之夜3(美)" collection="家庭聚会游戏"/>
 	<Game id="SHBP69" en="Hasbro: Family Game Night 3" zhcn="孩之宝 家庭游戏之夜3(欧)"/>
-	<Game id="SFGE69" en="Hasbro: Family Game Night 4 - The Game Show" zhcn="孩之宝 家庭游戏之夜4 游戏节目(美)" collection="家庭聚会游戏"/>
+	<Game id="SFGE69" en="Hasbro: Family Game Night 4 - The Game Show" zhcn="孩之宝 家庭游戏之夜4  游戏节目(美)" collection="家庭聚会游戏"/>
 	<Game id="SFGP69" en="Hasbro: Family Game Night 4 - The Game Show" zhcn="Hasbro: Family Game Night 4 - The Game Show"/>
 	<Game id="SAHE69" en="Hasbro: Family Game Night Fun Pack" zhcn="孩之宝 家庭游戏之夜乐趣包(美)" collection="家庭聚会游戏"/>
 	<Game id="SGNE69" en="Hasbro: Family Game Night Value Pack" zhcn="孩之宝 家庭游戏之夜超值包(美)" collection="家庭聚会游戏"/>
@@ -97,7 +98,7 @@
 	<Game id="SHGDRM" en="Holiday Games" zhcn="假日游戏[MP](欧)"/>
 	<Game id="SHWE41" en="Hollywood Squares" zhcn="好莱坞广场(美)" collection="doneh"/>
 	<Game id="SH7ESZ" en="Honda ATV Fever" zhcn="本田热力四射(美)" collection="doneh"/>
-	<Game id="RXNEXS" en="Hooked Again: Real Motion Fishing" zhcn="实感钓鱼 又上钩了(美)" collection="运动游戏 钓鱼"/>
+	<Game id="RXNEXS" en="Hooked Again: Real Motion Fishing" zhcn="又上钩啦 实感钓鱼(美)" collection="运动游戏 钓鱼"/>
 	<Game id="RXPEXS" en="Hooked!: Real Motion Fishing" zhcn="实感钓鱼 上钩了(美)" collection="运动游戏 钓鱼"/>
 	<Game id="RIOPSU" en="Horrible Histories: Ruthless Romans" zhcn="恐怖历史之残忍罗马(欧)"/>
 	<Game id="SHMPLR" en="Horrid Henry: Missions of Mischief" zhcn="调皮的亨利(欧)"/>
@@ -106,7 +107,7 @@
 	<Game id="RH5PKM" en="Horse Life 2" zhcn="爱伦怀塔克的小马生活(欧)"/>
 	<Game id="RH5EVN" en="Horse Life Adventures" zhcn="小马生活冒险(美)" collection="doneh"/>
 	<Game id="SUKJ01" en="Hoshi no Kirby Wii" zhcn="星之卡比 重回梦幻岛(日或中)" collection="星之卡比系列"/>
-	<Game id="S72J01" en="Hoshi no Kirby: 20 Shuunen Special Collection" zhcn="星之卡比 20周年纪念合集"/>
+	<Game id="S72J01" en="Hoshi no Kirby: 20 Shuunen Special Collection" zhcn="星之卡比 20周年纪念合集(日)"/>
 	<Game id="SPTJEB" en="Hospital. 6-nin no Ishi" zhcn="创伤小队 6人医师(日)"/>
 	<Game id="RO5P52" en="Hot Wheels: Battle Force 5" zhcn="无敌风火轮赛车 第五战队(欧)"/>
 	<Game id="RO5E52" en="Hot Wheels: Battle Force 5" zhcn="无敌风火轮赛车 第五战队(美)" collection="doneh"/>
@@ -131,5 +132,4 @@
 	<Game id="RMCEHY" en="Hypersonic Kart Wii" zhcn="Hypersonic Kart Wii"/>
 	<Game id="RJVEGN" en="Hysteria Hospital: Emergency Ward" zhcn="狂热医院 紧急病房(美)" collection="1"/>
 	<Game id="RJVPGN" en="Hysteria Hospital: Emergency Ward" zhcn="狂热医院 紧急病房(欧)"/>
-	<Game id="TITLES" en="https://www.gametdb.com (type: Wii language: EN version: 20230308084314)" zhcn="https://www.gametdb.com (type: Wii language: ZHCN version: 20230308082239)"/>
 </Game-List>

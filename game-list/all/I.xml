@@ -23,7 +23,7 @@
 	<Game id="RW8P41" en="Imagine Champion Rider" zhcn="想象 冠军骑士(欧)"/>
 	<Game id="RFZP41" en="Imagine Fashion Idol" zhcn="想象 时尚偶像[平衡板](欧)"/>
 	<Game id="RFZE41" en="Imagine Fashion Party" zhcn="想象 时尚聚会(美)" collection="平衡板游戏"/>
-	<Game id="R8BE41" en="Imagine Party Babyz" zhcn="想象 保姆派对(美)" collection="平衡板游戏"/>
+	<Game id="R8BE41" en="Imagine Party Babyz" zhcn="保姆派对(美)" collection="平衡板游戏"/>
 	<Game id="RIME36" en="Impossible Mission" zhcn="碟中谍(美)" collection="影视IP游戏"/>
 	<Game id="RIMP6M" en="Impossible Mission" zhcn="碟中谍(欧)"/>
 	<Game id="R53PFH" en="In The Mix Featuring Armin van Buuren" zhcn="混音大师 阿曼凡布伦(欧)"/>
@@ -40,9 +40,9 @@
 	<Game id="RITFMR" en="Intervilles, le jeu officiel" zhcn="城市之间[平衡板](法)"/>
 	<Game id="RMCEIT" en="Invisibility Toggle" zhcn="Invisibility Toggle"/>
 	<Game id="RICENR" en="Iron Chef America: Supreme Cuisine" zhcn="美国铁人料理 顶级烹饪法(美)" collection="donei"/>
-	<Game id="RIRE8P" en="Iron Man" zhcn="钢铁侠(美)" collection="影视IP游戏 漫威"/>
+	<Game id="RIRE8P" en="Iron Man" zhcn="钢铁侠(美)" collection="美国影视IP游戏"/>
 	<Game id="RIRP8P" en="Iron Man" zhcn="钢铁侠(欧)"/>
-	<Game id="S2IE8P" en="Iron Man 2" zhcn="钢铁侠2(美)" collection="影视IP游戏 漫威"/>
+	<Game id="S2IE8P" en="Iron Man 2" zhcn="钢铁侠2(美)" collection="美国影视IP游戏"/>
 	<Game id="S2IP8P" en="Iron Man 2" zhcn="钢铁人2(欧)"/>
 	<Game id="S2IZ8P" en="Iron Man 2 - Walmart Edition" zhcn="Iron Man 2 - Walmart Edition"/>
 	<Game id="SISJ0Q" en="Isometric &amp; Karate Exercise: Wii de Kotsuban Fitness" zhcn="骨盆瘦身[平衡板](日)"/>
