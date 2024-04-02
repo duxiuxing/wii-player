@@ -45,7 +45,7 @@
 	<Game id="SMNE58" en="Wario's Cave" zhcn="Wario's Cave"/>
 	<Game id="SMNJ58" en="Wario's Cave" zhcn="Wario's Cave"/>
 	<Game id="RODP01" en="WarioWare: Smooth Moves" zhcn="瓦里奥制造 平滑移动(欧)"/>
-	<Game id="RODE01" en="WarioWare: Smooth Moves" zhcn="瓦里奥制造 平滑移动(美)" collection="3"/>
+	<Game id="RODE01" en="WarioWare: Smooth Moves" zhcn="瓦里奥制造 手舞足蹈(美)" collection="3"/>
 	<Game id="RWNF70" en="Warning: Code De La Route" zhcn="警告 公路规则(法)"/>
 	<Game id="SSWPGR" en="Water Sports" zhcn="水上运动[平衡板](欧)"/>
 	<Game id="SSWEPZ" en="Water Sports" zhcn="水上运动(美)" collection="平衡板游戏"/>
@@ -79,7 +79,7 @@
 	<Game id="SUQENG" en="We Sing: UK Hits" zhcn="We Sing: UK Hits"/>
 	<Game id="SUQPNG" en="We Sing: UK Hits" zhcn="We Sing: UK Hits"/>
 	<Game id="RSQEAF" en="We Ski" zhcn="家庭滑雪(美)" collection="平衡板游戏"/>
-	<Game id="RYKEAF" en="We Ski &amp; Snowboard" zhcn="家庭滑雪&amp;滑雪板(美)" collection="平衡板游戏"/>
+	<Game id="RYKEAF" en="We Ski &amp; Snowboard" zhcn="世界滑雪&amp;滑雪板[平衡板](美)" collection="平衡板游戏"/>
 	<Game id="SMCPXT" en="We Wish You a Merry Christmas" zhcn="我们祝你圣诞快乐(欧)" collection="done2"/>
 	<Game id="SMCENR" en="We Wish You a Merry Christmas" zhcn="我们祝你圣诞快乐(美)" collection="W"/>
 	<Game id="SW7PNK" en="Western Heroes" zhcn="西部英雄(欧)"/>
@@ -104,12 +104,12 @@
 	<Game id="RFNJ01" en="Wii Fit" zhcn="Wii塑身[平衡板](日)"/>
 	<Game id="RFNK01" en="Wii Fit" zhcn="Wii塑身[平衡板](韩)"/>
 	<Game id="RFNP01" en="Wii Fit" zhcn="Wii塑身[平衡板](欧)"/>
-	<Game id="RFNW01" en="Wii Fit" zhcn="Wii塑身(中)" path="健身系列\Wii塑身(中) [RFNW01]"/>
+	<Game id="RFNW01" en="Wii Fit" zhcn="Wii塑身(中)"/>
 	<Game id="RFPK01" en="Wii Fit Plus" zhcn="Wii塑身Plus[平衡板](韩)"/>
 	<Game id="RFPE01" en="Wii Fit Plus" zhcn="Wii塑身Plus[平衡板](美)"/>
 	<Game id="RFPJ01" en="Wii Fit Plus" zhcn="Wii塑身Plus[平衡板](日)"/>
 	<Game id="RFPP01" en="Wii Fit Plus" zhcn="Wii塑身Plus[平衡板](欧)"/>
-	<Game id="RFPW01" en="Wii Fit Plus" zhcn="Wii塑身Plus(中)" path="健身系列\Wii塑身Plus(中) [RFPW01]"/>
+	<Game id="RFPW01" en="Wii Fit Plus" zhcn="Wii塑身Plus(中)"/>
 	<Game id="RFLPWK" en="Wii Freeloader" zhcn="美式橄榄球大联盟09[WiFi](欧)"/>
 	<Game id="R64E01" en="Wii Music" zhcn="Wii音乐(美)" collection="平衡板游戏"/>
 	<Game id="R64J01" en="Wii Music" zhcn="Wii音乐[平衡板][WiFi](日)"/>
@@ -307,7 +307,7 @@
 	<Game id="RUPJC8" en="Winning Post 7 Maximum 2008" zhcn="赛马大亨7 Maximum 2008(日)"/>
 	<Game id="RUWJC8" en="Winning Post World" zhcn="胜利赛马世界(日)"/>
 	<Game id="SUMJC8" en="Winning Post World 2010" zhcn="胜利赛马世界 2010(日)"/>
-	<Game id="SSIENR" en="Winter Blast: 9 Snow &amp; Ice Games" zhcn="冬季爆发 九大冰雪运动[平衡板](美)" collection="W"/>
+	<Game id="SSIENR" en="Winter Blast: 9 Snow &amp; Ice Games" zhcn="冬季爆发 九大冰雪运动(美)" collection="W"/>
 	<Game id="RU2P5Z" en="Winter Sports 2 The Next Challenge" zhcn="冬季运动会2 下一个挑战[平衡板](欧)"/>
 	<Game id="RUCPRT" en="Winter Sports 2008: The Ultimate Challenge" zhcn="冬季运动会 终极挑战 2008(欧)"/>
 	<Game id="RUCXRT" en="Winter Sports 2008: The Ultimate Challenge" zhcn="冬季运动会 终极挑战 2008(X)"/>
@@ -348,4 +348,10 @@
 	<Game id="SILE78" en="Worms: Battle Islands" zhcn="百战天虫 战斗岛(美)" collection="W"/>
 	<Game id="S6RP52" en="Wreck-It Ralph" zhcn="无敌破坏王(欧)"/>
 	<Game id="S6RE52" en="Wreck-It Ralph" zhcn="无敌破坏王(美)" collection="W"/>
+	<Game id="RMCE51" en="Wiimms MKW-Fun 2023-09.usa" zhcn="Wiimms MKW-Fun 2023-09.usa"/>
+	<Game id="RMCJ51" en="Wiimms MKW-Fun 2023-09.jap" zhcn="Wiimms MKW-Fun 2023-09.jap"/>
+	<Game id="RMCK51" en="Wiimms MKW-Fun 2023-09.kor" zhcn="Wiimms MKW-Fun 2023-09.kor"/>
+	<Game id="RMCP51" en="Wiimms MKW-Fun 2023-09.pal" zhcn="Wiimms MKW-Fun 2023-09.pal"/>
+	<Game id="RSPPCA" en="Wii Sports [CAT]" zhcn="Wii Sports [CAT]"/>
+	<Game id="RTGJ18" en="Wi-Fi Taiou - Gensen Table Game Wii" zhcn="严选桌面游戏 Wii"/>
 </Game-List>
