@@ -87,7 +87,7 @@
 	<Game id="SMNJ04" en="Cannon Super Mario Bros. Wii" zhcn="Cannon Super Mario Bros. Wii"/>
 	<Game id="SMNP04" en="Cannon Super Mario Bros. Wii" zhcn="Cannon Super Mario Bros. Wii"/>
 	<Game id="SFQP8P" en="Captain America: Super Soldier" zhcn="美国队长 超级士兵(欧)"/>
-	<Game id="SFQE8P" en="Captain America: Super Soldier" zhcn="美国队长 超级士兵(美)" collection="影视IP游戏 漫威"/>
+	<Game id="SFQE8P" en="Captain America: Super Soldier" zhcn="美国队长 超级士兵(美)" collection="美国影视IP游戏"/>
 	<Game id="SMNPZT" en="Captain Bowser's Revenge" zhcn="Captain Bowser's Revenge"/>
 	<Game id="SMNEZT" en="Captain Bowser's Revenge" zhcn="Captain Bowser's Revenge"/>
 	<Game id="SMNJZT" en="Captain Bowser's Revenge" zhcn="Captain Bowser's Revenge"/>
@@ -102,22 +102,22 @@
 	<Game id="RCAY78" en="Cars" zhcn="汽车总动员(Y)"/>
 	<Game id="RCAX78" en="Cars" zhcn="汽车总动员(X)"/>
 	<Game id="RCAP78" en="Cars" zhcn="汽车总动员(欧)"/>
-	<Game id="RCAE78" en="Cars" zhcn="汽车总动员(美)" collection="影视IP游戏 汽车总动员系列"/>
+	<Game id="RCAE78" en="Cars" zhcn="汽车总动员(美)" collection="美国影视IP游戏"/>
 	<Game id="SCYR4Q" en="Cars 2" zhcn="Cars 2"/>
 	<Game id="SCYX4Q" en="Cars 2" zhcn="汽车总动员2(X)"/>
 	<Game id="SCYY4Q" en="Cars 2" zhcn="汽车总动员2(Y)"/>
 	<Game id="SCYZ4Q" en="Cars 2" zhcn="汽车总动员2(Z)"/>
 	<Game id="SCYP4Q" en="Cars 2" zhcn="汽车总动员2(欧)"/>
-	<Game id="SCYE4Q" en="Cars 2" zhcn="汽车总动员2(美)" collection="影视IP游戏 汽车总动员系列"/>
+	<Game id="SCYE4Q" en="Cars 2" zhcn="汽车总动员2(美)" collection="美国影视IP游戏"/>
 	<Game id="R6OX78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(X)"/>
 	<Game id="R6OP78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(欧)"/>
-	<Game id="R6OE78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(美)" collection="影视IP游戏 汽车总动员系列"/>
-	<Game id="STOE4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(美)" collection="影视IP游戏 汽车总动员系列"/>
+	<Game id="R6OE78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(美)" collection="美国影视IP游戏"/>
+	<Game id="STOE4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(美)" collection="美国影视IP游戏"/>
 	<Game id="STOP4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(欧)"/>
 	<Game id="STOX4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(X)"/>
 	<Game id="RC2Y78" en="Cars: Mater-National" zhcn="汽车总动员 全国汽车大赛(Y)"/>
 	<Game id="RC2X78" en="Cars: Mater-National" zhcn="汽车总动员 全国汽车大赛(X)"/>
-	<Game id="RC2E78" en="Cars: Mater-National Championship" zhcn="汽车总动员 全国汽车大赛(美)" collection="影视IP游戏 汽车总动员系列"/>
+	<Game id="RC2E78" en="Cars: Mater-National Championship" zhcn="汽车总动员 全国汽车大赛(美)" collection="美国影视IP游戏"/>
 	<Game id="RC2P78" en="Cars: Mater-National Championship" zhcn="汽车总动员 全国汽车大赛(欧)"/>
 	<Game id="SQLPGN" en="Cartoon Network: Punch Time Explosion XL" zhcn="卡通频道明星大乱斗(欧)" same-as="SQLE4Z"/>
 	<Game id="SQLE4Z" en="Cartoon Network: Punch Time Explosion XL" zhcn="卡通频道明星大乱斗(美)" collection="C"/>

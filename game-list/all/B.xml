@@ -82,20 +82,20 @@
 	<Game id="RBEP52" en="Bee Movie Game" zhcn="蜜蜂总动员(欧)"/>
 	<Game id="RBEE52" en="Bee Movie Game" zhcn="蜜蜂总动员(美)"/>
 	<Game id="RWTPG9" en="Ben 10: Alien Force" zhcn="少年骇客 外星英雄(欧)"/>
-	<Game id="RWTEG9" en="Ben 10: Alien Force" zhcn="少年骇客 外星英雄(美)" collection="影视IP游戏 少年骇客系列"/>
+	<Game id="RWTEG9" en="Ben 10: Alien Force" zhcn="少年骇客 外星英雄(美)" collection="美国影视IP游戏"/>
 	<Game id="SBNPG9" en="Ben 10: Alien Force Vilgax Attacks" zhcn="少年骇客 外星英雄之魔贾斯的袭击(欧)"/>
-	<Game id="SBNEG9" en="Ben 10: Alien Force Vilgax Attacks" zhcn="少年骇客 外星英雄之魔贾斯的袭击(美)" collection="影视IP游戏 少年骇客系列"/>
-	<Game id="SA6EG9" en="Ben 10: Galactic Racing" zhcn="少年骇客 银河赛车(美)" collection="影视IP游戏 少年骇客系列"/>
+	<Game id="SBNEG9" en="Ben 10: Alien Force Vilgax Attacks" zhcn="少年骇客 外星英雄之魔贾斯的袭击(美)" collection="美国影视IP游戏"/>
+	<Game id="SA6EG9" en="Ben 10: Galactic Racing" zhcn="少年骇客 银河赛车(美)" collection="美国影视IP游戏"/>
 	<Game id="SA6PAF" en="Ben 10: Galactic Racing" zhcn="少年骇客 银河赛车(欧)"/>
-	<Game id="S5TEG9" en="Ben 10: Omniverse" zhcn="少年骇客 全面进化(美)" collection="影视IP游戏 少年骇客系列"/>
+	<Game id="S5TEG9" en="Ben 10: Omniverse" zhcn="少年骇客 全面进化(美)" collection="美国影视IP游戏"/>
 	<Game id="S5TPAF" en="Ben 10: Omniverse" zhcn="少年骇客 全面进化(欧)" same-as="S5TEG9"/>
-	<Game id="SVYEG9" en="Ben 10: Omniverse 2" zhcn="少年骇客 全面进化2(美)" collection="影视IP游戏 少年骇客系列"/>
+	<Game id="SVYEG9" en="Ben 10: Omniverse 2" zhcn="少年骇客 全面进化2(美)" collection="美国影视IP游戏"/>
 	<Game id="SVYPAF" en="Ben 10: Omniverse 2" zhcn="少年骇客 全面进化2(欧)" same-as="SVYEG9"/>
 	<Game id="RBNPG9" en="Ben 10: Protector of Earth" zhcn="少年骇客 地球保卫者(欧)"/>
-	<Game id="RBNEG9" en="Ben 10: Protector of Earth" zhcn="少年骇客 地球保卫者(美)" collection="影视IP游戏 少年骇客系列"/>
+	<Game id="RBNEG9" en="Ben 10: Protector of Earth" zhcn="少年骇客 地球保卫者(美)" collection="美国影视IP游戏"/>
 	<Game id="RBNXG9" en="Ben 10: Protector of Earth" zhcn="少年骇客 地球保卫者(X)"/>
 	<Game id="SBJPAF" en="Ben 10: Ultimate Alien Cosmic Destruction" zhcn="少年骇客 终极异形之宇宙毁灭(欧)" same-as="SBJEG9"/>
-	<Game id="SBJEG9" en="Ben 10: Ultimate Alien Cosmic Destruction" zhcn="少年骇客 终极异形之宇宙毁灭(美)" collection="影视IP游戏 少年骇客系列"/>
+	<Game id="SBJEG9" en="Ben 10: Ultimate Alien Cosmic Destruction" zhcn="少年骇客 终极异形之宇宙毁灭(美)" collection="美国影视IP游戏"/>
 	<Game id="SUZD7K" en="Benjamin Blümchen: Törööö! im Zoo" zhcn="Benjamin Blümchen: Törööö! im Zoo"/>
 	<Game id="SBEPSV" en="Bermuda Triangle" zhcn="百慕大三角 拯救珊瑚礁(欧)" same-as="SBZESZ"/>
 	<Game id="SBZESZ" en="Bermuda Triangle: Saving the Coral" zhcn="百慕大三角 拯救珊瑚礁(美)" collection="B"/>
