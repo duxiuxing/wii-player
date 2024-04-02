@@ -24,15 +24,15 @@
 	<Game id="RZHX5G" en="Zoo Hospital" zhcn="动物医院[WiFi](X)"/>
 	<Game id="RZHP5G" en="Zoo Hospital" zhcn="动物医院[WiFi](欧)"/>
 	<Game id="RZHE5G" en="Zoo Hospital" zhcn="动物医院[WiFi](美)" collection="Z"/>
-	<Game id="SZ5E5G" en="Zumba Fitness" zhcn="尊巴健身(美)" path="健身系列\尊巴健身(美) [SZ5E5G]"/>
+	<Game id="SZ5E5G" en="Zumba Fitness" zhcn="尊巴健身(美)"/>
 	<Game id="SZ5PGT" en="Zumba Fitness" zhcn="尊巴南美拉丁舞(欧)"/>
-	<Game id="SZ2E5G" en="Zumba Fitness 2" zhcn="尊巴健身2(美)" path="健身系列\尊巴健身2(美) [SZ2E5G]"/>
+	<Game id="SZ2E5G" en="Zumba Fitness 2" zhcn="尊巴南美拉丁舞 2(美)"/>
 	<Game id="SZ2P5G" en="Zumba Fitness 2" zhcn="尊巴南美拉丁舞 2(欧)"/>
 	<Game id="SZ2XGT" en="Zumba Fitness 2" zhcn="尊巴南美拉丁舞 2(欧)"/>
 	<Game id="SU6P5G" en="Zumba Fitness Core" zhcn="Zumba Fitness Core"/>
 	<Game id="SU6XGT" en="Zumba Fitness Core" zhcn="尊巴瘦身：核心版"/>
-	<Game id="SU6E5G" en="Zumba Fitness Core" zhcn="尊巴健身 核心版(美)" path="健身系列\尊巴健身 核心版(美) [SU6E5G]"/>
-	<Game id="SZ3E5G" en="Zumba Fitness World Party" zhcn="尊巴健身 世界派对(美)" path="健身系列\尊巴健身 世界派对(美) [SZ3E5G]"/>
+	<Game id="SU6E5G" en="Zumba Fitness Core" zhcn="尊巴健身 核心版(美)"/>
+	<Game id="SZ3E5G" en="Zumba Fitness World Party" zhcn="尊巴健身 世界派对(美)"/>
 	<Game id="SZ3PGT" en="Zumba Fitness World Party" zhcn="Zumba Fitness World Party"/>
 	<Game id="S7FE5G" en="Zumba Kids" zhcn="Zumba Kids"/>
 	<Game id="S7FPGT" en="Zumba Kids: The Ultimate Zumba Dance Party" zhcn="Zumba Kids: The Ultimate Zumba Dance Party"/>
