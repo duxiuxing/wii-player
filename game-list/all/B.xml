@@ -96,14 +96,14 @@
 	<Game id="RBNXG9" en="Ben 10: Protector of Earth" zhcn="少年骇客 地球保卫者(X)"/>
 	<Game id="SBJPAF" en="Ben 10: Ultimate Alien Cosmic Destruction" zhcn="少年骇客 终极异形之宇宙毁灭(欧)" same-as="SBJEG9"/>
 	<Game id="SBJEG9" en="Ben 10: Ultimate Alien Cosmic Destruction" zhcn="少年骇客 终极异形之宇宙毁灭(美)" collection="影视IP游戏 少年骇客系列"/>
-	<Game id="SUZD7K" en="Benjamin Blümchen - Törööö im Zoo" zhcn="Benjamin Blümchen: Törööö! im Zoo"/>
+	<Game id="SUZD7K" en="Benjamin Blümchen: Törööö! im Zoo" zhcn="Benjamin Blümchen: Törööö! im Zoo"/>
 	<Game id="SBEPSV" en="Bermuda Triangle" zhcn="百慕大三角 拯救珊瑚礁(欧)" same-as="SBZESZ"/>
 	<Game id="SBZESZ" en="Bermuda Triangle: Saving the Coral" zhcn="百慕大三角 拯救珊瑚礁(美)" collection="B"/>
 	<Game id="SBBE18" en="Beyblade: Metal Fusion - Battle Fortress" zhcn="金属战斗陀螺 对决大赛场(美)" collection="B"/>
 	<Game id="DBBE18" en="Beyblade: Metal Fusion - Battle Fortress (Demo)" zhcn="金属战斗陀螺 对决大赛场 试玩版(美)"/>
 	<Game id="SBBP18" en="Beyblade: Metal Fusion - Counter Leone" zhcn="金属战斗陀螺 对决大赛场(欧)"/>
 	<Game id="GAKE01" en="Beyond Melee" zhcn="Beyond Melee"/>
-	<Game id="SA9D7K" en="Bibi und Tina Das grosse Reiterfest" zhcn="Bibi &amp; Tina: Das große Reiterfest"/>
+	<Game id="SA9D7K" en="Bibi &amp; Tina: Das große Reiterfest" zhcn="Bibi &amp; Tina: Das große Reiterfest"/>
 	<Game id="SGWD7K" en="Bibi Blocksberg" zhcn="比比小魔女(德)"/>
 	<Game id="SOBD7K" en="Bibi Blocksberg 2" zhcn="Bibi Blocksberg 2"/>
 	<Game id="RVEFMR" en="Bienvenue Chez Les Ch'tis" zhcn="欢迎来到北方(法)"/>
@@ -213,8 +213,8 @@
 	<Game id="RSJP41" en="Broken Sword: Shadow of the Templars - The Director's Cut" zhcn="断剑 圣堂武士之谜(欧)"/>
 	<Game id="RB5E41" en="Brothers In Arms: Earned In Blood" zhcn="战火兄弟连 浴血奋战(美)" collection="B"/>
 	<Game id="RI8E41" en="Brothers In Arms: Road to Hill 30" zhcn="战火兄弟连 进军30高地(美)" collection="B"/>
-	<Game id="RB5P41" en="Brothers In Arms: Earned In Blood" zhcn="战火兄弟连 浴血奋战(欧)"/>
-	<Game id="RI8P41" en="Brothers In Arms: Road to Hill 30" zhcn="战火兄弟连 进军30高地(欧)"/>
+	<Game id="RB5P41" en="Brothers in Arms: Earned in Blood" zhcn="战火兄弟连 浴血奋战(欧)"/>
+	<Game id="RI8P41" en="Brothers in Arms: Road to Hill 30" zhcn="战火兄弟连 进军30高地(欧)"/>
 	<Game id="RBPE4Z" en="Brunswick Pro Bowling" zhcn="布朗斯威克 职业保龄球赛(美)" collection="运动游戏 保龄球"/>
 	<Game id="RBPPGT" en="Brunswick Pro Bowling" zhcn="布朗斯威克 职业保龄球赛(欧)"/>
 	<Game id="SBKEPZ" en="Brunswick Zone Cosmic Bowling" zhcn="布朗斯威克 宇宙领域保龄球(美)" collection="运动游戏 保龄球"/>
