@@ -5,60 +5,60 @@
 	<Game id="SBWJRA" en="Babysitter Mama" zhcn="育儿妈妈(日或中)" collection="料理妈妈系列"/>
 	<Game id="SBWE5G" en="Babysitting Mama" zhcn="育儿妈妈(美)" collection="料理妈妈系列" same-as="SBWJRA"/>
 	<Game id="R8BP41" en="Babysitting Party" zhcn="保姆派对(欧)"/>
-	<Game id="S5BPKM" en="Back to the Future: The Game" zhcn="回到未来(欧)" same-as="S5BETL"/>
 	<Game id="S5BETL" en="Back to the Future: The Game" zhcn="回到未来(美)" collection="影视IP游戏"/>
+	<Game id="S5BPKM" en="Back to the Future: The Game" zhcn="回到未来(欧)" same-as="S5BETL"/>
 	<Game id="RB8E70" en="Backyard Baseball '09" zhcn="后院棒球09(美)" collection="运动游戏 棒球"/>
 	<Game id="RXBE70" en="Backyard Baseball '10" zhcn="后院棒球10(美)" collection="运动游戏 棒球"/>
-	<Game id="RFTE70" en="Backyard Football" zhcn="后院橄榄球(美)" collection="运动游戏 橄榄球"/>
 	<Game id="RQQE70" en="Backyard Football '09" zhcn="后院橄榄球2009(美)" collection="运动游戏 橄榄球"/>
 	<Game id="SBFE70" en="Backyard Football '10" zhcn="后院橄榄球10(美)" collection="运动游戏 橄榄球"/>
+	<Game id="RFTE70" en="Backyard Football" zhcn="后院橄榄球(美)" collection="运动游戏 橄榄球"/>
 	<Game id="SFBE70" en="Backyard Sports Football: Rookie Rush" zhcn="后院运动 菜鸟向前冲(美)" collection="运动游戏 橄榄球"/>
 	<Game id="SADE70" en="Backyard Sports: Sandlot Sluggers" zhcn="后院运动 沙地强打者(美)" collection="运动游戏 棒球"/>
-	<Game id="RUHZ52" en="Bakugan Battle Brawlers" zhcn="爆丸 战斗对决(欧)"/>
-	<Game id="RUHP52" en="Bakugan Battle Brawlers" zhcn="爆丸 战斗对决(欧)"/>
-	<Game id="RUHE52" en="Bakugan Battle Brawlers" zhcn="爆丸 战斗对决(美)" collection="B"/>
 	<Game id="RUHX52" en="Bakugan Battle Brawlers (Toys R Us Edition)" zhcn="爆丸 战斗对决(X)" collection="B"/>
-	<Game id="SB6P52" en="Bakugan: Defenders of the Core" zhcn="爆丸 核心守护者(欧)"/>
+	<Game id="RUHE52" en="Bakugan Battle Brawlers" zhcn="爆丸 战斗对决(美)" collection="B"/>
+	<Game id="RUHP52" en="Bakugan Battle Brawlers" zhcn="爆丸 战斗对决(欧)"/>
+	<Game id="RUHZ52" en="Bakugan Battle Brawlers" zhcn="爆丸 战斗对决(欧)"/>
 	<Game id="SB6E52" en="Bakugan: Defenders of the Core" zhcn="爆丸 核心守护者(美)" collection="B"/>
+	<Game id="SB6P52" en="Bakugan: Defenders of the Core" zhcn="爆丸 核心守护者(欧)"/>
 	<Game id="SBRPKM" en="Ballerina" zhcn="一起跳芭蕾(欧)"/>
 	<Game id="RB2E6K" en="Balloon Pop" zhcn="气球泡泡(美)" collection="益智游戏"/>
-	<Game id="RBFP7J" en="Balls of Fury" zhcn="乒乓特种兵(欧)"/>
 	<Game id="RBFE20" en="Balls of Fury" zhcn="乒乓特种兵(美)" collection="运动游戏 乒乓球和网球"/>
-	<Game id="SXFP52" en="Band Hero" zhcn="乐团英雄(欧)"/>
+	<Game id="RBFP7J" en="Balls of Fury" zhcn="乒乓特种兵(欧)"/>
 	<Game id="SXFE52" en="Band Hero" zhcn="乐团英雄(美)" collection="乐队游戏"/>
+	<Game id="SXFP52" en="Band Hero" zhcn="乐团英雄(欧)"/>
 	<Game id="R96KAF" en="Baramui Klonoa - Door to Phantomile" zhcn="风之克罗诺亚 幻影之门(韩)"/>
-	<Game id="RRCP52" en="Barbie Horse Adventures: Riding Camp" zhcn="芭比小马冒险 骑术野营(欧)"/>
 	<Game id="RRCE52" en="Barbie Horse Adventures: Riding Camp" zhcn="芭比小马冒险 骑术野营(美)" collection="芭比系列"/>
-	<Game id="S3EXVZ" en="Barbie Jet, Set &amp; Style!" zhcn="芭比娃娃 时尚风格(X)" same-as="S3EE78"/>
+	<Game id="RRCP52" en="Barbie Horse Adventures: Riding Camp" zhcn="芭比小马冒险 骑术野营(欧)"/>
 	<Game id="S3EE78" en="Barbie Jet, Set &amp; Style!" zhcn="芭比娃娃 时尚风格(美)" collection="芭比系列"/>
 	<Game id="S3EP78" en="Barbie Jet, Set &amp; Style!" zhcn="芭比娃娃 时尚风格(欧)"/>
-	<Game id="SVQPVZ" en="Barbie and Her Sisters: Puppy Rescue" zhcn="芭比姐妹之狗狗救援队(欧)"/>
+	<Game id="S3EXVZ" en="Barbie Jet, Set &amp; Style!" zhcn="芭比娃娃 时尚风格(X)" same-as="S3EE78"/>
 	<Game id="SVQEVZ" en="Barbie and Her Sisters: Puppy Rescue" zhcn="芭比姐妹之狗狗救援队(美)" collection="芭比系列"/>
-	<Game id="R23P52" en="Barbie and the Three Musketeers" zhcn="芭比与三个火枪手(欧)"/>
+	<Game id="SVQPVZ" en="Barbie and Her Sisters: Puppy Rescue" zhcn="芭比姐妹之狗狗救援队(欧)"/>
 	<Game id="R23E52" en="Barbie and the Three Musketeers" zhcn="芭比与三个火枪手(美)" collection="芭比系列"/>
-	<Game id="RBVP52" en="Barbie as The Island Princess" zhcn="芭比 森林公主(欧)"/>
+	<Game id="R23P52" en="Barbie and the Three Musketeers" zhcn="芭比与三个火枪手(欧)"/>
 	<Game id="RBVE52" en="Barbie as The Island Princess" zhcn="芭比之森林公主(美)" collection="芭比系列"/>
+	<Game id="RBVP52" en="Barbie as The Island Princess" zhcn="芭比 森林公主(欧)"/>
 	<Game id="SNZEVZ" en="Barbie: Dreamhouse Party" zhcn="芭比梦幻屋派对(美)" collection="芭比系列"/>
 	<Game id="SNZPVZ" en="Barbie: Dreamhouse Party" zhcn="芭比梦幻屋派对(欧)"/>
-	<Game id="SB9YVZ" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(Y)" same-as="SB9E78"/>
-	<Game id="SB9X78" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(X)"/>
 	<Game id="SB9E78" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(美)" collection="芭比系列"/>
 	<Game id="SB9EVZ" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(美)" same-as="SB9E78"/>
 	<Game id="SB9P78" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(欧)"/>
+	<Game id="SB9X78" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(X)"/>
+	<Game id="SB9YVZ" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(Y)" same-as="SB9E78"/>
 	<Game id="RBYE78" en="Barnyard" zhcn="疯狂农庄(美)"/>
 	<Game id="RBYP78" en="Barnyard" zhcn="疯狂农庄(欧)"/>
 	<Game id="RBYJ78" en="Barnyard: Shuyaku wa Ore, Ushi" zhcn="疯狂农庄(日)"/>
-	<Game id="RM6P99" en="Baroque" zhcn="巴洛克(欧)"/>
-	<Game id="RM6EEB" en="Baroque" zhcn="巴洛克(美)" collection="done3"/>
 	<Game id="ROQJEP" en="Baroque for Wii" zhcn="巴洛克(日)"/>
+	<Game id="RM6EEB" en="Baroque" zhcn="巴洛克(美)" collection="done3"/>
+	<Game id="RM6P99" en="Baroque" zhcn="巴洛克(欧)"/>
 	<Game id="R6IE54" en="Baseball Blast!" zhcn="棒球冲击波(美)" collection="运动游戏 棒球"/>
 	<Game id="SHFE20" en="Basketball Hall of Fame: Ultimate Hoops Challenge" zhcn="篮球名人堂 极限挑战(美)" collection="运动游戏"/>
 	<Game id="RXNJJF" en="Bass Fishing Wii World Tournament" zhcn="鲈鱼钓手Wii 世界锦标赛(日)"/>
 	<Game id="RXPJJF" en="Bass Fishing Wii: Rokumaru Densetsu" zhcn="实感钓鱼(日)"/>
-	<Game id="RU8EFS" en="Bass Pro Shops: The Hunt" zhcn="巴斯专业店 狩猎(美)" collection="巴斯专业店系列"/>
 	<Game id="SANEFS" en="Bass Pro Shops: The Hunt - Trophy Showdown" zhcn="巴斯专业店 狩猎 奖杯赛(美)" collection="巴斯专业店系列"/>
-	<Game id="RY8EFS" en="Bass Pro Shops: The Strike" zhcn="巴斯专业店 鱼饵(美)" collection="巴斯专业店系列"/>
+	<Game id="RU8EFS" en="Bass Pro Shops: The Hunt" zhcn="巴斯专业店 狩猎(美)" collection="巴斯专业店系列"/>
 	<Game id="S2OEFS" en="Bass Pro Shops: The Strike - Tournament Edition" zhcn="巴斯专业店 鱼饵 锦标赛(美)" collection="巴斯专业店系列"/>
+	<Game id="RY8EFS" en="Bass Pro Shops: The Strike" zhcn="巴斯专业店 鱼饵(美)" collection="巴斯专业店系列"/>
 	<Game id="S3BEWR" en="Batman: The Brave and the Bold" zhcn="蝙蝠侠 英勇与无畏(美)" collection="影视IP游戏"/>
 	<Game id="S3BPWR" en="Batman: The Brave and the Bold" zhcn="蝙蝠侠 英勇与无畏(欧)"/>
 	<Game id="RBWE01" en="Battalion Wars 2" zhcn="军队战争2(美)" collection="策略游戏"/>
@@ -69,53 +69,53 @@
 	<Game id="RHXE78" en="Battle of the Bands" zhcn="乐队大战(美)" collection="乐队游戏"/>
 	<Game id="RHXP78" en="Battle of the Bands" zhcn="乐队大战(欧)"/>
 	<Game id="SVSPZX" en="Battle vs Chess" zhcn="战斗版国际象棋(欧)"/>
-	<Game id="SVBP52" en="Battleship" zhcn="战舰(欧)"/>
 	<Game id="SVBE52" en="Battleship" zhcn="战舰(美)" collection="策略游戏"/>
+	<Game id="SVBP52" en="Battleship" zhcn="战舰(欧)"/>
 	<Game id="RV8E20" en="Beach Fun: Summer Challenge" zhcn="夏日海滩趣味挑战(美)" collection="运动游戏 运动会"/>
 	<Game id="RV8PRT" en="Beach Fun: Summer Challenge" zhcn="夏日海滩趣味挑战(欧)" collection="运动游戏 运动会"/>
 	<Game id="RMCERB" en="Bear Kart Wii" zhcn="Bear Kart Wii"/>
-	<Game id="SLYPNJ" en="Beastly" zhcn="丑恶人生(欧)" same-as="SLYESZ"/>
 	<Game id="SLYESZ" en="Beastly" zhcn="丑恶人生(美)" collection="影视IP游戏"/>
+	<Game id="SLYPNJ" en="Beastly" zhcn="丑恶人生(欧)" same-as="SLYESZ"/>
 	<Game id="SOMP01" en="Beat the Beat: Rhythm Paradise" zhcn="大家的节奏天国(欧)"/>
 	<Game id="SOMR01" en="Beat the Beat: Rhythm Paradise" zhcn="大家的节奏天国(俄)"/>
-	<Game id="RBEX52" en="Bee Movie Game" zhcn="蜜蜂总动员(X)"/>
-	<Game id="RBEP52" en="Bee Movie Game" zhcn="蜜蜂总动员(欧)"/>
 	<Game id="RBEE52" en="Bee Movie Game" zhcn="蜜蜂总动员(美)"/>
-	<Game id="RWTPG9" en="Ben 10: Alien Force" zhcn="少年骇客 外星英雄(欧)"/>
-	<Game id="RWTEG9" en="Ben 10: Alien Force" zhcn="少年骇客 外星英雄(美)" collection="美国影视IP游戏"/>
-	<Game id="SBNPG9" en="Ben 10: Alien Force Vilgax Attacks" zhcn="少年骇客 外星英雄之魔贾斯的袭击(欧)"/>
+	<Game id="RBEP52" en="Bee Movie Game" zhcn="蜜蜂总动员(欧)"/>
+	<Game id="RBEX52" en="Bee Movie Game" zhcn="蜜蜂总动员(X)"/>
 	<Game id="SBNEG9" en="Ben 10: Alien Force Vilgax Attacks" zhcn="少年骇客 外星英雄之魔贾斯的袭击(美)" collection="美国影视IP游戏"/>
+	<Game id="SBNPG9" en="Ben 10: Alien Force Vilgax Attacks" zhcn="少年骇客 外星英雄之魔贾斯的袭击(欧)"/>
+	<Game id="RWTEG9" en="Ben 10: Alien Force" zhcn="少年骇客 外星英雄(美)" collection="美国影视IP游戏"/>
+	<Game id="RWTPG9" en="Ben 10: Alien Force" zhcn="少年骇客 外星英雄(欧)"/>
 	<Game id="SA6EG9" en="Ben 10: Galactic Racing" zhcn="少年骇客 银河赛车(美)" collection="美国影视IP游戏"/>
 	<Game id="SA6PAF" en="Ben 10: Galactic Racing" zhcn="少年骇客 银河赛车(欧)"/>
-	<Game id="S5TEG9" en="Ben 10: Omniverse" zhcn="少年骇客 全面进化(美)" collection="美国影视IP游戏"/>
-	<Game id="S5TPAF" en="Ben 10: Omniverse" zhcn="少年骇客 全面进化(欧)" same-as="S5TEG9"/>
 	<Game id="SVYEG9" en="Ben 10: Omniverse 2" zhcn="少年骇客 全面进化2(美)" collection="美国影视IP游戏"/>
 	<Game id="SVYPAF" en="Ben 10: Omniverse 2" zhcn="少年骇客 全面进化2(欧)" same-as="SVYEG9"/>
-	<Game id="RBNPG9" en="Ben 10: Protector of Earth" zhcn="少年骇客 地球保卫者(欧)"/>
+	<Game id="S5TEG9" en="Ben 10: Omniverse" zhcn="少年骇客 全面进化(美)" collection="美国影视IP游戏"/>
+	<Game id="S5TPAF" en="Ben 10: Omniverse" zhcn="少年骇客 全面进化(欧)" same-as="S5TEG9"/>
 	<Game id="RBNEG9" en="Ben 10: Protector of Earth" zhcn="少年骇客 地球保卫者(美)" collection="美国影视IP游戏"/>
+	<Game id="RBNPG9" en="Ben 10: Protector of Earth" zhcn="少年骇客 地球保卫者(欧)"/>
 	<Game id="RBNXG9" en="Ben 10: Protector of Earth" zhcn="少年骇客 地球保卫者(X)"/>
-	<Game id="SBJPAF" en="Ben 10: Ultimate Alien Cosmic Destruction" zhcn="少年骇客 终极异形之宇宙毁灭(欧)" same-as="SBJEG9"/>
 	<Game id="SBJEG9" en="Ben 10: Ultimate Alien Cosmic Destruction" zhcn="少年骇客 终极异形之宇宙毁灭(美)" collection="美国影视IP游戏"/>
+	<Game id="SBJPAF" en="Ben 10: Ultimate Alien Cosmic Destruction" zhcn="少年骇客 终极异形之宇宙毁灭(欧)" same-as="SBJEG9"/>
 	<Game id="SUZD7K" en="Benjamin Blümchen: Törööö! im Zoo" zhcn="Benjamin Blümchen: Törööö! im Zoo"/>
 	<Game id="SBEPSV" en="Bermuda Triangle" zhcn="百慕大三角 拯救珊瑚礁(欧)" same-as="SBZESZ"/>
 	<Game id="SBZESZ" en="Bermuda Triangle: Saving the Coral" zhcn="百慕大三角 拯救珊瑚礁(美)" collection="B"/>
-	<Game id="SBBE18" en="Beyblade: Metal Fusion - Battle Fortress" zhcn="金属战斗陀螺 对决大赛场(美)" collection="B"/>
 	<Game id="DBBE18" en="Beyblade: Metal Fusion - Battle Fortress (Demo)" zhcn="金属战斗陀螺 对决大赛场 试玩版(美)"/>
+	<Game id="SBBE18" en="Beyblade: Metal Fusion - Battle Fortress" zhcn="金属战斗陀螺 对决大赛场(美)" collection="B"/>
 	<Game id="SBBP18" en="Beyblade: Metal Fusion - Counter Leone" zhcn="金属战斗陀螺 对决大赛场(欧)"/>
 	<Game id="GAKE01" en="Beyond Melee" zhcn="Beyond Melee"/>
 	<Game id="SA9D7K" en="Bibi &amp; Tina: Das große Reiterfest" zhcn="Bibi &amp; Tina: Das große Reiterfest"/>
-	<Game id="SGWD7K" en="Bibi Blocksberg" zhcn="比比小魔女(德)"/>
 	<Game id="SOBD7K" en="Bibi Blocksberg 2" zhcn="Bibi Blocksberg 2"/>
+	<Game id="SGWD7K" en="Bibi Blocksberg" zhcn="比比小魔女(德)"/>
 	<Game id="RVEFMR" en="Bienvenue Chez Les Ch'tis" zhcn="欢迎来到北方(法)"/>
-	<Game id="RVVP78" en="Big Beach Sports" zhcn="大沙滩运动(欧)" collection="运动游戏 运动会"/>
-	<Game id="RVVE78" en="Big Beach Sports" zhcn="大沙滩运动(美)" collection="运动游戏 运动会"/>
 	<Game id="SV2E78" en="Big Beach Sports 2" zhcn="大沙滩运动2(美)" collection="运动游戏 运动会"/>
 	<Game id="SV2P78" en="Big Beach Sports 2" zhcn="大沙滩运动2(欧)"/>
+	<Game id="RVVE78" en="Big Beach Sports" zhcn="大沙滩运动(美)" collection="运动游戏 运动会"/>
+	<Game id="RVVP78" en="Big Beach Sports" zhcn="大沙滩运动(欧)" collection="运动游戏 运动会"/>
 	<Game id="RYWP01" en="Big Brain Academy for Wii" zhcn="轻松头脑教室(欧)"/>
 	<Game id="RYWE01" en="Big Brain Academy: Wii Degree" zhcn="轻松头脑教室(美)" collection="益智游戏"/>
 	<Game id="SBQE4Z" en="Big Buck Hunter Pro" zhcn="雄鹿猎人(美)" collection="运动游戏 打猎"/>
-	<Game id="RXPPGT" en="Big Catch Bass Fishing" zhcn="实感钓鱼(欧)"/>
 	<Game id="RXNPGT" en="Big Catch Bass Fishing 2" zhcn="巴斯钓鱼2(欧)" collection="运动游戏 钓鱼"/>
+	<Game id="RXPPGT" en="Big Catch Bass Fishing" zhcn="实感钓鱼(欧)"/>
 	<Game id="RN7P78" en="Big Family Games" zhcn="邻居间的游戏(欧)" collection="运动游戏 运动会"/>
 	<Game id="RLQE52" en="Big League Sports" zhcn="大联盟运动(美)" collection="运动游戏 运动会"/>
 	<Game id="RY5E52" en="Big League Sports: Summer" zhcn="夏日运动大联盟(美)" collection="运动游戏 运动会"/>
@@ -124,26 +124,26 @@
 	<Game id="RVFE20" en="Bigfoot: Collision Course" zhcn="大脚车 碰撞航向(美)" collection="B"/>
 	<Game id="RVFP7J" en="Bigfoot: Collision Course" zhcn="大脚车 碰撞航向(欧)" same-as="RVFE20"/>
 	<Game id="SKCE20" en="Bigfoot: King of Crush" zhcn="大脚车 压碎王(美)" collection="B"/>
-	<Game id="RBZXUG" en="Billy the Wizard: Rocket Broomstick Racing" zhcn="巫师比利 火箭扫帚大竞速(X)"/>
-	<Game id="RBZPUG" en="Billy the Wizard: Rocket Broomstick Racing" zhcn="巫师比利 火箭扫帚大竞速(欧)"/>
 	<Game id="RBZE5Z" en="Billy the Wizard: Rocket Broomstick Racing" zhcn="巫师比利 火箭扫帚大竞速(美)" collection="B"/>
+	<Game id="RBZPUG" en="Billy the Wizard: Rocket Broomstick Racing" zhcn="巫师比利 火箭扫帚大竞速(欧)"/>
+	<Game id="RBZXUG" en="Billy the Wizard: Rocket Broomstick Racing" zhcn="巫师比利 火箭扫帚大竞速(X)"/>
 	<Game id="SBCJ2N" en="Billy's Boot Camp: Wii de Enjoy Diet!" zhcn="比利的训练营Wii 享受减肥(日)"/>
-	<Game id="RE4J08" en="Biohazard" zhcn="生化危机(日或中)" collection="生化危机系列"/>
-	<Game id="GBIK08" en="Biohazard" zhcn="Biohazard"/>
 	<Game id="RB4J08" en="Biohazard 4 Wii Edition" zhcn="生化危机4(日)"/>
 	<Game id="GCDK08" en="Biohazard Code: Veronica Complete" zhcn="Biohazard Code: Veronica Complete"/>
 	<Game id="RBHJ08" en="Biohazard Zero" zhcn="生化危机0(日或中)" collection="生化危机系列"/>
+	<Game id="GBIK08" en="Biohazard" zhcn="Biohazard"/>
+	<Game id="RE4J08" en="Biohazard" zhcn="生化危机(日或中)" collection="生化危机系列"/>
 	<Game id="SBDJ08" en="Biohazard: The Darkside Chronicles" zhcn="生化危机 暗黑历代记(日)"/>
 	<Game id="SBDK08" en="Biohazard: The Darkside Chronicles" zhcn="生化危机 暗黑历代记(韩)"/>
 	<Game id="RBUK08" en="Biohazard: The Umbrella Chronicles" zhcn="生化危机 安布雷拉编年史(韩)"/>
 	<Game id="RBUJ08" en="Biohazard: Umbrella Chronicles" zhcn="生化危机 安布雷拉编年史(日)"/>
-	<Game id="RVIP4F" en="Bionicle Heroes" zhcn="乐高生化战士(欧)"/>
 	<Game id="RVIE4F" en="Bionicle Heroes" zhcn="乐高生化战士(美)" collection="乐高系列"/>
+	<Game id="RVIP4F" en="Bionicle Heroes" zhcn="乐高生化战士(欧)"/>
 	<Game id="R2YE54" en="Birthday Party Bash" zhcn="我的生日(美)" collection="聚会游戏"/>
 	<Game id="SVTEXS" en="Bit.Trip Complete" zhcn="超级线程(美)" collection="B"/>
-	<Game id="RBRX5G" en="Blast Works: Build, Trade, Destroy" zhcn="轰炸使命(X)"/>
 	<Game id="RBRE5G" en="Blast Works: Build, Trade, Destroy" zhcn="轰炸使命(美)" collection="B"/>
 	<Game id="RBRP5G" en="Blast Works: Build, Trade, Destroy" zhcn="轰炸使命(欧)"/>
+	<Game id="RBRX5G" en="Blast Works: Build, Trade, Destroy" zhcn="轰炸使命(X)"/>
 	<Game id="RBAE41" en="Blazing Angels: Squadrons of WWII" zhcn="炽天使 二战空骑兵(美)" collection="B"/>
 	<Game id="RBAP41" en="Blazing Angels: Squadrons of WWII" zhcn="炽天使 二战空骑兵(欧)"/>
 	<Game id="RBLJ8P" en="Bleach Wii: Hakujin Kirameku Rondo" zhcn="死神 白刃闪耀圆舞曲(日)"/>
@@ -155,55 +155,55 @@
 	<Game id="RRTP52" en="Block Party! 20 Games" zhcn="打击聚会(欧)"/>
 	<Game id="R9BPMT" en="Bob the Builder: Festival of Fun" zhcn="鲍勃工程队 欢乐节庆(欧)"/>
 	<Game id="SMNE81" en="Bob-Omb Super Mario Bros. Wii" zhcn="Bob-Omb Super Mario Bros. Wii"/>
-	<Game id="RSIJ13" en="Boku to Sim no Machi" zhcn="我的模拟人生(日)"/>
 	<Game id="R5XJ13" en="Boku to Sim no Machi Agent: Gokuaku Shachou kara Sekai o Sukue Daisakusen!" zhcn="我的模拟人生 特工(日)" collection="B"/>
 	<Game id="RSHJ13" en="Boku to Sim no Machi Kingdom" zhcn="我的模拟王国(日)"/>
 	<Game id="RP4J13" en="Boku to Sim no Machi Party" zhcn="我的模拟聚会(日)"/>
 	<Game id="RQGJ13" en="Boku to Sim no Machi Racing" zhcn="我的模拟人生 赛车(日)"/>
+	<Game id="RSIJ13" en="Boku to Sim no Machi" zhcn="我的模拟人生(日)"/>
 	<Game id="RBIJ99" en="Bokujou Monogatari Waku Waku Animal March" zhcn="牧场物语 欢乐动物进行曲(日)"/>
 	<Game id="R84J99" en="Bokujou Monogatari: Yasuragi no Ki" zhcn="牧场物语 安稳之树(日)"/>
 	<Game id="RCTE70" en="Bola de Drac Z Budokai Tenkaichi 3 Edició en Català [BETA 1] [CUSTOM]" zhcn="Bola de Drac Z Budokai Tenkaichi 3 Edició en Català [BETA 1] [CUSTOM]"/>
 	<Game id="RLUP4Q" en="Bolt" zhcn="闪电狗(欧)"/>
-	<Game id="RLUY4Q" en="Bolt" zhcn="闪电狗(Y)"/>
-	<Game id="RLUX4Q" en="Bolt" zhcn="闪电狗(X)"/>
 	<Game id="RLUR4Q" en="Bolt" zhcn="闪电狗(俄)"/>
-	<Game id="RB6J18" en="Bomberman" zhcn="炸弹人(日)" collection="益智游戏"/>
-	<Game id="RBBE18" en="Bomberman Land" zhcn="炸弹人乐园(美)" collection="益智游戏"/>
+	<Game id="RLUX4Q" en="Bolt" zhcn="闪电狗(X)"/>
+	<Game id="RLUY4Q" en="Bolt" zhcn="闪电狗(Y)"/>
 	<Game id="RBBJ18" en="Bomberman Land Wii" zhcn="炸弹人乐园(日)"/>
 	<Game id="RBBP99" en="Bomberman Land Wii" zhcn="炸弹人乐园(欧)"/>
+	<Game id="RBBE18" en="Bomberman Land" zhcn="炸弹人乐园(美)" collection="益智游戏"/>
+	<Game id="RB6J18" en="Bomberman" zhcn="炸弹人(日)" collection="益智游戏"/>
+	<Game id="RG6E69" en="Boogie SuperStar" zhcn="摇滚乐超级明星(美)" collection="B"/>
+	<Game id="RG6P69" en="Boogie SuperStar" zhcn="摇滚乐超级明星(欧)"/>
 	<Game id="RBOE69" en="Boogie" zhcn="布吉摇摆(美)" collection="B"/>
 	<Game id="RBOP69" en="Boogie" zhcn="布吉摇摆(欧)"/>
-	<Game id="RG6P69" en="Boogie SuperStar" zhcn="摇滚乐超级明星(欧)"/>
-	<Game id="RG6E69" en="Boogie SuperStar" zhcn="摇滚乐超级明星(美)" collection="B"/>
-	<Game id="RBKP69" en="Boom Blox" zhcn="轰炸方块(欧)"/>
-	<Game id="RBKK69" en="Boom Blox" zhcn="轰炸方块(韩)"/>
-	<Game id="RBKJ13" en="Boom Blox" zhcn="轰炸方块(日)"/>
-	<Game id="RBKE69" en="Boom Blox" zhcn="轰炸方块(美)" collection="B"/>
-	<Game id="DBKP69" en="Boom Blox (Demo)" zhcn="轰炸方块 试玩版(欧)"/>
 	<Game id="DBKE69" en="Boom Blox (Demo)" zhcn="轰炸方块 试玩版(美)"/>
-	<Game id="RYBP69" en="Boom Blox: Bash Party" zhcn="轰炸方块 猛击聚会(欧)"/>
+	<Game id="DBKP69" en="Boom Blox (Demo)" zhcn="轰炸方块 试玩版(欧)"/>
+	<Game id="RBKE69" en="Boom Blox" zhcn="轰炸方块(美)" collection="B"/>
+	<Game id="RBKJ13" en="Boom Blox" zhcn="轰炸方块(日)"/>
+	<Game id="RBKK69" en="Boom Blox" zhcn="轰炸方块(韩)"/>
+	<Game id="RBKP69" en="Boom Blox" zhcn="轰炸方块(欧)"/>
 	<Game id="RYBE69" en="Boom Blox: Bash Party" zhcn="轰炸方块 猛击聚会(美)" collection="B"/>
+	<Game id="RYBP69" en="Boom Blox: Bash Party" zhcn="轰炸方块 猛击聚会(欧)"/>
 	<Game id="ST7P01" en="Boom Street" zhcn="富豪街Wii(欧)"/>
 	<Game id="RMCEBT" en="Boost Track Grand Prix" zhcn="Boost Track Grand Prix"/>
-	<Game id="SAYP41" en="Boot Camp Academy" zhcn="新兵训练营学院(欧)" collection="B"/>
 	<Game id="SAYE20" en="Boot Camp Academy" zhcn="新兵训练营学院(美)" collection="B"/>
+	<Game id="SAYP41" en="Boot Camp Academy" zhcn="新兵训练营学院(欧)" collection="B"/>
 	<Game id="RMCEOR" en="Bored Kart Wii" zhcn="Bored Kart Wii"/>
 	<Game id="SMNE27" en="Bowser's New Recruit" zhcn="Bowser's New Recruit"/>
 	<Game id="RMCEMP" en="Bowser498's MK8 HNS Pack" zhcn="Bowser498's MK8 HNS Pack"/>
 	<Game id="RKGEGY" en="Bratz Kidz: Slumber Party" zhcn="贝兹娃娃(美)" collection="B"/>
-	<Game id="RRLZ78" en="Bratz: Girlz Really Rock" zhcn="贝兹娃娃 女孩本摇滚(Z)"/>
-	<Game id="RRLY78" en="Bratz: Girlz Really Rock" zhcn="贝兹娃娃 女孩本摇滚(Y)"/>
-	<Game id="RRLX78" en="Bratz: Girlz Really Rock" zhcn="贝兹娃娃 女孩本摇滚(X)"/>
-	<Game id="RRLP78" en="Bratz: Girlz Really Rock" zhcn="贝兹娃娃 女孩本摇滚(欧)"/>
 	<Game id="RRLE78" en="Bratz: Girlz Really Rock" zhcn="贝兹娃娃 女孩本摇滚(美)" collection="B"/>
+	<Game id="RRLP78" en="Bratz: Girlz Really Rock" zhcn="贝兹娃娃 女孩本摇滚(欧)"/>
+	<Game id="RRLX78" en="Bratz: Girlz Really Rock" zhcn="贝兹娃娃 女孩本摇滚(X)"/>
+	<Game id="RRLY78" en="Bratz: Girlz Really Rock" zhcn="贝兹娃娃 女孩本摇滚(Y)"/>
+	<Game id="RRLZ78" en="Bratz: Girlz Really Rock" zhcn="贝兹娃娃 女孩本摇滚(Z)"/>
 	<Game id="RKGPGY" en="Bratz: Kidz Party" zhcn="贝兹娃娃(欧)"/>
+	<Game id="RB9D78" en="Bratz: The Movie" zhcn="贝兹娃娃电影版(德)"/>
+	<Game id="RB9E78" en="Bratz: The Movie" zhcn="贝兹娃娃电影版(美)" collection="B"/>
+	<Game id="RB9P78" en="Bratz: The Movie" zhcn="贝兹娃娃电影版(欧)"/>
 	<Game id="RB9X78" en="Bratz: The Movie" zhcn="贝兹娃娃电影版(X)"/>
 	<Game id="RB9Y78" en="Bratz: The Movie" zhcn="贝兹娃娃电影版(Y)"/>
-	<Game id="RB9P78" en="Bratz: The Movie" zhcn="贝兹娃娃电影版(欧)"/>
-	<Game id="RB9E78" en="Bratz: The Movie" zhcn="贝兹娃娃电影版(美)" collection="B"/>
-	<Game id="RB9D78" en="Bratz: The Movie" zhcn="贝兹娃娃电影版(德)"/>
-	<Game id="RWXPS5" en="Brave: A Warrior's Tale" zhcn="印第安武士 一个勇士的传说(欧)"/>
 	<Game id="RWXES5" en="Brave: A Warrior's Tale" zhcn="印第安武士 一个勇士的传说(美)" collection="B"/>
+	<Game id="RWXPS5" en="Brave: A Warrior's Tale" zhcn="印第安武士 一个勇士的传说(欧)"/>
 	<Game id="S6BE4Q" en="Brave: The Video Game" zhcn="勇敢传说(美)"/>
 	<Game id="S6BP4Q" en="Brave: The Video Game" zhcn="勇敢传说(欧)"/>
 	<Game id="S6BX4Q" en="Brave: The Video Game" zhcn="勇敢传说(欧)"/>
@@ -220,17 +220,17 @@
 	<Game id="SBKEPZ" en="Brunswick Zone Cosmic Bowling" zhcn="布朗斯威克 宇宙领域保龄球(美)" collection="运动游戏 保龄球"/>
 	<Game id="R65ENR" en="Buck Fever" zhcn="猎鹿狂(美)" collection="运动游戏 打猎"/>
 	<Game id="RJNE20" en="Build 'N Race" zhcn="建道与赛车(美)" collection="B"/>
-	<Game id="RR4PFK" en="Build-A-Bear Workshop: A Friend Fur All Seasons" zhcn="熊熊工作室(欧)"/>
 	<Game id="RR4EGY" en="Build-A-Bear Workshop: A Friend Fur All Seasons" zhcn="熊熊工作室(美)" collection="B"/>
-	<Game id="R9UPGY" en="Build-A-Bear Workshop: Friendship Valley" zhcn="熊熊工作室 友谊谷(欧)"/>
+	<Game id="RR4PFK" en="Build-A-Bear Workshop: A Friend Fur All Seasons" zhcn="熊熊工作室(欧)"/>
 	<Game id="R9UE52" en="Build-A-Bear Workshop: Friendship Valley" zhcn="熊熊工作室 友谊谷(美)" collection="B"/>
+	<Game id="R9UPGY" en="Build-A-Bear Workshop: Friendship Valley" zhcn="熊熊工作室 友谊谷(欧)"/>
 	<Game id="RB7E54" en="Bully: Scholarship Edition" zhcn="恶霸鲁尼 学院风云(美)" collection="B"/>
 	<Game id="RB7P54" en="Bully: Scholarship Edition" zhcn="恶霸鲁尼 学院风云(欧)"/>
 	<Game id="SB8EQH" en="Burger Bot" zhcn="汉堡博特(美)" collection="B"/>
 	<Game id="RIWENR" en="Burger Island" zhcn="汉堡岛(美)" collection="B"/>
 	<Game id="RBMPGT" en="Bust-A-Move" zhcn="泡泡龙(欧)"/>
 	<Game id="RBME5G" en="Bust-a-Move Bash!" zhcn="泡泡龙(美)" collection="益智游戏"/>
-	<Game id="SBIPVZ" en="Busy Scissors" zhcn="勤劳理发师(欧)"/>
 	<Game id="SBIEVZ" en="Busy Scissors" zhcn="勤劳理发师(美)" collection="B"/>
+	<Game id="SBIPVZ" en="Busy Scissors" zhcn="勤劳理发师(欧)"/>
 	<Game id="SUKK01" en="Byeorui Kirby Wii" zhcn="Byeorui Kirby Wii"/>
 </Game-List>

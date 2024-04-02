@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Game-List>
 	<Game id="MMRE01" en="D.U. Super Mario Bros 2.1 Madness Returns" zhcn="自制 D.U.超级马里奥兄弟2.1 疯狂反击(美)"/>
-	<Game id="SWAE52" en="DJ Hero" zhcn="DJ英雄(美)" collection="D"/>
-	<Game id="SWAP52" en="DJ Hero" zhcn="DJ英雄(欧)"/>
 	<Game id="SWBE52" en="DJ Hero 2" zhcn="DJ英雄2(美)" collection="D"/>
 	<Game id="SWBP52" en="DJ Hero 2" zhcn="DJ英雄2(欧)"/>
-	<Game id="SMNPDU" en="DU Super Mario Bros. : Anniversary Edition" zhcn="DU Super Mario Bros. : Anniversary Edition"/>
+	<Game id="SWAE52" en="DJ Hero" zhcn="DJ英雄(美)" collection="D"/>
+	<Game id="SWAP52" en="DJ Hero" zhcn="DJ英雄(欧)"/>
 	<Game id="DUAP01" en="DU Super Mario Bros. : Anniversary Edition" zhcn="DU Super Mario Bros. : Anniversary Edition"/>
-	<Game id="SDUPO1" en="DU Super Mario Bros. : DU Edition" zhcn="DU超级马里奥兄弟"/>
+	<Game id="SMNPDU" en="DU Super Mario Bros. : Anniversary Edition" zhcn="DU Super Mario Bros. : Anniversary Edition"/>
 	<Game id="SDUEO1" en="DU Super Mario Bros. : DU Edition" zhcn="自制 新超级玛利欧兄弟DU版(欧)"/>
+	<Game id="SDUPO1" en="DU Super Mario Bros. : DU Edition" zhcn="DU超级马里奥兄弟"/>
 	<Game id="RDUE01" en="DU Super Mario Bros. : Find That Princess" zhcn="DU超级马里奥兄弟 寻找公主"/>
 	<Game id="SMNE88" en="DU Super Mario Bros. Wii: RoyalSuperMario Edition" zhcn="DU Super Mario Bros. Wii: RoyalSuperMario Edition"/>
 	<Game id="WARE01" en="DU Super Wario Bros." zhcn="自制 DU超级瓦里奥兄弟(美)"/>
@@ -18,27 +18,27 @@
 	<Game id="RSBJ01" en="Dairantou Smash Brothers X" zhcn="任天堂明星大乱斗X(日)" collection="3"/>
 	<Game id="R8ZE8P" en="Daisy Fuentes Pilates" zhcn="大师教你普拉提(美)"/>
 	<Game id="R8ZPGT" en="Daisy Fuentes Pilates" zhcn="大师教你普拉提(欧)"/>
-	<Game id="SDYEA4" en="Dance Dance Revolution" zhcn="劲舞革命(美)"/>
 	<Game id="SUREA4" en="Dance Dance Revolution II" zhcn="劲舞革命2(美)" collection="跳舞毯游戏"/>
+	<Game id="SDYEA4" en="Dance Dance Revolution" zhcn="劲舞革命(美)"/>
 	<Game id="RDNEA4" en="Dance Dance Revolution: Disney Grooves" zhcn="劲舞革命 开心迪士尼(美)" collection="劲舞革命系列"/>
 	<Game id="RD4JA4" en="Dance Dance Revolution: Furu Furu Party" zhcn="劲舞革命 盛况空前的劲爆舞会(日或中)" collection="劲舞革命系列"/>
-	<Game id="RDDEA4" en="Dance Dance Revolution: Hottest Party" zhcn="劲舞革命 劲爆舞会(美)" collection="劲舞革命系列"/>
-	<Game id="RDDJA4" en="Dance Dance Revolution: Hottest Party" zhcn="劲舞革命 劲爆舞会(日)"/>
 	<Game id="RD4EA4" en="Dance Dance Revolution: Hottest Party 2" zhcn="劲舞革命 劲爆舞会2(美)" collection="劲舞革命系列"/>
 	<Game id="RD4PA4" en="Dance Dance Revolution: Hottest Party 2" zhcn="劲舞革命 劲爆舞会2(欧)"/>
 	<Game id="RJREA4" en="Dance Dance Revolution: Hottest Party 3" zhcn="劲舞革命 劲爆舞会3(美)" collection="劲舞革命系列"/>
 	<Game id="RJRPA4" en="Dance Dance Revolution: Hottest Party 3" zhcn="劲舞革命 劲爆舞会3(欧)"/>
-	<Game id="SDYPA4" en="Dance Dance Revolution: Hottest Party 4" zhcn="劲舞革命 劲爆舞会4(欧)" collection="劲舞革命系列"/>
+	<Game id="SDYPA4" en="Dance Dance Revolution: Hottest Party 4" zhcn="热舞革命 劲爆舞会4(欧)" collection="劲舞革命系列"/>
 	<Game id="SURPA4" en="Dance Dance Revolution: Hottest Party 5" zhcn="劲舞革命 劲爆舞会5(欧)"/>
+	<Game id="RDDEA4" en="Dance Dance Revolution: Hottest Party" zhcn="劲舞革命 劲爆舞会(美)" collection="劲舞革命系列"/>
+	<Game id="RDDJA4" en="Dance Dance Revolution: Hottest Party" zhcn="劲舞革命 劲爆舞会(日)"/>
 	<Game id="RJRJA4" en="Dance Dance Revolution: MUSIC FIT" zhcn="劲舞革命 音乐塑身(日)" collection="劲舞革命系列"/>
 	<Game id="RW6PA4" en="Dance Dance Revolution: Winx Club" zhcn="劲舞革命 美少女俱乐部(欧)" collection="劲舞革命系列"/>
 	<Game id="SDZP41" en="Dance Juniors" zhcn="舞力全开 儿童版(欧)"/>
 	<Game id="R9QPNG" en="Dance Party Club Hits" zhcn="舞会俱乐部精选(欧)"/>
 	<Game id="R9RPNG" en="Dance Party Pop Hits" zhcn="舞蹈派对 流行精选(欧)" collection="跳舞毯游戏"/>
-	<Game id="SDEPGT" en="Dance Sensation!" zhcn="舞感(欧)" same-is="SDEE5G"/>
 	<Game id="SDEE5G" en="Dance Sensation!" zhcn="舞感(美)" collection="舞力全开 衍生系列"/>
-	<Game id="SBYP41" en="Dance on Broadway" zhcn="起舞百老汇(欧)"/>
+	<Game id="SDEPGT" en="Dance Sensation!" zhcn="舞感(欧)" same-is="SDEE5G"/>
 	<Game id="SBYE41" en="Dance on Broadway" zhcn="起舞百老汇(美)" collection="舞力全开 衍生系列"/>
+	<Game id="SBYP41" en="Dance on Broadway" zhcn="起舞百老汇(欧)"/>
 	<Game id="S2DPML" en="Dance! It's Your Stage" zhcn="跳吧！这是你的舞台(欧)"/>
 	<Game id="RXSPA4" en="Dancing Stage: Hottest Party" zhcn="劲舞革命 劲爆舞会(欧)"/>
 	<Game id="RIQPUJ" en="Dancing on Ice" zhcn="冰上炫舞(欧)" collection="舞力全开 衍生系列"/>
@@ -48,23 +48,23 @@
 	<Game id="DMBP05" en="Dark Super Mario Bros. Wii" zhcn="Dark Super Mario Bros. Wii"/>
 	<Game id="RSBE06" en="Darkon360's Brawl Hack Pack" zhcn="Darkon360's Brawl Hack Pack"/>
 	<Game id="DKCP01" en="Darky Kart Riivo" zhcn="Darky Kart Riivo"/>
-	<Game id="RMCEDK" en="Darky Kart Wii" zhcn="Darky Kart Wii"/>
-	<Game id="MKDE02" en="Darky Kart Wii" zhcn="Darky Kart Wii"/>
 	<Game id="DKWE01" en="Darky Kart Wii Vol. 1" zhcn="Darky Kart Wii Vol. 1"/>
 	<Game id="DKWE02" en="Darky Kart Wii Vol. 2" zhcn="Darky Kart Wii Vol. 2"/>
 	<Game id="DKWE03" en="Darky Kart Wii Vol. 3" zhcn="Darky Kart Wii Vol. 3"/>
 	<Game id="DKWE04" en="Darky Kart Wii Vol. 4" zhcn="Darky Kart Wii Vol. 4"/>
+	<Game id="MKDE02" en="Darky Kart Wii" zhcn="Darky Kart Wii"/>
+	<Game id="RMCEDK" en="Darky Kart Wii" zhcn="Darky Kart Wii"/>
 	<Game id="R82JG0" en="Darts Wii DX" zhcn="飞标Wii DX(日)"/>
 	<Game id="R26E5G" en="Data East Arcade Classics" zhcn="Data East街机经典(美)" collection="街机游戏"/>
-	<Game id="RXCPGT" en="Dave Mirra BMX Challenge" zhcn="戴夫·米拉自行车越野挑战赛(欧)"/>
 	<Game id="RXCE4Z" en="Dave Mirra BMX Challenge" zhcn="戴夫·米拉自行车越野挑战赛(美)" collection="竞速游戏"/>
+	<Game id="RXCPGT" en="Dave Mirra BMX Challenge" zhcn="戴夫·米拉自行车越野挑战赛(欧)"/>
 	<Game id="RN4E41" en="Dawn of Discovery" zhcn="创造新世纪(美)" collection="策略游戏"/>
 	<Game id="RINJ08" en="Dead Rising Zombie no Ikenie" zhcn="丧尸围城 僵尸的祭品(日)"/>
 	<Game id="RINE08" en="Dead Rising: Chop Till You Drop" zhcn="丧尸围城 僵尸的祭品(美)" collection="D"/>
 	<Game id="RINP08" en="Dead Rising: Chop Till You Drop" zhcn="丧尸围城 僵尸的祭品(欧)"/>
-	<Game id="RZJJ13" en="Dead Space: Extraction" zhcn="死亡太空 撤离(日)"/>
 	<Game id="RZJD69" en="Dead Space: Extraction" zhcn="死亡空间 撤离(德)"/>
 	<Game id="RZJE69" en="Dead Space: Extraction" zhcn="死亡太空 撤离(美)" collection="光枪游戏"/>
+	<Game id="RZJJ13" en="Dead Space: Extraction" zhcn="死亡太空 撤离(日)"/>
 	<Game id="RZJP69" en="Dead Space: Extraction" zhcn="死亡太空 撤离(欧)"/>
 	<Game id="SOCE4Z" en="Deadliest Catch: Sea of Chaos" zhcn="致命捕捞 混乱海域(美)" collection="D"/>
 	<Game id="RDCE78" en="Deadly Creatures" zhcn="致命生物(美)" collection="D"/>
@@ -73,52 +73,52 @@
 	<Game id="SNDE20" en="Deal or No Deal: Special Edition" zhcn="一掷千金特别版(美)" collection="影视IP游戏 电视节目"/>
 	<Game id="RLADMR" en="Deal or No Deal: The Banker Is Back" zhcn="一掷千金(德)"/>
 	<Game id="RLAPMR" en="Deal or No Deal: The Banker Is Back" zhcn="一掷千金(欧)"/>
-	<Game id="RDJP4F" en="Death Jr.: Root of Evil" zhcn="小死神 邪恶的根源(欧)"/>
 	<Game id="RDJE4F" en="Death Jr.: Root of Evil" zhcn="小死神 邪恶的根源(美)" collection="D"/>
+	<Game id="RDJP4F" en="Death Jr.: Root of Evil" zhcn="小死神 邪恶的根源(欧)"/>
 	<Game id="RDXKA4" en="Deca Sporta - Wiiro Jeulgineun Sports 10 Jongmok!" zhcn="德卡运动会(韩)"/>
 	<Game id="R2SJ18" en="Deca Sporta 2: Wii de Sports 10 Shumoku!" zhcn="德卡运动会2(日)"/>
 	<Game id="S3DJ18" en="Deca Sporta 3: Wii de Sports 10 Shumoku!" zhcn="德卡运动会3(日)"/>
 	<Game id="RDXJ18" en="Deca Sporta: Wii de Sports 10 Shumoku!" zhcn="德卡运动会(日)"/>
-	<Game id="RDXE18" en="Deca Sports" zhcn="德卡运动会(美)" collection="运动游戏 运动会"/>
 	<Game id="DXSE18" en="Deca Sports (Demo)" zhcn="德卡运动会 试玩版(美)"/>
-	<Game id="R2SE18" en="Deca Sports 2" zhcn="德卡运动会2(美)" collection="运动游戏 运动会"/>
 	<Game id="D2SE18" en="Deca Sports 2 (Demo)" zhcn="德卡运动会2 试玩版(美)"/>
-	<Game id="S3DE18" en="Deca Sports 3" zhcn="德卡运动会3(美)" collection="运动游戏 运动会"/>
+	<Game id="R2SE18" en="Deca Sports 2" zhcn="德卡运动会2(美)" collection="运动游戏 运动会"/>
 	<Game id="D3DE18" en="Deca Sports 3 (Demo)" zhcn="德卡运动会3 试玩版(美)"/>
+	<Game id="S3DE18" en="Deca Sports 3" zhcn="德卡运动会3(美)" collection="运动游戏 运动会"/>
+	<Game id="RDXE18" en="Deca Sports" zhcn="德卡运动会(美)" collection="运动游戏 运动会"/>
 	<Game id="SLEE78" en="Deepak Chopra's Leela" zhcn="乔布拉 促进大脑发展的冥想游戏(美)" collection="运动游戏 健身"/>
 	<Game id="SLEP78" en="Deepak Chopra's Leela" zhcn="乔布拉 促进大脑发展的冥想游戏(欧)"/>
-	<Game id="R3VPNK" en="Deer Drive" zhcn="麋鹿猎人(欧)"/>
-	<Game id="R3VEFP" en="Deer Drive" zhcn="麋鹿猎人(美)" collection="运动游戏 打猎"/>
 	<Game id="SUNEYG" en="Deer Drive Legends" zhcn="麋鹿猎人 传奇(美)" collection="运动游戏 打猎"/>
-	<Game id="SJRPA4" en="Def Jam Rapstar" zhcn="说唱巨星(欧)"/>
+	<Game id="R3VEFP" en="Deer Drive" zhcn="麋鹿猎人(美)" collection="运动游戏 打猎"/>
+	<Game id="R3VPNK" en="Deer Drive" zhcn="麋鹿猎人(欧)"/>
 	<Game id="SJREA4" en="Def Jam Rapstar" zhcn="说唱巨星(美)" collection="D"/>
+	<Game id="SJRPA4" en="Def Jam Rapstar" zhcn="说唱巨星(欧)"/>
 	<Game id="SJRXA4" en="Def Jam Rapstar" zhcn="说唱巨星(X)"/>
 	<Game id="SJRYA4" en="Def Jam Rapstar" zhcn="说唱巨星(Y)"/>
 	<Game id="SJRZA4" en="Def Jam Rapstar" zhcn="说唱巨星(Z)"/>
 	<Game id="RLZE4Z" en="Defendin' De Penguin" zhcn="企鹅保卫战(美)" collection="D"/>
 	<Game id="RLZPXT" en="Defendin' De Penguin" zhcn="企鹅保卫战(欧)"/>
 	<Game id="SMNEXD" en="Deluxe Super Mario Bros. Wii" zhcn="Deluxe Super Mario Bros. Wii"/>
-	<Game id="SMNPXD" en="Deluxe Super Mario Bros. Wii" zhcn="Deluxe Super Mario Bros. Wii"/>
 	<Game id="SMNJXD" en="Deluxe Super Mario Bros. Wii" zhcn="Deluxe Super Mario Bros. Wii"/>
+	<Game id="SMNPXD" en="Deluxe Super Mario Bros. Wii" zhcn="Deluxe Super Mario Bros. Wii"/>
 	<Game id="RG4JC0" en="Densha de Go! Shinkansen EX: San'you Shinkansen Hen" zhcn="电车Go！新干线EX 山阳新干线(日)"/>
-	<Game id="SMNEZW" en="Depot Super Mario Bros. Wii" zhcn="Depot Super Mario Bros. Wii"/>
-	<Game id="SMNPZW" en="Depot Super Mario Bros. Wii" zhcn="Depot Super Mario Bros. Wii"/>
-	<Game id="SMNJZW" en="Depot Super Mario Bros. Wii" zhcn="Depot Super Mario Bros. Wii"/>
 	<Game id="SMNEZD" en="Depot Super Mario Bros. Wii 2: The Lost Levels" zhcn="Depot Super Mario Bros. Wii 2: The Lost Levels"/>
 	<Game id="SMNJZD" en="Depot Super Mario Bros. Wii 2: The Lost Levels" zhcn="Depot Super Mario Bros. Wii 2: The Lost Levels"/>
 	<Game id="SMNPZD" en="Depot Super Mario Bros. Wii 2: The Lost Levels" zhcn="Depot Super Mario Bros. Wii 2: The Lost Levels"/>
+	<Game id="SMNEZW" en="Depot Super Mario Bros. Wii" zhcn="Depot Super Mario Bros. Wii"/>
+	<Game id="SMNJZW" en="Depot Super Mario Bros. Wii" zhcn="Depot Super Mario Bros. Wii"/>
+	<Game id="SMNPZW" en="Depot Super Mario Bros. Wii" zhcn="Depot Super Mario Bros. Wii"/>
 	<Game id="SHEDRM" en="Der Bauernhof" zhcn="农场(德)"/>
 	<Game id="SFLDSV" en="Der Fluch der Osterinsel" zhcn="诅咒的复活节岛(德)"/>
 	<Game id="SD3DSV" en="Der Gesundheitscoach" zhcn="健康教练 每天感觉好极了(欧)"/>
-	<Game id="SDMPAF" en="Despicable Me: The Game" zhcn="卑鄙的我(欧)"/>
 	<Game id="SDMEG9" en="Despicable Me: The Game" zhcn="卑鄙的我(美)" collection="影视IP游戏"/>
+	<Game id="SDMPAF" en="Despicable Me: The Game" zhcn="卑鄙的我(欧)"/>
 	<Game id="RDHE78" en="Destroy All Humans! Big Willy Unleashed" zhcn="毁灭全人类 解放威廉(美)" collection="D"/>
 	<Game id="RDHP78" en="Destroy All Humans! Big Willy Unleashed" zhcn="毁灭全人类 解放威廉(欧)"/>
 	<Game id="SMNE41" en="Devil Mario Winter Special" zhcn="Devil Mario Winter Special"/>
-	<Game id="SMNP41" en="Devil Mario Winter Special" zhcn="Devil Mario Winter Special"/>
 	<Game id="SMNJ41" en="Devil Mario Winter Special" zhcn="Devil Mario Winter Special"/>
-	<Game id="RDRPA4" en="Dewy's Adventure" zhcn="水精迪依大冒险(欧)"/>
+	<Game id="SMNP41" en="Devil Mario Winter Special" zhcn="Devil Mario Winter Special"/>
 	<Game id="RDREA4" en="Dewy's Adventure" zhcn="水精迪依大冒险(美)" collection="D"/>
+	<Game id="RDRPA4" en="Dewy's Adventure" zhcn="水精迪依大冒险(欧)"/>
 	<Game id="RDRJA4" en="Dewy's Adventure: Suishou Dewy no Daibouken!!" zhcn="水精迪依大冒险(日)"/>
 	<Game id="R69E36" en="DiRT 2" zhcn="尘埃2(美)" collection="竞速游戏"/>
 	<Game id="RVDPLG" en="Diabolik: The Original Sin" zhcn="德伯力克 原罪(欧)"/>
@@ -130,38 +130,38 @@
 	<Game id="RSPE04" en="Dii Sports" zhcn="Dii Sports"/>
 	<Game id="SJUE20" en="Dino Strike" zhcn="恐龙快枪(美)" collection="光枪游戏"/>
 	<Game id="SJUPXT" en="Dino Strike" zhcn="恐龙快枪(欧)"/>
-	<Game id="RDZP01" en="Disaster: Day of Crisis" zhcn="天灾 危机之日(欧)"/>
 	<Game id="RDZJ01" en="Disaster: Day of Crisis" zhcn="天灾 危机之日(日或中)" collection="中文游戏"/>
+	<Game id="RDZP01" en="Disaster: Day of Crisis" zhcn="天灾 危机之日(欧)"/>
 	<Game id="413E01" en="DiscUpdate Disc" zhcn="DiscUpdate Disc"/>
-	<Game id="SDGP4Q" en="Disney Channel: All Star Party" zhcn="迪斯尼全明星派对(欧)"/>
 	<Game id="SDGE4Q" en="Disney Channel: All Star Party" zhcn="迪斯尼全明星派对(美)" collection="聚会游戏"/>
+	<Game id="SDGP4Q" en="Disney Channel: All Star Party" zhcn="迪斯尼全明星派对(欧)"/>
 	<Game id="R59D4Q" en="Disney Club Penguin: Game Day!" zhcn="企鹅俱乐部 游戏日(欧)"/>
-	<Game id="SEMX4Q" en="Disney Epic Mickey" zhcn="传奇米老鼠(X)"/>
-	<Game id="SEMY4Q" en="Disney Epic Mickey" zhcn="传奇米老鼠(Y)"/>
-	<Game id="SEMP4Q" en="Disney Epic Mickey" zhcn="传奇米老鼠(欧)"/>
-	<Game id="SEME4Q" en="Disney Epic Mickey" zhcn="传奇米老鼠(美)" collection="影视IP游戏"/>
-	<Game id="SEMZ4Q" en="Disney Epic Mickey" zhcn="传奇米老鼠(Z)"/>
 	<Game id="DASE4Q" en="Disney Epic Mickey (Demo)" zhcn="米老鼠传奇 试玩版(美)"/>
 	<Game id="SERJ91" en="Disney Epic Mickey 2: Futatsu no Chikara" zhcn="Disney Epic Mickey 2: Futatsu no Chikara"/>
+	<Game id="SERE4Q" en="Disney Epic Mickey 2: The Power of Two" zhcn="传奇米老鼠2 双重力量(美)" collection="影视IP游戏"/>
 	<Game id="SERF4Q" en="Disney Epic Mickey 2: The Power of Two" zhcn="传奇米老鼠2 双重力量(法)"/>
 	<Game id="SERK8M" en="Disney Epic Mickey 2: The Power of Two" zhcn="传奇米老鼠2 双重力量(韩)"/>
-	<Game id="SERV4Q" en="Disney Epic Mickey 2: The Power of Two" zhcn="传奇米老鼠2 双重力量(V)"/>
 	<Game id="SERP4Q" en="Disney Epic Mickey 2: The Power of Two" zhcn="传奇米老鼠2 双重力量(欧)"/>
-	<Game id="SERE4Q" en="Disney Epic Mickey 2: The Power of Two" zhcn="传奇米老鼠2 双重力量(美)" collection="影视IP游戏"/>
+	<Game id="SERV4Q" en="Disney Epic Mickey 2: The Power of Two" zhcn="传奇米老鼠2 双重力量(V)"/>
+	<Game id="SEME4Q" en="Disney Epic Mickey" zhcn="传奇米老鼠(美)" collection="影视IP游戏"/>
+	<Game id="SEMP4Q" en="Disney Epic Mickey" zhcn="传奇米老鼠(欧)"/>
+	<Game id="SEMX4Q" en="Disney Epic Mickey" zhcn="传奇米老鼠(X)"/>
+	<Game id="SEMY4Q" en="Disney Epic Mickey" zhcn="传奇米老鼠(Y)"/>
+	<Game id="SEMZ4Q" en="Disney Epic Mickey" zhcn="传奇米老鼠(Z)"/>
 	<Game id="SEMJ01" en="Disney Epic Mickey: Mickey Mouse to Mahou no Fude" zhcn="传奇米老鼠(日)"/>
 	<Game id="SGUE4Q" en="Disney Guilty Party" zhcn="侦探家族(美)" collection="影视IP游戏"/>
 	<Game id="RH3J4Q" en="Disney High School Musical Dance!" zhcn="歌舞青春3 毕业舞会(日)"/>
 	<Game id="SQIE4Q" en="Disney Infinity" zhcn="迪斯尼无限世界(美)" collection="影视IP游戏"/>
-	<Game id="SQIY4Q" en="Disney Infinity" zhcn="Disney Infinity"/>
 	<Game id="SQIP4Q" en="Disney Infinity" zhcn="Disney Infinity"/>
+	<Game id="SQIY4Q" en="Disney Infinity" zhcn="Disney Infinity"/>
 	<Game id="RW3J4Q" en="Disney Pirates of the Caribbean: At World's End" zhcn="加勒比海盗 世界的尽头(日)"/>
 	<Game id="SU9E4Q" en="Disney Planes" zhcn="飞机总动员(美)" collection="影视IP游戏"/>
 	<Game id="SU9P4Q" en="Disney Planes" zhcn="飞机总动员(欧)"/>
 	<Game id="SU9X4Q" en="Disney Planes" zhcn="Disney Planes"/>
-	<Game id="SQQPVZ" en="Disney Planes: Fire &amp; Rescue" zhcn="Disney Planes: Fire &amp; Rescue"/>
 	<Game id="SQQEVZ" en="Disney Planes: Fire &amp; Rescue" zhcn="Disney Planes: Fire &amp; Rescue"/>
-	<Game id="RPSP4Q" en="Disney Princess: Enchanted Journey" zhcn="迪斯尼公主 魔咒下的旅行(欧)"/>
+	<Game id="SQQPVZ" en="Disney Planes: Fire &amp; Rescue" zhcn="Disney Planes: Fire &amp; Rescue"/>
 	<Game id="RPSE4Q" en="Disney Princess: Enchanted Journey" zhcn="迪斯尼公主 魔咒下的旅行(美)" collection="影视IP游戏"/>
+	<Game id="RPSP4Q" en="Disney Princess: Enchanted Journey" zhcn="迪斯尼公主 魔咒下的旅行(欧)"/>
 	<Game id="S6IE78" en="Disney Princess: Enchanting Storybooks" zhcn="迪斯尼公主故事书(美)" collection="影视IP游戏"/>
 	<Game id="S6IP78" en="Disney Princess: Enchanting Storybooks" zhcn="迪斯尼公主故事书(欧)"/>
 	<Game id="RPSJ4Q" en="Disney Princess: Mahou no Sekai he" zhcn="迪斯尼公主 魔咒下的旅行(日)"/>
@@ -170,10 +170,10 @@
 	<Game id="S3PX4Q" en="Disney Princess: My Fairytale Adventure" zhcn="迪士尼公主 我的童话冒险(X)"/>
 	<Game id="SDFE4Q" en="Disney Sing It: Family Hits" zhcn="迪斯尼想唱就唱 合家欢唱版(美)" collection="影视IP游戏"/>
 	<Game id="SDFP4Q" en="Disney Sing It: Family Hits" zhcn="迪斯尼想唱就唱 合家欢唱版(欧)"/>
-	<Game id="RI2P4Q" en="Disney Sing It: High School Musical" zhcn="迪斯尼 想唱就唱 高校音乐剧(欧)"/>
+	<Game id="REYE4Q" en="Disney Sing It: High School Musical 3 Senior Year" zhcn="歌舞青春3 毕业歌会(美)" collection="影视IP游戏"/>
 	<Game id="REYP4Q" en="Disney Sing It: High School Musical 3" zhcn="迪士尼 想唱就唱 歌舞青春3 毕业季(欧)"/>
 	<Game id="REYX4Q" en="Disney Sing It: High School Musical 3" zhcn="Disney Sing It: High School Musical 3"/>
-	<Game id="REYE4Q" en="Disney Sing It: High School Musical 3 Senior Year" zhcn="歌舞青春3 毕业歌会(美)" collection="影视IP游戏"/>
+	<Game id="RI2P4Q" en="Disney Sing It: High School Musical" zhcn="迪斯尼 想唱就唱 高校音乐剧(欧)"/>
 	<Game id="SDIE4Q" en="Disney Sing It: Party Hits" zhcn="迪斯尼想唱就唱 聚会欢唱版(美)" collection="影视IP游戏"/>
 	<Game id="SDIP4Q" en="Disney Sing It: Party Hits" zhcn="迪斯尼想唱就唱 聚会欢唱版(欧)"/>
 	<Game id="R62E4Q" en="Disney Sing It: Pop Hits" zhcn="迪士尼 想唱就唱 流行节奏(美)" collection="影视IP游戏"/>
@@ -182,11 +182,11 @@
 	<Game id="RU1P4Q" en="Disney Sing It:: Sing It Star Singstar 1" zhcn="自制 迪斯尼想唱就唱 下载版(欧)"/>
 	<Game id="SRPE4Q" en="Disney Tangled" zhcn="迪斯尼 长发公主(美)" collection="影视IP游戏"/>
 	<Game id="SRPP4Q" en="Disney Tangled" zhcn="迪斯尼 长发公主(欧)"/>
-	<Game id="RXDY4Q" en="Disney Th!nk Fast: The Ultimate Trivia Showdown" zhcn="灵机一动(Y)"/>
-	<Game id="RXDR4Q" en="Disney Th!nk Fast: The Ultimate Trivia Showdown" zhcn="灵机一动(俄)"/>
-	<Game id="RXDP4Q" en="Disney Th!nk Fast: The Ultimate Trivia Showdown" zhcn="灵机一动(欧)"/>
 	<Game id="RXDE4Q" en="Disney Th!nk Fast: The Ultimate Trivia Showdown" zhcn="灵机一动(美)" collection="影视IP游戏"/>
+	<Game id="RXDP4Q" en="Disney Th!nk Fast: The Ultimate Trivia Showdown" zhcn="灵机一动(欧)"/>
+	<Game id="RXDR4Q" en="Disney Th!nk Fast: The Ultimate Trivia Showdown" zhcn="灵机一动(俄)"/>
 	<Game id="RXDX4Q" en="Disney Th!nk Fast: The Ultimate Trivia Showdown" zhcn="灵机一动(X)"/>
+	<Game id="RXDY4Q" en="Disney Th!nk Fast: The Ultimate Trivia Showdown" zhcn="灵机一动(Y)"/>
 	<Game id="RXDJ4Q" en="Disney Think: Haya Oshi Quiz" zhcn="灵机一动(日)"/>
 	<Game id="SDXE4Q" en="Disney Universe" zhcn="迪士尼世界(美)" collection="影视IP游戏"/>
 	<Game id="SDXP4Q" en="Disney Universe" zhcn="迪士尼世界(欧)"/>
@@ -197,13 +197,13 @@
 	<Game id="RUQJJE" en="Disney-Pixar Carl Jiisan no Soratobu Ie" zhcn="飞屋环游记(日)" collection="影视IP游戏"/>
 	<Game id="RCAJ78" en="Disney-Pixar Cars" zhcn="汽车总动员(日)"/>
 	<Game id="RLWJ78" en="Disney-Pixar Remy no Oishii Restaurant" zhcn="料理鼠王(日)"/>
-	<Game id="RWAK78" en="Disney-Pixar WALL-E" zhcn="机器人瓦伊(韩)"/>
 	<Game id="RWAJ78" en="Disney-Pixar WALL-E" zhcn="机器人瓦伊(日)"/>
+	<Game id="RWAK78" en="Disney-Pixar WALL-E" zhcn="机器人瓦伊(韩)"/>
 	<Game id="RUIE4Q" en="Disney: Sing It" zhcn="迪斯尼 想唱就唱(美)" collection="影视IP游戏"/>
-	<Game id="RUIX4Q" en="Disney: Sing It" zhcn="迪斯尼 想唱就唱(X)"/>
 	<Game id="RUIP4Q" en="Disney: Sing It" zhcn="迪斯尼 想唱就唱(欧)"/>
-	<Game id="RU5V4Q" en="Disney: The Princess and the Frog" zhcn="Disney: The Princess and the Frog"/>
+	<Game id="RUIX4Q" en="Disney: Sing It" zhcn="迪斯尼 想唱就唱(X)"/>
 	<Game id="RU5P4Q" en="Disney: The Princess and the Frog" zhcn="公主与青蛙(欧)"/>
+	<Game id="RU5V4Q" en="Disney: The Princess and the Frog" zhcn="Disney: The Princess and the Frog"/>
 	<Game id="RU5X4Q" en="Disney: The Princess and the Frog" zhcn="公主与青蛙(X)"/>
 	<Game id="RU9PGT" en="Diva Girls: Diva Ballerina" zhcn="天后女孩 芭蕾天后(欧)"/>
 	<Game id="RI9EGT" en="Diva Girls: Divas on Ice" zhcn="天后女孩 冰上公主(美)" collection="平衡板游戏"/>
@@ -213,11 +213,11 @@
 	<Game id="SDOPLR" en="Doctor Who: Return To Earth" zhcn="神秘博士 重返地球(欧)"/>
 	<Game id="RIXP7J" en="Dodge Racing: Charger vs Challenger" zhcn="道奇赛车 掌控者与挑战者(欧)"/>
 	<Game id="RIXE20" en="Dodge Racing: Charger vs. Challenger" zhcn="道奇赛车 掌控者与挑战者(美)" collection="竞速游戏"/>
-	<Game id="RDOX41" en="Dogz" zhcn="模拟宠物狗2(X)"/>
 	<Game id="RDOP41" en="Dogz" zhcn="模拟宠物狗2(欧)"/>
-	<Game id="R2DPJW" en="Dokapon Kingdom" zhcn="多卡波王国(欧)"/>
-	<Game id="R2DEEB" en="Dokapon Kingdom" zhcn="多卡波王国(美)" collection="D"/>
+	<Game id="RDOX41" en="Dogz" zhcn="模拟宠物狗2(X)"/>
 	<Game id="R2DJEP" en="Dokapon Kingdom For Wii" zhcn="多卡波王国(日)"/>
+	<Game id="R2DEEB" en="Dokapon Kingdom" zhcn="多卡波王国(美)" collection="D"/>
+	<Game id="R2DPJW" en="Dokapon Kingdom" zhcn="多卡波王国(欧)"/>
 	<Game id="RDME6K" en="Domino Rally" zhcn="米侬向前冲(美)" collection="done5"/>
 	<Game id="R2KE54" en="Don King Boxing" zhcn="唐金拳击(美)" collection="平衡板游戏"/>
 	<Game id="R2KP54" en="Don King Boxing" zhcn="唐金拳击(欧)"/>
@@ -227,16 +227,16 @@
 	<Game id="RDKJ01" en="Donkey Kong Taru Jet Race" zhcn="大金刚 木桶喷射(日)"/>
 	<Game id="RDKE01" en="Donkey Kong: Barrel Blast" zhcn="大金刚 木桶喷射(美)" collection="D"/>
 	<Game id="RDKP01" en="Donkey Kong: Jet Race" zhcn="大金刚 木桶喷射(欧)"/>
+	<Game id="R49E01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林敲击(美)"/>
 	<Game id="R49J01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林节拍(日或中)" collection="中文游戏"/>
 	<Game id="R49P01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林敲击(欧)"/>
-	<Game id="R49E01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林敲击(美)"/>
 	<Game id="SDLE78" en="Dood's Big Adventure" zhcn="杜德大冒险(美)" collection="D"/>
 	<Game id="SDLP78" en="Dood's Big Adventure" zhcn="杜德大冒险(欧)"/>
-	<Game id="R27X54" en="Dora Saves the Crystal Kingdom" zhcn="探险家朵拉 拯救水晶王国(X)"/>
 	<Game id="R27E54" en="Dora Saves the Crystal Kingdom" zhcn="探险家朵拉 拯救水晶王国(美)" collection="影视IP游戏"/>
-	<Game id="RDPX54" en="Dora Saves the Snow Princess" zhcn="探险家朵拉 拯救雪公主(X)"/>
-	<Game id="RDPP54" en="Dora Saves the Snow Princess" zhcn="探险家朵拉 拯救雪公主(欧)"/>
+	<Game id="R27X54" en="Dora Saves the Crystal Kingdom" zhcn="探险家朵拉 拯救水晶王国(X)"/>
 	<Game id="RDPE54" en="Dora Saves the Snow Princess" zhcn="探险家朵拉 拯救雪公主(美)" collection="影视IP游戏"/>
+	<Game id="RDPP54" en="Dora Saves the Snow Princess" zhcn="探险家朵拉 拯救雪公主(欧)"/>
+	<Game id="RDPX54" en="Dora Saves the Snow Princess" zhcn="探险家朵拉 拯救雪公主(X)"/>
 	<Game id="SDPE54" en="Dora's Big Birthday Adventure" zhcn="探险家朵拉 生日大冒险(美)" collection="影视IP游戏"/>
 	<Game id="SDPP54" en="Dora's Big Birthday Adventure" zhcn="探险家朵拉 生日大冒险(欧)"/>
 	<Game id="REMJ8P" en="Doraemon Wii: Himitsu Dougu-ou Ketteisen!" zhcn="哆啦A梦Wii 秘密道具王决定战！(日)" collection="影视IP游戏"/>
@@ -247,23 +247,23 @@
 	<Game id="REBE70" en="Dragon Ball Z Budokai Tenkaichi 2[ALPHA][CUSTOM]" zhcn="Dragon Ball Z Budokai Tenkaichi 2[ALPHA][CUSTOM]"/>
 	<Game id="RVLE70" en="Dragon Ball Z Budokai Tenkaichi 3 Version Latino Final[CUSTOM]" zhcn="Dragon Ball Z Budokai Tenkaichi 3 Version Latino Final[CUSTOM]"/>
 	<Game id="RDCE70" en="Dragon Ball Z Budokai Tenkaichi 3 Version! Castellano [Beta 2][CUSTOM]" zhcn="Dragon Ball Z Budokai Tenkaichi 3 Version! Castellano [Beta 2][CUSTOM]"/>
-	<Game id="RDSZ70" en="Dragon Ball Z Budokai Tenkaichi 3 Version! Latino" zhcn="Dragon Ball Z Budokai Tenkaichi 3 Version! Latino"/>
-	<Game id="RDZE70" en="Dragon Ball Z Budokai Tenkaichi 3 Version! Latino" zhcn="Dragon Ball Z Budokai Tenkaichi 3 Version! Latino"/>
 	<Game id="RDXE70" en="Dragon Ball Z Budokai Tenkaichi 3 Version! Latino Beta 3" zhcn="Dragon Ball Z Budokai Tenkaichi 3 Version! Latino Beta 3"/>
 	<Game id="RDWPAF" en="Dragon Ball Z Budokai Tenkaichi 3 Version! Latino Final[CUSTOM]" zhcn="Dragon Ball Z Budokai Tenkaichi 3 Version! Latino Final[CUSTOM]"/>
 	<Game id="RDYE70" en="Dragon Ball Z Budokai Tenkaichi 3 Version! Latino [BETA 3 - UPDATE 1 ]" zhcn="Dragon Ball Z Budokai Tenkaichi 3 Version! Latino [BETA 3 - UPDATE 1 ]"/>
+	<Game id="RDSZ70" en="Dragon Ball Z Budokai Tenkaichi 3 Version! Latino" zhcn="Dragon Ball Z Budokai Tenkaichi 3 Version! Latino"/>
+	<Game id="RDZE70" en="Dragon Ball Z Budokai Tenkaichi 3 Version! Latino" zhcn="Dragon Ball Z Budokai Tenkaichi 3 Version! Latino"/>
 	<Game id="RDWE70" en="Dragon Ball Z Budokai Tenkaichi 3 Version! Latino[GAMMA][CUSTOM]" zhcn="Dragon Ball Z Budokai Tenkaichi 3 Version! Latino[GAMMA][CUSTOM]"/>
 	<Game id="RDPE70" en="Dragon Ball Z Budokai Tenkaichi 3 Versión! Castellano [BETA 1]" zhcn="Dragon Ball Z Budokai Tenkaichi 3 Versión! Castellano [BETA 1]"/>
 	<Game id="RESE70" en="Dragon Ball Z Budokai Tenkaichi 3 Versión! Español" zhcn="Dragon Ball Z Budokai Tenkaichi 3 Versión! Español"/>
 	<Game id="RFYE70" en="Dragon Ball Z Budokai Tenkaichi 3 Versión! Latino [BETA 3 - UPDATE 3 ]" zhcn="Dragon Ball Z Budokai Tenkaichi 3 Versión! Latino [BETA 3 - UPDATE 3 ]"/>
-	<Game id="RDBPAF" en="Dragon Ball Z: Budokai Tenkaichi 2" zhcn="龙珠Z 电光火石2(欧)"/>
 	<Game id="RDBE70" en="Dragon Ball Z: Budokai Tenkaichi 2" zhcn="龙珠Z 电光火石2(美)" collection="影视IP游戏 日本"/>
+	<Game id="RDBPAF" en="Dragon Ball Z: Budokai Tenkaichi 2" zhcn="龙珠Z 电光火石2(欧)"/>
 	<Game id="RDSE70" en="Dragon Ball Z: Budokai Tenkaichi 3" zhcn="龙珠Z 电光火石3(美)" collection="影视IP游戏 日本"/>
 	<Game id="RDSPAF" en="Dragon Ball Z: Budokai Tenkaichi 3" zhcn="龙珠Z 电光火石3(欧)"/>
-	<Game id="RDSJAF" en="Dragon Ball Z: Sparking! METEOR" zhcn="龙珠Z 电光火石3(日)"/>
+	<Game id="RDSJAF" en="Dragon Ball Z: Sparking! METEOR" zhcn="龙珠Z 电光火石 3[WiFi](日)"/>
 	<Game id="RDBJAF" en="Dragon Ball Z: Sparking! NEO" zhcn="龙珠Z 电光火石(日)" collection="影视IP游戏 日本"/>
-	<Game id="R7GPAF" en="Dragon Ball: Revenge of King Piccolo" zhcn="龙珠 天下第一大冒险(欧)"/>
 	<Game id="R7GEAF" en="Dragon Ball: Revenge of King Piccolo" zhcn="龙珠 天下第一大冒险(美)"/>
+	<Game id="R7GPAF" en="Dragon Ball: Revenge of King Piccolo" zhcn="龙珠 天下第一大冒险(欧)"/>
 	<Game id="R7GJAF" en="Dragon Ball: Tenkaichi Daibouken" zhcn="龙珠 天下第一大冒险(日或中)" collection="影视IP游戏 日本/中文游戏"/>
 	<Game id="RDWJG9" en="Dragon Blade" zhcn="龙刃 怒火燃烧(日)"/>
 	<Game id="RDWEG9" en="Dragon Blade: Wrath of Fire" zhcn="龙刃 怒火燃烧(美)" collection="D"/>
@@ -279,33 +279,33 @@
 	<Game id="SBAJGD" en="Dragon Quest: Monster Battle Road Victory" zhcn="勇者斗恶龙 怪兽战斗之路 胜利(日)"/>
 	<Game id="RTME70" en="Dragon ball Z Budokai Tenkaichi 3 WII TSM" zhcn="Dragon ball Z Budokai Tenkaichi 3 WII TSM"/>
 	<Game id="SL3ENR" en="Dragon's Lair Trilogy" zhcn="龙的巢穴三部曲(美)" collection="D"/>
-	<Game id="R9DP78" en="Drawn to Life: The Next Chapter" zhcn="描绘生命 下一章(欧)"/>
 	<Game id="R9DE78" en="Drawn to Life: The Next Chapter" zhcn="描绘生命 下一章(美)" collection="D"/>
+	<Game id="R9DP78" en="Drawn to Life: The Next Chapter" zhcn="描绘生命 下一章(欧)"/>
 	<Game id="SIXE41" en="Drawsome! Tablet" zhcn="Drawsome! Tablet"/>
 	<Game id="R86E20" en="Dream Dance &amp; Cheer" zhcn="梦之舞蹈啦啦队(美)" collection="平衡板游戏"/>
 	<Game id="R3DES5" en="Dream Pinball 3D" zhcn="梦幻弹球3D(美)" collection="益智游戏"/>
 	<Game id="R3DPS5" en="Dream Pinball 3D" zhcn="梦幻弹球3D(欧)"/>
 	<Game id="R75E20" en="Dream Salon" zhcn="梦幻沙龙(美)" collection="D"/>
-	<Game id="RKPK52" en="DreamWorks Kung Fu Panda" zhcn="功夫熊猫(韩)"/>
 	<Game id="RKPJ52" en="DreamWorks Kung Fu Panda" zhcn="功夫熊猫(日)"/>
-	<Game id="SKZP52" en="DreamWorks Super Star Kartz" zhcn="梦工厂超级明星赛(欧)"/>
+	<Game id="RKPK52" en="DreamWorks Kung Fu Panda" zhcn="功夫熊猫(韩)"/>
 	<Game id="SKZE52" en="DreamWorks Super Star Kartz" zhcn="梦工厂超级明星赛(美)" collection="影视IP游戏 美国"/>
+	<Game id="SKZP52" en="DreamWorks Super Star Kartz" zhcn="梦工厂超级明星赛(欧)"/>
 	<Game id="SVEPAF" en="DreamWorks The Croods: Prehistoric Party! &amp; Rise of the Guardians: Combo Pack" zhcn="DreamWorks The Croods: Prehistoric Party! &amp; Rise of the Guardians: Combo Pack"/>
 	<Game id="RMCEDT" en="Drift Rebalance with CT " zhcn="Drift Rebalance with CT "/>
-	<Game id="RDVP41" en="Driver: Parallel Lines" zhcn="横冲直撞之平行线(欧)"/>
 	<Game id="RDVE41" en="Driver: Parallel Lines" zhcn="横冲直撞之平行线(美)" collection="竞速游戏"/>
+	<Game id="RDVP41" en="Driver: Parallel Lines" zhcn="横冲直撞之平行线(欧)"/>
 	<Game id="SDVE41" en="Driver: San Francisco" zhcn="极道车魂 旧金山(美)" collection="竞速游戏"/>
 	<Game id="SDVP41" en="Driver: San Francisco" zhcn="极道车魂 旧金山(欧)"/>
 	<Game id="RMCED3" en="DryBowser Kart Wii" zhcn="DryBowser Kart Wii"/>
 	<Game id="RMCED8" en="DryBowser's Unused CT Pack" zhcn="DryBowser's Unused CT Pack"/>
-	<Game id="SMNJZU" en="Duck Tales 3" zhcn="Duck Tales 3"/>
 	<Game id="SMNEZU" en="Duck Tales 3" zhcn="Duck Tales 3"/>
+	<Game id="SMNJZU" en="Duck Tales 3" zhcn="Duck Tales 3"/>
 	<Game id="SMNPZU" en="Duck Tales 3" zhcn="Duck Tales 3"/>
 	<Game id="RMCEDX" en="Dxrk X Hari's Pack" zhcn="Dxrk X Hari's Pack"/>
-	<Game id="R6BX78" en="de Blob" zhcn="颜料宝贝(X)"/>
-	<Game id="R6BE78" en="de Blob" zhcn="颜料宝贝(美)" collection="D"/>
-	<Game id="R6BP78" en="de Blob" zhcn="颜料宝贝(欧)"/>
 	<Game id="R6BK78" en="de Blob - Color Revolution" zhcn="颜料宝贝(韩)"/>
 	<Game id="SDBE78" en="de Blob 2" zhcn="颜料宝贝2(美)" collection="D"/>
 	<Game id="SDBP78" en="de Blob 2" zhcn="颜料宝贝2(欧)"/>
+	<Game id="R6BE78" en="de Blob" zhcn="颜料宝贝(美)" collection="D"/>
+	<Game id="R6BP78" en="de Blob" zhcn="颜料宝贝(欧)"/>
+	<Game id="R6BX78" en="de Blob" zhcn="颜料宝贝(X)"/>
 </Game-List>
