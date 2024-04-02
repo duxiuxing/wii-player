@@ -49,7 +49,7 @@
 	<Game id="SD6PTV" en="Lernerfolg Grundschule: Englisch - Klasse 1-4" zhcn="小学学习检测 英语1-4年级(欧)"/>
 	<Game id="SD7PTV" en="Lernerfolg Grundschule: Mathematik - Klasse 1-4" zhcn="小学学习检测 数学(欧)"/>
 	<Game id="SLDEYG" en="Let's Dance" zhcn="一起跳舞(美)" collection="done3"/>
-	<Game id="SLDPLG" en="Let's Dance with Mel B" zhcn="跟Mel B一起跳舞(欧)"/>
+	<Game id="SLDPLG" en="Let's Dance with Mel B" zhcn="与Mel B共舞(欧)"/>
 	<Game id="SPUE20" en="Let's Paint" zhcn="一起绘画(美)" collection="儿童游戏"/>
 	<Game id="RR3PA4" en="Let's Party!" zhcn="一起派对(欧)"/>
 	<Game id="SBREJJ" en="Let's Play Ballerina" zhcn="一起跳芭蕾(美)" collection="平衡板游戏"/>
@@ -96,6 +96,7 @@
 	<Game id="RL7E69" en="Littlest Pet Shop: Friends" zhcn="小小宠物店 朋友(美)" collection="donel"/>
 	<Game id="RLTXUG" en="London Taxi: Rush Hour" zhcn="伦敦出租车 高峰时间(X)" collection="donel"/>
 	<Game id="RLTENR" en="London Taxi: Rush Hour" zhcn="伦敦出租车 高峰时间(美)"/>
+	<Game id="RLTPNR" en="London Taxi: Rush Hour" zhcn=""/>
 	<Game id="RLYPWR" en="Looney Tunes: Acme Arsenal" zhcn="华纳群星总动员 超级兵工厂(欧)"/>
 	<Game id="RLYEWR" en="Looney Tunes: Acme Arsenal" zhcn="华纳群星总动员 超级兵工厂(美)" collection="donel"/>
 	<Game id="SL4PAF" en="Los 40 Principales Karaoke Party" zhcn="Los 40 Principales Karaoke Party"/>
@@ -111,7 +112,11 @@
 	<Game id="SMNJZO" en="Ludwig's Hotel" zhcn="Ludwig's Hotel"/>
 	<Game id="SMNPZO" en="Ludwig's Hotel" zhcn="Ludwig's Hotel"/>
 	<Game id="LFG001" en="Luigi's Final Ghosthunt" zhcn="Luigi's Final Ghosthunt"/>
+	<Game id="GLMLFG" en="Luigi's Final Ghosthunt" zhcn="Luigi's Final Ghosthunt"/>
 	<Game id="GLMK01" en="Luigi's Mansion" zhcn="Luigi's Mansion"/>
+	<Game id="GLME02" en="Luigi's Mansion: First-Person Optimized" zhcn="Luigi's Mansion: First-Person Optimized"/>
+	<Game id="GLME09" en="Luigi's Mansion: Open World" zhcn="Luigi's Mansion: Open World"/>
+	<Game id="GLMERP" en="Luigi's Mansion Repainted" zhcn="Luigi's Mansion Repainted"/>
 	<Game id="SMNPLA" en="Luigi's Next Adventure" zhcn="Luigi's Next Adventure"/>
 	<Game id="SMNJYL" en="Luigi's Super Yoshi Bros." zhcn="Luigi's Super Yoshi Bros."/>
 	<Game id="SMNPYL" en="Luigi's Super Yoshi Bros." zhcn="Luigi's Super Yoshi Bros."/>

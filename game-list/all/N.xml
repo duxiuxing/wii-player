@@ -42,6 +42,7 @@
 	<Game id="RN2P70" en="Namco Museum Remix" zhcn="Namco博物馆重制版(欧)"/>
 	<Game id="RN2EAF" en="Namco Museum Remix" zhcn="Namco博物馆重制版(美)" collection="4"/>
 	<Game id="RNWKAF" en="Namco Museum Remix" zhcn="Namco博物馆 重制版(韩)"/>
+	<Game id="RN2K70" en="Namco Museum Remix" zhcn=""/>
 	<Game id="RNUE8P" en="Nancy Drew: The White Wolf of Icicle Creek" zhcn="南茜朱儿 冰溪白狼(美)" collection="N"/>
 	<Game id="RNNJ4Q" en="Narnia Koku Monogatari: Dai-2 Shou: Caspian Ouji no Tsunobue" zhcn="纳尼亚传奇 凯斯宾王子(日)"/>
 	<Game id="G4NEDA" en="Naruto Gektiou Ninja Taisen! 4 [Eng]" zhcn="Naruto Gektiou Ninja Taisen! 4 [Eng]"/>
@@ -67,6 +68,7 @@
 	<Game id="RMCENH" en="Navi's HNS CT Pack" zhcn="Navi's HNS CT Pack"/>
 	<Game id="RN9JEL" en="Necro-Nesia" zhcn="巨虫魔岛(日)"/>
 	<Game id="RNSE69" en="Need for Speed Carbon" zhcn="极品飞车 卡本峡谷(美)" collection="N"/>
+	<Game id="RNSX69" en="Need for Speed: Carbon" zhcn=""/>
 	<Game id="RNSF69" en="Need for Speed: Carbon" zhcn="极品飞车10卡本峡谷(法)"/>
 	<Game id="RNSJ13" en="Need for Speed: Carbon" zhcn="极品飞车10卡本峡谷(日)"/>
 	<Game id="RNSP69" en="Need for Speed: Carbon" zhcn="极品飞车10卡本峡谷(欧)"/>
@@ -275,18 +277,19 @@
 	<Game id="SLTEJJ" en="NewU Fitness First Mind Body: Yoga &amp; Pilates Workout" zhcn="新优健身 瑜伽和普拉提(美)" collection="平衡板游戏"/>
 	<Game id="RU4X41" en="NewU Fitness First Personal Trainer" zhcn="新个人健身教练[平衡板](X)"/>
 	<Game id="RU4P41" en="NewU Fitness First Personal Trainer" zhcn="NewU Fitness First Personal Trainer"/>
+	<Game id="SMNEAD" en="Newer Alpine Dream" zhcn="Newer Alpine Dream"/>
 	<Game id="SMNJZA" en="Newer Apocalypse" zhcn="Newer Apocalypse"/>
 	<Game id="SMNEZA" en="Newer Apocalypse" zhcn="Newer Apocalypse"/>
 	<Game id="SMNPZA" en="Newer Apocalypse" zhcn="Newer Apocalypse"/>
-	<Game id="SMNE23" en="Newer Falling Leaf" zhcn="Newer Falling Leaf"/>
+	<Game id="SMNE23" en="Newer Falling Leaf" zhcn="更加新的超级马里奥兄弟Wii 落叶"/>
 	<Game id="SMNE29" en="Newer Falling Leaf U" zhcn="Newer Falling Leaf U"/>
 	<Game id="SMNP07" en="Newer Holiday Special" zhcn="Newer Holiday Special"/>
 	<Game id="SMNJ07" en="Newer Holiday Special" zhcn="Newer Holiday Special"/>
-	<Game id="SMNE07" en="Newer Holiday Special" zhcn="Newer Holiday Special"/>
+	<Game id="SMNE07" en="Newer Holiday Special" zhcn="更加新的超级马里奥兄弟Wii 佳节特辑"/>
 	<Game id="SMNEM5" en="Newer Mayro Bros. Wii" zhcn="Newer Mayro Bros. Wii"/>
 	<Game id="SMNP06" en="Newer Summer Sun" zhcn="Newer Summer Sun"/>
 	<Game id="SMNJ06" en="Newer Summer Sun" zhcn="Newer Summer Sun"/>
-	<Game id="NSSP01" en="Newer Summer Sun" zhcn="Newer Summer Sun"/>
+	<Game id="NSSP01" en="Newer Summer Sun" zhcn="更加新的超级马里奥兄弟Wii 夏日骄阳"/>
 	<Game id="SMNE06" en="Newer Summer Sun" zhcn="Newer Summer Sun"/>
 	<Game id="SMNE24" en="Newer Super Luigi Bros. Wii U" zhcn="Newer Super Luigi Bros. Wii U"/>
 	<Game id="SMNJLL" en="Newer Super Luigi Wii" zhcn="Newer Super Luigi Wii"/>
@@ -303,7 +306,8 @@
 	<Game id="SMNJ15" en="Newer Super Mario Bros. 7" zhcn="Newer Super Mario Bros. 7"/>
 	<Game id="SMNP15" en="Newer Super Mario Bros. 7" zhcn="Newer Super Mario Bros. 7"/>
 	<Game id="SMNE15" en="Newer Super Mario Bros. 7" zhcn="Newer Super Mario Bros. 7"/>
-	<Game id="SMNE17" en="Newer Super Mario Bros. U Ghostly Edition" zhcn="Newer Super Mario Bros. U Ghostly Edition"/>
+	<Game id="SMNE17" en="Newer Super Mario Bros. U Ghostly Edition" zhcn="Newer Super Mario Bros. U Ghostly Edition"/>	
+	<Game id="SMNED3" en="Newer Super Mario Bros. Wii" zhcn="新新超级马里奥兄弟Wii"/>
 	<Game id="SMNK03" en="Newer Super Mario Bros. Wii" zhcn="Newer Super Mario Bros. Wii"/>
 	<Game id="SMNP03" en="Newer Super Mario Bros. Wii" zhcn="Newer Super Mario Bros. Wii"/>
 	<Game id="SMNJ03" en="Newer Super Mario Bros. Wii" zhcn="Newer Super Mario Bros. Wii"/>
@@ -312,7 +316,7 @@
 	<Game id="KMNP03" en="Newer Super Mario Bros. Wii" zhcn="Newer Super Mario Bros. Wii"/>
 	<Game id="KMNJ03" en="Newer Super Mario Bros. Wii" zhcn="Newer Super Mario Bros. Wii"/>
 	<Game id="KMNE03" en="Newer Super Mario Bros. Wii" zhcn="Newer Super Mario Bros. Wii"/>
-	<Game id="SMNE03" en="Newer Super Mario Bros. Wii" zhcn="更加新的超级马里奥兄弟Wii"/>
+	<Game id="SMNE03" en="Newer Super Mario Bros. Wii" zhcn="新新超级马里奥兄弟Wii"/>
 	<Game id="SMNW03" en="Newer Super Mario Bros. Wii" zhcn="新新超级马里奥兄弟Wii(中)" collection="超级马里奥兄弟系列"/>
 	<Game id="SMNEAU" en="Newer Super Mario Bros. Wii Autumn Adventure" zhcn="Newer Super Mario Bros. Wii Autumn Adventure"/>
 	<Game id="SMNJ40" en="Newer Super Mario Bros. Wii U" zhcn="Newer Super Mario Bros. Wii U"/>
