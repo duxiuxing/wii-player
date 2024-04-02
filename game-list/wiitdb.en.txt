@@ -1,4 +1,4 @@
-TITLES = https://www.gametdb.com (type: Wii language: EN version: 20240331141154)
+TITLES = https://www.gametdb.com (type: Wii language: EN version: 20240402051410)
 007E01 = Wii Auto Erase Disc
 091E00 = Movie-Ch Install Disc Ver. A
 410E01 = Wii Backup Disc v1.31
