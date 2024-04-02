@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Game-List>
-	<Game id="RPXE69" en="EA Playground" zhcn="EA游乐场(美)" collection="done5"/>
+	<Game id="RPXE69" en="EA Playground" zhcn="EA游乐场(美)" collection="运动游戏 运动会"/>
 	<Game id="RPXP69" en="EA Playground" zhcn="EA游乐场(欧)"/>
 	<Game id="SE2E69" en="EA Sports Active 2" zhcn="EA运动活力2(美)"/>
 	<Game id="SE2P69" en="EA Sports Active 2" zhcn="EA运动活力2(欧)"/>
-	<Game id="SNFE69" en="EA Sports Active NFL Training Camp" zhcn="EA运动活力 NFL训练营(美)" collection="done5"/>
+	<Game id="SNFE69" en="EA Sports Active NFL Training Camp" zhcn="EA运动活力 NFL训练营(美)" collection="运动游戏 健身"/>
 	<Game id="SEAJ13" en="EA Sports Active Personal Trainer Wii: 6 Shuukan Shuuchuu Hikishime Program" zhcn="EA运动活力 更多锻炼(日)"/>
-	<Game id="SEAE69" en="EA Sports Active: More Workouts" zhcn="EA运动活力 更多锻炼(美)" collection="4"/>
-	<Game id="SEAP69" en="EA Sports Active: More Workouts" zhcn="EA运动活力 更多锻炼[平衡板](欧)"/>
-	<Game id="R43J13" en="EA Sports Active: Personal Trainer Wii: 30 Nichi Seikatsu Kaizen Program" zhcn="EA运动活力[平衡板](日)"/>
-	<Game id="R43E69" en="EA Sports Active: Personal Trainer" zhcn="EA运动活力[平衡板](美)"/>
-	<Game id="R43P69" en="EA Sports Active: Personal Trainer" zhcn="EA运动活力(欧)" collection="4"/>
+	<Game id="SEAE69" en="EA Sports Active: More Workouts" zhcn="EA运动活力 更多锻炼(美)" collection="运动游戏 健身"/>
+	<Game id="SEAP69" en="EA Sports Active: More Workouts" zhcn="EA运动活力 更多锻炼(欧)"/>
+	<Game id="R43J13" en="EA Sports Active: Personal Trainer Wii: 30 Nichi Seikatsu Kaizen Program" zhcn="EA运动活力(日)"/>
+	<Game id="R43E69" en="EA Sports Active: Personal Trainer" zhcn="EA运动活力(美)"/>
+	<Game id="R43P69" en="EA Sports Active: Personal Trainer" zhcn="EA运动活力(欧)" collection="运动游戏 健身"/>
 	<Game id="SHYP69" en="EA Sports: NHL Slapshot" zhcn="NHL冰球 强打(欧)"/>
 	<Game id="R8EEQC" en="Earth Seeker [ENG]" zhcn="Earth Seeker [ENG]"/>
 	<Game id="R8EJQC" en="Earth Seeker" zhcn="大地探索者(日或中)" collection="RPG游戏"/>
 	<Game id="SMNE89" en="Easy Super Mario Bros. Wii" zhcn="Easy Super Mario Bros. Wii"/>
 	<Game id="SVOEWW" en="El Chavo" zhcn="El Chavo"/>
-	<Game id="RVKP99" en="Eldar Saga" zhcn="瓦尔哈拉骑士 艾德尔传奇[WiFi](欧)"/>
-	<Game id="RELEA4" en="Elebits" zhcn="能源小精灵(美)" collection="done5"/>
+	<Game id="RVKP99" en="Eldar Saga" zhcn="瓦尔哈拉骑士 艾德尔传奇(欧)"/>
+	<Game id="RELEA4" en="Elebits" zhcn="能源小精灵(美)" collection="E"/>
 	<Game id="RELJA4" en="Elebits" zhcn="能源小精灵(日)"/>
 	<Game id="RELKA4" en="Elebits" zhcn="能源小精灵(韩)"/>
 	<Game id="RELPA4" en="Eledees" zhcn="能源小精灵(欧)"/>
-	<Game id="REHE41" en="Emergency Heroes" zhcn="紧急英雄(美)" collection="done3"/>
+	<Game id="REHE41" en="Emergency Heroes" zhcn="紧急英雄(美)" collection="E"/>
 	<Game id="REHP41" en="Emergency Heroes" zhcn="紧急英雄(欧)"/>
-	<Game id="REGE36" en="Emergency Mayhem" zhcn="紧急出动(美)" collection="done5"/>
+	<Game id="REGE36" en="Emergency Mayhem" zhcn="紧急出动(美)" collection="E"/>
 	<Game id="REGP36" en="Emergency Mayhem" zhcn="紧急出动(欧)"/>
 	<Game id="SENPZX" en="Enclave: Shadows of Twilight" zhcn="Enclave: Shadows of Twilight"/>
-	<Game id="R4EP01" en="Endless Ocean 2: Adventures of the Deep" zhcn="永恒蔚蓝2 深海探险[WiFi](欧)"/>
-	<Game id="RFBE01" en="Endless Ocean" zhcn="永恒蔚蓝(美)" collection="done5"/>
-	<Game id="RFBP01" en="Endless Ocean" zhcn="永恒蔚蓝[WiFi](欧)"/>
-	<Game id="R4EE01" en="Endless Ocean: Blue World" zhcn="永恒蔚蓝2 蓝色世界(美)" collection="done5"/>
+	<Game id="R4EP01" en="Endless Ocean 2: Adventures of the Deep" zhcn="永恒蔚蓝2 深海探险(欧)"/>
+	<Game id="RFBE01" en="Endless Ocean" zhcn="永恒蔚蓝(美)" collection="E"/>
+	<Game id="RFBP01" en="Endless Ocean" zhcn="永恒蔚蓝(欧)"/>
+	<Game id="R4EE01" en="Endless Ocean: Blue World" zhcn="永恒蔚蓝2 蓝色世界(美)" collection="E"/>
 	<Game id="SMNEXE" en="Enhanced Super Mario Bros. Wii  Deluxe" zhcn="加强的超级马里奥兄弟.WIi豪华版"/>
 	<Game id="RETJAF" en="Ennichi no Tatsujin" zhcn="庙会达人(日)"/>
 	<Game id="SMNE08" en="Epic Super Bowser World" zhcn="Epic Super Bowser World"/>
@@ -37,16 +37,16 @@
 	<Game id="SMNP08" en="Epic Super Bowser World" zhcn="Epic Super Bowser World"/>
 	<Game id="RN9P4F" en="Escape From Bug Island" zhcn="巨虫魔岛(欧)"/>
 	<Game id="R7SP5G" en="Escape The Museum" zhcn="逃出博物馆(欧)"/>
-	<Game id="RN9E4F" en="Escape from Bug Island" zhcn="巨虫魔岛(美)" collection="done5"/>
-	<Game id="R7SE5G" en="Escape the Museum" zhcn="逃出博物馆(美)" collection="done5"/>
+	<Game id="RN9E4F" en="Escape from Bug Island" zhcn="巨虫魔岛(美)" collection="E"/>
+	<Game id="R7SE5G" en="Escape the Museum" zhcn="逃出博物馆(美)" collection="E"/>
 	<Game id="GEAK8P" en="Eternal Arcadia Legends" zhcn="Eternal Arcadia Legends"/>
 	<Game id="SL6PGN" en="Everyone Sing" zhcn="Everyone Sing"/>
 	<Game id="RMCELI" en="Evil Pack" zhcn="Evil Pack"/>
 	<Game id="RX3J01" en="Excite Mou Machine" zhcn="激情漫游 特技竞速(日)"/>
-	<Game id="REXE01" en="Excite Truck" zhcn="疯狂卡车(美)" collection="2"/>
+	<Game id="REXE01" en="Excite Truck" zhcn="疯狂卡车(美)" collection="竞速游戏"/>
 	<Game id="REXJ01" en="Excite Truck" zhcn="疯狂卡车(日)"/>
 	<Game id="REXP01" en="Excite Truck" zhcn="疯狂卡车(欧)"/>
-	<Game id="RX3E01" en="ExciteBots: Trick Racing" zhcn="激情漫游 特技竞速(美)" collection="done5"/>
+	<Game id="RX3E01" en="ExciteBots: Trick Racing" zhcn="激情漫游 特技竞速(美)" collection="竞速游戏"/>
 	<Game id="SRYEAF" en="ExerBeat: Gym Class Workout" zhcn="动感塑身派对(美)"/>
 	<Game id="SRYPAF" en="ExerBeat: Gym Class Workout" zhcn="动感塑身派对(欧)"/>
 	<Game id="SMNEEA" en="Extra Super Mario Bros. Wii All Stars" zhcn="Extra Super Mario Bros. Wii All Stars"/>
