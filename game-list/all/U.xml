@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Game-List>
-	<Game id="R58DMR" en="U-Sing" zhcn="你来唱[麦克风](德)"/>
-	<Game id="R58FMR" en="U-Sing" zhcn="你来唱[麦克风](法)"/>
-	<Game id="R58IMR" en="U-Sing" zhcn="U-Sing"/>
-	<Game id="R58PMR" en="U-Sing" zhcn="你来唱[麦克风](欧)"/>
-	<Game id="R58SMR" en="U-Sing" zhcn="你来唱[麦克风](西)"/>
-	<Game id="SU3FMR" en="U-Sing 2" zhcn="你来唱2[WiFi][麦克风](法)"/>
 	<Game id="SU3DMR" en="U-Sing 2" zhcn="你来唱2[WiFi][麦克风](德)"/>
+	<Game id="SU3FMR" en="U-Sing 2" zhcn="你来唱2[WiFi][麦克风](法)"/>
 	<Game id="SU3HMR" en="U-Sing 2" zhcn="你来唱2[WiFi][麦克风](欧)"/>
 	<Game id="SU3PMR" en="U-Sing 2" zhcn="你来唱2[WiFi][麦克风](欧)"/>
 	<Game id="SU3SMR" en="U-Sing 2" zhcn="你来唱2[WiFi][麦克风](西)"/>
 	<Game id="SU3UMR" en="U-Sing 2: Australian Edition" zhcn="你来唱2[WiFi][麦克风](欧)"/>
 	<Game id="SUSPMR" en="U-Sing Girls Night" zhcn="环球歌唱 女孩之夜(欧)"/>
 	<Game id="SUSFMR" en="U-Sing Johnny Hallyday" zhcn="环球歌唱 女孩之夜(法)"/>
+	<Game id="R58DMR" en="U-Sing" zhcn="你来唱[麦克风](德)"/>
+	<Game id="R58FMR" en="U-Sing" zhcn="你来唱[麦克风](法)"/>
+	<Game id="R58IMR" en="U-Sing" zhcn="U-Sing"/>
+	<Game id="R58PMR" en="U-Sing" zhcn="你来唱[麦克风](欧)"/>
+	<Game id="R58SMR" en="U-Sing" zhcn="你来唱[麦克风](西)"/>
 	<Game id="SU4E78" en="UFC Personal Trainer: The Ultimate Fitness System" zhcn="UFC 私人教练(美)" collection="U"/>
 	<Game id="SU4P78" en="UFC Personal Trainer: The Ultimate Fitness System" zhcn="UFC 私人教练[平衡板][Wi-Fi](欧)"/>
 	<Game id="RBTJ8P" en="Uchi Tsuri! Sega Bass Fishing" zhcn="钓鱼高手(日)"/>
@@ -24,22 +24,22 @@
 	<Game id="RS2E20" en="Ultimate Duck Hunting" zhcn="终极猎鸭(美)"/>
 	<Game id="RS2EGJ" en="Ultimate Duck Hunting" zhcn="终极猎鸭(美)" collection="U"/>
 	<Game id="RS2PGJ" en="Ultimate Duck Hunting" zhcn="终极猎鸭(欧)"/>
-	<Game id="RUZP5G" en="Ultimate I SPY" zhcn="终极间谍(欧)"/>
 	<Game id="RUZE7T" en="Ultimate I SPY" zhcn="终极间谍(美)" collection="U"/>
+	<Game id="RUZP5G" en="Ultimate I SPY" zhcn="终极间谍(欧)"/>
 	<Game id="RR3EA4" en="Ultimate Party Challenge" zhcn="终极聚会挑战(美)" collection="跳舞毯游戏"/>
 	<Game id="RKAE6K" en="Ultimate Shooting Collection" zhcn="卡拉斯Wii射击集锦(美)" collection="光枪游戏"/>
+	<Game id="RKAP6K" en="Ultimate Shooting Collection" zhcn=""/>
 	<Game id="SMNE32" en="Ultimate Super Luigi Wii" zhcn="Ultimate Super Luigi Wii"/>
-	<Game id="RUQP78" en="Up" zhcn="飞屋环游记(欧)"/>
-	<Game id="RUQI78" en="Up" zhcn="飞屋环游记(欧)"/>
-	<Game id="RUQE78" en="Up" zhcn="飞屋环游记(美)" collection="U"/>
 	<Game id="RUQD78" en="Up" zhcn="飞屋环游记(德)"/>
-	<Game id="RUQX78" en="Up" zhcn="飞屋环游记(欧)"/>
+	<Game id="RUQE78" en="Up" zhcn="飞屋环游记(美)" collection="U"/>
+	<Game id="RUQI78" en="Up" zhcn="飞屋环游记(欧)"/>
+	<Game id="RUQP78" en="Up" zhcn="飞屋环游记(欧)"/>
 	<Game id="RUQS78" en="Up" zhcn="飞屋环游记(西)"/>
+	<Game id="RUQX78" en="Up" zhcn="飞屋环游记(欧)"/>
 	<Game id="RUXPUG" en="Urban Extreme: Street Rage" zhcn="都市极限飚车 街道之怒(X)"/>
 	<Game id="RUXXUG" en="Urban Extreme: Street Rage" zhcn="都市极限飚车 街道之怒(X)"/>
 	<Game id="SUWE78" en="uDraw Studio" zhcn="天才小画家(美)" collection="3"/>
 	<Game id="SUWP78" en="uDraw Studio" zhcn="天才小画家(欧)"/>
 	<Game id="SUUE78" en="uDraw Studio: Instant Artist" zhcn="天才小画家 即时艺术家(美)" collection="U"/>
 	<Game id="SUUP78" en="uDraw Studio: Instant Artist" zhcn="天才小画家 即时艺术家(欧)"/>
-	<Game id="RKAP6K" en="Ultimate Shooting Collection" zhcn=""/>
 </Game-List>

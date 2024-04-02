@@ -10,27 +10,27 @@
 	<Game id="SEGP6V" en="Yoga" zhcn="瑜伽(欧)" collection="3"/>
 	<Game id="SG8EG9" en="Yogi Bear" zhcn="瑜伽熊(美)" collection="Y"/>
 	<Game id="SG8PAF" en="Yogi Bear: The Video Game" zhcn="瑜珈熊(欧)"/>
-	<Game id="RMCEY9" en="Yosh's Track Pack" zhcn="Yosh's Track Pack"/>
 	<Game id="RMCEYT" en="Yosh's Track Pack DX" zhcn="Yosh's Track Pack DX"/>
+	<Game id="RMCEY9" en="Yosh's Track Pack" zhcn="Yosh's Track Pack"/>
 	<Game id="SSQE06" en="Yoshi Party" zhcn="Yoshi Party"/>
-	<Game id="RMCEY3" en="Yoshi's Racing Resort" zhcn="Yoshi's Racing Resort"/>
-	<Game id="RMCKYP" en="Yoshi's Racing Resort Plus" zhcn="耀西赛车度假村Plus(韩)"/>
-	<Game id="RMCJYP" en="Yoshi's Racing Resort Plus" zhcn="耀西赛车度假村Plus(日)"/>
 	<Game id="RMCEYP" en="Yoshi's Racing Resort Plus" zhcn="耀西赛车度假村Plus(美)"/>
+	<Game id="RMCJYP" en="Yoshi's Racing Resort Plus" zhcn="耀西赛车度假村Plus(日)"/>
+	<Game id="RMCKYP" en="Yoshi's Racing Resort Plus" zhcn="耀西赛车度假村Plus(韩)"/>
 	<Game id="RMCPYC" en="Yoshi's Racing Resort Plus" zhcn="Yoshi's Racing Resort Plus"/>
 	<Game id="RMCPYP" en="Yoshi's Racing Resort Plus" zhcn="耀西赛车度假村Plus(欧)"/>
 	<Game id="RMCRYP" en="Yoshi's Racing Resort Plus" zhcn="Yoshi's Racing Resort Plus"/>
+	<Game id="RMCEY3" en="Yoshi's Racing Resort" zhcn="Yoshi's Racing Resort"/>
 	<Game id="SKJE78" en="You Don't Know Jack" zhcn="死亡医生(美)" collection="Y"/>
 	<Game id="SMNEYM" en="You Super Mario Bros. Me Summer Special" zhcn="You Super Mario Bros. Me Summer Special"/>
 	<Game id="SMNJYM" en="You Super Mario Bros. Me Summer Special" zhcn="You Super Mario Bros. Me Summer Special"/>
 	<Game id="SMNPYM" en="You Super Mario Bros. Me Summer Special" zhcn="You Super Mario Bros. Me Summer Special"/>
-	<Game id="RYRP41" en="Your Shape" zhcn="你的塑身(欧)"/>
 	<Game id="RYRE41" en="Your Shape" zhcn="你的塑身(美)" collection="3"/>
-	<Game id="R8DJA4" en="Yu-Gi-Oh! 5D's: Duel Transer" zhcn="游戏王5D's 决斗狂热者(日或中)" collection="中文游戏"/>
+	<Game id="RYRP41" en="Your Shape" zhcn="你的塑身(欧)"/>
 	<Game id="R8DEA4" en="Yu-Gi-Oh! 5D's: Duel Transer" zhcn="游戏王5D's 决斗狂热者[WiFi](美)"/>
+	<Game id="R8DJA4" en="Yu-Gi-Oh! 5D's: Duel Transer" zhcn="游戏王5D's 决斗狂热者(日或中)" collection="中文游戏"/>
 	<Game id="R8DPA4" en="Yu-Gi-Oh! 5D's: Master of the Cards" zhcn="游戏王5D's 决斗狂热者[WiFi](欧)"/>
 	<Game id="RYOEA4" en="Yu-Gi-Oh! 5D's: Wheelie Breakers" zhcn="游戏王5D's 破碎转轮(美)"/>
-	<Game id="RYOPA4" en="Yu-Gi-Oh! 5D's: Wheelie Breakers" zhcn="游戏王5D's 破碎转轮(欧)"/>
 	<Game id="RYOJA4" en="Yu-Gi-Oh! 5D's: Wheelie Breakers" zhcn="游戏王5D's 骑乘决斗者(日或中)" collection="中文游戏"/>
+	<Game id="RYOPA4" en="Yu-Gi-Oh! 5D's: Wheelie Breakers" zhcn="游戏王5D's 破碎转轮(欧)"/>
 	<Game id="RSZJES" en="Yukinko Daisenpuu: Sayuki to Koyuki no Hie Hie Daisoudou" zhcn="雪女大旋风纱雪小雪的惊奇大骚动(日)"/>
 </Game-List>
