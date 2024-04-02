@@ -5,10 +5,11 @@
 	<Game id="SDJJAF" en="SD Gundam: GGeneration World" zhcn="SD高达G世代：新世界(日)"/>
 	<Game id="SD9JAF" en="SD Gundam: Gashapon Wars" zhcn="SD高达 扭蛋战争(日)"/>
 	<Game id="RSDJAF" en="SD Gundam: Scad Hammers" zhcn="SD高达 疾速流星锤(日)" collection="5"/>
-	<Game id="RT5E8P" en="SEGA Superstars Tennis" zhcn="世嘉超级明星网球(美)" collection="S"/>
-	<Game id="RT5P8P" en="SEGA Superstars Tennis" zhcn="世嘉超级明星网球(欧)" collection="运动游戏 乒乓球和网球"/>
+	<Game id="RT5E8P" en="Sega Superstars Tennis" zhcn="世嘉超级明星网球(美)" collection="S"/>
+	<Game id="RT5P8P" en="Sega Superstars Tennis" zhcn="世嘉超级明星网球(欧)" collection="运动游戏 乒乓球和网球"/>
 	<Game id="RNCEH4" en="SNK Arcade Classics Volume 1" zhcn="SNK街机经典Vol1(美)" collection="街机游戏"/>
 	<Game id="RJZP7U" en="SNK Arcade Classics Volume 1" zhcn="SNK街机经典Vol1(欧)"/>
+	<Game id="RNCPH4" en="SNK Arcade Classics Volume 1" zhcn=""/>
 	<Game id="RMGE64" en="SPG64 IN SMG!" zhcn="SPG64 IN SMG!"/>
 	<Game id="RYIPNK" en="SPRay" zhcn="涂鸦王子(欧)"/>
 	<Game id="RYIE9B" en="SPRay" zhcn="涂鸦王子(美)" collection="S"/>
@@ -294,14 +295,15 @@
 	<Game id="RVJPFR" en="So Blonde: Back to the Island" zhcn="金发美女 回到小岛(欧)"/>
 	<Game id="RSOP4Z" en="Solitaire &amp; Mahjong" zhcn="纸牌麻将游戏专辑(欧)"/>
 	<Game id="RSOE4Z" en="Solitaire &amp; Mahjong" zhcn="纸牌麻将游戏专辑(美)" collection="3"/>
-	<Game id="R3RP8P" en="Sonic &amp; SEGA All-Stars Racing" zhcn="索尼克与世嘉全明星赛车(欧)" collection="5"/>
-	<Game id="R3RE8P" en="Sonic &amp; SEGA All-Stars Racing" zhcn="索尼克与世嘉全明星赛车(美)" collection="done2"/>
+	<Game id="R3RP8P" en="Sonic &amp; Sega All-Stars Racing" zhcn="索尼克与世嘉全明星赛车(欧)" collection="5"/>
+	<Game id="R3RE8P" en="Sonic &amp; Sega All-Stars Racing" zhcn="索尼克与世嘉全明星赛车(美)" collection="done2"/>
 	<Game id="SNCE8P" en="Sonic Colors" zhcn="索尼克 五彩缤纷(美)" collection="done2"/>
 	<Game id="SNCJ8P" en="Sonic Colors" zhcn="索尼克 五彩缤纷(日)" collection="done2"/>
 	<Game id="SCUE8P" en="Sonic Colors: Ultimate" zhcn="Sonic Colors: Ultimate"/>
 	<Game id="SNCP8P" en="Sonic Colours" zhcn="索尼克 五彩缤纷[WiFi](欧)"/>
 	<Game id="GDXE8P" en="Sonic Riders DX" zhcn="Sonic Riders DX"/>
 	<Game id="GXTE8P" en="Sonic Riders Tournament Edition" zhcn="Sonic Riders Tournament Edition"/>
+	<Game id="GXSRTE" en="Sonic Riders Tournament Edition" zhcn="Sonic Riders Tournament Edition"/>
 	<Game id="SRZE8P" en="Sonic Riders: Regravitified" zhcn="Sonic Riders: Regravitified"/>
 	<Game id="RS9J8P" en="Sonic Riders: Shooting Star Story" zhcn="索尼克滑板 失重[WiFi](日)"/>
 	<Game id="RS9P8P" en="Sonic Riders: Zero Gravity" zhcn="索尼克滑板 失重[WiFi](欧)"/>
@@ -338,18 +340,18 @@
 	<Game id="R3PPWR" en="Speed Racer: The Videogame" zhcn="极速赛车手(欧)"/>
 	<Game id="RZSEGJ" en="Speed Zone" zhcn="极速地带(美)" collection="S"/>
 	<Game id="SPBPGT" en="Spellbound Party" zhcn="魅力聚会(欧)"/>
-	<Game id="RS3E52" en="Spider-Man 3" zhcn="蜘蛛侠3(美)" collection="影视IP游戏 漫威"/>
+	<Game id="RS3E52" en="Spider-Man 3" zhcn="蜘蛛侠3(美)" collection="美国影视IP游戏"/>
 	<Game id="RS3J52" en="Spider-Man 3" zhcn="蜘蛛侠3(日)"/>
 	<Game id="RS3P52" en="Spider-Man 3" zhcn="蜘蛛侠3(欧)"/>
 	<Game id="RS3X52" en="Spider-Man 3" zhcn="蜘蛛侠3(X)"/>
-	<Game id="SQME52" en="Spider-Man: Edge of Time" zhcn="蜘蛛侠 时间边缘(美)" collection="影视IP游戏 漫威"/>
+	<Game id="SQME52" en="Spider-Man: Edge of Time" zhcn="蜘蛛侠 时间边缘(美)" collection="美国影视IP游戏"/>
 	<Game id="SQMP52" en="Spider-Man: Edge of Time" zhcn="蜘蛛人 时间裂痕(欧)"/>
 	<Game id="RFOX52" en="Spider-Man: Friend or Foe" zhcn="蜘蛛侠 敌友难辨(X)"/>
 	<Game id="RFOP52" en="Spider-Man: Friend or Foe" zhcn="蜘蛛侠 敌友难辨(欧)"/>
-	<Game id="RFOE52" en="Spider-Man: Friend or Foe" zhcn="蜘蛛侠 敌友难辨(美)" collection="影视IP游戏 漫威"/>
+	<Game id="RFOE52" en="Spider-Man: Friend or Foe" zhcn="蜘蛛侠 敌友难辨(美)" collection="美国影视IP游戏"/>
 	<Game id="SPDP52" en="Spider-Man: Shattered Dimensions" zhcn="蜘蛛侠 破碎时空(欧)"/>
-	<Game id="SPDE52" en="Spider-Man: Shattered Dimensions" zhcn="蜘蛛侠 破碎时空(美)" collection="影视IP游戏 漫威"/>
-	<Game id="R3SE52" en="Spider-Man: Web of Shadows" zhcn="蜘蛛侠 影之网(美)" collection="影视IP游戏 漫威"/>
+	<Game id="SPDE52" en="Spider-Man: Shattered Dimensions" zhcn="蜘蛛侠 破碎时空(美)" collection="美国影视IP游戏"/>
+	<Game id="R3SE52" en="Spider-Man: Web of Shadows" zhcn="蜘蛛侠 影之网(美)" collection="美国影视IP游戏"/>
 	<Game id="R3SP52" en="Spider-Man: Web of Shadows" zhcn="蜘蛛侠 影之网(欧)"/>
 	<Game id="SB4E10" en="Spinless Mario Galaxy 2" zhcn="Spinless Mario Galaxy 2"/>
 	<Game id="SLPP5D" en="Spirit of the Wolf" zhcn="狼的精神(欧)"/>
@@ -386,6 +388,7 @@
 	<Game id="RDLP70" en="Spy Fox In Dry Cereal" zhcn="狐狸侦探智救人质(欧)"/>
 	<Game id="RDLE5G" en="Spy Fox in Dry Cereal" zhcn="狐狸侦探智救人质(美)" collection="S"/>
 	<Game id="RECE6K" en="Spy Games: Elevator Mission" zhcn="间谍游戏 电梯任务(美)" collection="S"/>
+	<Game id="RECP6K" en="Spy Games: Elevator Mission" zhcn=""/>
 	<Game id="RMCE77" en="SpyKid's CT Pack" zhcn="SpyKid's CT Pack"/>
 	<Game id="RSWP08" en="Spyborgs" zhcn="生化间谍(欧)"/>
 	<Game id="RSWE08" en="Spyborgs" zhcn="生化间谍(美)" collection="S"/>
@@ -535,6 +538,7 @@
 	<Game id="SSQE02" en="Super Isaiah Party" zhcn="Super Isaiah Party"/>
 	<Game id="SN6PNG" en="Super Karts" zhcn="急速赛车 超级卡丁车(欧)"/>
 	<Game id="SLNE01" en="Super Luigi Land Wii" zhcn="Super Luigi Land Wii"/>
+	<Game id="SMNE30" en="Super Luigi Land Wii" zhcn=""/>
 	<Game id="GLSE01" en="Super Luigi Sunshine" zhcn="Super Luigi Sunshine"/>
 	<Game id="SVME01" en="Super Mario All-Stars" zhcn="超级马里奥25周年纪念包(美)" collection="S"/>
 	<Game id="SVMP01" en="Super Mario All-Stars: 25th Anniversary Edition" zhcn="超级马里奥25周年纪念包(欧)"/>
@@ -661,6 +665,8 @@
 	<Game id="G01J01" en="Super Smash Bros. Melee: SD Remix" zhcn="Super Smash Bros. Melee: SD Remix"/>
 	<Game id="G01P01" en="Super Smash Bros. Melee: SD Remix" zhcn="Super Smash Bros. Melee: SD Remix"/>
 	<Game id="G01E01" en="Super Smash Bros. Melee: SD Remix" zhcn="Super Smash Bros. Melee: SD Remix"/>
+	<Game id="RSBEPL" en="Super Smash Bros. Project+" zhcn="Super Smash Bros. Project+"/>
+	<Game id="RSBERX" en="Super Smash Bros. PMEX REMIX" zhcn="Super Smash Bros. PMEX REMIX"/>
 	<Game id="RSBE36" en="Super Smash Bros. Project Best" zhcn="Super Smash Bros. Project Best"/>
 	<Game id="RSBELX" en="Super Smash Bros. Project Lx" zhcn="Super Smash Bros. Project Lx"/>
 	<Game id="RSBEPM" en="Super Smash Bros. Project M" zhcn="Super Smash Bros. Project M"/>
@@ -721,4 +727,8 @@
 	<Game id="R2PJ9B" en="Swing Golf Pangya 2nd Shot!" zhcn="魔法飞球2(日)"/>
 	<Game id="SSZE5G" en="Swords" zhcn="剑(美)" collection="1"/>
 	<Game id="RMCESR" en="S☆Ris CT Pack" zhcn="S☆Ris CT Pack"/>
+	<Game id="SMNECC" en="Super Mario and the Cliffs of Spring" zhcn="Super Mario and the Cliffs of Spring"/>
+	<Game id="SMNEES" en="Super Luigi Wii: The Emissary" zhcn="Super Luigi Wii: The Emissary"/>
+	<Game id="SMNEOY" en="Super Mario Snowy Season" zhcn="Super Mario Snowy Season"/>
+	<Game id="SMNP30" en="Super Luigi Land Wii" zhcn="Super Luigi Land Wii"/>
 </Game-List>

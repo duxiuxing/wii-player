@@ -76,8 +76,8 @@
 	<Game id="R9JE69" en="The Beatles: Rock Band" zhcn="甲壳虫乐队 摇滚乐团(美)" collection="乐队游戏"/>
 	<Game id="RX6E78" en="The Biggest Loser" zhcn="减肥达人(美)" collection="2"/>
 	<Game id="RX6P78" en="The Biggest Loser" zhcn="减肥达人[平衡板](欧)"/>
-	<Game id="ST6E78" en="The Biggest Loser Challenge" zhcn="减肥达人挑战赛(美)" path="健身系列\减肥达人挑战赛(美) [ST6E78]"/>
-	<Game id="ST6P78" en="The Biggest Loser Challenge" zhcn="减肥达人挑战赛(欧)" path="健身系列\减肥达人挑战赛(欧) [ST6P78]"/>
+	<Game id="ST6E78" en="The Biggest Loser Challenge" zhcn="减肥达人挑战赛(美)"/>
+	<Game id="ST6P78" en="The Biggest Loser Challenge" zhcn="减肥达人挑战赛[平衡板](欧)"/>
 	<Game id="RBGP54" en="The Bigs" zhcn="职业棒球联赛(欧)"/>
 	<Game id="RKVP54" en="The Bigs 2: Baseball" zhcn="大棒球联盟2(欧)"/>
 	<Game id="SEPP41" en="The Black Eyed Peas Experience" zhcn="黑眼豆豆大体验(欧)"/>
@@ -119,7 +119,7 @@
 	<Game id="RYNE6U" en="The Hardy Boys: The Hidden Theft" zhcn="哈迪男孩 隐藏的盗窃(美)"/>
 	<Game id="RYNP6V" en="The Hardy Boys: The Hidden Theft" zhcn="哈迪男孩 隐藏的盗窃(欧)"/>
 	<Game id="SUOP41" en="The Hip Hop Dance Experience" zhcn="The Hip Hop Dance Experience"/>
-	<Game id="SUOE41" en="The Hip Hop Dance Experience" zhcn="The Hip Hop Dance Experience"/>
+	<Game id="SUOE41" en="The Hip Hop Dance Experience" zhcn="嘻哈舞蹈生涯(美)"/>
 	<Game id="RHCP52" en="The History Channel: Battle for the Pacific" zhcn="历史频道 太平洋战争(欧)"/>
 	<Game id="RHCE52" en="The History Channel: Battle for the Pacific" zhcn="历史频道 太平洋战争(美)"/>
 	<Game id="RHD222" en="The House of the Dead 2" zhcn="自制 死亡之屋2(自)"/>
@@ -204,7 +204,7 @@
 	<Game id="R42P69" en="The Sims 2: Castaway" zhcn="模拟人生2 生存游戏(欧)"/>
 	<Game id="R4PE69" en="The Sims 2: Pets" zhcn="模拟人生2 宠物(美)" collection="done2"/>
 	<Game id="R4PP69" en="The Sims 2: Pets" zhcn="模拟人生2 宠物(欧)"/>
-	<Game id="S3MP69" en="The Sims 3" zhcn="模拟人生3(欧)"/>
+	<Game id="S3MP69" en="The Sims™ 3" zhcn="模拟人生3(欧)"/>
 	<Game id="S3ME69" en="The Sims 3" zhcn="模拟人生3(美)"/>
 	<Game id="RQRPAF" en="The Sky Crawlers: Innocent Aces" zhcn="空中杀手 无罪王牌(欧)"/>
 	<Game id="RQREXJ" en="The Sky Crawlers: Innocent Aces" zhcn="空中杀手 无瑕王牌(美或中)" collection="中文游戏"/>
@@ -374,5 +374,10 @@
 	<Game id="S3RJMS" en="Twinkle Queen" zhcn="一闪女皇(日)" collection="T"/>
 	<Game id="RXVXWP" en="Télé 7 Jeux: Mots Croisés" zhcn="填字游戏(X)"/>
 	<Game id="RJ7FWP" en="Télé 7 Jeux: Mots Fléchés" zhcn="电视7游戏 法语填字游戏(法)"/>
-	<Game id="RJ9E5Z" en="thinkSMART Family" zhcn="智能家庭(美)"/>
+	<Game id="RJ9E5Z" en="Think Logic Trainer" zhcn="Think Logic Trainer"/>
+	<Game id="RGDPA4" en="Target: Terror" zhcn=""/>
+	<Game id="RH8X4F" en="Tomb Raider: Underworld" zhcn=""/>
+	<Game id="RLEPFS" en="Ten Pin Alley 2" zhcn=""/>
+	<Game id="RUUK01" en="Tauneuro Nolleogayo - Dongmurui Sup" zhcn="动物之森 城市大家庭(韩)"/>
+	<Game id="SOCE02" en="The Legend Of Custom Levels" zhcn=""/>
 </Game-List>
