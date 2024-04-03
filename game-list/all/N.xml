@@ -238,10 +238,10 @@
 	<Game id="SMNP38" en="New Super Mario Bros. Wii Underground Maze" zhcn="New Super Mario Bros. Wii Underground Maze"/>
 	<Game id="SMNEWI" en="New Super Mario Bros. Wii Winter Edition" zhcn="New Super Mario Bros. Wii Winter Edition"/>
 	<Game id="SMNC01" en="New Super Mario Bros. Wii" zhcn="自制 新超级马里奥兄弟Wii(中)"/>
-	<Game id="SMNE01" en="New Super Mario Bros. Wii" zhcn="新超级马里奥兄弟Wii(美)"/>
+	<Game id="SMNE01" en="New Super Mario Bros. Wii" zhcn="新超级马里奥兄弟Wii(美)" collection="超级马里奥系列"/>
 	<Game id="SMNK01" en="New Super Mario Bros. Wii" zhcn="新超级马里奥兄弟Wii(韩)"/>
 	<Game id="SMNP01" en="New Super Mario Bros. Wii" zhcn="新超级马里奥兄弟Wii(欧)"/>
-	<Game id="SMNW01" en="New Super Mario Bros. Wii" zhcn="新超级马里奥兄弟Wii(中)" collection="超级马里奥兄弟系列"/>
+	<Game id="SMNW01" en="New Super Mario Bros. Wii" zhcn="新超级马里奥兄弟Wii(中)" collection="超级马里奥系列"/>
 	<Game id="HBWE01" en="New Super Mario Bros. Wii: Hellboy Edition" zhcn="自制 超级马里奥兄弟Wii 地狱男爵版(美)" collection="N"/>
 	<Game id="SMNE14" en="New Super Mario Bros. Wii: Pain Coins" zhcn="New Super Mario Bros. Wii: Pain Coins"/>
 	<Game id="SMNJ14" en="New Super Mario Bros. Wii: Pain Coins" zhcn="New Super Mario Bros. Wii: Pain Coins"/>
