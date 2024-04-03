@@ -80,7 +80,7 @@
 	<Game id="SCAP18" en="Calling" zhcn="鬼铃 黑暗来电(欧)"/>
 	<Game id="RVNE20" en="Calvin Tucker's Redneck Jamboree" zhcn="凯文塔克的乡巴佬露营会(美)" collection="C"/>
 	<Game id="RVNP7J" en="Calvin Tucker's Redneck Jamboree" zhcn="凯文塔克的乡巴佬露营会(欧)"/>
-	<Game id="SCGE20" en="Calvin Tucker's Redneck: Farm Animal Racing Tournament" zhcn="凯文塔克的乡村狂欢 农场动物赛车锦标赛(美)" collection="C"/>
+	<Game id="SCGE20" en="Calvin Tucker's Redneck: Farm Animal Racing Tournament" zhcn="凯文塔克的乡村狂欢 农场动物赛车锦标赛(美)" collection="竞速游戏"/>
 	<Game id="SCGPXT" en="Calvin Tucker's: Farm Animals Racing Tournament" zhcn="Calvin Tucker's: Farm Animals Racing Tournament"/>
 	<Game id="RMCET7" en="Cam, Tom And Troy's CT Pack" zhcn="Cam, Tom And Troy's CT Pack"/>
 	<Game id="RMCE75" en="Cam, Tom and Troy's CTGP Pack" zhcn="Cam, Tom and Troy's CTGP Pack"/>
@@ -89,7 +89,7 @@
 	<Game id="SMNE04" en="Cannon Super Mario Bros. Wii" zhcn="Cannon Super Mario Bros. Wii"/>
 	<Game id="SMNJ04" en="Cannon Super Mario Bros. Wii" zhcn="Cannon Super Mario Bros. Wii"/>
 	<Game id="SMNP04" en="Cannon Super Mario Bros. Wii" zhcn="Cannon Super Mario Bros. Wii"/>
-	<Game id="SFQE8P" en="Captain America: Super Soldier" zhcn="美国队长 超级士兵(美)" collection="美国影视IP游戏"/>
+	<Game id="SFQE8P" en="Captain America: Super Soldier" zhcn="美国队长 超级士兵(美)" collection="影视IP游戏 美国"/>
 	<Game id="SFQP8P" en="Captain America: Super Soldier" zhcn="美国队长 超级士兵(欧)"/>
 	<Game id="SMNEZT" en="Captain Bowser's Revenge" zhcn="Captain Bowser's Revenge"/>
 	<Game id="SMNJZT" en="Captain Bowser's Revenge" zhcn="Captain Bowser's Revenge"/>
@@ -102,23 +102,23 @@
 	<Game id="RCGP54" en="Carnival Games" zhcn="嘉年华游戏(欧)"/>
 	<Game id="RG9E54" en="Carnival Games: Mini Golf" zhcn="嘉年华游戏 迷你高尔夫(美)" collection="运动游戏"/>
 	<Game id="RG9P54" en="Carnival Games: Mini Golf" zhcn="嘉年华游戏 迷你高尔夫(欧)"/>
-	<Game id="SCYE4Q" en="Cars 2" zhcn="汽车总动员2(美)" collection="美国影视IP游戏"/>
+	<Game id="SCYE4Q" en="Cars 2" zhcn="汽车总动员2(美)" collection="影视IP游戏 美国"/>
 	<Game id="SCYP4Q" en="Cars 2" zhcn="汽车总动员2(欧)"/>
 	<Game id="SCYR4Q" en="Cars 2" zhcn="Cars 2"/>
 	<Game id="SCYX4Q" en="Cars 2" zhcn="汽车总动员2(X)"/>
 	<Game id="SCYY4Q" en="Cars 2" zhcn="汽车总动员2(Y)"/>
 	<Game id="SCYZ4Q" en="Cars 2" zhcn="汽车总动员2(Z)"/>
-	<Game id="R6OE78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(美)" collection="美国影视IP游戏"/>
+	<Game id="R6OE78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(美)" collection="影视IP游戏 美国"/>
 	<Game id="R6OP78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(欧)"/>
 	<Game id="R6OX78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(X)"/>
-	<Game id="STOE4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(美)" collection="美国影视IP游戏"/>
+	<Game id="STOE4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(美)" collection="影视IP游戏 美国"/>
 	<Game id="STOP4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(欧)"/>
 	<Game id="STOX4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(X)"/>
-	<Game id="RCAE78" en="Cars" zhcn="汽车总动员(美)" collection="美国影视IP游戏"/>
+	<Game id="RCAE78" en="Cars" zhcn="汽车总动员(美)" collection="影视IP游戏 美国"/>
 	<Game id="RCAP78" en="Cars" zhcn="汽车总动员(欧)"/>
 	<Game id="RCAX78" en="Cars" zhcn="汽车总动员(X)"/>
 	<Game id="RCAY78" en="Cars" zhcn="汽车总动员(Y)"/>
-	<Game id="RC2E78" en="Cars: Mater-National Championship" zhcn="汽车总动员 全国汽车大赛(美)" collection="美国影视IP游戏"/>
+	<Game id="RC2E78" en="Cars: Mater-National Championship" zhcn="汽车总动员 全国汽车大赛(美)" collection="影视IP游戏 美国"/>
 	<Game id="RC2P78" en="Cars: Mater-National Championship" zhcn="汽车总动员 全国汽车大赛(欧)"/>
 	<Game id="RC2X78" en="Cars: Mater-National" zhcn="汽车总动员 全国汽车大赛(X)"/>
 	<Game id="RC2Y78" en="Cars: Mater-National" zhcn="汽车总动员 全国汽车大赛(Y)"/>
@@ -190,7 +190,7 @@
 	<Game id="SCLE01" en="Cliff Super Mario Bros. Wii" zhcn="Cliff Super Mario Bros. Wii"/>
 	<Game id="SCLJ01" en="Cliff Super Mario Bros. Wii" zhcn="Cliff Super Mario Bros. Wii"/>
 	<Game id="SCLP01" en="Cliff Super Mario Bros. Wii" zhcn="Cliff Super Mario Bros. Wii"/>
-	<Game id="ROYE41" en="Cloudy with a Chance of Meatballs" zhcn="天降美食(美)" collection="影视IP游戏"/>
+	<Game id="ROYE41" en="Cloudy with a Chance of Meatballs" zhcn="天降美食(美)" collection="影视IP游戏 美国"/>
 	<Game id="ROYP41" en="Cloudy with a Chance of Meatballs" zhcn="天降美食(欧)"/>
 	<Game id="ROYX41" en="Cloudy with a Chance of Meatballs" zhcn="天降美食(X)"/>
 	<Game id="R59E4Q" en="Club Penguin: Game Day!" zhcn="企鹅俱乐部 游戏日(美)" collection="C"/>

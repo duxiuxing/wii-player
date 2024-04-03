@@ -9,7 +9,7 @@
 	<Game id="S5BPKM" en="Back to the Future: The Game" zhcn="回到未来(欧)" same-as="S5BETL"/>
 	<Game id="RB8E70" en="Backyard Baseball '09" zhcn="后院棒球09(美)" collection="运动游戏 棒球"/>
 	<Game id="RXBE70" en="Backyard Baseball '10" zhcn="后院棒球10(美)" collection="运动游戏 棒球"/>
-	<Game id="RQQE70" en="Backyard Football '09" zhcn="后院橄榄球2009(美)" collection="运动游戏 橄榄球"/>
+	<Game id="RQQE70" en="Backyard Football '09" zhcn="后院橄榄球09(美)" collection="运动游戏 橄榄球"/>
 	<Game id="SBFE70" en="Backyard Football '10" zhcn="后院橄榄球10(美)" collection="运动游戏 橄榄球"/>
 	<Game id="RFTE70" en="Backyard Football" zhcn="后院橄榄球(美)" collection="运动游戏 橄榄球"/>
 	<Game id="SFBE70" en="Backyard Sports Football: Rookie Rush" zhcn="后院运动 菜鸟向前冲(美)" collection="运动游戏 橄榄球"/>
@@ -45,7 +45,7 @@
 	<Game id="SB9P78" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(欧)"/>
 	<Game id="SB9X78" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(X)"/>
 	<Game id="SB9YVZ" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(Y)" same-as="SB9E78"/>
-	<Game id="RBYE78" en="Barnyard" zhcn="疯狂农庄(美)"/>
+	<Game id="RBYE78" en="Barnyard" zhcn="疯狂农庄(美)" collection="B"/>
 	<Game id="RBYP78" en="Barnyard" zhcn="疯狂农庄(欧)"/>
 	<Game id="RBYJ78" en="Barnyard: Shuyaku wa Ore, Ushi" zhcn="疯狂农庄(日)"/>
 	<Game id="ROQJEP" en="Baroque for Wii" zhcn="巴洛克(日)"/>
@@ -72,13 +72,13 @@
 	<Game id="SVBE52" en="Battleship" zhcn="战舰(美)" collection="策略游戏"/>
 	<Game id="SVBP52" en="Battleship" zhcn="战舰(欧)"/>
 	<Game id="RV8E20" en="Beach Fun: Summer Challenge" zhcn="夏日海滩趣味挑战(美)" collection="运动游戏 运动会"/>
-	<Game id="RV8PRT" en="Beach Fun: Summer Challenge" zhcn="夏日海滩趣味挑战(欧)" collection="运动游戏 运动会"/>
+	<Game id="RV8PRT" en="Beach Fun: Summer Challenge" zhcn="夏日海滩趣味挑战(欧)" v/>
 	<Game id="RMCERB" en="Bear Kart Wii" zhcn="Bear Kart Wii"/>
 	<Game id="SLYESZ" en="Beastly" zhcn="丑恶人生(美)" collection="影视IP游戏"/>
 	<Game id="SLYPNJ" en="Beastly" zhcn="丑恶人生(欧)" same-as="SLYESZ"/>
 	<Game id="SOMP01" en="Beat the Beat: Rhythm Paradise" zhcn="大家的节奏天国(欧)"/>
 	<Game id="SOMR01" en="Beat the Beat: Rhythm Paradise" zhcn="大家的节奏天国(俄)"/>
-	<Game id="RBEE52" en="Bee Movie Game" zhcn="蜜蜂总动员(美)"/>
+	<Game id="RBEE52" en="Bee Movie Game" zhcn="蜜蜂总动员(美)" collection="影视IP游戏 美国"/>
 	<Game id="RBEP52" en="Bee Movie Game" zhcn="蜜蜂总动员(欧)"/>
 	<Game id="RBEX52" en="Bee Movie Game" zhcn="蜜蜂总动员(X)"/>
 	<Game id="SBNEG9" en="Ben 10: Alien Force Vilgax Attacks" zhcn="少年骇客 外星英雄之魔贾斯的袭击(美)" collection="美国影视IP游戏"/>
@@ -119,8 +119,8 @@
 	<Game id="RN7P78" en="Big Family Games" zhcn="邻居间的游戏(欧)" collection="运动游戏 运动会"/>
 	<Game id="RLQE52" en="Big League Sports" zhcn="大联盟运动(美)" collection="运动游戏 运动会"/>
 	<Game id="RY5E52" en="Big League Sports: Summer" zhcn="夏日运动大联盟(美)" collection="运动游戏 运动会"/>
-	<Game id="SVCEPZ" en="Big Time Rush: Dance Party" zhcn="Big Time Rush: Dance Party"/>
-	<Game id="SVCPXT" en="Big Time Rush: Dance Party" zhcn="Big Time Rush: Dance Party"/>
+	<Game id="SVCEPZ" en="Big Time Rush: Dance Party" zhcn="狂欢舞会(美)" same-as="SVCPXT" collection="舞力全开 衍生系列"/>
+	<Game id="SVCPXT" en="Big Time Rush: Dance Party" zhcn="狂欢舞会(欧)"/>
 	<Game id="RVFE20" en="Bigfoot: Collision Course" zhcn="大脚车 碰撞航向(美)" collection="B"/>
 	<Game id="RVFP7J" en="Bigfoot: Collision Course" zhcn="大脚车 碰撞航向(欧)" same-as="RVFE20"/>
 	<Game id="SKCE20" en="Bigfoot: King of Crush" zhcn="大脚车 压碎王(美)" collection="B"/>
@@ -204,7 +204,7 @@
 	<Game id="RB9Y78" en="Bratz: The Movie" zhcn="贝兹娃娃电影版(Y)"/>
 	<Game id="RWXES5" en="Brave: A Warrior's Tale" zhcn="印第安武士 一个勇士的传说(美)" collection="B"/>
 	<Game id="RWXPS5" en="Brave: A Warrior's Tale" zhcn="印第安武士 一个勇士的传说(欧)"/>
-	<Game id="S6BE4Q" en="Brave: The Video Game" zhcn="勇敢传说(美)"/>
+	<Game id="S6BE4Q" en="Brave: The Video Game" zhcn="勇敢传说(美)" collection="影视IP游戏 美国"/>
 	<Game id="S6BP4Q" en="Brave: The Video Game" zhcn="勇敢传说(欧)"/>
 	<Game id="S6BX4Q" en="Brave: The Video Game" zhcn="勇敢传说(欧)"/>
 	<Game id="S6BY4Q" en="Brave: The Video Game" zhcn="Brave: The Video Game"/>

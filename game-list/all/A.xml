@@ -21,11 +21,11 @@
 	<Game id="RN4P41" en="ANNO: Create a New World" zhcn="创造新世纪(欧)"/>
 	<Game id="ATGE02" en="ATG's CT Pack" zhcn="ATG's CT Pack"/>
 	<Game id="SH7PNJ" en="ATV Fever" zhcn="狂热本田沙滩车(欧)"/>
-	<Game id="R47E20" en="ATV Quad Kings" zhcn="ATV沙滩车之王(美)" collection="A"/>
+	<Game id="R47E20" en="ATV Quad Kings" zhcn="ATV沙滩车之王(美)" collection="竞速游戏"/>
 	<Game id="R47P20" en="ATV Quad Kings" zhcn="ATV沙滩车之王(欧)"/>
 	<Game id="R5FP41" en="Academy of Champions: Football" zhcn="冠军学院 足球(欧)"/>
 	<Game id="R5FE41" en="Academy of Champions: Soccer" zhcn="冠军学院 足球(美)" collection="运动游戏 足球"/>
-	<Game id="RGYE5Z" en="Action Girlz Racing" zhcn="美女卡丁车(美)" collection="A"/>
+	<Game id="RGYE5Z" en="Action Girlz Racing" zhcn="美女卡丁车(美)" collection="竞速游戏"/>
 	<Game id="RGYPUG" en="Action Girlz Racing" zhcn="美女卡丁车(欧)"/>
 	<Game id="S2AEAF" en="Active Life: Explorer" zhcn="活力生活 探险家(美)" collection="训练毯游戏"/>
 	<Game id="REJEAF" en="Active Life: Extreme Challenge" zhcn="活力生活 极限挑战(美)" collection="训练毯游戏"/>
@@ -45,10 +45,10 @@
 	<Game id="RHGX6Z" en="Agent Hugo: Lemoon Twist" zhcn="特工雨果 柠檬榨汁(X)"/>
 	<Game id="RHPJ8N" en="Akko de Pon! Ikasama Hourou-ki" zhcn="欺诈流浪记(日)"/>
 	<Game id="RDGJA4" en="Akumajou Dracula Judgment" zhcn="恶魔城 审判(日)"/>
-	<Game id="SARE4Z" en="Aladdin Magic Racer" zhcn="阿拉丁魔毯竞速(美)" collection="平衡板游戏"/>
+	<Game id="SARE4Z" en="Aladdin Magic Racer" zhcn="阿拉丁魔毯竞速(美)" collection="竞速游戏"/>
 	<Game id="SARPNK" en="Aladin: Magic Racer" zhcn="阿拉丁魔毯竞速(欧)"/>
 	<Game id="RCKPGN" en="Alan Hansen's Sports Challenge" zhcn="阿伦·汉森的运动挑战(欧)"/>
-	<Game id="SALE4Q" en="Alice in Wonderland" zhcn="爱丽丝漫游仙境(美)"/>
+	<Game id="SALE4Q" en="Alice in Wonderland" zhcn="爱丽丝漫游仙境(美)" collection="影视IP游戏"/>
 	<Game id="SALP4Q" en="Alice in Wonderland" zhcn="爱丽丝漫游仙境(欧)"/>
 	<Game id="SABENR" en="Alien Monster Bowling League" zhcn="外星怪兽保龄球联赛(美)" collection="运动游戏 保龄球"/>
 	<Game id="SABPJG" en="Alien Monster Bowling League" zhcn="外星怪兽保龄球联赛(欧)" same-as="SABENR"/>
@@ -133,19 +133,19 @@
 	<Game id="R6KP36" en="Ashes Cricket 2009" zhcn="灰烬杯板球赛2009(欧)"/>
 	<Game id="R6KU36" en="Ashes Cricket 2009" zhcn="灰烬杯板球赛2009(英)"/>
 	<Game id="RQXP70" en="Asterix at the Olympic Games" zhcn="奥运会上的阿斯特里克斯(欧)"/>
-	<Game id="R56EG9" en="Astro Boy: The Video Game" zhcn="铁臂阿童木(美)" collection="影视IP游戏"/>
+	<Game id="R56EG9" en="Astro Boy: The Video Game" zhcn="铁臂阿童木(美)" collection="影视IP游戏 日本"/>
 	<Game id="R56PG9" en="Astro Boy: The Video Game" zhcn="铁臂阿童木(欧)"/>
 	<Game id="R4LPUG" en="Athletic Piggy Party" zhcn="田径猪派对(X)"/>
 	<Game id="R4LXUG" en="Athletic Piggy Party" zhcn="田径猪派对(X)"/>
 	<Game id="SASEWW" en="Atrévete a Soñar" zhcn="Atrévete a Soñar"/>
 	<Game id="S3AE5G" en="Attack of the Movies 3D" zhcn="电影空间大冒险(美)" collection="光枪游戏"/>
 	<Game id="S3APGT" en="Attack of the Movies 3D" zhcn="电影空间大冒险(美)"/>
-	<Game id="RV9E78" en="Avatar: The Last Airbender - Into the Inferno" zhcn="降世神通 最后的气宗 前往地狱(美)"/>
-	<Game id="RVAE78" en="Avatar: The Last Airbender - The Burning Earth" zhcn="降世神通 燃烧的大地(美)"/>
-	<Game id="RLVE78" en="Avatar: The Last Airbender" zhcn="降世神通最后的空气大师(美)"/>
-	<Game id="RV9P78" en="Avatar: The Legend of Aang - Into the Inferno" zhcn="降世神通 最后的气宗 前往地狱(欧)"/>
+	<Game id="RV9E78" en="Avatar: The Last Airbender - Into the Inferno" zhcn="降世神通 地狱之战(美)" collection="影视IP游戏"/>
+	<Game id="RVAE78" en="Avatar: The Last Airbender - The Burning Earth" zhcn="降世神通 燃烧的大地(美)" collection="影视IP游戏"/>
+	<Game id="RLVE78" en="Avatar: The Last Airbender" zhcn="降世神通 最后的气宗(美)" collection="影视IP游戏"/>
+	<Game id="RV9P78" en="Avatar: The Legend of Aang - Into the Inferno" zhcn="降世神通 地狱之战(欧)"/>
 	<Game id="RVAP78" en="Avatar: The Legend of Aang - The Burning Earth" zhcn="降世神通 燃烧的大地(欧)"/>
-	<Game id="RLVP78" en="Avatar: The Legend of Aang" zhcn="降世神通最后的空气大师(欧)"/>
+	<Game id="RLVP78" en="Avatar: The Legend of Aang" zhcn="降世神通 最后的气宗(欧)"/>
 	<Game id="SMNE25" en="Awesome Super Mario Bros. Wii" zhcn="Awesome Super Mario Bros. Wii"/>
 	<Game id="SMNE26" en="Awesomer Super Luigi Mini (Version 1)" zhcn="Awesomer Super Luigi Mini (Version 1)"/>
 	<Game id="SMNE12" en="Awesomer Super Luigi Mini" zhcn="Awesomer Super Luigi Mini"/>
