@@ -625,8 +625,8 @@
 	<Game id="SMBP8P" en="Super Monkey Ball: Step &amp; Roll" zhcn="超级猴子球 平衡滚球(欧)" collection="平衡板游戏"/>
 	<Game id="RSMJ8P" en="Super Monkey Ball: Uki Uki Party Daishuugou" zhcn="超级猴子球 香蕉闪电战(日)" collection="5"/>
 	<Game id="R8PE02" en="Super Paper Isaiah" zhcn="Super Paper Isaiah"/>
-	<Game id="R8PC01" en="Super Paper Mario(CN)" zhcn="超级纸片马里奥(中)" collection="超级马里奥3D系列"/>
-	<Game id="R8PE01" en="Super Paper Mario" zhcn="超级纸片马里奥(美)"/>
+	<Game id="R8PC01" en="Super Paper Mario(CN)" zhcn="超级纸片马里奥(中)" collection="超级马里奥系列"/>
+	<Game id="R8PE01" en="Super Paper Mario" zhcn="超级纸片马里奥(美)" collection="超级马里奥系列"/>
 	<Game id="R8PJ01" en="Super Paper Mario" zhcn="超级纸片马里奥(日)"/>
 	<Game id="R8PK01" en="Super Paper Mario" zhcn="超级纸片马里奥(韩)"/>
 	<Game id="R8PP01" en="Super Paper Mario" zhcn="超级纸片马里奥(欧)"/>
