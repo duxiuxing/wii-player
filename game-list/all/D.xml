@@ -16,7 +16,7 @@
 	<Game id="RJBJAF" en="Daikaijuu Battle Ultra Coliseum" zhcn="大怪兽对决 超人力霸王竞技场(日)"/>
 	<Game id="SMUJAF" en="Daikaijuu Battle: Ultra Coliseum DX: Ultra Senshi Daishuuketsu" zhcn="大怪兽格斗 终极竞技场DX 终极战士大集结(日)"/>
 	<Game id="RSBJ01" en="Dairantou Smash Brothers X" zhcn="任天堂明星大乱斗X(日)" collection="3"/>
-	<Game id="R8ZE8P" en="Daisy Fuentes Pilates" zhcn="大师教你普拉提(美)"/>
+	<Game id="R8ZE8P" en="Daisy Fuentes Pilates" zhcn="大师教你普拉提(美)" collection="运动游戏 健身"/>
 	<Game id="R8ZPGT" en="Daisy Fuentes Pilates" zhcn="大师教你普拉提(欧)"/>
 	<Game id="SUREA4" en="Dance Dance Revolution II" zhcn="劲舞革命2(美)" collection="跳舞毯游戏"/>
 	<Game id="SDYEA4" en="Dance Dance Revolution" zhcn="劲舞革命(美)"/>
@@ -218,7 +218,7 @@
 	<Game id="R2DJEP" en="Dokapon Kingdom For Wii" zhcn="多卡波王国(日)"/>
 	<Game id="R2DEEB" en="Dokapon Kingdom" zhcn="多卡波王国(美)" collection="D"/>
 	<Game id="R2DPJW" en="Dokapon Kingdom" zhcn="多卡波王国(欧)"/>
-	<Game id="RDME6K" en="Domino Rally" zhcn="米侬向前冲(美)" collection="done5"/>
+	<Game id="RDME6K" en="Domino Rally" zhcn="米侬向前冲(美)" collection="D"/>
 	<Game id="R2KE54" en="Don King Boxing" zhcn="唐金拳击(美)" collection="平衡板游戏"/>
 	<Game id="R2KP54" en="Don King Boxing" zhcn="唐金拳击(欧)"/>
 	<Game id="SF8E01" en="Donkey Kong Country Returns" zhcn="大金刚国度 回归(美或中)" collection="中文游戏"/>
@@ -262,9 +262,9 @@
 	<Game id="RDSPAF" en="Dragon Ball Z: Budokai Tenkaichi 3" zhcn="龙珠Z 电光火石3(欧)"/>
 	<Game id="RDSJAF" en="Dragon Ball Z: Sparking! METEOR" zhcn="龙珠Z 电光火石3(日)"/>
 	<Game id="RDBJAF" en="Dragon Ball Z: Sparking! NEO" zhcn="龙珠Z 电光火石(日)" collection="影视IP游戏 日本"/>
-	<Game id="R7GEAF" en="Dragon Ball: Revenge of King Piccolo" zhcn="龙珠 天下第一大冒险(美)"/>
+	<Game id="R7GEAF" en="Dragon Ball: Revenge of King Piccolo" zhcn="龙珠 天下第一大冒险(美)" collection="影视IP游戏 日本"/>
 	<Game id="R7GPAF" en="Dragon Ball: Revenge of King Piccolo" zhcn="龙珠 天下第一大冒险(欧)"/>
-	<Game id="R7GJAF" en="Dragon Ball: Tenkaichi Daibouken" zhcn="龙珠 天下第一大冒险(日或中)" collection="影视IP游戏 日本/中文游戏"/>
+	<Game id="R7GJAF" en="Dragon Ball: Tenkaichi Daibouken" zhcn="龙珠 天下第一大冒险(日或中)" collection="影视IP游戏 日本"/>
 	<Game id="RDWJG9" en="Dragon Blade" zhcn="龙刃 怒火燃烧(日)"/>
 	<Game id="RDWEG9" en="Dragon Blade: Wrath of Fire" zhcn="龙刃 怒火燃烧(美)" collection="D"/>
 	<Game id="RDWPG9" en="Dragon Blade: Wrath of Fire" zhcn="龙刃 怒火燃烧(欧)"/>
@@ -282,7 +282,7 @@
 	<Game id="R9DE78" en="Drawn to Life: The Next Chapter" zhcn="描绘生命 下一章(美)" collection="D"/>
 	<Game id="R9DP78" en="Drawn to Life: The Next Chapter" zhcn="描绘生命 下一章(欧)"/>
 	<Game id="SIXE41" en="Drawsome! Tablet" zhcn="Drawsome! Tablet"/>
-	<Game id="R86E20" en="Dream Dance &amp; Cheer" zhcn="梦之舞蹈啦啦队(美)" collection="平衡板游戏"/>
+	<Game id="R86E20" en="Dream Dance &amp; Cheer" zhcn="梦之舞蹈啦啦队(美)" collection="舞力全开 衍生系列"/>
 	<Game id="R3DES5" en="Dream Pinball 3D" zhcn="梦幻弹球3D(美)" collection="益智游戏"/>
 	<Game id="R3DPS5" en="Dream Pinball 3D" zhcn="梦幻弹球3D(欧)"/>
 	<Game id="R75E20" en="Dream Salon" zhcn="梦幻沙龙(美)" collection="D"/>

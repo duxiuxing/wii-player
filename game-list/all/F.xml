@@ -41,7 +41,7 @@
 	<Game id="SELE69" en="FIFA Soccer 11" zhcn="FIFA足球11(美)" collection="运动游戏 足球"/>
 	<Game id="SI3E69" en="FIFA Soccer 12" zhcn="FIFA足球12(美)" collection="运动游戏 足球"/>
 	<Game id="S3FE69" en="FIFA Soccer 13" zhcn="FIFA足球13(美)" collection="运动游戏 足球"/>
-	<Game id="RFQE69" en="FaceBreaker K.O. Party" zhcn="破相拳击(美)"/>
+	<Game id="RFQE69" en="FaceBreaker K.O. Party" zhcn="破相拳击(美)" collection="运动游戏"/>
 	<Game id="RFQJ13" en="FaceBreaker K.O. Party" zhcn="破相拳击(日)"/>
 	<Game id="RFQK69" en="FaceBreaker K.O. Party" zhcn="破相拳击(韩)"/>
 	<Game id="RFQP69" en="FaceBreaker: K.O. Party" zhcn="破相拳击(欧)" collection="运动游戏"/>
@@ -95,7 +95,7 @@
 	<Game id="WFFF4I" en="Fatal Frame 4: Mask of the Lunar Eclipse" zhcn="自制 零月蚀之假面(意)"/>
 	<Game id="R4ZP01" en="Fatal Frame IV: Mask of the Lunar Eclipse" zhcn="自制 零月蚀之假面(欧)"/>
 	<Game id="RMCEF4" en="Fe4less' Authentic Texture Pack" zhcn="Fe4less' Authentic Texture Pack"/>
-	<Game id="RF3P6M" en="Ferrari Challenge" zhcn="法拉利挑战赛(欧)" collection="2"/>
+	<Game id="RF3P6M" en="Ferrari Challenge" zhcn="法拉利挑战赛(欧)" collection="竞速游戏"/>
 	<Game id="RF3E52" en="Ferrari Challenge: Trofeo Pirelli" zhcn="法拉利挑战赛(美)" collection="竞速游戏"/>
 	<Game id="RJIP6M" en="Ferrari: The Race Experience" zhcn="法拉利 竞速体验(欧)"/>
 	<Game id="RFFEGD" en="Final Fantasy Crystal Chronicles: Echoes of Time" zhcn="最终幻想水晶编年史 时之回声(美)" collection="角色扮演游戏"/>
@@ -111,7 +111,7 @@
 	<Game id="RFEK01" en="Fire Emblem Akatsuki no Megami" zhcn="Fire Emblem Akatsuki no Megami"/>
 	<Game id="RFEPUD" en="Fire Emblem: Radian Dawn Undub" zhcn="Fire Emblem: Radian Dawn Undub"/>
 	<Game id="RFEP02" en="Fire Emblem: Radiant Dawn - Reverse Recruitment" zhcn="Fire Emblem: Radiant Dawn - Reverse Recruitment"/>
-	<Game id="RFEE01" en="Fire Emblem: Radiant Dawn" zhcn="火炎纹章 晓之女神(美)"/>
+	<Game id="RFEE01" en="Fire Emblem: Radiant Dawn" zhcn="火炎纹章 晓之女神(美)" collection="角色扮演游戏"/>
 	<Game id="RFEP01" en="Fire Emblem: Radiant Dawn" zhcn="火炎纹章 晓之女神(欧)"/>
 	<Game id="GFEK01" en="Fire Emblem: Souen no Kiseki" zhcn="Fire Emblem: Souen no Kiseki"/>
 	<Game id="R2EJ99" en="Fish Eyes Wii" zhcn="鱼之眼Wii(日)" collection="运动游戏 钓鱼"/>
@@ -123,7 +123,7 @@
 	<Game id="SFRDRV" en="Fit &amp; Fun" zhcn="健身乐趣(欧)"/>
 	<Game id="SFRPXT" en="Fit &amp; Fun" zhcn="健身乐趣(欧)"/>
 	<Game id="SFEPYF" en="Fit Music" zhcn="Fit Music"/>
-	<Game id="SF5E41" en="Fit in Six" zhcn="六步健身法(美)"/>
+	<Game id="SF5E41" en="Fit in Six" zhcn="六步健身法(美)" collection="运动游戏 健身"/>
 	<Game id="SF5J41" en="Fit in Six: Karada o Kitaeru 6-tsu no Youso" zhcn="健身工坊(日)"/>
 	<Game id="SRYJAF" en="Fitness Party" zhcn="动感塑身派对(日)"/>
 	<Game id="R9EPNP" en="Fix It: Home Improvement Challenge" zhcn="修理派对(欧)" collection="F"/>
@@ -139,11 +139,11 @@
 	<Game id="R4EJ01" en="Forever Blue: Umi no Yobigoe" zhcn="永恒蔚蓝2 海的呼唤(日)"/>
 	<Game id="RMCEFK" en="Formula Kart Wii" zhcn="Formula Kart Wii"/>
 	<Game id="RFYFMR" en="Fort Boyard" zhcn="博涯堡垒 开战(法)"/>
-	<Game id="ST7E01" en="Fortune Street" zhcn="富豪街Wii(美)"/>
+	<Game id="ST7E01" en="Fortune Street" zhcn="富豪街Wii(美)" collection="益智游戏"/>
 	<Game id="R2GEXJ" en="Fragile Dreams: Farewell Ruins of the Moon" zhcn="废墟迷宫 再见月的废墟(美)" collection="F"/>
 	<Game id="R2GP99" en="Fragile Dreams: Farewell Ruins of the Moon" zhcn="废墟迷宫 再见月的废墟(欧)"/>
 	<Game id="R2GJAF" en="Fragile: Sayonara Tsuki no Haikyo" zhcn="废墟迷宫 再见月的废墟(日)"/>
-	<Game id="R2FE5G" en="Freddi Fish: Kelp Seed Mystery" zhcn="小鱼弗雷迪 丢失的海藻种盒(美)" collection="done6"/>
+	<Game id="R2FE5G" en="Freddi Fish: Kelp Seed Mystery" zhcn="小鱼弗雷迪 丢失的海藻种盒(美)" collection="F"/>
 	<Game id="R2FP70" en="Freddi Fish: Kelp Seed Mystery" zhcn="小鱼弗雷迪 丢失的海藻种盒(欧)"/>
 	<Game id="RU6EHG" en="Free Running" zhcn="自由奔跑(美)" collection="运动游戏"/>
 	<Game id="RU6PHY" en="Free Running" zhcn="自由奔跑(欧)" collection="运动游戏"/>

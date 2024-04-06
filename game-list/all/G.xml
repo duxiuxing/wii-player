@@ -49,10 +49,10 @@
 	<Game id="SG3DSV" en="Germany's Next Top Model 2010" zhcn="德国顶级模特2010(德)"/>
 	<Game id="SGQDSV" en="Germany's Next Top Model 2011" zhcn="德国顶级模特2011(德)"/>
 	<Game id="RYLDSV" en="Germany's Next Top Model" zhcn="德国顶级模特(德)"/>
-	<Game id="SNGEJJ" en="Get Fit with Mel B" zhcn="和Mel B一起健身(美)"/>
-	<Game id="SNGPLG" en="Get Fit with Mel B" zhcn="和Mel B一起健身(欧)"/>
+	<Game id="SNGEJJ" en="Get Fit with Mel B" zhcn="和Mel B一起健身(美)" collection="运动游戏 健身"/>
+	<Game id="SNGPLG" en="Get Fit with Mel B" zhcn="和Mel B一起健身(欧)" collection="运动游戏 健身"/>
 	<Game id="SLCPGN" en="Get Up And Dance" zhcn="起舞吧(欧)"/>
-	<Game id="SLCEGN" en="Get Up and Dance" zhcn="起舞吧(美)"/>
+	<Game id="SLCEGN" en="Get Up and Dance" zhcn="起舞吧(美)" collection="舞力全开 衍生系列"/>
 	<Game id="RGSE8P" en="Ghost Squad" zhcn="幽灵小队(美)"/>
 	<Game id="RGSJ8P" en="Ghost Squad" zhcn="幽灵小队(日或中)" collection="光枪游戏"/>
 	<Game id="RGSP8P" en="Ghost Squad" zhcn="幽灵小队(欧)"/>
@@ -89,7 +89,7 @@
 	<Game id="RGZP70" en="Godzilla Unleashed" zhcn="哥斯拉 能量释放(欧)"/>
 	<Game id="REKE41" en="Gold's Gym: Cardio Workout" zhcn="金吉姆健身房 卡迪欧塑身(美)" collection="运动游戏 健身"/>
 	<Game id="REKU41" en="Gold's Gym: Cardio Workout" zhcn="金吉姆健身房 卡迪欧塑身(U)"/>
-	<Game id="SCWE41" en="Gold's Gym: Dance Workout" zhcn="金吉姆健身房 舞蹈锻炼(美)" collection="运动游戏 健身"/>
+	<Game id="SCWE41" en="Gold's Gym: Dance Workout" zhcn="金吉姆健身房 舞蹈锻炼(美)" collection="舞力全开 衍生系列"/>
 	<Game id="R6GPMR" en="Golden Balls" zhcn="黄金球(欧)"/>
 	<Game id="SJBE52" en="GoldenEye 007" zhcn="007 黄金眼(美)" collection="影视IP游戏"/>
 	<Game id="SJBJ01" en="GoldenEye 007" zhcn="007 黄金眼(日)"/>
@@ -99,10 +99,10 @@
 	<Game id="SGLEA4" en="Gormiti: The Lords of Nature!" zhcn="高米迪战士 自然之王(美)" collection="G"/>
 	<Game id="SGLPA4" en="Gormiti: The Lords of Nature!" zhcn="高米迪战士 自然之王(欧)"/>
 	<Game id="RQSP6M" en="Gottlieb Pinball Classics" zhcn="经典弹珠台(欧)"/>
-	<Game id="R5TE69" en="Grand Slam Tennis" zhcn="大满贯网球(美)"/>
+	<Game id="R5TE69" en="Grand Slam Tennis" zhcn="大满贯网球(美)" collection="运动游戏 乒乓球和网球"/>
 	<Game id="R5TJ13" en="Grand Slam Tennis" zhcn="大满贯网球(日)" collection="运动游戏 乒乓球和网球"/>
 	<Game id="R5TP69" en="Grand Slam Tennis" zhcn="大满贯网球(欧)" collection="运动游戏 乒乓球和网球"/>
-	<Game id="SGREGT" en="Grease" zhcn="油脂劲歌热舞(美)"/>
+	<Game id="SGREGT" en="Grease" zhcn="油脂劲歌热舞(美)" collection="舞力全开 衍生系列"/>
 	<Game id="SGRPGT" en="Grease" zhcn="油脂劲歌热舞(欧)"/>
 	<Game id="SRRPGN" en="Great Party Games" zhcn="盛大聚会游戏(欧)" collection="聚会游戏"/>
 	<Game id="R36E69" en="Green Day: Rock Band" zhcn="摇滚乐队 绿日乐队(美)" collection="乐队游戏"/>
@@ -257,6 +257,6 @@
 	<Game id="SGYPNJ" en="Gummy Bears Mini Golf" zhcn="橡胶熊迷你高尔夫(欧)"/>
 	<Game id="SA7ESZ" en="Gummy Bears: Magical Medallion" zhcn="小熊软糖 魔法勋章(美)" collection="G"/>
 	<Game id="SQDE8P" en="Gunblade NY &amp; LA Machineguns: Arcade Hits Pack" zhcn="纽约风暴与洛杉矶机枪街机版(美)" collection="光枪游戏"/>
-	<Game id="SQDP8P" en="Gunblade NY &amp; LA Machineguns: Arcade Hits Pack" zhcn="纽约风暴与洛杉矶机枪街机版[WiFi](欧)"/>
+	<Game id="SQDP8P" en="Gunblade NY &amp; LA Machineguns: Arcade Hits Pack" zhcn="纽约风暴与洛杉矶机枪街机版(欧)"/>
 	<Game id="SW7EVN" en="Gunslingers" zhcn="西部英雄(美)" collection="G"/>
 </Game-List>
