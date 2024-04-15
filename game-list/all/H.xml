@@ -9,127 +9,126 @@
 	<Game id="RHAW01" en="Hajimete no Wii" zhcn="Wii第一次接触(中)" collection="中文游戏"/>
 	<Game id="RH4XUG" en="Hamster Heroes" zhcn="仓鼠英雄(X)"/>
 	<Game id="RHYJAF" en="Haneru no Tobira Wii: Giri Girissu" zhcn="跳跃之门Wii 极限挑战(日)"/>
-	<Game id="RHQE4Q" en="Hannah Montana: Spotlight World Tour" zhcn="汉娜·蒙塔娜 聚光灯下的世界巡演(美)" collection="影视IP游戏"/>
-	<Game id="RHQP4Q" en="Hannah Montana: Spotlight World Tour" zhcn="汉娜蒙塔娜 聚光灯下的世界巡演(欧)"/>
-	<Game id="RHQX4Q" en="Hannah Montana: Spotlight World Tour" zhcn="孟汉娜万众瞩目全球巡演歌唱大赛(欧)"/>
-	<Game id="RHQY4Q" en="Hannah Montana: Spotlight World Tour" zhcn="孟汉娜万众瞩目全球巡演歌唱大赛(Y)"/>
-	<Game id="R8HE4Q" en="Hannah Montana: The Movie" zhcn="汉娜·蒙塔娜 电影版(美)" collection="影视IP游戏"/>
-	<Game id="R8HP4Q" en="Hannah Montana: The Movie" zhcn="汉娜 蒙塔娜 电影版(欧)"/>
-	<Game id="R8HX4Q" en="Hannah Montana: The Movie" zhcn="汉娜 蒙塔娜 电影版(X)"/>
-	<Game id="R8HY4Q" en="Hannah Montana: The Movie" zhcn="汉娜 蒙塔娜 电影版(Y)"/>
-	<Game id="R8HZ4Q" en="Hannah Montana: The Movie" zhcn="Hannah Montana: The Movie"/>
-	<Game id="ROHJAF" en="Happy Dance Collection" zhcn="快乐组舞(日)" collection="1"/>
-	<Game id="SHXPWR" en="Happy Feet 2" zhcn="快乐大脚2(欧)"/>
-	<Game id="SHXEWR" en="Happy Feet Two" zhcn="快乐大脚2(美)" collection="影视IP游戏"/>
-	<Game id="RHFE5D" en="Happy Feet" zhcn="快乐大脚(美)" collection="影视IP游戏"/>
-	<Game id="RHFP5D" en="Happy Feet" zhcn="快乐大脚(欧)"/>
+	<Game id="RHQE4Q" en="Hannah Montana: Spotlight World Tour" zhcn="汉娜·蒙塔娜 聚光灯下的世界巡演(美)" collection="影视IP游戏 美国"/>
+	<Game id="RHQP4Q" en="Hannah Montana: Spotlight World Tour" zhcn="汉娜·蒙塔娜 聚光灯下的世界巡演(欧)" same-as="RHQE4Q"/>
+	<Game id="RHQX4Q" en="Hannah Montana: Spotlight World Tour" zhcn="汉娜·蒙塔娜 聚光灯下的世界巡演(X)" same-as="RHQE4Q"/>
+	<Game id="RHQY4Q" en="Hannah Montana: Spotlight World Tour" zhcn="汉娜·蒙塔娜 聚光灯下的世界巡演(Y)" same-as="RHQE4Q"/>
+	<Game id="R8HE4Q" en="Hannah Montana: The Movie" zhcn="汉娜·蒙塔娜 电影版(美)" collection="影视IP游戏 美国"/>
+	<Game id="R8HP4Q" en="Hannah Montana: The Movie" zhcn="汉娜·蒙塔娜 电影版(欧)" same-as="R8HE4Q"/>
+	<Game id="R8HX4Q" en="Hannah Montana: The Movie" zhcn="汉娜·蒙塔娜 电影版(X)" same-as="R8HE4Q"/>
+	<Game id="R8HY4Q" en="Hannah Montana: The Movie" zhcn="汉娜·蒙塔娜 电影版(Y)" same-as="R8HE4Q"/>
+	<Game id="R8HZ4Q" en="Hannah Montana: The Movie" zhcn="汉娜·蒙塔娜 电影版(Z)" same-as="R8HE4Q"/>
+	<Game id="ROHJAF" en="Happy Dance Collection" zhcn="快乐组舞(日)" collection="舞力全开 衍生系列"/>
+	<Game id="SHXPWR" en="Happy Feet 2" zhcn="快乐大脚2(欧)" same-as="SHXEWR"/>
+	<Game id="SHXEWR" en="Happy Feet Two" zhcn="快乐大脚2(美)" collection="影视IP游戏 美国"/>
+	<Game id="RHFE5D" en="Happy Feet" zhcn="快乐大脚(美)" collection="影视IP游戏 美国"/>
+	<Game id="RHFP5D" en="Happy Feet" zhcn="快乐大脚(欧)" same-as="RHFE5D"/>
 	<Game id="SNUPJW" en="Happy Neuron Academy" zhcn="快乐神经元学院(欧)"/>
 	<Game id="HSMP01" en="Harder Super Mario Bros. Wii" zhcn="Harder Super Mario Bros. Wii"/>
-	<Game id="SHZENR" en="Harley Davidson: Road Trip" zhcn="哈雷摩托公路狂飙(美)" collection="doneh"/>
+	<Game id="SHZENR" en="Harley Davidson: Road Trip" zhcn="哈雷摩托公路狂飙(美)" collection="竞速游戏"/>
 	<Game id="SAQE5G" en="Harley Pasternak's Hollywood Workout" zhcn="好莱坞明星私教(美)"/>
-	<Game id="SHHP69" en="Harry Potter and the Deathly Hallows - Part 1" zhcn="哈利波特与死神的圣物 上集(欧)"/>
-	<Game id="SH5P69" en="Harry Potter and the Deathly Hallows - Part 2" zhcn="哈利波特 死神的圣物 下集(美)"/>
-	<Game id="SHHE69" en="Harry Potter and the Deathly Hallows, Part 1" zhcn="哈利波特与死亡圣器 上集(美)" collection="影视IP游戏"/>
-	<Game id="SH5E69" en="Harry Potter and the Deathly Hallows, Part 2" zhcn="哈利波特与死亡圣器 下集(美)" collection="影视IP游戏"/>
-	<Game id="RH6K69" en="Harry Potter and the Half Blood Prince" zhcn="哈利波特 混血王子的背叛(韩)"/>
-	<Game id="RH6E69" en="Harry Potter and the Half-Blood Prince" zhcn="哈里波特与混血王子(美)" collection="影视IP游戏"/>
-	<Game id="RH6P69" en="Harry Potter and the Half-Blood Prince" zhcn="哈里波特与混血王子(欧)"/>
-	<Game id="R5PE69" en="Harry Potter and the Order of the Phoenix" zhcn="哈利波特与凤凰社(美)" collection="影视IP游戏"/>
-	<Game id="R5PP69" en="Harry Potter and the Order of the Phoenix" zhcn="哈利波特与凤凰社(欧)"/>
-	<Game id="R5PX69" en="Harry Potter and the Order of the Phoenix" zhcn="哈利波特与凤凰社(X)"/>
-	<Game id="R5PJ13" en="Harry Potter to Fushichou no Kishidan" zhcn="哈利波特与凤凰社(日)"/>
+	<Game id="SHHP69" en="Harry Potter and the Deathly Hallows - Part 1" zhcn="哈利·波特与死亡圣器 上集(欧)"/>
+	<Game id="SH5P69" en="Harry Potter and the Deathly Hallows - Part 2" zhcn="哈利·波特与死亡圣器 下集(欧)"/>
+	<Game id="SHHE69" en="Harry Potter and the Deathly Hallows, Part 1" zhcn="哈利·波特与死亡圣器 上集(美)" collection="影视IP游戏 美国"/>
+	<Game id="SH5E69" en="Harry Potter and the Deathly Hallows, Part 2" zhcn="哈利·波特与死亡圣器 下集(美)" collection="影视IP游戏 美国"/>
+	<Game id="RH6K69" en="Harry Potter and the Half Blood Prince" zhcn="哈利·波特与混血王子(韩)" same-as="RH6E69"/>
+	<Game id="RH6E69" en="Harry Potter and the Half-Blood Prince" zhcn="哈利·波特与混血王子(美)" collection="影视IP游戏 美国"/>
+	<Game id="RH6P69" en="Harry Potter and the Half-Blood Prince" zhcn="哈利·波特与混血王子(欧)" same-as="RH6E69"/>
+	<Game id="R5PE69" en="Harry Potter and the Order of the Phoenix" zhcn="哈利·波特与凤凰社(美)" collection="影视IP游戏 美国"/>
+	<Game id="R5PP69" en="Harry Potter and the Order of the Phoenix" zhcn="哈利·波特与凤凰社(欧)" same-as="R5PE69"/>
+	<Game id="R5PX69" en="Harry Potter and the Order of the Phoenix" zhcn="哈利·波特与凤凰社(X)" same-as="R5PE69"/>
+	<Game id="R5PJ13" en="Harry Potter to Fushichou no Kishidan" zhcn="哈利·波特与凤凰社(日)" same-as="R5PE69"/>
 	<Game id="RH9JC8" en="Harukanaru Toki no Naka de 4" zhcn="遥远时空4 (日)"/>
 	<Game id="CYWEE9" en="Harvest Moon: A Proud Life" zhcn="Harvest Moon: A Proud Life"/>
-	<Game id="RBIEE9" en="Harvest Moon: Animal Parade" zhcn="牧场物语 欢乐动物进行曲(美)" collection="3"/>
-	<Game id="RBIP99" en="Harvest Moon: Animal Parade" zhcn="牧场物语 欢乐动物进行曲[WiFi](欧)"/>
+	<Game id="RBIEE9" en="Harvest Moon: Animal Parade" zhcn="牧场物语 欢乐动物进行曲(美)" collection="H"/>
+	<Game id="RBIP99" en="Harvest Moon: Animal Parade" zhcn="牧场物语 欢乐动物进行曲(欧)" same-as="RBIEE9"/>
 	<Game id="C4GEE9" en="Harvest Moon: Another Proud Life" zhcn="Harvest Moon: Another Proud Life"/>
 	<Game id="C4AEE9" en="Harvest Moon: Magical Melody (Rainbow Version)" zhcn="Harvest Moon: Magical Melody (Rainbow Version)"/>
-	<Game id="RHMEE9" en="Harvest Moon: Magical Melody" zhcn="牧场物语(美)" collection="3"/>
-	<Game id="RHMP99" en="Harvest Moon: Magical Melody" zhcn="牧场物语(欧)"/>
+	<Game id="RHMEE9" en="Harvest Moon: Magical Melody" zhcn="牧场物语(美)" collection="H"/>
+	<Game id="RHMP99" en="Harvest Moon: Magical Melody" zhcn="牧场物语(欧)" same-as="RHMEE9"/>
 	<Game id="CBIEE9" en="Harvest Moon: Pride Parade" zhcn="Harvest Moon: Pride Parade"/>
 	<Game id="C84EE9" en="Harvest Moon: Tree of Tranquility - Big Gay Edition" zhcn="Harvest Moon: Tree of Tranquility - Big Gay Edition"/>
-	<Game id="R84EE9" en="Harvest Moon: Tree of Tranquility" zhcn="牧场物语Wii 安稳之树(美)" collection="doneh"/>
+	<Game id="R84EE9" en="Harvest Moon: Tree of Tranquility" zhcn="牧场物语 济世之树(美)" collection="H"/>
 	<Game id="R84P99" en="Harvest Moon: Tree of Tranquility" zhcn="牧场物语 济世之树(欧)"/>
-	<Game id="RGBE08" en="Harvey Birdman: Attorney at Law" zhcn="哈维博德曼 律师(美)" collection="doneh"/>
-	<Game id="RGBP08" en="Harvey Birdman: Attorney at Law" zhcn=""/>
-	<Game id="R6XE69" en="Hasbro: Family Game Night 2" zhcn="孩之宝 家庭游戏之夜2(美)" collection="家庭聚会游戏"/>
-	<Game id="R6XP69" en="Hasbro: Family Game Night 2" zhcn="孩之宝 家庭游戏之夜2(欧)"/>
-	<Game id="SHBE69" en="Hasbro: Family Game Night 3" zhcn="孩之宝 家庭游戏之夜3(美)" collection="家庭聚会游戏"/>
-	<Game id="SHBP69" en="Hasbro: Family Game Night 3" zhcn="孩之宝 家庭游戏之夜3(欧)"/>
-	<Game id="SFGE69" en="Hasbro: Family Game Night 4 - The Game Show" zhcn="孩之宝 家庭游戏之夜4  游戏节目(美)" collection="家庭聚会游戏"/>
-	<Game id="SFGP69" en="Hasbro: Family Game Night 4 - The Game Show" zhcn="Hasbro: Family Game Night 4 - The Game Show"/>
-	<Game id="SAHE69" en="Hasbro: Family Game Night Fun Pack" zhcn="孩之宝 家庭游戏之夜乐趣包(美)" collection="家庭聚会游戏"/>
-	<Game id="SGNE69" en="Hasbro: Family Game Night Value Pack" zhcn="孩之宝 家庭游戏之夜超值包(美)" collection="家庭聚会游戏"/>
-	<Game id="RRME69" en="Hasbro: Family Game Night" zhcn="孩之宝 家庭游戏之夜(美)" collection="家庭聚会游戏"/>
-	<Game id="RRMI69" en="Hasbro: Family Game Night" zhcn="Hasbro: Family Game Night"/>
-	<Game id="RRMP69" en="Hasbro: Family Game Night" zhcn="孩之宝 家庭游戏之夜(欧)"/>
-	<Game id="RRMX69" en="Hasbro: Family Game Night" zhcn="孩之宝 家庭游戏之夜(X)"/>
-	<Game id="RHKJ18" en="Hataraku Hito" zhcn="工作狂(日)"/>
-	<Game id="S2HE70" en="Haunted House" zhcn="鬼屋(美)" collection="doneh"/>
-	<Game id="S2HP70" en="Haunted House" zhcn="鬼屋(欧)"/>
-	<Game id="SH9ESZ" en="Heathcliff: The Fast and the Furriest" zhcn="希斯与利夫 火速狂飙(美)" collection="doneh"/>
-	<Game id="SH9PNJ" en="Heathcliff: The Fast and the Furriest" zhcn="Heathcliff: The Fast and the Furriest"/>
-	<Game id="RHSE36" en="Heatseeker" zhcn="热导追踪(美)" collection="doneh"/>
-	<Game id="RHSP36" en="Heatseeker" zhcn="热导追踪(欧)"/>
-	<Game id="RHSX36" en="Heatseeker" zhcn="热导追踪(X)"/>
-	<Game id="RHSY36" en="Heatseeker" zhcn="热导追踪(Y)"/>
-	<Game id="RKKE6K" en="Heavenly Guardian" zhcn="雪女大旋风(美)" collection="doneh"/>
+	<Game id="RGBE08" en="Harvey Birdman: Attorney at Law" zhcn="哈维·博德曼 律师(美)" collection="H"/>
+	<Game id="R6XE69" en="Hasbro: Family Game Night 2" zhcn="孩之宝 家庭游戏之夜2(美)" collection="聚会游戏"/>
+	<Game id="R6XP69" en="Hasbro: Family Game Night 2" zhcn="孩之宝 家庭游戏之夜2(欧)" same-as="R6XE69"/>
+	<Game id="SHBE69" en="Hasbro: Family Game Night 3" zhcn="孩之宝 家庭游戏之夜3(美)" collection="聚会游戏"/>
+	<Game id="SHBP69" en="Hasbro: Family Game Night 3" zhcn="孩之宝 家庭游戏之夜3(欧)" same-as="SHBE69"/>
+	<Game id="SFGE69" en="Hasbro: Family Game Night 4 - The Game Show" zhcn="孩之宝 家庭游戏之夜4 游戏节目(美)" collection="聚会游戏"/>
+	<Game id="SFGP69" en="Hasbro: Family Game Night 4 - The Game Show" zhcn="孩之宝 家庭游戏之夜4 游戏节目(欧)" same-as="SFGE69"/>
+	<Game id="SAHE69" en="Hasbro: Family Game Night Fun Pack" zhcn="孩之宝 家庭游戏之夜乐趣包(美)" collection="聚会游戏"/>
+	<Game id="SGNE69" en="Hasbro: Family Game Night Value Pack" zhcn="孩之宝 家庭游戏之夜超值包(美)" collection="聚会游戏"/>
+	<Game id="RRME69" en="Hasbro: Family Game Night" zhcn="孩之宝 家庭游戏之夜(美)" collection="聚会游戏"/>
+	<Game id="RRMI69" en="Hasbro: Family Game Night" zhcn="孩之宝 家庭游戏之夜(意)" same-as="RRME69"/>
+	<Game id="RRMP69" en="Hasbro: Family Game Night" zhcn="孩之宝 家庭游戏之夜(欧)" same-as="RRME69"/>
+	<Game id="RRMX69" en="Hasbro: Family Game Night" zhcn="孩之宝 家庭游戏之夜(X)" same-as="RRME69"/>
+	<Game id="RHKJ18" en="Hataraku Hito" zhcn="工作狂(日)" same-as="RHKE18"/>
+	<Game id="S2HE70" en="Haunted House" zhcn="鬼屋(美)" collection="H"/>
+	<Game id="S2HP70" en="Haunted House" zhcn="鬼屋(欧)" same-as="S2HE70"/>
+	<Game id="SH9ESZ" en="Heathcliff: The Fast and the Furriest" zhcn="希斯与利夫 火速狂飙(美)" collection="竞速游戏"/>
+	<Game id="SH9PNJ" en="Heathcliff: The Fast and the Furriest" zhcn="希斯与利夫 火速狂飙(欧)" same-as="SH9ESZ"/>
+	<Game id="RHSE36" en="Heatseeker" zhcn="热导追踪(美)" collection="H"/>
+	<Game id="RHSP36" en="Heatseeker" zhcn="热导追踪(欧)" same-as="RHSE36"/>
+	<Game id="RHSX36" en="Heatseeker" zhcn="热导追踪(X)" same-as="RHSE36"/>
+	<Game id="RHSY36" en="Heatseeker" zhcn="热导追踪(Y)" same-as="RHSE36"/>
+	<Game id="RKKE6K" en="Heavenly Guardian" zhcn="雪女大旋风(美)" collection="H"/>
 	<Game id="SH4EFP" en="Heavy Fire: Afghanistan" zhcn="战火纷飞 阿富汗(美)" collection="光枪游戏"/>
-	<Game id="SH4PNK" en="Heavy Fire: Afghanistan" zhcn="Heavy Fire: Afghanistan"/>
-	<Game id="RH2P41" en="Hell's Kitchen" zhcn="地狱厨房(欧)"/>
-	<Game id="RH2E41" en="Hell's Kitchen: The Video Game" zhcn="地狱厨房(美)" collection="doneh"/>
-	<Game id="SHKE20" en="Hello Kitty Seasons" zhcn="凯蒂猫 四季(美)" collection="doneh"/>
-	<Game id="SHKPNQ" en="Hello Kitty Seasons" zhcn="凯蒂猫 四季(欧)"/>
+	<Game id="SH4PNK" en="Heavy Fire: Afghanistan" zhcn="战火纷飞 阿富汗(欧)" same-as="SH4EFP"/>
+	<Game id="RH2P41" en="Hell's Kitchen" zhcn="地狱厨房(欧)" same-as="RH2E41"/>
+	<Game id="RH2E41" en="Hell's Kitchen: The Video Game" zhcn="地狱厨房(美)" collection="H"/>
+	<Game id="SHKE20" en="Hello Kitty Seasons" zhcn="凯蒂猫 四季(美)" collection="H"/>
+	<Game id="SHKPNQ" en="Hello Kitty Seasons" zhcn="凯蒂猫 四季(欧)" same-as="SHKE20"/>
 	<Game id="DHKE18" en="Help Wanted: 50 Wacky Jobs (Demo)" zhcn="工作狂 试玩版(美)"/>
-	<Game id="RHKE18" en="Help Wanted: 50 Wacky Jobs" zhcn="工作狂(美)" collection="doneh"/>
-	<Game id="STTPGR" en="Hidden Mysteries Titanic: Secrets of the Fateful Voyage" zhcn="隐藏的秘密 泰坦尼克号(欧)"/>
-	<Game id="STTDRM" en="Hidden Mysteries: Titanic" zhcn="隐藏的秘密 泰坦尼克号(德)"/>
-	<Game id="STTE52" en="Hidden Mysteries: Titanic" zhcn="隐藏的秘密 泰坦尼克号(美)" collection="影视IP游戏"/>
-	<Game id="STTXGR" en="Hidden Mysteries: Titanic" zhcn="隐藏的秘密 泰坦尼克号(欧)"/>
+	<Game id="RHKE18" en="Help Wanted: 50 Wacky Jobs" zhcn="工作狂(美)" collection="H"/>
+	<Game id="STTPGR" en="Hidden Mysteries Titanic: Secrets of the Fateful Voyage" zhcn="隐藏的秘密 泰坦尼克号(欧)" same-as="STTE52"/>
+	<Game id="STTDRM" en="Hidden Mysteries: Titanic" zhcn="隐藏的秘密 泰坦尼克号(德)" same-as="STTE52"/>
+	<Game id="STTE52" en="Hidden Mysteries: Titanic" zhcn="隐藏的秘密 泰坦尼克号(美)" collection="影视IP游戏 美国"/>
+	<Game id="STTXGR" en="Hidden Mysteries: Titanic" zhcn="隐藏的秘密 泰坦尼克号(X)" same-as="STTE52"/>
 	<Game id="RMCE3S" en="Hide and Seek 3DS Pack" zhcn="Hide and Seek 3DS Pack"/>
 	<Game id="RMCEHX" en="Hide and Seek Extreme Pack" zhcn="Hide and Seek Extreme Pack"/>
 	<Game id="RMCEGB" en="Hide and Seek GBA Pack" zhcn="Hide and Seek GBA Pack"/>
 	<Game id="RMCECN" en="Hide and Seek GCN Pack" zhcn="Hide and Seek GCN Pack"/>
 	<Game id="RMCE6N" en="Hide and Seek N64 Pack" zhcn="Hide and Seek N64 Pack"/>
-	<Game id="RH3E4Q" en="High School Musical 3: Senior Year Dance!" zhcn="歌舞青春3 毕业舞会(美)" collection="影视IP游戏"/>
-	<Game id="RH3P4Q" en="High School Musical 3: Senior Year Dance!" zhcn="歌舞青春3 毕业舞会(欧)"/>
-	<Game id="RI2E4Q" en="High School Musical: Sing It!" zhcn="歌舞青春(美)" collection="影视IP游戏"/>
-	<Game id="DHHJ8J" en="Hirano Aya Premium Movie Disc from Suzumiya Haruhi no Gekidou" zhcn="凉宫春日的激动(日)"/>
-	<Game id="SHGDRM" en="Holiday Games" zhcn="假日游戏[MP](欧)"/>
-	<Game id="SHWE41" en="Hollywood Squares" zhcn="好莱坞广场(美)" collection="doneh"/>
+	<Game id="RH3E4Q" en="High School Musical 3: Senior Year Dance!" zhcn="歌舞青春3 毕业舞会(美)" collection="影视IP游戏 美国"/>
+	<Game id="RH3P4Q" en="High School Musical 3: Senior Year Dance!" zhcn="歌舞青春3 毕业舞会(欧)" same-as="RH3E4Q"/>
+	<Game id="RI2E4Q" en="High School Musical: Sing It!" zhcn="歌舞青春(美)" collection="影视IP游戏 美国"/>
+	<Game id="DHHJ8J" en="Hirano Aya Premium Movie Disc from Suzumiya Haruhi no Gekidou" zhcn="凉宫春日的激动(日)" same-as="RHHJ8J"/>
+	<Game id="SHGDRM" en="Holiday Games" zhcn="假日游戏(德)" collection="missing"/>
+	<Game id="SHWE41" en="Hollywood Squares" zhcn="好莱坞广场(美)" collection="H"/>
 	<Game id="SH7ESZ" en="Honda ATV Fever" zhcn="狂热本田沙滩车(美)" collection="竞速游戏"/>
 	<Game id="RXNEXS" en="Hooked Again: Real Motion Fishing" zhcn="又上钩啦 实感钓鱼(美)" collection="运动游戏 钓鱼"/>
 	<Game id="RXPEXS" en="Hooked!: Real Motion Fishing" zhcn="实感钓鱼 上钩了(美)" collection="运动游戏 钓鱼"/>
-	<Game id="RIOPSU" en="Horrible Histories: Ruthless Romans" zhcn="恐怖历史之残忍罗马(欧)"/>
-	<Game id="SHMPLR" en="Horrid Henry: Missions of Mischief" zhcn="调皮的亨利(欧)"/>
-	<Game id="RL2HMN" en="Horse &amp; Pony: My Riding Stables" zhcn="Horse &amp; Pony: My Riding Stables"/>
-	<Game id="RL2PFR" en="Horse &amp; Pony: My Riding Stables" zhcn="我的驯马场(欧)"/>
-	<Game id="RH5PKM" en="Horse Life 2" zhcn="爱伦怀塔克的小马生活(欧)"/>
-	<Game id="RH5EVN" en="Horse Life Adventures" zhcn="小马生活冒险(美)" collection="doneh"/>
+	<Game id="RIOPSU" en="Horrible Histories: Ruthless Romans" zhcn="恐怖历史之残忍罗马(欧)" collection="missing"/>
+	<Game id="SHMPLR" en="Horrid Henry: Missions of Mischief" zhcn="调皮的亨利(欧)" collection="missing"/>
+	<Game id="RL2HMN" en="Horse &amp; Pony: My Riding Stables" zhcn="我的驯马场(荷)" collection="missing"/>
+	<Game id="RL2PFR" en="Horse &amp; Pony: My Riding Stables" zhcn="我的驯马场(欧)" collection="missing"/>
+	<Game id="RH5PKM" en="Horse Life 2" zhcn="爱伦怀塔克的小马生活(欧)" collection="missing"/>
+	<Game id="RH5EVN" en="Horse Life Adventures" zhcn="小马生活冒险(美)" collection="H"/>
 	<Game id="SUKJ01" en="Hoshi no Kirby Wii" zhcn="星之卡比 重回梦幻岛(日或中)" collection="星之卡比系列"/>
-	<Game id="S72J01" en="Hoshi no Kirby: 20 Shuunen Special Collection" zhcn="星之卡比 20周年纪念合集(日)"/>
-	<Game id="SPTJEB" en="Hospital. 6-nin no Ishi" zhcn="创伤小队 6人医师(日)"/>
-	<Game id="RO5E52" en="Hot Wheels: Battle Force 5" zhcn="无敌风火轮赛车 第五战队(美)" collection="doneh"/>
-	<Game id="RO5P52" en="Hot Wheels: Battle Force 5" zhcn="无敌风火轮赛车 第五战队(欧)"/>
-	<Game id="RHWE52" en="Hot Wheels: Beat That!" zhcn="热轮竞速(美)" collection="doneh"/>
-	<Game id="RHWP52" en="Hot Wheels: Beat That!" zhcn="热轮竞速(欧)"/>
-	<Game id="SHVE78" en="Hot Wheels: Track Attack" zhcn="风火轮赛车 赛道攻击(美)" collection="doneh"/>
-	<Game id="SHVP78" en="Hot Wheels: Track Attack" zhcn="风火轮赛车 赛道攻击(欧)"/>
-	<Game id="SHVX78" en="Hot Wheels: Track Attack" zhcn="风火轮赛车 赛道攻击(美)"/>
-	<Game id="ROEPGT" en="Hotel For Dogs" zhcn="流浪狗之家(欧)"/>
-	<Game id="ROEEJZ" en="Hotel for Dogs" zhcn="流浪狗之家(美)" collection="doneh"/>
-	<Game id="SVZEVZ" en="How to Train Your Dragon 2" zhcn="驯龙高手2(美)" collection="影视IP游戏"/>
-	<Game id="SVZPVZ" en="How to Train Your Dragon 2" zhcn="How to Train Your Dragon 2"/>
-	<Game id="SHDE52" en="How to Train Your Dragon" zhcn="驯龙高手(美)" collection="影视IP游戏"/>
-	<Game id="SHDP52" en="How to Train Your Dragon" zhcn="驯龙高手(美)"/>
-	<Game id="SHOXKR" en="Hugo: Magic in the Troll Woods" zhcn="雨果 巨魔树林里的魔法(X)"/>
-	<Game id="SHOYKR" en="Hugo: Magic in the Troll Woods" zhcn="雨果 巨魔树林里的魔法(Y)"/>
-	<Game id="R2LJMS" en="Hula Wii: Hula de Hajimeru: Bi to Kenkou!" zhcn="草裙舞Wii[平衡板](日)"/>
-	<Game id="SH2JMS" en="Hula Wii: Tanoshiku Hula o Odorou!!" zhcn="轻松学跳草裙舞(日)"/>
-	<Game id="RE7PNK" en="Hunting Challenge" zhcn="狩猎挑战(欧)"/>
-	<Game id="SHSE20" en="Hyper Fighters" zhcn="超级战斗机(美)" collection="doneh"/>
-	<Game id="SHSPXT" en="Hyper Fighters" zhcn="Hyper Fighters"/>
+	<Game id="S72J01" en="Hoshi no Kirby: 20 Shuunen Special Collection" zhcn="星之卡比 20周年纪念合集(日)" same-as="S72E01"/>
+	<Game id="SPTJEB" en="Hospital. 6-nin no Ishi" zhcn="创伤小队 6人医师(日)" collection="missing"/>
+	<Game id="RO5E52" en="Hot Wheels: Battle Force 5" zhcn="无敌风火轮赛车 第五战队(美)" collection="竞速游戏"/>
+	<Game id="RO5P52" en="Hot Wheels: Battle Force 5" zhcn="无敌风火轮赛车 第五战队(欧)" same-as="RO5E52"/>
+	<Game id="RHWE52" en="Hot Wheels: Beat That!" zhcn="热轮竞速(美)" collection="竞速游戏"/>
+	<Game id="RHWP52" en="Hot Wheels: Beat That!" zhcn="热轮竞速(欧)" same-as="RHWE52"/>
+	<Game id="SHVE78" en="Hot Wheels: Track Attack" zhcn="风火轮赛车 赛道攻击(美)" collection="竞速游戏"/>
+	<Game id="SHVP78" en="Hot Wheels: Track Attack" zhcn="风火轮赛车 赛道攻击(欧)" same-as="SHVE78"/>
+	<Game id="SHVX78" en="Hot Wheels: Track Attack" zhcn="风火轮赛车 赛道攻击(X)" same-as="SHVE78"/>
+	<Game id="ROEPGT" en="Hotel For Dogs" zhcn="流浪狗之家(欧)" same-as="ROEEJZ"/>
+	<Game id="ROEEJZ" en="Hotel for Dogs" zhcn="流浪狗之家(美)" collection="H"/>
+	<Game id="SVZEVZ" en="How to Train Your Dragon 2" zhcn="驯龙高手2(美)" collection="影视IP游戏 美国"/>
+	<Game id="SVZPVZ" en="How to Train Your Dragon 2" zhcn="驯龙高手2(欧)" same-as="SVZEVZ"/>
+	<Game id="SHDE52" en="How to Train Your Dragon" zhcn="驯龙高手(美)" collection="影视IP游戏 美国"/>
+	<Game id="SHDP52" en="How to Train Your Dragon" zhcn="驯龙高手(欧)" same-as="SHDE52"/>
+	<Game id="SHOXKR" en="Hugo: Magic in the Troll Woods" zhcn="雨果 巨魔树林里的魔法(X)" collection="missing"/>
+	<Game id="SHOYKR" en="Hugo: Magic in the Troll Woods" zhcn="雨果 巨魔树林里的魔法(Y)" collection="missing"/>
+	<Game id="R2LJMS" en="Hula Wii: Hula de Hajimeru: Bi to Kenkou!" zhcn="草裙舞Wii(日)" collection="missing"/>
+	<Game id="SH2JMS" en="Hula Wii: Tanoshiku Hula o Odorou!!" zhcn="轻松学跳草裙舞(日)" collection="missing"/>
+	<Game id="RE7PNK" en="Hunting Challenge" zhcn="狩猎挑战(欧)" collection="missing"/>
+	<Game id="SHSE20" en="Hyper Fighters" zhcn="超级战斗机(美)" collection="H"/>
+	<Game id="SHSPXT" en="Hyper Fighters" zhcn="超级战斗机(欧)" same-as="SHSE20"/>
 	<Game id="RMCEHY" en="Hypersonic Kart Wii" zhcn="Hypersonic Kart Wii"/>
-	<Game id="RJVEGN" en="Hysteria Hospital: Emergency Ward" zhcn="狂热医院 紧急病房(美)" collection="1"/>
+	<Game id="RJVEGN" en="Hysteria Hospital: Emergency Ward" zhcn="狂热医院 紧急病房(美)" collection="H"/>
 	<Game id="RJVPGN" en="Hysteria Hospital: Emergency Ward" zhcn="狂热医院 紧急病房(欧)"/>
 </Game-List>
