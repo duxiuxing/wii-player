@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Game-List>
 	<Game id="SVTP99" en="BIT.TRIP COMPLETE" zhcn="BIT.TRIP COMPLETE"/>
-	<Game id="R6APPU" en="Baby and Me" zhcn="宝贝和我(欧)"/>
+	<Game id="R6APPU" en="Baby and Me" zhcn="宝贝和我(欧)" collection="missing"/>
 	<Game id="SBWJRA" en="Babysitter Mama" zhcn="育儿妈妈(日或中)" collection="料理妈妈系列"/>
 	<Game id="SBWE5G" en="Babysitting Mama" zhcn="育儿妈妈(美)" collection="料理妈妈系列" same-as="SBWJRA"/>
-	<Game id="R8BP41" en="Babysitting Party" zhcn="保姆派对(欧)"/>
+	<Game id="R8BP41" en="Babysitting Party" zhcn="保姆派对(欧)" same-as="R8BE41"/>
 	<Game id="S5BETL" en="Back to the Future: The Game" zhcn="回到未来(美)" collection="影视IP游戏"/>
 	<Game id="S5BPKM" en="Back to the Future: The Game" zhcn="回到未来(欧)" same-as="S5BETL"/>
 	<Game id="RB8E70" en="Backyard Baseball '09" zhcn="后院棒球09(美)" collection="运动游戏 棒球"/>
@@ -16,34 +16,34 @@
 	<Game id="SADE70" en="Backyard Sports: Sandlot Sluggers" zhcn="后院运动 沙地强打者(美)" collection="运动游戏 棒球"/>
 	<Game id="RUHX52" en="Bakugan Battle Brawlers (Toys R Us Edition)" zhcn="爆丸 战斗对决(X)" collection="B"/>
 	<Game id="RUHE52" en="Bakugan Battle Brawlers" zhcn="爆丸 战斗对决(美)" collection="B"/>
-	<Game id="RUHP52" en="Bakugan Battle Brawlers" zhcn="爆丸 战斗对决(欧)"/>
-	<Game id="RUHZ52" en="Bakugan Battle Brawlers" zhcn="爆丸 战斗对决(欧)"/>
+	<Game id="RUHP52" en="Bakugan Battle Brawlers" zhcn="爆丸 战斗对决(欧)" same-as="RUHE52"/>
+	<Game id="RUHZ52" en="Bakugan Battle Brawlers" zhcn="爆丸 战斗对决(Z)" same-as="RUHE52"/>
 	<Game id="SB6E52" en="Bakugan: Defenders of the Core" zhcn="爆丸 核心守护者(美)" collection="B"/>
-	<Game id="SB6P52" en="Bakugan: Defenders of the Core" zhcn="爆丸 核心守护者(欧)"/>
-	<Game id="SBRPKM" en="Ballerina" zhcn="一起跳芭蕾(欧)"/>
+	<Game id="SB6P52" en="Bakugan: Defenders of the Core" zhcn="爆丸 核心守护者(欧)" same-as="SB6E52"/>
+	<Game id="SBRPKM" en="Ballerina" zhcn="一起跳芭蕾(欧)" same-as="SBREJJ"/>
 	<Game id="RB2E6K" en="Balloon Pop" zhcn="气球泡泡(美)" collection="益智游戏"/>
 	<Game id="RBFE20" en="Balls of Fury" zhcn="乒乓特种兵(美)" collection="运动游戏 乒乓球和网球"/>
-	<Game id="RBFP7J" en="Balls of Fury" zhcn="乒乓特种兵(欧)"/>
+	<Game id="RBFP7J" en="Balls of Fury" zhcn="乒乓特种兵(欧)" same-as="RBFE20"/>
 	<Game id="SXFE52" en="Band Hero" zhcn="乐团英雄(美)" collection="乐队游戏"/>
-	<Game id="SXFP52" en="Band Hero" zhcn="乐团英雄(欧)"/>
-	<Game id="R96KAF" en="Baramui Klonoa - Door to Phantomile" zhcn="风之克罗诺亚 幻影之门(韩)"/>
+	<Game id="SXFP52" en="Band Hero" zhcn="乐团英雄(欧)" same-as="SXFE52"/>
+	<Game id="R96KAF" en="Baramui Klonoa - Door to Phantomile" zhcn="风之克罗诺亚 幻影之门(韩)" same-as="R96JAF"/>
 	<Game id="RRCE52" en="Barbie Horse Adventures: Riding Camp" zhcn="芭比小马冒险 骑术野营(美)" collection="芭比系列"/>
-	<Game id="RRCP52" en="Barbie Horse Adventures: Riding Camp" zhcn="芭比小马冒险 骑术野营(欧)"/>
+	<Game id="RRCP52" en="Barbie Horse Adventures: Riding Camp" zhcn="芭比小马冒险 骑术野营(欧)" same-as="RRCE52"/>
 	<Game id="S3EE78" en="Barbie Jet, Set &amp; Style!" zhcn="芭比娃娃 时尚风格(美)" collection="芭比系列"/>
-	<Game id="S3EP78" en="Barbie Jet, Set &amp; Style!" zhcn="芭比娃娃 时尚风格(欧)"/>
+	<Game id="S3EP78" en="Barbie Jet, Set &amp; Style!" zhcn="芭比娃娃 时尚风格(欧)" same-as="S3EE78"/>
 	<Game id="S3EXVZ" en="Barbie Jet, Set &amp; Style!" zhcn="芭比娃娃 时尚风格(X)" same-as="S3EE78"/>
 	<Game id="SVQEVZ" en="Barbie and Her Sisters: Puppy Rescue" zhcn="芭比姐妹之狗狗救援队(美)" collection="芭比系列"/>
-	<Game id="SVQPVZ" en="Barbie and Her Sisters: Puppy Rescue" zhcn="芭比姐妹之狗狗救援队(欧)"/>
+	<Game id="SVQPVZ" en="Barbie and Her Sisters: Puppy Rescue" zhcn="芭比姐妹之狗狗救援队(欧)" same-as="SVQEVZ"/>
 	<Game id="R23E52" en="Barbie and the Three Musketeers" zhcn="芭比与三个火枪手(美)" collection="芭比系列"/>
-	<Game id="R23P52" en="Barbie and the Three Musketeers" zhcn="芭比与三个火枪手(欧)"/>
+	<Game id="R23P52" en="Barbie and the Three Musketeers" zhcn="芭比与三个火枪手(欧)" same-as="R23E52"/>
 	<Game id="RBVE52" en="Barbie as The Island Princess" zhcn="芭比之森林公主(美)" collection="芭比系列"/>
-	<Game id="RBVP52" en="Barbie as The Island Princess" zhcn="芭比 森林公主(欧)"/>
+	<Game id="RBVP52" en="Barbie as The Island Princess" zhcn="芭比 森林公主(欧)" same-as="RBVE52"/>
 	<Game id="SNZEVZ" en="Barbie: Dreamhouse Party" zhcn="芭比梦幻屋派对(美)" collection="芭比系列"/>
-	<Game id="SNZPVZ" en="Barbie: Dreamhouse Party" zhcn="芭比梦幻屋派对(欧)"/>
+	<Game id="SNZPVZ" en="Barbie: Dreamhouse Party" zhcn="芭比梦幻屋派对(欧)" same-as="SNZEVZ"/>
 	<Game id="SB9E78" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(美)" collection="芭比系列"/>
 	<Game id="SB9EVZ" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(美)" same-as="SB9E78"/>
-	<Game id="SB9P78" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(欧)"/>
-	<Game id="SB9X78" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(X)"/>
+	<Game id="SB9P78" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(欧)" same-as="SB9E78"/>
+	<Game id="SB9X78" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(X)" same-as="SB9E78"/>
 	<Game id="SB9YVZ" en="Barbie: Groom and Glam Pups" zhcn="芭比娃娃 照顾小狗(Y)" same-as="SB9E78"/>
 	<Game id="RBYE78" en="Barnyard" zhcn="疯狂农庄(美)" collection="B"/>
 	<Game id="RBYP78" en="Barnyard" zhcn="疯狂农庄(欧)"/>
@@ -81,20 +81,20 @@
 	<Game id="RBEE52" en="Bee Movie Game" zhcn="蜜蜂总动员(美)" collection="影视IP游戏 美国"/>
 	<Game id="RBEP52" en="Bee Movie Game" zhcn="蜜蜂总动员(欧)"/>
 	<Game id="RBEX52" en="Bee Movie Game" zhcn="蜜蜂总动员(X)"/>
-	<Game id="SBNEG9" en="Ben 10: Alien Force Vilgax Attacks" zhcn="少年骇客 外星英雄之魔贾斯的袭击(美)" collection="美国影视IP游戏"/>
+	<Game id="SBNEG9" en="Ben 10: Alien Force Vilgax Attacks" zhcn="少年骇客 外星英雄之魔贾斯的袭击(美)" collection="影视IP游戏 美国"/>
 	<Game id="SBNPG9" en="Ben 10: Alien Force Vilgax Attacks" zhcn="少年骇客 外星英雄之魔贾斯的袭击(欧)"/>
-	<Game id="RWTEG9" en="Ben 10: Alien Force" zhcn="少年骇客 外星英雄(美)" collection="美国影视IP游戏"/>
+	<Game id="RWTEG9" en="Ben 10: Alien Force" zhcn="少年骇客 外星英雄(美)" collection="影视IP游戏 美国"/>
 	<Game id="RWTPG9" en="Ben 10: Alien Force" zhcn="少年骇客 外星英雄(欧)"/>
-	<Game id="SA6EG9" en="Ben 10: Galactic Racing" zhcn="少年骇客 银河赛车(美)" collection="美国影视IP游戏"/>
+	<Game id="SA6EG9" en="Ben 10: Galactic Racing" zhcn="少年骇客 银河赛车(美)" collection="影视IP游戏 美国"/>
 	<Game id="SA6PAF" en="Ben 10: Galactic Racing" zhcn="少年骇客 银河赛车(欧)"/>
-	<Game id="SVYEG9" en="Ben 10: Omniverse 2" zhcn="少年骇客 全面进化2(美)" collection="美国影视IP游戏"/>
+	<Game id="SVYEG9" en="Ben 10: Omniverse 2" zhcn="少年骇客 全面进化2(美)" collection="影视IP游戏 美国"/>
 	<Game id="SVYPAF" en="Ben 10: Omniverse 2" zhcn="少年骇客 全面进化2(欧)" same-as="SVYEG9"/>
-	<Game id="S5TEG9" en="Ben 10: Omniverse" zhcn="少年骇客 全面进化(美)" collection="美国影视IP游戏"/>
+	<Game id="S5TEG9" en="Ben 10: Omniverse" zhcn="少年骇客 全面进化(美)" collection="影视IP游戏 美国"/>
 	<Game id="S5TPAF" en="Ben 10: Omniverse" zhcn="少年骇客 全面进化(欧)" same-as="S5TEG9"/>
-	<Game id="RBNEG9" en="Ben 10: Protector of Earth" zhcn="少年骇客 地球保卫者(美)" collection="美国影视IP游戏"/>
+	<Game id="RBNEG9" en="Ben 10: Protector of Earth" zhcn="少年骇客 地球保卫者(美)" collection="影视IP游戏 美国"/>
 	<Game id="RBNPG9" en="Ben 10: Protector of Earth" zhcn="少年骇客 地球保卫者(欧)"/>
 	<Game id="RBNXG9" en="Ben 10: Protector of Earth" zhcn="少年骇客 地球保卫者(X)"/>
-	<Game id="SBJEG9" en="Ben 10: Ultimate Alien Cosmic Destruction" zhcn="少年骇客 终极异形之宇宙毁灭(美)" collection="美国影视IP游戏"/>
+	<Game id="SBJEG9" en="Ben 10: Ultimate Alien Cosmic Destruction" zhcn="少年骇客 终极异形之宇宙毁灭(美)" collection="影视IP游戏 美国"/>
 	<Game id="SBJPAF" en="Ben 10: Ultimate Alien Cosmic Destruction" zhcn="少年骇客 终极异形之宇宙毁灭(欧)" same-as="SBJEG9"/>
 	<Game id="SUZD7K" en="Benjamin Blümchen: Törööö! im Zoo" zhcn="Benjamin Blümchen: Törööö! im Zoo"/>
 	<Game id="SBEPSV" en="Bermuda Triangle" zhcn="百慕大三角 拯救珊瑚礁(欧)" same-as="SBZESZ"/>
