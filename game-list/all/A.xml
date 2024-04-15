@@ -79,45 +79,45 @@
 	<Game id="R6ME5Z" en="America's Next Top Model" zhcn="全美超模大赛(美)" collection="A"/>
 	<Game id="R6MPML" en="America's Next Top Model" zhcn="全美超模大赛(欧)" same-as="R6ME5Z"/>
 	<Game id="SSMEYG" en="American Mensa Academy" zhcn="美国门萨学院(美)" collection="A"/>
-	<Game id="RK3J01" en="And-Kensaku" zhcn="安藤检索(日)"/>
+	<Game id="RK3J01" en="And-Kensaku" zhcn="安藤检索(日)" collection="missing"/>
 	<Game id="S3LPY1" en="Andrew Lloyd Webber Musicals: Sing and Dance" zhcn="Andrew Lloyd Webber Musicals: Sing and Dance"/>
 	<Game id="RMCEAT" en="André's Retro Texture and Music Pack" zhcn="André's Retro Texture and Music Pack"/>
 	<Game id="JONE52" en="Angry Birds Trilogy but with more Levels!" zhcn="Angry Birds Trilogy but with more Levels!"/>
 	<Game id="SAWE52" en="Angry Birds Trilogy" zhcn="愤怒的小鸟 三部曲(美)" collection="A"/>
-	<Game id="SAWP52" en="Angry Birds Trilogy" zhcn="愤怒的小鸟 三部曲(欧)"/>
+	<Game id="SAWP52" en="Angry Birds Trilogy" zhcn="愤怒的小鸟 三部曲(欧)" same-as="SAWE52"/>
 	<Game id="S7DE52" en="Angry Birds: Star Wars" zhcn="愤怒的小鸟 星球大战(美)" collection="A"/>
-	<Game id="S7DP52" en="Angry Birds: Star Wars" zhcn="愤怒的小鸟 星球大战(欧)"/>
+	<Game id="S7DP52" en="Angry Birds: Star Wars" zhcn="愤怒的小鸟 星球大战(欧)" same-as="S7DE52"/>
 	<Game id="RUUE01" en="Animal Crossing: City Folk" zhcn="动物之森 城市大家庭(美)" collection="A"/>
-	<Game id="RUUK01" en="Animal Crossing: City Folk" zhcn="动物之森 城市大家庭(韩)"/>
-	<Game id="RUUP01" en="Animal Crossing: Let's Go to the City" zhcn="动物之森 城市大家庭(欧)"/>
+	<Game id="RUUK01" en="Animal Crossing: City Folk" zhcn="动物之森 城市大家庭(韩)" same-as="RUUE01"/>
+	<Game id="RUUP01" en="Animal Crossing: Let's Go to the City" zhcn="动物之森 城市大家庭(欧)" same-as="RUUE01"/>
 	<Game id="GAEE01" en="Animal Forest e+" zhcn="Animal Forest e+"/>
 	<Game id="RD6EE9" en="Animal Kingdom: Wildlife Expedition" zhcn="动物王国 野生动物探索(美)" collection="A"/>
 	<Game id="R82E52" en="Animal Planet: Vet Life" zhcn="动物星球 兽医(美)" collection="A"/>
-	<Game id="R82P52" en="Animal Planet: Vet Life" zhcn="动物星球 兽医(欧)"/>
-	<Game id="RGPJAF" en="Anime Slot Revolution: Pachi-Slot Kidou Senshi Gundam II: Ai Senshi-hen" zhcn="机动战士高达2 哀.战士篇(日)"/>
+	<Game id="R82P52" en="Animal Planet: Vet Life" zhcn="动物星球 兽医(欧)" same-as="R82E52"/>
+	<Game id="RGPJAF" en="Anime Slot Revolution: Pachi-Slot Kidou Senshi Gundam II: Ai Senshi-hen" zhcn="机动战士高达2 哀.战士篇(日)" collection="missing"/>
 	<Game id="RNOJ01" en="Another Code R Kioku no Tobira" zhcn="异色代码 R 记忆之门(日或中)" collection="中文游戏"/>
-	<Game id="RNOP01" en="Another Code: R - A Journey into Lost Memories" zhcn="异色代码 R 记忆之门(欧)"/>
+	<Game id="RNOP01" en="Another Code: R - A Journey into Lost Memories" zhcn="异色代码 R 记忆之门(欧)" same-as="RNOJ01"/>
 	<Game id="AMNE01" en="Another Super Mario Bros. Wii" zhcn="自制 另一个超级马里奥兄弟Wii(美)"/>
 	<Game id="ASMB01" en="Another Super Mario Bros. Wii" zhcn="另一版的超级马里奥兄弟Wii"/>
 	<Game id="PDUE01" en="Another Super Mario Bros. Wii" zhcn="自制 另一个超级马里奥兄弟Wii(美)"/>
 	<Game id="SMNE05" en="Another Super Mario Bros. Wii" zhcn="Another Super Mario Bros. Wii"/>
 	<Game id="SMNP05" en="Another Super Mario Bros. Wii" zhcn="Another Super Mario Bros. Wii"/>
-	<Game id="R88J2L" en="Anpanman Niko Niko Party" zhcn="面包超人 热烈派对(日)"/>
+	<Game id="R88J2L" en="Anpanman Niko Niko Party" zhcn="面包超人 热烈派对(日)" collection="missing"/>
 	<Game id="RMCEA7" en="Ant Kart Wii" zhcn="Ant Kart Wii"/>
 	<Game id="RMCEAQ" en="Antique Kart Wii" zhcn="Antique Kart Wii"/>
 	<Game id="RNVE5Z" en="Anubis II" zhcn="阿努比斯2(美)" collection="A"/>
-	<Game id="RNVPUG" en="Anubis II" zhcn="阿努比斯2(欧)"/>
-	<Game id="RNVXUG" en="Anubis II" zhcn="阿努比斯2(X)"/>
+	<Game id="RNVPUG" en="Anubis II" zhcn="阿努比斯2(欧)" same-as="RNVE5Z"/>
+	<Game id="RNVXUG" en="Anubis II" zhcn="阿努比斯2(X)" same-as="RNVE5Z"/>
 	<Game id="RO9EFS" en="Aqua Panic!" zhcn="水底恐慌(美)" collection="A"/>
 	<Game id="RO9PNK" en="Aqua Panic!" zhcn="水底恐慌(欧)"/>
 	<Game id="DQAJSC" en="Aquarius Baseball (Simplified Chinese Translation)" zhcn="水瓶座棒球(中)" same-as="DQAJK2"/>
-	<Game id="DQAJK2" en="Aquarius Baseball" zhcn="水瓶座棒球(日或中)" collection="A/运动游戏 棒球"/>
+	<Game id="DQAJK2" en="Aquarius Baseball" zhcn="水瓶座棒球(日或中)" collection="运动游戏 棒球"/>
 	<Game id="RPJEUD" en="Arc Rise Fantasia Undub" zhcn="Arc Rise Fantasia Undub"/>
 	<Game id="RPJE7U" en="Arc Rise Fantasia" zhcn="弧光幻想曲(美)" collection="A"/>
 	<Game id="RPJJ99" en="Arc Rise Fantasia" zhcn="弧光幻想曲(日)" same-as="RPJE7U"/>
 	<Game id="R74E20" en="Arcade Shooting Gallery" zhcn="商场射击馆(美)" collection="光枪游戏"/>
 	<Game id="R9XE52" en="Arcade Zone" zhcn="街机地带(美)" collection="街机游戏"/>
-	<Game id="R9XP52" en="Arcade Zone" zhcn="街机地带(欧)"/>
+	<Game id="R9XP52" en="Arcade Zone" zhcn="街机地带(欧)" same-as="R9XE52"/>
 	<Game id="RT2E20" en="Arctic Tale" zhcn="极地熊宝贝(美)" collection="A"/>
 	<Game id="RT2P7J" en="Arctic Tale" zhcn="极地熊宝贝(欧)" same-as="RT2E20"/>
 	<Game id="SA5E78" en="Are You Smarter Than A 5th Grader? Back to School" zhcn="你比五年级生聪明吗3(美)" collection="影视IP游戏 电视节目"/>
@@ -128,24 +128,24 @@
 	<Game id="RKYP7J" en="Army Men: Soldiers of Misfortune" zhcn="玩具军人 倒霉战士(欧)" same-as="RKYE20"/>
 	<Game id="R7HE6K" en="Army Rescue" zhcn="救兵总动员(美)" collection="A"/>
 	<Game id="S5WE20" en="Around The World in 50 Games" zhcn="在50个游戏里环游世界(美)" collection="A"/>
-	<Game id="R8RP41" en="Arthur and the Revenge of Maltazard" zhcn="亚瑟与他的迷你王国2(欧)"/>
-	<Game id="RDIJG2" en="Artlist Collection: The Dog Island ~Hitotsu no Hana no Monogatari~" zhcn="宠物狗乐园(日)"/>
-	<Game id="R6KP36" en="Ashes Cricket 2009" zhcn="灰烬杯板球赛2009(欧)"/>
-	<Game id="R6KU36" en="Ashes Cricket 2009" zhcn="灰烬杯板球赛2009(英)"/>
-	<Game id="RQXP70" en="Asterix at the Olympic Games" zhcn="奥运会上的阿斯特里克斯(欧)"/>
+	<Game id="R8RP41" en="Arthur and the Revenge of Maltazard" zhcn="亚瑟与他的迷你王国2(欧)" collection="missing"/>
+	<Game id="RDIJG2" en="Artlist Collection: The Dog Island ~Hitotsu no Hana no Monogatari~" zhcn="宠物狗乐园(日)" same-as="RDIE41"/>
+	<Game id="R6KP36" en="Ashes Cricket 2009" zhcn="灰烬杯板球赛2009(欧)" collection="missing"/>
+	<Game id="R6KU36" en="Ashes Cricket 2009" zhcn="灰烬杯板球赛2009(英)" collection="missing"/>
+	<Game id="RQXP70" en="Asterix at the Olympic Games" zhcn="奥运会上的阿斯特里克斯(欧)" collection="missing"/>
 	<Game id="R56EG9" en="Astro Boy: The Video Game" zhcn="铁臂阿童木(美)" collection="影视IP游戏 日本"/>
-	<Game id="R56PG9" en="Astro Boy: The Video Game" zhcn="铁臂阿童木(欧)"/>
-	<Game id="R4LPUG" en="Athletic Piggy Party" zhcn="田径猪派对(X)"/>
-	<Game id="R4LXUG" en="Athletic Piggy Party" zhcn="田径猪派对(X)"/>
+	<Game id="R56PG9" en="Astro Boy: The Video Game" zhcn="铁臂阿童木(欧)" same-as="R56EG9"/>
+	<Game id="R4LPUG" en="Athletic Piggy Party" zhcn="田径猪派对(欧)" collection="missing"/>
+	<Game id="R4LXUG" en="Athletic Piggy Party" zhcn="田径猪派对(X)" collection="missing"/>
 	<Game id="SASEWW" en="Atrévete a Soñar" zhcn="Atrévete a Soñar"/>
 	<Game id="S3AE5G" en="Attack of the Movies 3D" zhcn="电影空间大冒险(美)" collection="光枪游戏"/>
-	<Game id="S3APGT" en="Attack of the Movies 3D" zhcn="电影空间大冒险(美)"/>
+	<Game id="S3APGT" en="Attack of the Movies 3D" zhcn="电影空间大冒险(欧)" same-as="S3AE5G"/>
 	<Game id="RV9E78" en="Avatar: The Last Airbender - Into the Inferno" zhcn="降世神通 地狱之战(美)" collection="影视IP游戏"/>
 	<Game id="RVAE78" en="Avatar: The Last Airbender - The Burning Earth" zhcn="降世神通 燃烧的大地(美)" collection="影视IP游戏"/>
 	<Game id="RLVE78" en="Avatar: The Last Airbender" zhcn="降世神通 最后的气宗(美)" collection="影视IP游戏"/>
-	<Game id="RV9P78" en="Avatar: The Legend of Aang - Into the Inferno" zhcn="降世神通 地狱之战(欧)"/>
-	<Game id="RVAP78" en="Avatar: The Legend of Aang - The Burning Earth" zhcn="降世神通 燃烧的大地(欧)"/>
-	<Game id="RLVP78" en="Avatar: The Legend of Aang" zhcn="降世神通 最后的气宗(欧)"/>
+	<Game id="RV9P78" en="Avatar: The Legend of Aang - Into the Inferno" zhcn="降世神通 地狱之战(欧)" same-as="RV9E78"/>
+	<Game id="RVAP78" en="Avatar: The Legend of Aang - The Burning Earth" zhcn="降世神通 燃烧的大地(欧)" same-as="RVAE78"/>
+	<Game id="RLVP78" en="Avatar: The Legend of Aang" zhcn="降世神通 最后的气宗(欧)" same-as="RLVE78"/>
 	<Game id="SMNE25" en="Awesome Super Mario Bros. Wii" zhcn="Awesome Super Mario Bros. Wii"/>
 	<Game id="SMNE26" en="Awesomer Super Luigi Mini (Version 1)" zhcn="Awesomer Super Luigi Mini (Version 1)"/>
 	<Game id="SMNE12" en="Awesomer Super Luigi Mini" zhcn="Awesomer Super Luigi Mini"/>
