@@ -19,28 +19,27 @@
 	<Game id="SH8P52" en="Cabela's Adventure Camp" zhcn="坎贝拉冒险夏令营(美)"/>
 	<Game id="SQAE52" en="Cabela's African Adventures" zhcn="坎贝拉的非洲冒险(美)" collection="运动游戏 打猎"/>
 	<Game id="R8YE52" en="Cabela's Big Game Hunter 2010" zhcn="坎贝拉猎人2010(美)" collection="运动游戏 打猎"/>
-	<Game id="SC9P52" en="Cabela's Big Game Hunter 2010" zhcn="卡贝拉猎人2010(美)"/>
-	<Game id="SH6E52" en="Cabela's Big Game Hunter 2012" zhcn="坎贝拉狩猎2012(美)" collection="运动游戏 打猎"/>
-	<Game id="SH6P52" en="Cabela's Big Game Hunter 2012" zhcn="Cabela's Big Game Hunter 2012"/>
+	<Game id="SC9P52" en="Cabela's Big Game Hunter 2010" zhcn="坎贝拉猎人2010(欧)" same-as="R8YE52"/>
+	<Game id="SH6E52" en="Cabela's Big Game Hunter 2012" zhcn="坎贝拉猎人2012(美)" collection="运动游戏 打猎"/>
+	<Game id="SH6P52" en="Cabela's Big Game Hunter 2012" zhcn="坎贝拉猎人2012(欧)" same-as="SH6E52"/>
 	<Game id="RCBE52" en="Cabela's Big Game Hunter" zhcn="坎贝拉猎人(美)" collection="运动游戏 打猎"/>
-	<Game id="RCBP52" en="Cabela's Big Game Hunter" zhcn="坎贝拉猎人(欧)"/>
-	<Game id="RXZP52" en="Cabela's Dangerous Adventures" zhcn="卡贝拉危险狩猎2009(欧)"/>
+	<Game id="RCBP52" en="Cabela's Big Game Hunter" zhcn="坎贝拉猎人(欧)" same-as="RCBE52"/>
+	<Game id="RXZP52" en="Cabela's Dangerous Adventures" zhcn="卡贝拉危险狩猎2009(欧)" same-as="RXZE52"/>
 	<Game id="RXZE52" en="Cabela's Dangerous Hunts 2009" zhcn="坎贝拉危险狩猎2009(美)" collection="运动游戏 打猎"/>
 	<Game id="SCDE52" en="Cabela's Dangerous Hunts 2011" zhcn="坎贝拉危险狩猎2011(美)"/>
 	<Game id="SCDP52" en="Cabela's Dangerous Hunts 2011" zhcn="坎贝拉危险狩猎2011(欧)"/>
 	<Game id="SHUE52" en="Cabela's Dangerous Hunts 2011: Special Edition" zhcn="坎贝拉危险狩猎2011 特别版(美)" collection="运动游戏 打猎"/>
 	<Game id="SUVE52" en="Cabela's Dangerous Hunts 2013" zhcn="坎贝拉危险狩猎2013(美)" collection="运动游戏 打猎"/>
-	<Game id="SUVP52" en="Cabela's Dangerous Hunts 2013" zhcn="Cabela's Dangerous Hunts 2013"/>
+	<Game id="SUVP52" en="Cabela's Dangerous Hunts 2013" zhcn="坎贝拉危险狩猎2013(欧)" same-as="SUVE52"/>
 	<Game id="SOAE52" en="Cabela's Hunting Expeditions" zhcn="坎贝拉狩猎探险(美)" collection="运动游戏 打猎"/>
 	<Game id="RCUE52" en="Cabela's Legendary Adventures" zhcn="坎贝拉传奇冒险(美)" collection="运动游戏 打猎"/>
-	<Game id="RCUP52" en="Cabela's Legendary Adventures" zhcn=""/>
-	<Game id="RQPZ52" en="Cabela's Monster Buck Hunter" zhcn="坎贝拉的猎鹿(欧)" collection="运动游戏 打猎"/>
+	<Game id="RQPZ52" en="Cabela's Monster Buck Hunter" zhcn="坎贝拉的猎鹿人(Z)" collection="运动游戏 打猎"/>
 	<Game id="SNAE52" en="Cabela's North American Adventures 2011" zhcn="坎贝拉猎人 北美历险记2011(美)" collection="运动游戏 打猎"/>
 	<Game id="R9VE52" en="Cabela's Outdoor Adventures 2010" zhcn="坎贝拉野外冒险2010(美)" collection="运动游戏 打猎"/>
 	<Game id="SAJE52" en="Cabela's Survival: Shadows of Katmai" zhcn="坎贝拉生存大冒险 卡特迈的阴影(美)" collection="运动游戏 打猎"/>
 	<Game id="SAJP52" en="Cabela's Survival: Shadows of Katmai" zhcn="坎贝拉生存大冒险 卡特迈的阴影(欧)"/>
 	<Game id="RQPE52" en="Cabela's Trophy Bucks" zhcn="坎贝拉的猎鹿(美)" collection="运动游戏 打猎"/>
-	<Game id="RQPP52" en="Cabela's Trophy Bucks" zhcn="卡贝拉的猎鹿(欧)"/>
+	<Game id="RQPP52" en="Cabela's Trophy Bucks" zhcn="坎贝拉的猎鹿(欧)" same-as="RQPE52"/>
 	<Game id="RKDJEB" en="Caduceus Z: Futatsu no Chou Shittou" zhcn="超执刀 再次执刀(日)"/>
 	<Game id="RK2JEB" en="Caduceus: New Blood" zhcn="超执刀 新血(日)"/>
 	<Game id="R72E5G" en="Cake Mania: In The Mix!" zhcn="蛋糕工坊 混合(美)" collection="C"/>
@@ -167,7 +166,7 @@
 	<Game id="R8LE20" en="Chicken Blaster" zhcn="爆裂小鸡猎杀者(美)" collection="光枪游戏"/>
 	<Game id="R8LP7J" en="Chicken Blaster" zhcn="爆裂小鸡猎杀者(欧)" same-as="R8LE20"/>
 	<Game id="RCLP4Q" en="Chicken Little: Ace In Action" zhcn="四眼天鸡之动作天王(欧)"/>
-	<Game id="SCREJH" en="Chicken Riot" zhcn="小鸡大暴乱(美)" collection="C"/>
+	<Game id="SCREJH" en="Chicken Riot" zhcn="小鸡大暴乱(美)" collection="光枪游戏"/>
 	<Game id="SCRPJH" en="Chicken Riot" zhcn="小鸡大暴乱(欧)"/>
 	<Game id="RCSE20" en="Chicken Shoot" zhcn="射鸡英雄传(美)" collection="光枪游戏"/>
 	<Game id="RCSP7J" en="Chicken Shoot" zhcn="射鸡英雄传(欧)"/>
@@ -200,7 +199,7 @@
 	<Game id="SKWPNK" en="Cocoto Kart Racer 2" zhcn="Cocoto Kart Racer 2"/>
 	<Game id="ROCE5Z" en="Cocoto Kart Racer" zhcn="小魔怪卡丁车(美)" collection="竞速游戏"/>
 	<Game id="ROCPNK" en="Cocoto Kart Racer" zhcn="小魔怪卡丁车(欧)" same-as="ROCE5Z"/>
-	<Game id="RMRE5Z" en="Cocoto Magic Circus" zhcn="小魔怪魔法马戏团(美)" collection="C"/>
+	<Game id="RMRE5Z" en="Cocoto Magic Circus" zhcn="小魔怪魔法马戏团(美)" collection="光枪游戏"/>
 	<Game id="RMRPNK" en="Cocoto Magic Circus" zhcn="小魔怪魔法马戏团(欧)" same-as="RMRE5Z"/>
 	<Game id="RMRXNK" en="Cocoto Magic Circus" zhcn="小魔怪魔法马戏团(X)"/>
 	<Game id="SCTPNK" en="Cocoto Surprise" zhcn="小魔怪惊喜(欧)"/>
@@ -211,7 +210,7 @@
 	<Game id="R69P36" en="Colin McRae: DiRT 2" zhcn="尘埃2(欧)"/>
 	<Game id="RMCECG" en="Color Grand Prix" zhcn="Color Grand Prix"/>
 	<Game id="SGXP41" en="Combat of Giants: Dinosaurs Strike" zhcn="巨兽之战 恐龙袭击(欧)"/>
-	<Game id="SC2E8P" en="Conduit 2" zhcn="管道2(美)" collection="C"/>
+	<Game id="SC2E8P" en="Conduit 2" zhcn="管道2(美)" collection="光枪游戏"/>
 	<Game id="SC2P8P" en="Conduit 2" zhcn="管道2(欧)"/>
 	<Game id="RMCECK" en="Confused Kart Wii" zhcn="Confused Kart Wii"/>
 	<Game id="RZLE41" en="Cook Wars" zhcn="烹饪战争(美)" collection="C"/>

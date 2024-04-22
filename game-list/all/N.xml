@@ -37,7 +37,7 @@
 	<Game id="RNLP54" en="NHL 2K9" zhcn="北美冰球联盟2009[WiFi](欧)"/>
 	<Game id="SHYE69" en="NHL SlapShot" zhcn="NHL冰球 强打(美)" collection="N"/>
 	<Game id="SHYP69" en="NHL Slapshot" zhcn="NHL冰球 强打(欧)"/>
-	<Game id="R29E52" en="NPPL Championship Paintball 2009" zhcn="世界彩弹锦标赛2009(美)" collection="N"/>
+	<Game id="R29E52" en="NPPL Championship Paintball 2009" zhcn="世界彩弹锦标赛2009(美)" collection="光枪游戏"/>
 	<Game id="SNMEAF" en="Namco Museum Megamix" zhcn="Namco博物馆 重制版(美)" collection="N"/>
 	<Game id="RN2EAF" en="Namco Museum Remix" zhcn="Namco博物馆重制版(美)" collection="4"/>
 	<Game id="RN2K70" en="Namco Museum Remix" zhcn=""/>
@@ -381,8 +381,8 @@
 	<Game id="RNDJAF" en="Nodame Cantabile Dream Orchestra" zhcn="交响情人梦 梦之☆管弦乐(日)"/>
 	<Game id="SMNEN2" en="Normal Super Mario Bros. Wii" zhcn="Normal Super Mario Bros. Wii"/>
 	<Game id="SNEPXT" en="North American Hunting 2: Extravaganza" zhcn="北美狩猎盛典2(欧)"/>
-	<Game id="SNEENR" en="North American Hunting Extravaganza 2" zhcn="北美狩猎盛典2(美)" collection="N"/>
-	<Game id="RN6ENR" en="North American Hunting Extravaganza" zhcn="北美狩猎盛典(美)" collection="N"/>
+	<Game id="SNEENR" en="North American Hunting Extravaganza 2" zhcn="北美狩猎盛典2(美)" collection="运动游戏 打猎"/>
+	<Game id="RN6ENR" en="North American Hunting Extravaganza" zhcn="北美狩猎盛典(美)" collection="运动游戏 打猎"/>
 	<Game id="RN6P7J" en="North American Hunting Extravaganza" zhcn="北美狩猎盛典(欧)"/>
 	<Game id="SNOPY1" en="Now! That's What I Call Music: Dance &amp; Sing" zhcn="Now! That's What I Call Music: Dance &amp; Sing"/>
 	<Game id="RC3J41" en="Nyanko to Mahou no Boushi" zhcn="模拟宠物猫2(日)"/>

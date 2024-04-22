@@ -41,10 +41,10 @@
 	<Game id="SMNE83" en="Sans Super Mario Bros. Wii" zhcn="Sans Super Mario Bros. Wii"/>
 	<Game id="SX5E4Z" en="Santa Claus is Comin' to Town!" zhcn="圣诞老人进城啰(美)" collection="S"/>
 	<Game id="SS5ENR" en="Satisfashion" zhcn="赛帝时尚公司(美)" collection="S"/>
-	<Game id="RSCD7D" en="Scarface: The World Is Yours" zhcn="疤面煞星 掌握世界(德)"/>
-	<Game id="RSCE7D" en="Scarface: The World Is Yours" zhcn="疤面煞星 掌握世界(美)" collection="S"/>
-	<Game id="RSCP7D" en="Scarface: The World Is Yours" zhcn="疤面煞星 掌握世界(欧)"/>
-	<Game id="RSCU7D" en="Scarface: The World Is Yours" zhcn="疤面煞星 掌握世界(英)"/>
+	<Game id="RSCD7D" en="Scarface: The World Is Yours" zhcn="疤面煞星 掌握世界(德)" same-as="RSCE7D"/>
+	<Game id="RSCE7D" en="Scarface: The World Is Yours" zhcn="疤面煞星 掌握世界(美)" collection="光枪游戏"/>
+	<Game id="RSCP7D" en="Scarface: The World Is Yours" zhcn="疤面煞星 掌握世界(欧)" same-as="RSCE7D"/>
+	<Game id="RSCU7D" en="Scarface: The World Is Yours" zhcn="疤面煞星 掌握世界(英)" same-as="RSCE7D"/>
 	<Game id="SSCDWR" en="Scene It? Bright Lights! Big Screen!" zhcn="电影场景猜猜 明亮的灯光与大屏幕(德)"/>
 	<Game id="SSCEPM" en="Scene It? Bright Lights! Big Screen!" zhcn="电影场景猜猜 明亮的灯光与大屏幕(美)" collection="S"/>
 	<Game id="SSCFWR" en="Scene It? Bright Lights! Big Screen!" zhcn="电影场景猜猜 明亮的灯光与大屏幕(法)"/>
@@ -136,7 +136,7 @@
 	<Game id="RRQX52" en="Shrek's Carnival Craze Party Games" zhcn="史莱克的疯狂嘉年华(X)"/>
 	<Game id="SIDE54" en="Sid Meier's Pirates!" zhcn="席德梅尔的海盗(美)" collection="S"/>
 	<Game id="SIDP54" en="Sid Meier's Pirates!" zhcn="席德梅尔的海盗(欧)"/>
-	<Game id="R5WEA4" en="Silent Hill: Shattered Memories" zhcn="寂静岭 破碎的记忆(美)" collection="done2"/>
+	<Game id="R5WEA4" en="Silent Hill: Shattered Memories" zhcn="寂静岭 破碎的记忆(美)" collection="光枪游戏"/>
 	<Game id="R5WJA4" en="Silent Hill: Shattered Memories" zhcn="寂静岭 破碎的记忆(日)"/>
 	<Game id="SHLPA4" en="Silent Hill: Shattered Memories" zhcn="寂静岭 破碎的记忆(欧)"/>
 	<Game id="R7AE69" en="SimAnimals Africa" zhcn="模拟动物 非洲(美)" collection="S"/>
@@ -251,7 +251,7 @@
 	<Game id="RVSE69" en="Skate It" zhcn="极限滑板[平衡板](美)" collection="S"/>
 	<Game id="RVSJ13" en="Skate It" zhcn="极限滑板[平衡板](日)"/>
 	<Game id="RVSP69" en="Skate It" zhcn="极限滑板[平衡板](欧)"/>
-	<Game id="RUME5Z" en="Ski and Shoot" zhcn="滑雪射击(美)" collection="平衡板游戏"/>
+	<Game id="RUME5Z" en="Ski and Shoot" zhcn="滑雪射击(美)" collection="光枪游戏"/>
 	<Game id="R87EVN" en="Ski-Doo: Snowmobile Challenge" zhcn="斯基度雪地车挑战赛(美)" collection="3"/>
 	<Game id="RMCEST" en="Skipper's 200Kmh Distribution" zhcn="Skipper's 200Kmh Distribution"/>
 	<Game id="RQRJAF" en="Sky Crawlers: Innocent Aces" zhcn="空中杀手 无罪王牌(日)"/>
@@ -289,8 +289,8 @@
 	<Game id="RSBEUV" en="Smash Universe Mod 1.0" zhcn="Smash Universe Mod 1.0"/>
 	<Game id="RIDE20" en="Smiley World: Island Challenge" zhcn="微笑世界岛屿挑战(美)" collection="S"/>
 	<Game id="RIDP7J" en="Smiley World: Island Challenge" zhcn="微笑的世界岛屿挑战(欧)"/>
-	<Game id="SSNEYG" en="Sniper Elite" zhcn="狙击精英(美)" collection="done2"/>
-	<Game id="SSNPHY" en="Sniper Elite" zhcn="狙击精英[WiFi](欧)"/>
+	<Game id="SSNEYG" en="Sniper Elite" zhcn="狙击精英(美)" collection="光枪游戏"/>
+	<Game id="SSNPHY" en="Sniper Elite" zhcn="狙击精英(欧)" same-as="SSNEYG"/>
 	<Game id="RMCESU" en="SnorgUp's Textures and Music Pack" zhcn="SnorgUp's Textures and Music Pack"/>
 	<Game id="RVJPFR" en="So Blonde: Back to the Island" zhcn="金发美女 回到小岛(欧)"/>
 	<Game id="RSOE4Z" en="Solitaire &amp; Mahjong" zhcn="纸牌麻将游戏专辑(美)" collection="3"/>
@@ -329,7 +329,7 @@
 	<Game id="RP9PRS" en="Space Chimps" zhcn="太空黑猩猩(欧)"/>
 	<Game id="RP9XRS" en="Space Chimps" zhcn="太空黑猩猩(X)"/>
 	<Game id="RMCE81" en="Spade's Custom Track Pack" zhcn="Spade's Custom Track Pack"/>
-	<Game id="SPHPJW" en="Spaghetti Western Shooter" zhcn="Spaghetti Western Shooter"/>
+	<Game id="SPHPJW" en="Spaghetti Western Shooter" zhcn="西部枪手(欧)" collection="光枪游戏"/>
 	<Game id="RXXE4Q" en="Spectrobes: Origins" zhcn="化石超进化 起源(美)" collection="S"/>
 	<Game id="RXXP4Q" en="Spectrobes: Origins" zhcn="化石超进化 起源(欧)"/>
 	<Game id="SQPPX4" en="Speed 2" zhcn="速度 2(欧)"/>

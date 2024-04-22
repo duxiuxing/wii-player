@@ -211,10 +211,10 @@
 	<Game id="RSBE10" en="Brawl Ying Yang Edition" zhcn="Brawl Ying Yang Edition"/>
 	<Game id="RSJE41" en="Broken Sword: Shadow of the Templars (Director's Cut)" zhcn="断剑 圣堂武士之谜(美)" collection="B"/>
 	<Game id="RSJP41" en="Broken Sword: Shadow of the Templars - The Director's Cut" zhcn="断剑 圣堂武士之谜(欧)"/>
-	<Game id="RB5E41" en="Brothers In Arms: Earned In Blood" zhcn="战火兄弟连 浴血奋战(美)" collection="B"/>
-	<Game id="RI8E41" en="Brothers In Arms: Road to Hill 30" zhcn="战火兄弟连 进军30高地(美)" collection="B"/>
-	<Game id="RB5P41" en="Brothers in Arms: Earned in Blood" zhcn="战火兄弟连 浴血奋战(欧)"/>
-	<Game id="RI8P41" en="Brothers in Arms: Road to Hill 30" zhcn="战火兄弟连 进军30高地(欧)"/>
+	<Game id="RB5E41" en="Brothers In Arms: Earned In Blood" zhcn="战火兄弟连 浴血奋战(美)" collection="光枪游戏"/>
+	<Game id="RI8E41" en="Brothers In Arms: Road to Hill 30" zhcn="战火兄弟连 进军30高地(美)" collection="光枪游戏"/>
+	<Game id="RB5P41" en="Brothers in Arms: Earned in Blood" zhcn="战火兄弟连 浴血奋战(欧)" same-as="RB5E41"/>
+	<Game id="RI8P41" en="Brothers in Arms: Road to Hill 30" zhcn="战火兄弟连 进军30高地(欧)" same-as="RI8E41"/>
 	<Game id="RBPE4Z" en="Brunswick Pro Bowling" zhcn="布朗斯威克 职业保龄球赛(美)" collection="运动游戏 保龄球"/>
 	<Game id="RBPPGT" en="Brunswick Pro Bowling" zhcn="布朗斯威克 职业保龄球赛(欧)"/>
 	<Game id="SBKEPZ" en="Brunswick Zone Cosmic Bowling" zhcn="布朗斯威克 宇宙领域保龄球(美)" collection="运动游戏 保龄球"/>

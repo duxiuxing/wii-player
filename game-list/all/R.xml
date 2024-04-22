@@ -50,11 +50,11 @@
 	<Game id="RY2K41" en="Rayman - Raving Rabbids 2" zhcn="雷曼 疯狂兔子2[WiFi](韩)"/>
 	<Game id="SOJE41" en="Rayman Origins" zhcn="雷曼 起源(美)" collection="1"/>
 	<Game id="SOJP41" en="Rayman Origins" zhcn="雷曼 起源(欧)"/>
-	<Game id="RY2E41" en="Rayman Raving Rabbids 2" zhcn="雷曼 疯狂兔子2[WiFi](美)" collection="R"/>
+	<Game id="RY2E41" en="Rayman Raving Rabbids 2" zhcn="雷曼 疯狂兔子2(美)" collection="疯狂兔子系列"/>
 	<Game id="RY2P41" en="Rayman Raving Rabbids 2" zhcn="疯狂兔子2(欧)" collection="疯狂兔子系列"/>
 	<Game id="RY2R41" en="Rayman Raving Rabbids 2" zhcn="雷曼 疯狂兔子2[WiFi](俄)"/>
 	<Game id="RY3E41" en="Rayman Raving Rabbids TV Party" zhcn="疯狂兔子 电视聚会(美)" collection="疯狂兔子系列"/>
-	<Game id="RRBE41" en="Rayman Raving Rabbids" zhcn="雷曼 疯狂兔子(美)" collection="R"/>
+	<Game id="RRBE41" en="Rayman Raving Rabbids" zhcn="雷曼 疯狂兔子(美)" collection="疯狂兔子系列"/>
 	<Game id="RRBP41" en="Rayman Raving Rabbids" zhcn="疯狂兔子(欧)" collection="疯狂兔子系列"/>
 	<Game id="RY3K41" en="Rayman Raving Rabbids: TV Party" zhcn="雷曼 疯狂兔子 电视聚会[WiFi][平衡板](韩)"/>
 	<Game id="RY3P41" en="Rayman Raving Rabbids: TV Party" zhcn="雷曼 疯狂兔子 电视聚会[WiFi][平衡板](欧)" collection="5"/>
@@ -71,7 +71,7 @@
 	<Game id="RRJFMR" en="Ready Steady Cook: The Game" zhcn="准备稳妥的厨师(法)"/>
 	<Game id="RRJIMR" en="Ready Steady Cook: The Game" zhcn="准备稳妥的厨师(意)"/>
 	<Game id="RRJPMR" en="Ready Steady Cook: The Game" zhcn="准备好的可靠的厨师(欧)" collection="3"/>
-	<Game id="RRRE5Z" en="Real Heroes: Firefighter" zhcn="火场英雄 消防队员(美)" collection="R"/>
+	<Game id="RRRE5Z" en="Real Heroes: Firefighter" zhcn="火场英雄 消防队员(美)" collection="光枪游戏"/>
 	<Game id="RRRPRM" en="Real Heroes: Firefighter" zhcn="火场英雄 消防队员(欧)"/>
 	<Game id="RR7PVP" en="Real Madrid The Game" zhcn="一球成名 皇家马德里 游戏版(欧)"/>
 	<Game id="RTEHMR" en="Real Stories: Veterinaire" zhcn="我的宠物医院(荷)"/>
@@ -80,31 +80,31 @@
 	<Game id="RVREFS" en="Rebel Raiders: Operation Nighthawk" zhcn="叛乱袭击者 夜鹰行动(美)" collection="3"/>
 	<Game id="RVRPKG" en="Rebel Raiders: Operation Nighthawk" zhcn="叛乱袭击者 夜鹰行动(欧)"/>
 	<Game id="SRRENR" en="Rec Room Games" zhcn="消遣游戏室(美)" collection="加速器游戏"/>
-	<Game id="RD2E41" en="Red Steel 2" zhcn="赤铁2[MP](美)" collection="R"/>
-	<Game id="RD2J41" en="Red Steel 2" zhcn="赤铁2[MP](日)"/>
-	<Game id="RD2K41" en="Red Steel 2" zhcn="赤铁2[MP](韩)"/>
-	<Game id="RD2P41" en="Red Steel 2" zhcn="赤铁2[MP](欧)"/>
-	<Game id="RD2X41" en="Red Steel 2" zhcn="赤铁2(X)" collection="加速器游戏"/>
-	<Game id="REDE41" en="Red Steel" zhcn="赤色钢铁(美)" collection="R"/>
-	<Game id="REDJ41" en="Red Steel" zhcn="赤铁(日)"/>
-	<Game id="REDP41" en="Red Steel" zhcn="赤铁(欧)"/>
+	<Game id="RD2E41" en="Red Steel 2" zhcn="赤铁2(美)" collection="光枪游戏"/>
+	<Game id="RD2J41" en="Red Steel 2" zhcn="赤铁2(日)" same-as="RD2E41"/>
+	<Game id="RD2K41" en="Red Steel 2" zhcn="赤铁2(韩)" same-as="RD2E41"/>
+	<Game id="RD2P41" en="Red Steel 2" zhcn="赤铁2(欧)" same-as="RD2E41"/>
+	<Game id="RD2X41" en="Red Steel 2" zhcn="赤铁2(X)" collection="光枪游戏"/>
+	<Game id="REDE41" en="Red Steel" zhcn="赤铁(美)" collection="光枪游戏"/>
+	<Game id="REDJ41" en="Red Steel" zhcn="赤铁(日)" same-as="REDE41"/>
+	<Game id="REDP41" en="Red Steel" zhcn="赤铁(欧)" same-as="REDE41"/>
 	<Game id="RRFEE9" en="Reel Fishing: Angler's Dream" zhcn="鱼之眼Wii(美)" collection="R"/>
 	<Game id="RRFPE9" en="Reel Fishing: Angler's Dream" zhcn="鱼之眼Wii(欧)"/>
 	<Game id="SMNEZV" en="Release Super Mario Bros. Wii" zhcn="Release Super Mario Bros. Wii"/>
 	<Game id="SMNJZV" en="Release Super Mario Bros. Wii" zhcn="Release Super Mario Bros. Wii"/>
 	<Game id="SMNPZV" en="Release Super Mario Bros. Wii" zhcn="Release Super Mario Bros. Wii"/>
 	<Game id="RMCEW5" en="Releasio Kart Wee" zhcn="Releasio Kart Wee"/>
-	<Game id="S2RPNK" en="Reload" zhcn="目标狙击(美)"/>
-	<Game id="STDEFP" en="Reload" zhcn="目标狙击(美)" collection="3"/>
-	<Game id="STDURN" en="Reload" zhcn="Reload"/>
+	<Game id="S2RPNK" en="Reload" zhcn="目标狙击(欧)" same-as="STDEFP"/>
+	<Game id="STDEFP" en="Reload" zhcn="目标狙击(美)" collection="光枪游戏"/>
+	<Game id="STDURN" en="Reload" zhcn="目标狙击(英)" same-as="STDEFP"/>
 	<Game id="SRKPNK" en="Remington Dangerous Animals" zhcn="Remington Dangerous Animals"/>
 	<Game id="SBHEFP" en="Remington Great American Bird Hunt" zhcn="雷明顿美洲猎鸟记(美)" collection="光枪游戏"/>
-	<Game id="SBHPNK" en="Remington Great American Bird Hunt" zhcn="雷明顿美洲猎鸟记(欧)"/>
+	<Game id="SBHPNK" en="Remington Great American Bird Hunt" zhcn="雷明顿美洲猎鸟记(欧)" same-as="SBHEFP"/>
 	<Game id="SS7EFP" en="Remington Super Slam Hunting: Africa" zhcn="雷明顿超级大满贯狩猎 非洲(美)" collection="光枪游戏"/>
-	<Game id="SS7URN" en="Remington Super Slam Hunting: Africa" zhcn="雷明顿超级大满贯狩猎 非洲(英)"/>
+	<Game id="SS7URN" en="Remington Super Slam Hunting: Africa" zhcn="雷明顿超级大满贯狩猎 非洲(英)" id="SS7EFP"/>
 	<Game id="SRKEFP" en="Remington Super Slam Hunting: Alaska" zhcn="雷明顿超级大满贯狩猎 阿拉斯加(美)" collection="光枪游戏"/>
 	<Game id="SBSEFP" en="Remington Super Slam Hunting: North America" zhcn="雷明顿超级大满贯狩猎 北美(美)" collection="光枪游戏"/>
-	<Game id="SBSURN" en="Remington Super Slam Hunting: North America" zhcn="雷明顿狩猎北美超级大满贯(英)"/>
+	<Game id="SBSURN" en="Remington Super Slam Hunting: North America" zhcn="雷明顿超级大满贯狩猎 北美((英)" same-as="SBSEFP"/>
 	<Game id="SMNE60" en="Remixed Super Mario Bros. Wii" zhcn="Remixed Super Mario Bros. Wii"/>
 	<Game id="SMNJ60" en="Remixed Super Mario Bros. Wii" zhcn="Remixed Super Mario Bros. Wii"/>
 	<Game id="SMNP60" en="Remixed Super Mario Bros. Wii" zhcn="Remixed Super Mario Bros. Wii"/>

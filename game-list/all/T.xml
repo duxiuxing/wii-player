@@ -37,8 +37,7 @@
 	<Game id="RDTPAF" en="Tamagotchi: Party On!" zhcn="电子鸡宠物店(欧)"/>
 	<Game id="RMCETP" en="Tan in the Snow Pack" zhcn="Tan in the Snow Pack"/>
 	<Game id="SSQE04" en="Tanooki Mr. L Mail Shy Guy Mod" zhcn="Tanooki Mr. L Mail Shy Guy Mod"/>
-	<Game id="RGDEA4" en="Target: Terror" zhcn="恐怖行动(美)"/>
-	<Game id="RGDPA4" en="Target: Terror" zhcn=""/>
+	<Game id="RGDEA4" en="Target: Terror" zhcn="恐怖行动(美)" collection="光枪游戏"/>
 	<Game id="R22J01" en="Tataite Hazumu: Super Smash Ball Plus" zhcn="弹球小精灵[MP](日)"/>
 	<Game id="RF7J08" en="Tatsunoko vs. Capcom: Cross Generation of Heroes" zhcn="龙之子对卡普空(日)" collection="1"/>
 	<Game id="STKE08" en="Tatsunoko vs. Capcom: Ultimate All-Stars" zhcn="龙之子对卡普空 究极全明星(美)" collection="done2"/>
@@ -93,8 +92,8 @@
 	<Game id="RNNX4Q" en="The Chronicles of Narnia: Prince Caspian" zhcn="纳尼亚传奇 凯斯宾王子(X)"/>
 	<Game id="RNNY4Q" en="The Chronicles of Narnia: Prince Caspian" zhcn="纳尼亚传奇 凯斯宾王子(Y)"/>
 	<Game id="RNNZ4Q" en="The Chronicles of Narnia: Prince Caspian" zhcn="纳尼亚传奇 凯斯宾王子(Z)"/>
-	<Game id="RCJE8P" en="The Conduit" zhcn="管道(美)" collection="2"/>
-	<Game id="RCJP8P" en="The Conduit" zhcn="管道[WiFi](欧)"/>
+	<Game id="RCJE8P" en="The Conduit" zhcn="管道(美)" collection="光枪游戏"/>
+	<Game id="RCJP8P" en="The Conduit" zhcn="管道(欧)"/>
 	<Game id="SVVEG9" en="The Croods: Prehistoric Party!" zhcn="疯狂原始人：史前派对(美)"/>
 	<Game id="SVVPAF" en="The Croods: Prehistoric Party!" zhcn="古魯家族(歐)"/>
 	<Game id="SGJPSV" en="The Crown of Midas" zhcn="The Crown of Midas"/>
@@ -109,11 +108,11 @@
 	<Game id="SODPYK" en="The Explorer and the Mystery of the Diamond Scarab" zhcn="The Explorer and the Mystery of the Diamond Scarab"/>
 	<Game id="SG7E20" en="The Garfield Show: Threat of the Space Lasagna" zhcn="加菲猫 拉萨尼亚危机[MP][平衡板](美)"/>
 	<Game id="SG7PVL" en="The Garfield Show: Threat of the Space Lasagna" zhcn="加菲猫 拉萨尼亚危机[MP][平衡板](欧)"/>
-	<Game id="RGFE69" en="The Godfather: Blackhand Edition" zhcn="教父 黑手党(美)"/>
-	<Game id="RGFF69" en="The Godfather: Blackhand Edition" zhcn="教父 黑手党(法)"/>
-	<Game id="RGFI69" en="The Godfather: Blackhand Edition" zhcn="教父 黑手党(意)"/>
-	<Game id="RGFP69" en="The Godfather: Blackhand Edition" zhcn="教父 黑手党(欧)"/>
-	<Game id="RGFS69" en="The Godfather: Blackhand Edition" zhcn="教父 黑手党(西)"/>
+	<Game id="RGFE69" en="The Godfather: Blackhand Edition" zhcn="教父 黑手党(美)" collection="光枪游戏"/>
+	<Game id="RGFF69" en="The Godfather: Blackhand Edition" zhcn="教父 黑手党(法)" same-as="RGFE69"/>
+	<Game id="RGFI69" en="The Godfather: Blackhand Edition" zhcn="教父 黑手党(意)" same-as="RGFE69"/>
+	<Game id="RGFP69" en="The Godfather: Blackhand Edition" zhcn="教父 黑手党(欧)" same-as="RGFE69"/>
+	<Game id="RGFS69" en="The Godfather: Blackhand Edition" zhcn="教父 黑手党(西)" same-as="RGFE69"/>
 	<Game id="R5AE8P" en="The Golden Compass" zhcn="黄金罗盘(美)"/>
 	<Game id="R5AP8P" en="The Golden Compass" zhcn="黄金罗盘(欧)"/>
 	<Game id="R5AX8P" en="The Golden Compass" zhcn="黄金罗盘(X)"/>
@@ -123,9 +122,9 @@
 	<Game id="RYNP6V" en="The Hardy Boys: The Hidden Theft" zhcn="哈迪男孩 隐藏的盗窃(欧)"/>
 	<Game id="SUOE41" en="The Hip Hop Dance Experience" zhcn="嘻哈舞蹈生涯(美)"/>
 	<Game id="SUOP41" en="The Hip Hop Dance Experience" zhcn="The Hip Hop Dance Experience"/>
-	<Game id="RHCE52" en="The History Channel: Battle for the Pacific" zhcn="历史频道 太平洋战争(美)"/>
-	<Game id="RHCP52" en="The History Channel: Battle for the Pacific" zhcn="历史频道 太平洋战争(欧)"/>
-	<Game id="RHDE8P" en="The House of the Dead 2 &amp; 3 Return" zhcn="死亡之屋2+3(美)"/>
+	<Game id="RHCE52" en="The History Channel: Battle for the Pacific" zhcn="历史频道 太平洋战争(美)" collection="光枪游戏"/>
+	<Game id="RHCP52" en="The History Channel: Battle for the Pacific" zhcn="历史频道 太平洋战争(欧)" same-as="RHCE52"/>
+	<Game id="RHDE8P" en="The House of the Dead 2 &amp; 3 Return" zhcn="死亡之屋2+3(美)" collection="光枪游戏"/>
 	<Game id="RHDJ8P" en="The House of the Dead 2 &amp; 3 Return" zhcn="死亡之屋2+3(日)" collection="光枪游戏"/>
 	<Game id="RHDP8P" en="The House of the Dead 2 &amp; 3 Return" zhcn="死亡之屋2+3(欧)"/>
 	<Game id="RHD222" en="The House of the Dead 2" zhcn="自制 死亡之屋2(自)"/>
@@ -185,7 +184,7 @@
 	<Game id="SMNE47" en="The New Special Road" zhcn="The New Special Road"/>
 	<Game id="SMNJ47" en="The New Special Road" zhcn="The New Special Road"/>
 	<Game id="SMNP47" en="The New Special Road" zhcn="The New Special Road"/>
-	<Game id="SORE4Z" en="The Oregon Trail" zhcn="The Oregon Trail"/>
+	<Game id="SORE4Z" en="The Oregon Trail" zhcn="俄勒冈之旅(美)" collection="策略游戏"/>
 	<Game id="SP8E78" en="The Penguins of Madagascar: Dr. Blowhole Returns Again!" zhcn="马达加斯加的企鹅 Dr. Blowhole Returns Again!(美)"/>
 	<Game id="SP8P78" en="The Penguins of Madagascar: Dr. Blowhole Returns Again!" zhcn="马达加斯加的企鹅 Dr. Blowhole Returns Again!(欧)"/>
 	<Game id="SMNEZP" en="The Pit of 100 Trials 1-20" zhcn="The Pit of 100 Trials 1-20"/>
@@ -274,10 +273,10 @@
 	<Game id="SMNE84" en="Toad and Toadette Super Mario Bros. Wii" zhcn="Toad and Toadette Super Mario Bros. Wii"/>
 	<Game id="R89JEL" en="Tokyo Friend Park II: Ketteiban: Minna de Chousen! Taikan Attraction!" zhcn="东京友好乐园2(日)"/>
 	<Game id="SGHE41" en="Tom Clancy's Ghost Recon" zhcn="汤姆克兰西 幽灵行动(美)" collection="汤姆克兰西系列"/>
-	<Game id="SGHP41" en="Tom Clancy's Ghost Recon" zhcn="汤姆克兰西 幽灵行动[WiFi](欧)"/>
-	<Game id="RTAE41" en="Tom Clancy's H.A.W.X. 2" zhcn="汤姆克兰西之鹰击长空2(美)" collection="T"/>
+	<Game id="SGHP41" en="Tom Clancy's Ghost Recon" zhcn="汤姆克兰西 幽灵行动(欧)" same-as="SGHE41"/>
+	<Game id="RTAE41" en="Tom Clancy's H.A.W.X. 2" zhcn="汤姆克兰西 鹰击长空2(美)" collection="汤姆克兰西系列"/>
 	<Game id="RTAP41" en="Tom Clancy's H.A.W.X. 2" zhcn="汤姆克兰西 鹰击长空2(欧)" collection="汤姆克兰西系列"/>
-	<Game id="RTCE41" en="Tom Clancy's Splinter Cell: Double Agent" zhcn="分裂细胞 双重间谍(美)"/>
+	<Game id="RTCE41" en="Tom Clancy's Splinter Cell: Double Agent" zhcn="分裂细胞 双重间谍(美)" collection="汤姆克兰西系列"/>
 	<Game id="RTCP41" en="Tom Clancy's Splinter Cell: Double Agent" zhcn="分裂细胞 双重间谍(欧)"/>
 	<Game id="RMCET0" en="TomB's CT Pack" zhcn="TomB's CT Pack"/>
 	<Game id="RLRE4F" en="Tomb Raider: Anniversary" zhcn="古墓丽影 十周年纪念版(美)" collection="done2"/>
@@ -296,8 +295,8 @@
 	<Game id="STYP52" en="Tony Hawk: Shred" zhcn="托尼霍克滑板(欧)"/>
 	<Game id="RYLPSV" en="Top Model Academy" zhcn="Top Model Academy"/>
 	<Game id="R6MXMR" en="Top Model" zhcn="Top Model"/>
-	<Game id="ST9E52" en="Top Shot Arcade" zhcn="顶级射手(美)"/>
-	<Game id="R8XZ52" en="Top Shot Dinosaur Hunter" zhcn="顶级射手 恐龙猎人(美)"/>
+	<Game id="ST9E52" en="Top Shot Arcade" zhcn="顶级射手(美)" collection="光枪游戏"/>
+	<Game id="R8XZ52" en="Top Shot Dinosaur Hunter" zhcn="顶级射手 恐龙猎人(美)" collection="光枪游戏"/>
 	<Game id="R3TE54" en="Top Spin 3" zhcn="上旋高手3(美)"/>
 	<Game id="R3TJG9" en="Top Spin 3" zhcn="上旋高手3(日)"/>
 	<Game id="R3TP54" en="Top Spin 3" zhcn="上旋高手3(欧)" collection="运动游戏 乒乓球和网球"/>
@@ -322,7 +321,7 @@
 	<Game id="STSX4Q" en="Toy Story 3" zhcn="玩具总动员3(欧)"/>
 	<Game id="STSY4Q" en="Toy Story 3" zhcn="玩具总动员3(欧)"/>
 	<Game id="STSZ4Q" en="Toy Story 3: Toy Box Special Edition" zhcn="玩具总动员3 玩具盒特别版(美)"/>
-	<Game id="R5IE4Q" en="Toy Story Mania!" zhcn="玩具总动员(美)" collection="done2"/>
+	<Game id="R5IE4Q" en="Toy Story Mania!" zhcn="玩具总动员(美)" collection="影视IP游戏 美国"/>
 	<Game id="R5IP4Q" en="Toy Story Mania!" zhcn="玩具总动员(欧)"/>
 	<Game id="R5IR4Q" en="Toy Story Mania!" zhcn="Toy Story Mania!"/>
 	<Game id="R5IX4Q" en="Toy Story Mania!" zhcn="玩具总动员(X)"/>
@@ -331,7 +330,7 @@
 	<Game id="SB4E11" en="Transformationless Mario Galaxy 2" zhcn="Transformationless Mario Galaxy 2"/>
 	<Game id="RMGE07" en="Transformationless Mario Galaxy" zhcn="Transformationless Mario Galaxy"/>
 	<Game id="STFP52" en="Transformers Prime: The Game" zhcn="变形金刚：领袖(欧)"/>
-	<Game id="ST5E52" en="Transformers: Cybertron Adventures" zhcn="变形金刚 塞伯坦冒险(美)" collection="done3"/>
+	<Game id="ST5E52" en="Transformers: Cybertron Adventures" zhcn="变形金刚 塞伯坦冒险(美)" collection="影视IP游戏 美国"/>
 	<Game id="ST5P52" en="Transformers: Cybertron Adventures" zhcn="变形金刚 赛博坦大战(欧)"/>
 	<Game id="STZE52" en="Transformers: Dark of the Moon - Stealth Force Edition" zhcn="变形金刚3 月黑之时(美)" collection="done3"/>
 	<Game id="STZP52" en="Transformers: Dark of the Moon - Stealth Force Edition" zhcn="变形金刚3(欧)"/>

@@ -95,8 +95,8 @@
 	<Game id="RW5F41" en="Who Wants To Be A Millionaire: 2nd Edition" zhcn="谁想成为百万富翁？第二集(法)"/>
 	<Game id="RW5P41" en="Who Wants To Be A Millionaire: 2nd Edition" zhcn="谁想成为百万富翁？第二集(欧)"/>
 	<Game id="RTGJ18" en="Wi-Fi Taiou - Gensen Table Game Wii" zhcn="严选桌面游戏Wii(日)"/>
-	<Game id="SW9EVN" en="Wicked Monsters Blast!" zhcn="怪物大轰炸(美)" collection="W"/>
-	<Game id="SW9PYT" en="Wicked Monsters Blast!" zhcn="怪物大轰炸(美)"/>
+	<Game id="SW9EVN" en="Wicked Monsters Blast!" zhcn="怪物大轰炸(美)" collection="光枪游戏"/>
+	<Game id="SW9PYT" en="Wicked Monsters Blast!" zhcn="怪物大轰炸(欧)"/>
 	<Game id="RZTE03" en="Wii Are Resorting To Violence" zhcn="Wii Are Resorting To Violence"/>
 	<Game id="007E01" en="Wii Auto Erase Disc" zhcn="Wii Auto Erase Disc"/>
 	<Game id="410E01" en="Wii Backup Disc v1.31" zhcn="Wii 备份盘 v1.31(美)"/>
@@ -295,8 +295,8 @@
 	<Game id="RYWK01" en="Wiiro Dahamkke! Mallangmallang Dunoegyosil" zhcn="轻松头脑教室(韩)"/>
 	<Game id="RWDE5G" en="Wild Earth: African Safari" zhcn="野生大地 非洲之旅(美)" collection="W"/>
 	<Game id="RWDP5G" en="Wild Earth: African Safari" zhcn="野生大地 非洲之旅(欧)"/>
-	<Game id="SSRE20" en="Wild West Shootout" zhcn="狂野西部枪战(美)" collection="1"/>
-	<Game id="SSRPXT" en="Wild West Shootout" zhcn="狂野西部枪战(X)"/>
+	<Game id="SSRE20" en="Wild West Shootout" zhcn="狂野西部枪战(美)" collection="光枪游戏"/>
+	<Game id="SSRPXT" en="Wild West Shootout" zhcn="狂野西部枪战(欧)" same-as="SSRE20"/>
 	<Game id="RWCP6M" en="Williams Pinball Classics" zhcn="威廉姆斯家族 经典弹珠台(欧)"/>
 	<Game id="RMCEWS" en="Wine's CT Pack" zhcn="Wine's CT Pack"/>
 	<Game id="RWIE18" en="Wing Island" zhcn="翼神之岛(美)" collection="W"/>
