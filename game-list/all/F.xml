@@ -2,7 +2,7 @@
 <Game-List>
 	<Game id="GFZJ8P" en="F-Zero AX" zhcn="F-Zero AX"/>
 	<Game id="R9FE36" en="F1 2009" zhcn="一级方程式赛车2009(美)" collection="竞速游戏"/>
-	<Game id="R9FJ36" en="F1 2009" zhcn="一级方程式赛车2009(日)"/>
+	<Game id="R9FJ36" en="F1 2009" zhcn="一级方程式赛车2009(日)" same-as="R9FE36"/>
 	<Game id="R9FP36" en="F1 2009" zhcn="一级方程式赛车2009(欧)" collection="竞速游戏"/>
 	<Game id="RF8K69" en="FIFA 08" zhcn="FIFA足球08(韩)"/>
 	<Game id="RF8P69" en="FIFA 08" zhcn="FIFA足球08(欧)"/>
@@ -56,7 +56,7 @@
 	<Game id="R97E9B" en="Family Fun Football" zhcn="家庭欢乐橄榄球(美)" collection="运动游戏 橄榄球"/>
 	<Game id="SGSP7J" en="Family GameShow" zhcn="家庭游戏秀(欧)" collection="聚会游戏"/>
 	<Game id="SGSESZ" en="Family Gameshow" zhcn="家庭游戏秀(美)" collection="聚会游戏"/>
-	<Game id="RFJJAF" en="Family Jockey" zhcn="家庭赛马(日)" collection="聚会游戏"/>
+	<Game id="RFJJAF" en="Family Jockey" zhcn="家庭赛马(日)" collection="竞速游戏/聚会游戏"/>
 	<Game id="R63EG9" en="Family Party: 30 Great Games Outdoor Fun" zhcn="家庭聚会 30款有趣的户外游戏(美)" collection="聚会游戏"/>
 	<Game id="R63PG9" en="Family Party: 30 Great Games Outdoor Fun" zhcn="家庭聚会 30款有趣的户外游戏(欧)"/>
 	<Game id="S3WEG9" en="Family Party: 30 Great Games Winter Fun" zhcn="家庭聚会 30大冬季游戏(美)" collection="聚会游戏"/>
@@ -128,7 +128,7 @@
 	<Game id="SRYJAF" en="Fitness Party" zhcn="动感塑身派对(日)"/>
 	<Game id="R9EPNP" en="Fix It: Home Improvement Challenge" zhcn="修理派对(欧)" collection="F"/>
 	<Game id="SF4E20" en="Flatout" zhcn="横冲直撞(美)" collection="竞速游戏"/>
-	<Game id="SF4PXT" en="Flatout" zhcn="Flatout"/>
+	<Game id="SF4PXT" en="Flatout" zhcn="横冲直撞(X)" same-as="SF4E20"/>
 	<Game id="R22E01" en="FlingSmash" zhcn="弹球小精灵(美)" collection="益智游戏"/>
 	<Game id="R22P01" en="FlingSmash" zhcn="弹球小精灵(欧)"/>
 	<Game id="R5DE5G" en="Flip's Twisted World" zhcn="翻转的扭曲世界(美)" collection="F"/>
@@ -145,7 +145,7 @@
 	<Game id="R2GJAF" en="Fragile: Sayonara Tsuki no Haikyo" zhcn="废墟迷宫 再见月的废墟(日)"/>
 	<Game id="R2FE5G" en="Freddi Fish: Kelp Seed Mystery" zhcn="小鱼弗雷迪 丢失的海藻种盒(美)" collection="F"/>
 	<Game id="R2FP70" en="Freddi Fish: Kelp Seed Mystery" zhcn="小鱼弗雷迪 丢失的海藻种盒(欧)"/>
-	<Game id="RU6EHG" en="Free Running" zhcn="自由奔跑(美)" collection="运动游戏"/>
+	<Game id="RU6EHG" en="Free Running" zhcn="自由奔跑(美)" collection="竞速游戏/运动游戏"/>
 	<Game id="RU6PHY" en="Free Running" zhcn="自由奔跑(欧)" collection="运动游戏"/>
 	<Game id="REZEJJ" en="Fritz Chess" zhcn="西洋棋高手(美)" collection="益智游戏"/>
 	<Game id="REZPKM" en="Fritz Chess" zhcn="西洋棋高手(欧)"/>
