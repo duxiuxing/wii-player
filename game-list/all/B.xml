@@ -27,7 +27,7 @@
 	<Game id="SXFE52" en="Band Hero" zhcn="乐团英雄(美)" collection="乐队游戏"/>
 	<Game id="SXFP52" en="Band Hero" zhcn="乐团英雄(欧)" same-as="SXFE52"/>
 	<Game id="R96KAF" en="Baramui Klonoa - Door to Phantomile" zhcn="风之克罗诺亚 幻影之门(韩)" same-as="R96JAF"/>
-	<Game id="RRCE52" en="Barbie Horse Adventures: Riding Camp" zhcn="芭比小马冒险 骑术野营(美)" collection="芭比系列"/>
+	<Game id="RRCE52" en="Barbie Horse Adventures: Riding Camp" zhcn="芭比小马冒险 骑术野营(美)" collection="竞速游戏/芭比系列"/>
 	<Game id="RRCP52" en="Barbie Horse Adventures: Riding Camp" zhcn="芭比小马冒险 骑术野营(欧)" same-as="RRCE52"/>
 	<Game id="S3EE78" en="Barbie Jet, Set &amp; Style!" zhcn="芭比娃娃 时尚风格(美)" collection="芭比系列"/>
 	<Game id="S3EP78" en="Barbie Jet, Set &amp; Style!" zhcn="芭比娃娃 时尚风格(欧)" same-as="S3EE78"/>
@@ -85,8 +85,8 @@
 	<Game id="SBNPG9" en="Ben 10: Alien Force Vilgax Attacks" zhcn="少年骇客 外星英雄之魔贾斯的袭击(欧)"/>
 	<Game id="RWTEG9" en="Ben 10: Alien Force" zhcn="少年骇客 外星英雄(美)" collection="影视IP游戏 美国"/>
 	<Game id="RWTPG9" en="Ben 10: Alien Force" zhcn="少年骇客 外星英雄(欧)"/>
-	<Game id="SA6EG9" en="Ben 10: Galactic Racing" zhcn="少年骇客 银河赛车(美)" collection="影视IP游戏 美国"/>
-	<Game id="SA6PAF" en="Ben 10: Galactic Racing" zhcn="少年骇客 银河赛车(欧)"/>
+	<Game id="SA6EG9" en="Ben 10: Galactic Racing" zhcn="少年骇客 银河赛车(美)" collection="竞速游戏/影视IP游戏 美国"/>
+	<Game id="SA6PAF" en="Ben 10: Galactic Racing" zhcn="少年骇客 银河赛车(欧)" same-as="SA6EG9"/>
 	<Game id="SVYEG9" en="Ben 10: Omniverse 2" zhcn="少年骇客 全面进化2(美)" collection="影视IP游戏 美国"/>
 	<Game id="SVYPAF" en="Ben 10: Omniverse 2" zhcn="少年骇客 全面进化2(欧)" same-as="SVYEG9"/>
 	<Game id="S5TEG9" en="Ben 10: Omniverse" zhcn="少年骇客 全面进化(美)" collection="影视IP游戏 美国"/>
@@ -121,12 +121,12 @@
 	<Game id="RY5E52" en="Big League Sports: Summer" zhcn="夏日运动大联盟(美)" collection="运动游戏 运动会"/>
 	<Game id="SVCEPZ" en="Big Time Rush: Dance Party" zhcn="狂欢舞会(美)" same-as="SVCPXT" collection="舞力全开 衍生系列"/>
 	<Game id="SVCPXT" en="Big Time Rush: Dance Party" zhcn="狂欢舞会(欧)"/>
-	<Game id="RVFE20" en="Bigfoot: Collision Course" zhcn="大脚车 碰撞航向(美)" collection="B"/>
+	<Game id="RVFE20" en="Bigfoot: Collision Course" zhcn="大脚车 碰撞航向(美)" collection="竞速游戏"/>
 	<Game id="RVFP7J" en="Bigfoot: Collision Course" zhcn="大脚车 碰撞航向(欧)" same-as="RVFE20"/>
-	<Game id="SKCE20" en="Bigfoot: King of Crush" zhcn="大脚车 压碎王(美)" collection="B"/>
-	<Game id="RBZE5Z" en="Billy the Wizard: Rocket Broomstick Racing" zhcn="巫师比利 火箭扫帚大竞速(美)" collection="B"/>
-	<Game id="RBZPUG" en="Billy the Wizard: Rocket Broomstick Racing" zhcn="巫师比利 火箭扫帚大竞速(欧)"/>
-	<Game id="RBZXUG" en="Billy the Wizard: Rocket Broomstick Racing" zhcn="巫师比利 火箭扫帚大竞速(X)"/>
+	<Game id="SKCE20" en="Bigfoot: King of Crush" zhcn="大脚车 压碎王(美)" collection="竞速游戏"/>
+	<Game id="RBZE5Z" en="Billy the Wizard: Rocket Broomstick Racing" zhcn="巫师比利 火箭扫帚大竞速(美)" collection="竞速游戏"/>
+	<Game id="RBZPUG" en="Billy the Wizard: Rocket Broomstick Racing" zhcn="巫师比利 火箭扫帚大竞速(欧)" same-as="RBZE5Z"/>
+	<Game id="RBZXUG" en="Billy the Wizard: Rocket Broomstick Racing" zhcn="巫师比利 火箭扫帚大竞速(X)" same-as="RBZE5Z"/>
 	<Game id="SBCJ2N" en="Billy's Boot Camp: Wii de Enjoy Diet!" zhcn="比利的训练营Wii 享受减肥(日)"/>
 	<Game id="RB4J08" en="Biohazard 4 Wii Edition" zhcn="生化危机4(日)"/>
 	<Game id="GCDK08" en="Biohazard Code: Veronica Complete" zhcn="Biohazard Code: Veronica Complete"/>
@@ -158,7 +158,7 @@
 	<Game id="R5XJ13" en="Boku to Sim no Machi Agent: Gokuaku Shachou kara Sekai o Sukue Daisakusen!" zhcn="我的模拟人生 特工(日)" collection="B"/>
 	<Game id="RSHJ13" en="Boku to Sim no Machi Kingdom" zhcn="我的模拟王国(日)"/>
 	<Game id="RP4J13" en="Boku to Sim no Machi Party" zhcn="我的模拟聚会(日)"/>
-	<Game id="RQGJ13" en="Boku to Sim no Machi Racing" zhcn="我的模拟人生 赛车(日)"/>
+	<Game id="RQGJ13" en="Boku to Sim no Machi Racing" zhcn="我的模拟人生 赛车(日)" same-as="RQGE69"/>
 	<Game id="RSIJ13" en="Boku to Sim no Machi" zhcn="我的模拟人生(日)"/>
 	<Game id="RBIJ99" en="Bokujou Monogatari Waku Waku Animal March" zhcn="牧场物语 欢乐动物进行曲(日)"/>
 	<Game id="R84J99" en="Bokujou Monogatari: Yasuragi no Ki" zhcn="牧场物语 安稳之树(日)"/>
@@ -219,7 +219,7 @@
 	<Game id="RBPPGT" en="Brunswick Pro Bowling" zhcn="布朗斯威克 职业保龄球赛(欧)"/>
 	<Game id="SBKEPZ" en="Brunswick Zone Cosmic Bowling" zhcn="布朗斯威克 宇宙领域保龄球(美)" collection="运动游戏 保龄球"/>
 	<Game id="R65ENR" en="Buck Fever" zhcn="猎鹿狂(美)" collection="运动游戏 打猎"/>
-	<Game id="RJNE20" en="Build 'N Race" zhcn="建道与赛车(美)" collection="B"/>
+	<Game id="RJNE20" en="Build 'N Race" zhcn="建道与赛车(美)" collection="竞速游戏"/>
 	<Game id="RR4EGY" en="Build-A-Bear Workshop: A Friend Fur All Seasons" zhcn="熊熊工作室(美)" collection="B"/>
 	<Game id="RR4PFK" en="Build-A-Bear Workshop: A Friend Fur All Seasons" zhcn="熊熊工作室(欧)"/>
 	<Game id="R9UE52" en="Build-A-Bear Workshop: Friendship Valley" zhcn="熊熊工作室 友谊谷(美)" collection="B"/>
