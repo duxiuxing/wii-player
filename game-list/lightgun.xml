@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Game-List>
     <Game id="RJ2E52" en="007: Quantum of Solace" zhcn="007 量子危机(美)"/>
     <Game id="R74E20" en="Arcade Shooting Gallery" zhcn="商场射击馆(美)"/>
@@ -38,7 +39,7 @@
 	<Game id="R3VEFP" en="Deer Drive" zhcn="麋鹿猎人(美)"/>
     <Game id="SJUE20" en="Dino Strike" zhcn="恐龙快枪(美)"/>
     <Game id="RCVE41" en="Far Cry: Vengeance" zhcn="孤岛惊魂 复仇(美)"/>
-    <Game id="RGSJ8P" en="Ghost Squad" zhcn="幽灵小队(日或中)"/>
+    <Game id="RGSJ8P" en="Ghost Squad" zhcn="幽灵小队(中)"/>
     <Game id="RGQE70" en="Ghostbusters: The Video Game" zhcn="捉鬼敢死队(美)"/>
     <Game id="SJBE52" en="GoldenEye 007" zhcn="007 黄金眼(美)"/>
     <Game id="SGBE5G" en="Greg Hastings Paintball 2" zhcn="极限漆球大赛2(美)"/>
@@ -52,18 +53,18 @@
     <Game id="RQ7E20" en="Martian Panic" zhcn="火星人的恐慌(美)"/>
     <Game id="SHTE20" en="Mathews Bow Hunting" zhcn="马修斯狩猎弓(美)"/>
     <Game id="RM2E69" en="Medal of Honor: Heroes 2" zhcn="荣誉勋章 英雄2(美)"/>
-    <Game id="RMVE69" en="Medal of Honor: Vanguard" zhcn="荣誉勋章 先遣部队(美或中)"/>
+    <Game id="RMVE69" en="Medal of Honor: Vanguard" zhcn="荣誉勋章 先遣部队(中)"/>
     <Game id="R3ME01" en="Metroid Prime: Trilogy" zhcn="银河战士三部曲(美)"/>
     <Game id="SN2E69" en="NERF N-Strike Double Blast Bundle" zhcn="玩具枪大作战 双重爆破合集(美)"/>
 	<Game id="RL6E69" en="NERF N-Strike Elite" zhcn="玩具枪大作战 精英(美)"/>
 	<Game id="RNKE69" en="NERF N-Strike" zhcn="玩具枪大作战(美)"/>
-    <Game id="SNEENR" en="North American Hunting Extravaganza 2" zhcn="北美狩猎盛典2(美)">
+    <Game id="SNEENR" en="North American Hunting Extravaganza 2" zhcn="北美狩猎盛典2(美)"/>
 	<Game id="RN6ENR" en="North American Hunting Extravaganza" zhcn="北美狩猎盛典(美)"/>
     <Game id="R29E52" en="NPPL Championship Paintball 2009" zhcn="世界彩弹锦标赛2009(美)"/>
     <Game id="SKXE20" en="Pirate Blast" zhcn="海盗袭击(美)"/>
     <Game id="SR4E41" en="Raving Rabbids: Travel in Time" zhcn="疯狂兔子 时空旅行(美)"/>
     <Game id="RY2E41" en="Rayman Raving Rabbids 2" zhcn="雷曼 疯狂兔子2(美)"/>
-    <Game id="RRBE41" en="Rayman Raving Rabbids" zhcn="雷曼 疯狂兔子(美)">
+    <Game id="RRBE41" en="Rayman Raving Rabbids" zhcn="雷曼 疯狂兔子(美)"/>
     <Game id="RRRE5Z" en="Real Heroes: Firefighter" zhcn="火场英雄 消防队员(美)"/>
     <Game id="RD2E41" en="Red Steel 2" zhcn="赤铁2(美)"/>
     <Game id="REDE41" en="Red Steel" zhcn="赤铁(美)"/>
@@ -113,7 +114,6 @@
     <Game id="WHYE" en="Heavy Fire - Black Arms"/>
     <Game id="WHFE" en="Heavy Fire - Special Operations"/>
     <Game id="WHFP" en="Heavy Fire - Special Operations"/>
-    <Game id="WHYE" en="Heavy Fire - Black Arms"/>
     <Game id="WHZE" en="Horizon Riders"/>
     <Game id="WHZP" en="Horizon Riders"/>
     <Game id="WSAE" en="Onslaught"/>
