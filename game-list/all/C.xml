@@ -15,8 +15,8 @@
 	<Game id="RMCECL" en="CTGP Revolution Classic" zhcn="CTGP Revolution Classic"/>
 	<Game id="RMCEGC" en="CTGP Revolution Legacy" zhcn="CTGP Revolution Legacy"/>
 	<Game id="RMCEHC" en="CTGP-R HNS Pack" zhcn="CTGP-R HNS Pack"/>
-	<Game id="SH8E52" en="Cabela's Adventure Camp" zhcn="坎贝拉冒险夏令营(美)" collection="运动游戏 打猎"/>
-	<Game id="SH8P52" en="Cabela's Adventure Camp" zhcn="坎贝拉冒险夏令营(美)"/>
+	<Game id="SH8E52" en="Cabela's Adventure Camp" zhcn="坎贝拉冒险夏令营(美)" collection="竞速游戏/运动游戏"/>
+	<Game id="SH8P52" en="Cabela's Adventure Camp" zhcn="坎贝拉冒险夏令营(欧)" same-as="SH8E52"/>
 	<Game id="SQAE52" en="Cabela's African Adventures" zhcn="坎贝拉的非洲冒险(美)" collection="运动游戏 打猎"/>
 	<Game id="R8YE52" en="Cabela's Big Game Hunter 2010" zhcn="坎贝拉猎人2010(美)" collection="运动游戏 打猎"/>
 	<Game id="SC9P52" en="Cabela's Big Game Hunter 2010" zhcn="坎贝拉猎人2010(欧)" same-as="R8YE52"/>
@@ -77,10 +77,10 @@
 	<Game id="DCAE18" en="Calling (Demo)" zhcn="鬼铃 黑暗来电 试玩版(美)"/>
 	<Game id="SCAE18" en="Calling" zhcn="鬼铃 黑暗来电(美)" collection="C"/>
 	<Game id="SCAP18" en="Calling" zhcn="鬼铃 黑暗来电(欧)"/>
-	<Game id="RVNE20" en="Calvin Tucker's Redneck Jamboree" zhcn="凯文塔克的乡巴佬露营会(美)" collection="C"/>
-	<Game id="RVNP7J" en="Calvin Tucker's Redneck Jamboree" zhcn="凯文塔克的乡巴佬露营会(欧)"/>
-	<Game id="SCGE20" en="Calvin Tucker's Redneck: Farm Animal Racing Tournament" zhcn="凯文塔克的乡村狂欢 农场动物赛车锦标赛(美)" collection="竞速游戏"/>
-	<Game id="SCGPXT" en="Calvin Tucker's: Farm Animals Racing Tournament" zhcn="Calvin Tucker's: Farm Animals Racing Tournament"/>
+	<Game id="RVNE20" en="Calvin Tucker's Redneck Jamboree" zhcn="凯文·塔克的乡村狂欢(美)" collection="C"/>
+	<Game id="RVNP7J" en="Calvin Tucker's Redneck Jamboree" zhcn="凯文·塔克的乡村狂欢(欧)" same-as="RVNE20"/>
+	<Game id="SCGE20" en="Calvin Tucker's Redneck: Farm Animal Racing Tournament" zhcn="凯文·塔克的农场动物赛车锦标赛(美)" collection="竞速游戏"/>
+	<Game id="SCGPXT" en="Calvin Tucker's: Farm Animals Racing Tournament" zhcn="凯文·塔克的农场动物赛车锦标赛(欧)" same-as="SCGE20"/>
 	<Game id="RMCET7" en="Cam, Tom And Troy's CT Pack" zhcn="Cam, Tom And Troy's CT Pack"/>
 	<Game id="RMCE75" en="Cam, Tom and Troy's CTGP Pack" zhcn="Cam, Tom and Troy's CTGP Pack"/>
 	<Game id="SCHEQH" en="Canada Hunt" zhcn="加拿大狩猎(美)" collection="运动游戏 打猎"/>
@@ -101,26 +101,26 @@
 	<Game id="RCGP54" en="Carnival Games" zhcn="嘉年华游戏(欧)"/>
 	<Game id="RG9E54" en="Carnival Games: Mini Golf" zhcn="嘉年华游戏 迷你高尔夫(美)" collection="运动游戏"/>
 	<Game id="RG9P54" en="Carnival Games: Mini Golf" zhcn="嘉年华游戏 迷你高尔夫(欧)"/>
-	<Game id="SCYE4Q" en="Cars 2" zhcn="汽车总动员2(美)" collection="影视IP游戏 美国"/>
-	<Game id="SCYP4Q" en="Cars 2" zhcn="汽车总动员2(欧)"/>
-	<Game id="SCYR4Q" en="Cars 2" zhcn="Cars 2"/>
-	<Game id="SCYX4Q" en="Cars 2" zhcn="汽车总动员2(X)"/>
-	<Game id="SCYY4Q" en="Cars 2" zhcn="汽车总动员2(Y)"/>
-	<Game id="SCYZ4Q" en="Cars 2" zhcn="汽车总动员2(Z)"/>
-	<Game id="R6OE78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(美)" collection="影视IP游戏 美国"/>
-	<Game id="R6OP78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(欧)"/>
-	<Game id="R6OX78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(X)"/>
-	<Game id="STOE4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(美)" collection="影视IP游戏 美国"/>
-	<Game id="STOP4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(欧)"/>
-	<Game id="STOX4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(X)"/>
-	<Game id="RCAE78" en="Cars" zhcn="汽车总动员(美)" collection="影视IP游戏 美国"/>
-	<Game id="RCAP78" en="Cars" zhcn="汽车总动员(欧)"/>
-	<Game id="RCAX78" en="Cars" zhcn="汽车总动员(X)"/>
-	<Game id="RCAY78" en="Cars" zhcn="汽车总动员(Y)"/>
-	<Game id="RC2E78" en="Cars: Mater-National Championship" zhcn="汽车总动员 全国汽车大赛(美)" collection="影视IP游戏 美国"/>
-	<Game id="RC2P78" en="Cars: Mater-National Championship" zhcn="汽车总动员 全国汽车大赛(欧)"/>
-	<Game id="RC2X78" en="Cars: Mater-National" zhcn="汽车总动员 全国汽车大赛(X)"/>
-	<Game id="RC2Y78" en="Cars: Mater-National" zhcn="汽车总动员 全国汽车大赛(Y)"/>
+	<Game id="SCYE4Q" en="Cars 2" zhcn="汽车总动员2(美)" collection="竞速游戏/影视IP游戏 迪士尼"/>
+	<Game id="SCYP4Q" en="Cars 2" zhcn="汽车总动员2(欧)" same-as="SCYE4Q"/>
+	<Game id="SCYR4Q" en="Cars 2" zhcn="汽车总动员2(俄)" same-as="SCYE4Q"/>
+	<Game id="SCYX4Q" en="Cars 2" zhcn="汽车总动员2(X)" same-as="SCYE4Q"/>
+	<Game id="SCYY4Q" en="Cars 2" zhcn="汽车总动员2(Y)" same-as="SCYE4Q"/>
+	<Game id="SCYZ4Q" en="Cars 2" zhcn="汽车总动员2(Z)" same-as="SCYE4Q"/>
+	<Game id="R6OE78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(美)" collection="竞速游戏/影视IP游戏 迪士尼"/>
+	<Game id="R6OP78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(欧)" same-as="R6OE78"/>
+	<Game id="R6OX78" en="Cars Race-O-Rama" zhcn="汽车总动员 奥拉玛大奖赛(X)" same-as="R6OE78"/>
+	<Game id="STOE4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(美)" collection="竞速游戏/影视IP游戏 迪士尼"/>
+	<Game id="STOP4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(欧)" same-as="STOE4Q"/>
+	<Game id="STOX4Q" en="Cars Toon: Mater's Tall Tales" zhcn="汽车总动员 拖线狂想曲(X)" same-as="STOE4Q"/>
+	<Game id="RCAE78" en="Cars" zhcn="汽车总动员(美)" collection="竞速游戏/影视IP游戏 迪士尼"/>
+	<Game id="RCAP78" en="Cars" zhcn="汽车总动员(欧)" same-as="RCAE78"/>
+	<Game id="RCAX78" en="Cars" zhcn="汽车总动员(X)" same-as="RCAE78"/>
+	<Game id="RCAY78" en="Cars" zhcn="汽车总动员(Y)" same-as="RCAE78"/>
+	<Game id="RC2E78" en="Cars: Mater-National Championship" zhcn="汽车总动员 全国汽车大赛(美)" collection="竞速游戏/影视IP游戏 迪士尼"/>
+	<Game id="RC2P78" en="Cars: Mater-National Championship" zhcn="汽车总动员 全国汽车大赛(欧)" same-as="RC2E78"/>
+	<Game id="RC2X78" en="Cars: Mater-National" zhcn="汽车总动员 全国汽车大赛(X)" same-as="RC2E78"/>
+	<Game id="RC2Y78" en="Cars: Mater-National" zhcn="汽车总动员 全国汽车大赛(Y)" same-as="RC2E78"/>
 	<Game id="SQLE4Z" en="Cartoon Network: Punch Time Explosion XL" zhcn="卡通频道明星大乱斗(美)" collection="C"/>
 	<Game id="SQLPGN" en="Cartoon Network: Punch Time Explosion XL" zhcn="卡通频道明星大乱斗(欧)" same-as="SQLE4Z"/>
 	<Game id="RCOKZF" en="Case Closed: The Mirapolis Investigation" zhcn="名侦探柯南 追忆的幻想(韩)"/>
@@ -159,7 +159,7 @@
 	<Game id="RCYPGN" en="Cheggers Party Quiz" zhcn="切格的聚会迷题(欧)"/>
 	<Game id="RHAK01" en="Cheoeum Mannaneun Wii" zhcn="Wii第一次接触(韩)"/>
 	<Game id="SROKZ5" en="Cheongongui Gisa Rodea" zhcn="Cheongongui Gisa Rodea"/>
-	<Game id="SCXESZ" en="Chevrolet Camaro: Wild Ride" zhcn="雪福来卡玛洛 野外驾驶(美)" collection="C"/>
+	<Game id="SCXESZ" en="Chevrolet Camaro: Wild Ride" zhcn="雪福来卡玛洛 野外驾驶(美)" collection="竞速游戏"/>
 	<Game id="SCXPNJ" en="Chevrolet Camaro: Wild Ride" zhcn="雪福来卡玛洛 野外驾驶(欧)" same-as="SCXESZ"/>
 	<Game id="R24E01" en="Chibi-Robo! [ENG]" zhcn="用Wii游玩小小机器人(美)"/>
 	<Game id="R24J01" en="Chibi-Robo!" zhcn="用Wii游玩小小机器人(日)" collection="C"/>
@@ -173,7 +173,7 @@
 	<Game id="RTIJ8P" en="Chin Sports" zhcn="疯狂世界大运动(日)"/>
 	<Game id="RMCECH" en="Chis Kart Wii" zhcn="Chis Kart Wii"/>
 	<Game id="R7FJGD" en="Chocobo no Fushigi na Dungeon: Toki-wasure no Meikyuu" zhcn="最终幻想陆行鸟 忘却时间的迷宫(日)" collection="角色扮演游戏"/>
-	<Game id="RCQJDA" en="Choro Q Wii" zhcn="Q版赛车 Wii(日)"/>
+	<Game id="RCQJDA" en="Choro Q Wii" zhcn="Q版赛车Wii(日)" same-as="RCQEDA"/>
 	<Game id="R3CE20" en="Chrysler Classic Racing" zhcn="克莱斯勒经典赛车(美)" collection="竞速游戏"/>
 	<Game id="R3CP7J" en="Chrysler Classic Racing" zhcn="克莱斯勒经典赛车(欧)" same-as="R3CE20"/>
 	<Game id="SCEE6K" en="Chuck E. Cheese's Party Games" zhcn="查克奶酪的派对游戏(美)" collection="查克奶酪系列"/>
@@ -207,7 +207,7 @@
 	<Game id="RLKPFK" en="Code Lyoko: Quest for Infinity" zhcn="虚幻勇士 追求无限(欧)"/>
 	<Game id="R6DFJW" en="Code de la Route" zhcn="警告 公路规则(法)"/>
 	<Game id="R7NE20" en="Cold Stone Creamery: Scoop It Up" zhcn="酷圣石 冰激凌来一勺(美)" collection="C"/>
-	<Game id="R69P36" en="Colin McRae: DiRT 2" zhcn="尘埃2(欧)"/>
+	<Game id="R69P36" en="Colin McRae: DiRT 2" zhcn="尘埃2(欧)" same-as="R69E36"/>
 	<Game id="RMCECG" en="Color Grand Prix" zhcn="Color Grand Prix"/>
 	<Game id="SGXP41" en="Combat of Giants: Dinosaurs Strike" zhcn="巨兽之战 恐龙袭击(欧)"/>
 	<Game id="SC2E8P" en="Conduit 2" zhcn="管道2(美)" collection="光枪游戏"/>
@@ -240,7 +240,7 @@
 	<Game id="SQ3EPZ" en="Country Dance" zhcn="乡村舞蹈(美)"/>
 	<Game id="RKBE41" en="Cranium Kabookii" zhcn="卡波其涂鸦(美)" collection="C"/>
 	<Game id="RKBP41" en="Cranium Kabookii" zhcn="卡波其涂鸦(欧)"/>
-	<Game id="SN5PNG" en="Crash Car Racer" zhcn="急速赛车 冲撞赛车(欧)"/>
+	<Game id="SN5PNG" en="Crash Car Racer" zhcn="急速赛车 冲撞赛车(欧)" same-as="SN5EYG"/>
 	<Game id="RQJE7D" en="Crash of the Titans" zhcn="古惑狼 泰坦巨人(美)" collection="C"/>
 	<Game id="RQJP7D" en="Crash of the Titans" zhcn="古惑狼之泰坦巨人[WiFi](欧)"/>
 	<Game id="RQJX7D" en="Crash of the Titans" zhcn="古惑狼 泰坦巨人(X)"/>
@@ -265,7 +265,7 @@
 	<Game id="SECP69" en="Create" zhcn="EA创造(欧)"/>
 	<Game id="RMCE69" en="Cria Kart Wii" zhcn="Cria Kart Wii"/>
 	<Game id="RCRE5D" en="Cruis'n" zhcn="劲速狂飙(美)" collection="竞速游戏"/>
-	<Game id="RCRP5D" en="Cruis'n" zhcn="劲速狂飙(欧)"/>
+	<Game id="RCRP5D" en="Cruis'n" zhcn="劲速狂飙(欧)" same-as="RCRE5D"/>
 	<Game id="SCSPGR" en="Cruise Ship Resort" zhcn="游轮度假游戏(欧)"/>
 	<Game id="SCSE52" en="Cruise Ship Vacation Games" zhcn="游轮度假游戏(美)" collection="加速器游戏"/>
 	<Game id="RMCE7T" en="Cuber's Hack Pack" zhcn="Cuber's Hack Pack"/>
