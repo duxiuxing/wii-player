@@ -227,9 +227,9 @@
 	<Game id="RDKJ01" en="Donkey Kong Taru Jet Race" zhcn="大金刚 木桶喷射(日)" same-as="RDKE01"/>
 	<Game id="RDKE01" en="Donkey Kong: Barrel Blast" zhcn="大金刚 木桶喷射(美)" collection="竞速游戏"/>
 	<Game id="RDKP01" en="Donkey Kong: Jet Race" zhcn="大金刚 木桶喷射(欧)" same-as="RDKE01"/>
-	<Game id="R49E01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林敲击(美)" same-as="R49J01"/>
+	<Game id="R49E01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林节拍(美)" same-as="R49J01"/>
 	<Game id="R49J01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林节拍(日或中)" collection="中文游戏"/>
-	<Game id="R49P01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林敲击(欧)" same-as="R49J01"/>
+	<Game id="R49P01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林节拍(欧)" same-as="R49J01"/>
 	<Game id="SDLE78" en="Dood's Big Adventure" zhcn="杜德大冒险(美)" collection="D"/>
 	<Game id="SDLP78" en="Dood's Big Adventure" zhcn="杜德大冒险(欧)"/>
 	<Game id="R27E54" en="Dora Saves the Crystal Kingdom" zhcn="探险家朵拉 拯救水晶王国(美)" collection="影视IP游戏"/>
@@ -288,8 +288,8 @@
 	<Game id="R75E20" en="Dream Salon" zhcn="梦幻沙龙(美)" collection="D"/>
 	<Game id="RKPJ52" en="DreamWorks Kung Fu Panda" zhcn="功夫熊猫(日)"/>
 	<Game id="RKPK52" en="DreamWorks Kung Fu Panda" zhcn="功夫熊猫(韩)"/>
-	<Game id="SKZE52" en="DreamWorks Super Star Kartz" zhcn="梦工厂超级明星赛(美)" collection="影视IP游戏 美国"/>
-	<Game id="SKZP52" en="DreamWorks Super Star Kartz" zhcn="梦工厂超级明星赛(欧)"/>
+	<Game id="SKZE52" en="DreamWorks Super Star Kartz" zhcn="梦工厂超级明星赛(美)" collection="竞速游戏/影视IP游戏 梦工厂"/>
+	<Game id="SKZP52" en="DreamWorks Super Star Kartz" zhcn="梦工厂超级明星赛(欧)" same-as="SKZE52"/>
 	<Game id="SVEPAF" en="DreamWorks The Croods: Prehistoric Party! &amp; Rise of the Guardians: Combo Pack" zhcn="DreamWorks The Croods: Prehistoric Party! &amp; Rise of the Guardians: Combo Pack"/>
 	<Game id="RMCEDT" en="Drift Rebalance with CT" zhcn="Drift Rebalance with CT"/>
 	<Game id="RDVE41" en="Driver: Parallel Lines" zhcn="横冲直撞之平行线(美)" collection="竞速游戏"/>
