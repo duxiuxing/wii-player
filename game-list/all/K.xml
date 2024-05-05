@@ -25,19 +25,19 @@
 	<Game id="RIEEA4" en="Karaoke Revolution Presents: American Idol Encore" zhcn="卡拉OK革命 美国偶像 再次演唱(美)" collection="卡拉OK游戏"/>
 	<Game id="RK9EA4" en="Karaoke Revolution" zhcn="卡拉OK革命(美)" collection="卡拉OK游戏"/>
 	<Game id="RK9PA4" en="Karaoke Revolution" zhcn="卡拉OK革命[麦克风](欧)"/>
-	<Game id="RIIEQH" en="Kart Racer" zhcn="卡丁赛车手(美)" collection="donek"/>
-	<Game id="RIIPNG" en="Kart Racer" zhcn="卡丁赛车手(欧)"/>
+	<Game id="RIIEQH" en="Kart Racer" zhcn="卡丁赛车手(美)" collection="竞速游戏"/>
+	<Game id="RIIPNG" en="Kart Racer" zhcn="卡丁赛车手(欧)" same-as="RIIEQH"/>
 	<Game id="RXXJ4Q" en="Kaseki Monster: Spectrobes" zhcn="化石超进化 起源(日)"/>
 	<Game id="RHRJ99" en="Katekyoo Hitman Reborn! Dream Hyper Battle! Wii" zhcn="家庭教师REBORN 超梦幻决胜(日或中)" collection="中文游戏"/>
 	<Game id="RE8J99" en="Katekyoo Hitman Reborn! Kindan no Yami no Delta" zhcn="家庭教师 禁断的暗之三角[WiFi](日)"/>
-	<Game id="RJSENR" en="Kawasaki Jet Ski" zhcn="川崎水上摩托(美)" collection="donek"/>
-	<Game id="RJSPUG" en="Kawasaki Jet Ski" zhcn="川崎水上摩托(欧)"/>
-	<Game id="RJSXUG" en="Kawasaki Jet Ski" zhcn="川崎水上摩托(X)" collection="2"/>
-	<Game id="RQBENR" en="Kawasaki Quad Bikes" zhcn="川崎4X4沙滩车(美)" collection="donek"/>
-	<Game id="RQBPUG" en="Kawasaki Quad Bikes" zhcn="川崎4X4沙滩车(欧)"/>
-	<Game id="RQBXUG" en="Kawasaki Quad Bikes" zhcn="川崎4X4沙滩车(X)"/>
-	<Game id="RWBXUG" en="Kawasaki Snow Mobiles" zhcn="川崎雪橇(X)"/>
-	<Game id="RWBENR" en="Kawasaki Snowmobiles" zhcn="川崎雪橇(美)" collection="donek"/>
+	<Game id="RJSENR" en="Kawasaki Jet Ski" zhcn="川崎水上摩托(美)" collection="竞速游戏"/>
+	<Game id="RJSPUG" en="Kawasaki Jet Ski" zhcn="川崎水上摩托(欧)" same-as="RJSENR"/>
+	<Game id="RJSXUG" en="Kawasaki Jet Ski" zhcn="川崎水上摩托(X)" collection="竞速游戏"/>
+	<Game id="RQBENR" en="Kawasaki Quad Bikes" zhcn="川崎沙滩车(美)" collection="竞速游戏"/>
+	<Game id="RQBPUG" en="Kawasaki Quad Bikes" zhcn="川崎沙滩车(欧)" same-as="RQBENR"/>
+	<Game id="RQBXUG" en="Kawasaki Quad Bikes" zhcn="川崎沙滩车(X)" same-as="RQBENR"/>
+	<Game id="RWBXUG" en="Kawasaki Snow Mobiles" zhcn="川崎雪橇(X)" same-as="RWBENR"/>
+	<Game id="RWBENR" en="Kawasaki Snowmobiles" zhcn="川崎雪橇(美)" collection="竞速游戏"/>
 	<Game id="R96JAF" en="Kaze no Klonoa Door to Phantomile" zhcn="风之克罗诺亚 通向幻界之门(日或中)" collection="中文游戏"/>
 	<Game id="RK5J01" en="Keito no Kirby" zhcn="星之卡比 毛线传说(日)"/>
 	<Game id="RK4JAF" en="Kekkaishi: Kokubourou no Kage" zhcn="结界师 黑芒楼之影(日)"/>
@@ -83,7 +83,7 @@
 	<Game id="RK6J18" en="Kororinpa 2: Anthony to Kin'iro Himawari no Tane" zhcn="穿越迷路2[平衡板][WiFi](日)"/>
 	<Game id="RCPJ18" en="Kororinpa" zhcn="穿越迷路(日)"/>
 	<Game id="RCPP18" en="Kororinpa" zhcn="穿越迷路(欧)"/>
-	<Game id="RCPE18" en="Kororinpa: Marble Mania" zhcn="穿越迷路(美)" collection="donek"/>
+	<Game id="RCPE18" en="Kororinpa: Marble Mania" zhcn="穿越迷路(美)" collection="益智游戏"/>
 	<Game id="R5MJAF" en="Kotoba no Puzzle Mojipittan Wii Deluxe" zhcn="语言解谜 文字拼词Wii豪华版(日)"/>
 	<Game id="RMCEKK" en="Krash Kart Wii" zhcn="Krash Kart Wii"/>
 	<Game id="RMCEKB" en="Krash&amp;Burn's Other Texture Pack" zhcn="Krash&amp;Burn's Other Texture Pack"/>
@@ -92,8 +92,8 @@
 	<Game id="SKUP78" en="Kung Fu Panda 2" zhcn="功夫熊猫2(欧)"/>
 	<Game id="RKPE52" en="Kung Fu Panda" zhcn="功夫熊猫(美)" collection="影视IP游戏"/>
 	<Game id="RKPP52" en="Kung Fu Panda" zhcn="功夫熊猫(欧)"/>
-	<Game id="RKPV52" en="Kung Fu Panda" zhcn="功夫熊猫(欧)"/>
-	<Game id="RKPX52" en="Kung Fu Panda" zhcn="功夫熊猫(Y)"/>
+	<Game id="RKPV52" en="Kung Fu Panda" zhcn="功夫熊猫(V)"/>
+	<Game id="RKPX52" en="Kung Fu Panda" zhcn="功夫熊猫(X)"/>
 	<Game id="RKPY52" en="Kung Fu Panda" zhcn="功夫熊猫(Y)"/>
 	<Game id="RKHE52" en="Kung Fu Panda: Legendary Warriors" zhcn="功夫熊猫 神龙大侠(美)" collection="影视IP游戏"/>
 	<Game id="RKHP52" en="Kung Fu Panda: Legendary Warriors" zhcn="功夫熊猫 神龙大侠(欧)"/>
