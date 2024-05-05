@@ -7,8 +7,8 @@
 	<Game id="RQMPVN" en="Ocean Commander" zhcn="海底指挥官(欧)"/>
 	<Game id="RTKE5Z" en="Octomania" zhcn="章鱼大作战[WiFi](美)" collection="O"/>
 	<Game id="RODJ01" en="Odoru Made in Wario" zhcn="瓦里奥制造 平滑移动(日)"/>
-	<Game id="RO2P7N" en="Off Road" zhcn="福特越野赛车(欧)"/>
-	<Game id="ROFE5Z" en="Offroad Extreme! Special Edition" zhcn="极限越野特别版(美)" collection="O"/>
+	<Game id="RO2P7N" en="Off Road" zhcn="福特越野赛车(欧)" same-as="RO2E7N"/>
+	<Game id="ROFE5Z" en="Offroad Extreme! Special Edition" zhcn="极限越野特别版(美)" collection="竞速游戏"/>
 	<Game id="ROFPUG" en="Offroad Extreme!" zhcn="极限越野特别版(欧)"/>
 	<Game id="ROFXUG" en="Offroad Extreme!" zhcn="极限越野特别版(欧)"/>
 	<Game id="RXFEVN" en="Offshore Tycoon" zhcn="海洋大亨(美)" collection="O"/>

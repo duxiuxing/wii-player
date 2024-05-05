@@ -30,7 +30,7 @@
 	<Game id="RMCEPG" en="Penguin Kart Wii" zhcn="Penguin Kart Wii"/>
 	<Game id="SV7EVZ" en="Penguins of Madagascar" zhcn="Penguins of Madagascar"/>
 	<Game id="SV7PVZ" en="Penguins of Madagascar" zhcn="Penguins of Madagascar"/>
-	<Game id="RCQEDA" en="Penny Racers Party: Turbo-Q Speedway" zhcn="Q版赛车 Wii(美)" collection="P"/>
+	<Game id="RCQEDA" en="Penny Racers Party: Turbo-Q Speedway" zhcn="Q版赛车Wii(美)" collection="竞速游戏"/>
 	<Game id="SPGPPN" en="Peppa Pig: Fun &amp; Games" zhcn="粉红猪小妹2 快乐游戏(欧)"/>
 	<Game id="RPHPPN" en="Peppa Pig: The Game" zhcn="粉红猪小妹 游戏(欧)"/>
 	<Game id="RYDELT" en="Pet Pals: Animal Doctor" zhcn="宠物伴侣 动物医生(美)" collection="P"/>
@@ -71,8 +71,8 @@
 	<Game id="R9IJ01" en="Pikmin" zhcn="用Wii玩皮克敏星球探险(日)"/>
 	<Game id="R9IK01" en="Pikmin" zhcn="用Wii玩皮克敏(韩)"/>
 	<Game id="R9IP01" en="Pikmin" zhcn="用Wii玩皮克敏(欧)"/>
-	<Game id="RPIE52" en="Pimp My Ride" zhcn="MTV 帮你改装车(美)" collection="P"/>
-	<Game id="RPIP52" en="Pimp My Ride" zhcn="MTV 帮你改装车(欧)"/>
+	<Game id="RPIE52" en="Pimp My Ride" zhcn="MTV帮你改装车(美)" collection="竞速游戏"/>
+	<Game id="RPIP52" en="Pimp My Ride" zhcn="MTV帮你改装车(欧)" same-as="RPIE52"/>
 	<Game id="RQSE4Z" en="Pinball Hall of Fame: The Gottlieb Collection" zhcn="弹珠台名人堂 威廉收藏版(美)" collection="P"/>
 	<Game id="RWCE4Z" en="Pinball Hall of Fame: The Williams Collection" zhcn="荣誉弹珠台 威廉姆斯家族珍藏(美)" collection="P"/>
 	<Game id="RHZP41" en="Pippa Funnell: Ranch Rescue" zhcn="模拟宠物马2(欧)"/>
@@ -89,8 +89,8 @@
 	<Game id="RPFP52" en="Pitfall: The Big Adventure" zhcn="森林寻宝 大冒险(欧)"/>
 	<Game id="RPFU52" en="Pitfall: The Big Adventure" zhcn="森林寻宝 大冒险(英)"/>
 	<Game id="SPZE5G" en="Pizza Delivery Boy" zhcn="比萨外送员(美)" collection="P"/>
-	<Game id="RGAE8P" en="Planet 51: The Game" zhcn="51号星球(美)" collection="P"/>
-	<Game id="RGAP8P" en="Planet 51: The Game" zhcn="51号星球(欧)"/>
+	<Game id="RGAE8P" en="Planet 51: The Game" zhcn="51号星球(美)" collection="竞速游戏"/>
+	<Game id="RGAP8P" en="Planet 51: The Game" zhcn="51号星球(欧)" same-as="RGAE8P"/>
 	<Game id="SB7IVU" en="Planet Basket 2009/2010" zhcn="Planet Basket 2009/2010"/>
 	<Game id="R8VP41" en="Planet Rescue: Wildlife Vet" zhcn="拯救地球 野生动物兽医(欧)"/>
 	<Game id="RMCEPT" en="Platinum Hack Pack" zhcn="Platinum Hack Pack"/>

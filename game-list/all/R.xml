@@ -18,9 +18,9 @@
 	<Game id="RGCPGT" en="Radio Helicopter" zhcn="遥控直升机Wii 飞行大冒险(欧)"/>
 	<Game id="SRAJMS" en="Radirgy Noa Wii" zhcn="电波少女诺亚Wii(日)"/>
 	<Game id="RB2J2K" en="Rainbow Pop" zhcn="彩虹泡泡(日或中)" collection="中文游戏"/>
-	<Game id="SN3PNG" en="Rally Racer" zhcn="急速赛车 拉力赛(欧)"/>
-	<Game id="S5RESZ" en="Ram Racing" zhcn="Ram Racing"/>
-	<Game id="S5RPNJ" en="Ram Racing" zhcn="拉姆赛车(欧)" collection="done2"/>
+	<Game id="SN3PNG" en="Rally Racer" zhcn="急速赛车 拉力赛(欧)" same-as="SN3EYG"/>
+	<Game id="S5RESZ" en="Ram Racing" zhcn="拉姆赛车(美)" same-as="S5RPNJ"/>
+	<Game id="S5RPNJ" en="Ram Racing" zhcn="拉姆赛车(欧)" collection="竞速游戏"/>
 	<Game id="RPGE5D" en="Rampage: Total Destruction" zhcn="怪兽大破坏(美)" collection="R"/>
 	<Game id="RPGP5D" en="Rampage: Total Destruction" zhcn="怪兽大破坏(欧)"/>
 	<Game id="RMCERL" en="Random Laps" zhcn="Random Laps"/>
@@ -101,10 +101,10 @@
 	<Game id="SBHEFP" en="Remington Great American Bird Hunt" zhcn="雷明顿美洲猎鸟记(美)" collection="光枪游戏"/>
 	<Game id="SBHPNK" en="Remington Great American Bird Hunt" zhcn="雷明顿美洲猎鸟记(欧)" same-as="SBHEFP"/>
 	<Game id="SS7EFP" en="Remington Super Slam Hunting: Africa" zhcn="雷明顿超级大满贯狩猎 非洲(美)" collection="光枪游戏"/>
-	<Game id="SS7URN" en="Remington Super Slam Hunting: Africa" zhcn="雷明顿超级大满贯狩猎 非洲(英)" id="SS7EFP"/>
+	<Game id="SS7URN" en="Remington Super Slam Hunting: Africa" zhcn="雷明顿超级大满贯狩猎 非洲(英)" same-as="SS7EFP"/>
 	<Game id="SRKEFP" en="Remington Super Slam Hunting: Alaska" zhcn="雷明顿超级大满贯狩猎 阿拉斯加(美)" collection="光枪游戏"/>
 	<Game id="SBSEFP" en="Remington Super Slam Hunting: North America" zhcn="雷明顿超级大满贯狩猎 北美(美)" collection="光枪游戏"/>
-	<Game id="SBSURN" en="Remington Super Slam Hunting: North America" zhcn="雷明顿超级大满贯狩猎 北美((英)" same-as="SBSEFP"/>
+	<Game id="SBSURN" en="Remington Super Slam Hunting: North America" zhcn="雷明顿超级大满贯狩猎 北美(英)" same-as="SBSEFP"/>
 	<Game id="SMNE60" en="Remixed Super Mario Bros. Wii" zhcn="Remixed Super Mario Bros. Wii"/>
 	<Game id="SMNJ60" en="Remixed Super Mario Bros. Wii" zhcn="Remixed Super Mario Bros. Wii"/>
 	<Game id="SMNP60" en="Remixed Super Mario Bros. Wii" zhcn="Remixed Super Mario Bros. Wii"/>
@@ -130,8 +130,8 @@
 	<Game id="SOME01" en="Rhythm Heaven Fever" zhcn="大家的节奏天国(美)"/>
 	<Game id="SOMK01" en="Rhythm Sesang Wii" zhcn="Rhythm Sesang Wii"/>
 	<Game id="RRHXUJ" en="Ride" zhcn="玛丽·金的骑术学校2(X)"/>
-	<Game id="RR2ENR" en="Rig Racer 2" zhcn="装载卡车竞赛2(美)" collection="R"/>
-	<Game id="RR2PUG" en="Rig Racer 2" zhcn="装载卡车竞赛2(欧)"/>
+	<Game id="RR2ENR" en="Rig Racer 2" zhcn="装载卡车竞赛2(美)" collection="竞速游戏"/>
+	<Game id="RR2PUG" en="Rig Racer 2" zhcn="装载卡车竞赛2(欧)" same-as="RR2ENR"/>
 	<Game id="RHAE02" en="Rii Play" zhcn="Rii Play"/>
 	<Game id="R64E02" en="RiiMajor - Song Pack 1" zhcn="RiiMajor - Song Pack 1"/>
 	<Game id="R64E03" en="RiiMajor - Song Pack 2" zhcn="RiiMajor - Song Pack 2"/>

@@ -208,7 +208,7 @@
 	<Game id="R4PE69" en="The Sims 2: Pets" zhcn="模拟人生2 宠物(美)" collection="done2"/>
 	<Game id="R4PP69" en="The Sims 2: Pets" zhcn="模拟人生2 宠物(欧)"/>
 	<Game id="S3ME69" en="The Sims 3" zhcn="模拟人生3(美)"/>
-	<Game id="S3MP69" en="The Sims™ 3" zhcn="模拟人生3(欧)"/>
+	<Game id="S3MP69" en="The Sims 3" zhcn="模拟人生3(欧)"/>
 	<Game id="RQREXJ" en="The Sky Crawlers: Innocent Aces" zhcn="空中杀手 无瑕王牌(美或中)" collection="中文游戏"/>
 	<Game id="RQRPAF" en="The Sky Crawlers: Innocent Aces" zhcn="空中杀手 无罪王牌(欧)"/>
 	<Game id="S2XE41" en="The Smurfs 2" zhcn="蓝色小精灵2(美)"/>
@@ -326,7 +326,7 @@
 	<Game id="R5IR4Q" en="Toy Story Mania!" zhcn="Toy Story Mania!"/>
 	<Game id="R5IX4Q" en="Toy Story Mania!" zhcn="玩具总动员(X)"/>
 	<Game id="R6RPHH" en="TrackMania" zhcn="赛道狂飙(欧)"/>
-	<Game id="R6REJH" en="TrackMania: Build to Race" zhcn="赛道狂飙 建设赛(美)" collection="done2"/>
+	<Game id="R6REJH" en="TrackMania: Build to Race" zhcn="赛道狂飙 建设赛(美)" collection="竞速游戏"/>
 	<Game id="SB4E11" en="Transformationless Mario Galaxy 2" zhcn="Transformationless Mario Galaxy 2"/>
 	<Game id="RMGE07" en="Transformationless Mario Galaxy" zhcn="Transformationless Mario Galaxy"/>
 	<Game id="STFP52" en="Transformers Prime: The Game" zhcn="变形金刚：领袖(欧)"/>
@@ -363,8 +363,8 @@
 	<Game id="STRX4Q" en="Tron: Evolution - Battle Grids Championship Edition" zhcn="电子世界争霸战(欧)"/>
 	<Game id="STRE4Q" en="Tron: Evolution - Battle Grids" zhcn="电子世界争霸战(美)"/>
 	<Game id="STRP4Q" en="Tron: Evolution - Battle Grids" zhcn="电子世界争霸战(欧)"/>
-	<Game id="RIKEQH" en="Truck Racer" zhcn="卡车赛车手(美)"/>
-	<Game id="RIKPNG" en="Truck Racer" zhcn="卡车赛车手(欧)"/>
+	<Game id="RIKEQH" en="Truck Racer" zhcn="卡车赛车手(美)" collection="竞速游戏"/>
+	<Game id="RIKPNG" en="Truck Racer" zhcn="卡车赛车手(欧)" same-as="RIKEQH"/>
 	<Game id="SMNE48" en="True Mario Bros." zhcn="True Mario Bros."/>
 	<Game id="SMNJ48" en="True Mario Bros." zhcn="True Mario Bros."/>
 	<Game id="SMNP48" en="True Mario Bros." zhcn="True Mario Bros."/>
@@ -372,7 +372,7 @@
 	<Game id="STLP78" en="Truth or Lies" zhcn="真实或谎言(欧)"/>
 	<Game id="R2VJ01" en="Tsumi to Batsu: Sora no Koukeisha" zhcn="罪与罚 宇宙的后继者(日或中)" collection="光枪游戏"/>
 	<Game id="STUPRN" en="Turbo Trainz" zhcn="Turbo Trainz"/>
-	<Game id="SOSEG9" en="Turbo: Super Stunt Squad" zhcn="极速蜗牛 超级特技队(美)"/>
+	<Game id="SOSEG9" en="Turbo: Super Stunt Squad" zhcn="极速蜗牛 超级特技队(美)" collection="竞速游戏"/>
 	<Game id="SOSPAF" en="Turbo: Super Stunt Squad" zhcn="Turbo: Super Stunt Squad"/>
 	<Game id="ROTE20" en="Twin Strike: Operation Thunder" zhcn="双重打击 雷电行动(美)"/>
 	<Game id="ROTP7J" en="Twin Strike: Operation Thunder" zhcn="双重打击 雷电行动(欧)" collection="5"/>
