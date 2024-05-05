@@ -384,7 +384,7 @@
 	<Game id="RSBE09" en="Springboy64's Brawl Hack Pack" zhcn="Springboy64's Brawl Hack Pack"/>
 	<Game id="RSBE27" en="Springboy64's Super Smash Bros. Brawl Hack Pack" zhcn="Springboy64's Super Smash Bros. Brawl Hack Pack"/>
 	<Game id="SPKXPV" en="Springdale" zhcn="斯普林骑马探险(欧)"/>
-	<Game id="SN8PNG" en="Sprint Cars" zhcn="急速赛车 冲刺车(欧)"/>
+	<Game id="SN8PNG" en="Sprint Cars" zhcn="急速赛车 冲刺车(欧)" same-as="SN8EYG"/>
 	<Game id="RDLP70" en="Spy Fox In Dry Cereal" zhcn="狐狸侦探智救人质(欧)"/>
 	<Game id="RDLE5G" en="Spy Fox in Dry Cereal" zhcn="狐狸侦探智救人质(美)" collection="S"/>
 	<Game id="RECE6K" en="Spy Games: Elevator Mission" zhcn="间谍游戏 电梯任务(美)" collection="S"/>
