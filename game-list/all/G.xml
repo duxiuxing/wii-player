@@ -16,19 +16,19 @@
 	<Game id="CGHE98" en="GH3: Sweet Home Alabama" zhcn="自制 吉他英雄3 下载版(美)"/>
 	<Game id="CGHE92" en="GH3: The Blue Album" zhcn="自制 吉他英雄3 下载版(美)"/>
 	<Game id="CGHE91" en="GH3: The Red Album" zhcn="自制 吉他英雄3 下载版(美)"/>
-	<Game id="R8GJC8" en="GI Jockey Wii 2008" zhcn="GI骑师Wii 2008(日)" collection="运动游戏"/>
-	<Game id="RGIJC8" en="GI Jockey Wii" zhcn="GI骑师Wii(日)" collection="运动游戏"/>
-	<Game id="SGVPAF" en="GO VACATION" zhcn="欢乐假期(欧)"/>
+	<Game id="R8GJC8" en="GI Jockey Wii 2008" zhcn="GI骑师Wii 2008(日)" collection="竞速游戏"/>
+	<Game id="RGIJC8" en="GI Jockey Wii" zhcn="GI骑师Wii(日)" collection="竞速游戏"/>
+	<Game id="SGVPAF" en="GO VACATION" zhcn="欢乐假期(欧)" same-as="SGVEAF"/>
 	<Game id="SGPPNG" en="GP Classic Racing" zhcn="经典赛车大奖赛(欧)"/>
 	<Game id="RGTE41" en="GT Pro Series" zhcn="GT职业赛车(美)" collection="竞速游戏"/>
-	<Game id="RGTJBL" en="GT Pro Series" zhcn="GT职业赛车(日)"/>
-	<Game id="RGTP41" en="GT Pro Series" zhcn="GT职业赛车(欧)"/>
+	<Game id="RGTJBL" en="GT Pro Series" zhcn="GT职业赛车(日)" same-as="RGTE41"/>
+	<Game id="RGTP41" en="GT Pro Series" zhcn="GT职业赛车(欧)" same-as="RGTE41"/>
 	<Game id="SGIEA4" en="GTI Club Supermini Festa!" zhcn="GTI汽车俱乐部 世界城市竞速(美)" collection="竞速游戏"/>
-	<Game id="SGIPA4" en="GTI Club Supermini Festa!" zhcn="GTI汽车俱乐部 世界城市竞速(欧)"/>
-	<Game id="SGIJA4" en="GTI Club World City Race" zhcn="GTI汽车俱乐部 世界城市竞速(日)"/>
+	<Game id="SGIPA4" en="GTI Club Supermini Festa!" zhcn="GTI汽车俱乐部 世界城市竞速(欧)" same-as="SGIEA4"/>
+	<Game id="SGIJA4" en="GTI Club World City Race" zhcn="GTI汽车俱乐部 世界城市竞速(日)" same-as="SGIEA4"/>
 	<Game id="SG6DSV" en="Galileo Family Quiz" zhcn="伽利略家庭测验(欧)"/>
 	<Game id="SGJDSV" en="Galileo Mystery: The Crown of Midas" zhcn="神秘伽利略米达斯王冠(德)"/>
-	<Game id="RL2E78" en="Gallop &amp; Ride!" zhcn="我的驯马场(美)" collection="运动游戏"/>
+	<Game id="RL2E78" en="Gallop &amp; Ride!" zhcn="我的驯马场(美)" collection="竞速游戏"/>
 	<Game id="RV2E5D" en="Game Party 2" zhcn="游戏派对2(美)" collection="聚会游戏"/>
 	<Game id="R3EEWR" en="Game Party 3" zhcn="游戏派对3(美)" collection="聚会游戏"/>
 	<Game id="R3EPWR" en="Game Party 3" zhcn="游戏派对3(欧)"/>
@@ -66,7 +66,7 @@
 	<Game id="RGNJAF" en="Gintama: Yorozuya Chuubu: Tsukkomable Douga" zhcn="银魂(日)"/>
 	<Game id="R9LP41" en="Girls Life: Sleepover Party" zhcn="女孩生活 通宵派对(欧)" collection="平衡板游戏"/>
 	<Game id="SGCE20" en="Glacier 2" zhcn="冰川赛车2(美)" collection="竞速游戏"/>
-	<Game id="S3GPXT" en="Glacier 3" zhcn="Glacier 3"/>
+	<Game id="S3GPXT" en="Glacier 3" zhcn="冰川赛车3(欧)" same-as="S3GE20"/>
 	<Game id="S3GE20" en="Glacier 3: The Meltdown" zhcn="冰川赛车3(美)" collection="竞速游戏"/>
 	<Game id="SMNE44" en="Go Go Mario" zhcn="Go Go Mario"/>
 	<Game id="SMNJ44" en="Go Go Mario" zhcn="Go Go Mario"/>
@@ -75,8 +75,8 @@
 	<Game id="R68E5G" en="Go Play City Sports" zhcn="去玩吧 城市运动(美)" collection="平衡板游戏"/>
 	<Game id="RJXE5G" en="Go Play Lumberjacks" zhcn="去玩吧 伐木工(美)" collection="平衡板游戏"/>
 	<Game id="RJXXFR" en="Go Play Lumberjacks" zhcn="Go Play Lumberjacks"/>
-	<Game id="SGVEAF" en="Go Vacation" zhcn="欢乐假期(美)" collection="G"/>
-	<Game id="SGVJAF" en="Go Vacation" zhcn="欢乐假期(日)"/>
+	<Game id="SGVEAF" en="Go Vacation" zhcn="欢乐假期(美)" collection="竞速游戏/运动游戏"/>
+	<Game id="SGVJAF" en="Go Vacation" zhcn="欢乐假期(日)" same-as="SGVEAF"/>
 	<Game id="RLLP70" en="Go West: A Lucky Luke Adventure" zhcn="幸运的路克 独闯西部(欧)"/>
 	<Game id="RDMJ8N" en="Go! Go! Minon" zhcn="米侬向前冲(日)"/>
 	<Game id="RIGE54" en="Go, Diego, Go! Great Dinosaur Rescue" zhcn="迪亚哥 恐龙大拯救(美)" collection="G"/>
