@@ -14,8 +14,8 @@
 	<Game id="SVPESZ" en="Vegas Party" zhcn="维加斯聚会(美)" collection="V"/>
 	<Game id="SVPPNJ" en="Vegas Party" zhcn="维加斯聚会(欧)"/>
 	<Game id="SVWEQH" en="Veggy World" zhcn="蔬菜世界(美)" collection="V"/>
-	<Game id="RVOEPL" en="Vertigo" zhcn="眩晕滚球[平衡板](美)" collection="V"/>
-	<Game id="RVOPPL" en="Vertigo" zhcn="眩晕滚球[平衡板](欧)" collection="3"/>
+	<Game id="RVOEPL" en="Vertigo" zhcn="眩晕滚球(美)" collection="竞速游戏/平衡板游戏/益智游戏"/>
+	<Game id="RVOPPL" en="Vertigo" zhcn="眩晕滚球(欧)" same-as="RVOEPL"/>
 	<Game id="RHIP41" en="Victorious Boxers Challenge" zhcn="第一神拳 革命(欧)"/>
 	<Game id="RHIEXJ" en="Victorious Boxers: Revolution" zhcn="第一神拳 革命(美)" collection="V"/>
 	<Game id="S2VEG9" en="Victorious: Taking the Lead" zhcn="胜利之歌 领先者(美)" collection="V"/>
