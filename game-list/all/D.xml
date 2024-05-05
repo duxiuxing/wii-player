@@ -211,7 +211,7 @@
 	<Game id="R5NJN9" en="Doala de Wii" zhcn="多阿拉Wii(日)" collection="D"/>
 	<Game id="RJYE5Z" en="Doctor Fizzwizzle's Animal Rescue" zhcn="费兹维泽医生的动物大拯救(美)" collection="平衡板游戏"/>
 	<Game id="SDOPLR" en="Doctor Who: Return To Earth" zhcn="神秘博士 重返地球(欧)"/>
-	<Game id="RIXP7J" en="Dodge Racing: Charger vs Challenger" zhcn="道奇赛车 掌控者与挑战者(欧)"/>
+	<Game id="RIXP7J" en="Dodge Racing: Charger vs Challenger" zhcn="道奇赛车 掌控者与挑战者(欧)" same-as="RIXE20"/>
 	<Game id="RIXE20" en="Dodge Racing: Charger vs. Challenger" zhcn="道奇赛车 掌控者与挑战者(美)" collection="竞速游戏"/>
 	<Game id="RDOP41" en="Dogz" zhcn="模拟宠物狗2(欧)"/>
 	<Game id="RDOX41" en="Dogz" zhcn="模拟宠物狗2(X)"/>
@@ -222,14 +222,14 @@
 	<Game id="R2KE54" en="Don King Boxing" zhcn="唐金拳击(美)" collection="平衡板游戏"/>
 	<Game id="R2KP54" en="Don King Boxing" zhcn="唐金拳击(欧)"/>
 	<Game id="SF8E01" en="Donkey Kong Country Returns" zhcn="大金刚国度 回归(美或中)" collection="中文游戏"/>
-	<Game id="SF8P01" en="Donkey Kong Country Returns" zhcn="大金刚国度 回归(欧)"/>
+	<Game id="SF8P01" en="Donkey Kong Country Returns" zhcn="大金刚国度 回归(欧)" same-as="SF8E01"/>
 	<Game id="SF8J01" en="Donkey Kong Returns" zhcn="大金刚国度 回归(日)"/>
-	<Game id="RDKJ01" en="Donkey Kong Taru Jet Race" zhcn="大金刚 木桶喷射(日)"/>
-	<Game id="RDKE01" en="Donkey Kong: Barrel Blast" zhcn="大金刚 木桶喷射(美)" collection="D"/>
-	<Game id="RDKP01" en="Donkey Kong: Jet Race" zhcn="大金刚 木桶喷射(欧)"/>
-	<Game id="R49E01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林敲击(美)"/>
+	<Game id="RDKJ01" en="Donkey Kong Taru Jet Race" zhcn="大金刚 木桶喷射(日)" same-as="RDKE01"/>
+	<Game id="RDKE01" en="Donkey Kong: Barrel Blast" zhcn="大金刚 木桶喷射(美)" collection="竞速游戏"/>
+	<Game id="RDKP01" en="Donkey Kong: Jet Race" zhcn="大金刚 木桶喷射(欧)" same-as="RDKE01"/>
+	<Game id="R49E01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林敲击(美)" same-as="R49J01"/>
 	<Game id="R49J01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林节拍(日或中)" collection="中文游戏"/>
-	<Game id="R49P01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林敲击(欧)"/>
+	<Game id="R49P01" en="Donkey Kong: Jungle Beat" zhcn="大金刚 丛林敲击(欧)" same-as="R49J01"/>
 	<Game id="SDLE78" en="Dood's Big Adventure" zhcn="杜德大冒险(美)" collection="D"/>
 	<Game id="SDLP78" en="Dood's Big Adventure" zhcn="杜德大冒险(欧)"/>
 	<Game id="R27E54" en="Dora Saves the Crystal Kingdom" zhcn="探险家朵拉 拯救水晶王国(美)" collection="影视IP游戏"/>
@@ -241,7 +241,7 @@
 	<Game id="SDPP54" en="Dora's Big Birthday Adventure" zhcn="探险家朵拉 生日大冒险(欧)"/>
 	<Game id="REMJ8P" en="Doraemon Wii: Himitsu Dougu-ou Ketteisen!" zhcn="哆啦A梦Wii 秘密道具王决定战！(日)" collection="影视IP游戏"/>
 	<Game id="RD6J8N" en="Doubutsu Kisoutengai! Nazo no Rakuen de Scoop Shashin o Gekisha Seyo!" zhcn="动物奇想天外！在谜之乐园摄影(日)"/>
-	<Game id="SDRPNG" en="Drag &amp; Stock Racer" zhcn="改装车赛(欧)"/>
+	<Game id="SDRPNG" en="Drag &amp; Stock Racer" zhcn="急速赛车 改装车赛(欧)" same-as="SDREYG"/>
 	<Game id="DBSBT3" en="Dragon Ball Budokai Tenkaichi 3 Version Latino" zhcn="Dragon Ball Budokai Tenkaichi 3 Version Latino"/>
 	<Game id="REYE70" en="Dragon Ball Z  Budokai Tenkaichi  3 Version! Latino [BETA 3 - UPDATE 2 ]" zhcn="Dragon Ball Z  Budokai Tenkaichi  3 Version! Latino [BETA 3 - UPDATE 2 ]"/>
 	<Game id="REBE70" en="Dragon Ball Z Budokai Tenkaichi 2[ALPHA][CUSTOM]" zhcn="Dragon Ball Z Budokai Tenkaichi 2[ALPHA][CUSTOM]"/>
@@ -293,9 +293,9 @@
 	<Game id="SVEPAF" en="DreamWorks The Croods: Prehistoric Party! &amp; Rise of the Guardians: Combo Pack" zhcn="DreamWorks The Croods: Prehistoric Party! &amp; Rise of the Guardians: Combo Pack"/>
 	<Game id="RMCEDT" en="Drift Rebalance with CT" zhcn="Drift Rebalance with CT"/>
 	<Game id="RDVE41" en="Driver: Parallel Lines" zhcn="横冲直撞之平行线(美)" collection="竞速游戏"/>
-	<Game id="RDVP41" en="Driver: Parallel Lines" zhcn="横冲直撞之平行线(欧)"/>
+	<Game id="RDVP41" en="Driver: Parallel Lines" zhcn="横冲直撞之平行线(欧)" same-as="RDVE41"/>
 	<Game id="SDVE41" en="Driver: San Francisco" zhcn="极道车魂 旧金山(美)" collection="竞速游戏"/>
-	<Game id="SDVP41" en="Driver: San Francisco" zhcn="极道车魂 旧金山(欧)"/>
+	<Game id="SDVP41" en="Driver: San Francisco" zhcn="极道车魂 旧金山(欧)" same-as="SDVE41"/>
 	<Game id="RMCED3" en="DryBowser Kart Wii" zhcn="DryBowser Kart Wii"/>
 	<Game id="RMCED8" en="DryBowser's Unused CT Pack" zhcn="DryBowser's Unused CT Pack"/>
 	<Game id="SMNEZU" en="Duck Tales 3" zhcn="Duck Tales 3"/>
